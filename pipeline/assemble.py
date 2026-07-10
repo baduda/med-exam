@@ -32,7 +32,7 @@ def balance_options(q: dict) -> dict:
 
 Q_DIR = Path("data/questions")
 OUT = Path("data/questions.json")
-WEB_COPY = Path("web/questions.json")
+WEB_COPY = Path("docs/questions.json")  # GitHub Pages serves from /docs
 
 
 def load_bank(directory: Path) -> list[dict]:
