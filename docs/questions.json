@@ -5638,5 +5638,365 @@
   },
   "correct": "E",
   "explanation": "Zaletą dystraktorów przenoszących siły przez kość jest to, że w przypadku braków skrzydłowych bądź zmian w przyzębiu bardzo ułatwia to leczenie, podczas gdy aparat mocowany na zębach działa najpierw na zęby, a dopiero potem na kości."
+ },
+ {
+  "id": "t3-c027-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    78,
+    81
+   ]
+  },
+  "question": "Kto jako pierwszy zastosował strzałkowe rozszczepienie gałęzi żuchwy w latach 40. XX wieku?",
+  "options": {
+   "A": "René Le Fort",
+   "B": "Bruce Epker",
+   "C": "Trauner",
+   "D": "Obwegeser",
+   "E": "William Bell"
+  },
+  "correct": "C",
+  "explanation": "Strzałkowe rozszczepienie gałęzi żuchwy po raz pierwszy zastosował Trauner w latach 40. XX wieku i metoda ta nadal jest tzw. koniem roboczym operacyjnego leczenia deformacji żuchwy."
+ },
+ {
+  "id": "t3-c027-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    78,
+    81
+   ]
+  },
+  "question": "Jakie trzy techniki operacyjne określa się mianem tzw. koni roboczych (working horses) chirurgii ortognatycznej?",
+  "options": {
+   "A": "PCVD, monoblok oraz LF III",
+   "B": "SARPE, SARME oraz kortykotomia",
+   "C": "Osteotomia LF II, LF III oraz dystrakcja naczaszkowa",
+   "D": "BSSO, osteotomia szczęki typu Le Fort I oraz genioplastyka",
+   "E": "Implantacja bródkowa, augmentacja tunelowa oraz kortykotomia zamknięta"
+  },
+  "correct": "D",
+  "explanation": "Zdecydowaną większość wad szkieletu szczękowo-twarzowego koryguje się trzema głównymi technikami: BSSO (obustronna strzałkowa osteotomia żuchwy), osteotomią szczęki typu Le Fort I oraz genioplastyką."
+ },
+ {
+  "id": "t3-c027-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    78,
+    81
+   ]
+  },
+  "question": "Co dzieje się z tzw. gummy smile (uśmiechem dziąsłowym) w procesie starzenia się organizmu?",
+  "options": {
+   "A": "Jest wyłącznie skutkiem osteotomii Le Fort I",
+   "B": "Pozostaje niezmienny przez całe życie",
+   "C": "Zwykle zanika wraz z wydłużeniem odcinka podnosowego i opadaniem tkanki tłuszczowej twarzy",
+   "D": "Zawsze nasila się niezależnie od zmian tkanek miękkich",
+   "E": "Pojawia się dopiero po 60. roku życia u wszystkich osób"
+  },
+  "correct": "C",
+  "explanation": "W procesie starzenia się, wraz z opadaniem tkanki tłuszczowej i zwiotczeniem powłok, wydłuża się okolica podnosowa, co powoduje zanik tzw. gummy smile."
+ },
+ {
+  "id": "t3-c028-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    82,
+    86
+   ]
+  },
+  "question": "Kto i kiedy opisał typy złamań szczęki, które dały nazwę osteotomiom typu Le Fort I, II i III?",
+  "options": {
+   "A": "William Bell w latach 70. XX wieku",
+   "B": "René Le Fort w 1901 roku",
+   "C": "Wasmund w latach 20. XX wieku",
+   "D": "Obwegeser w 1955 roku",
+   "E": "Trauner w latach 40. XX wieku"
+  },
+  "correct": "B",
+  "explanation": "René Le Fort, francuski chirurg i anatom, opisał w 1901 roku badania dotyczące najczęściej występujących typów złamań szczęki, a linie przełomu nazwano od jego nazwiska liniami Le Fort."
+ },
+ {
+  "id": "t3-c028-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    82,
+    86
+   ]
+  },
+  "question": "Zachowanie których naczyń jest szczególnie istotne podczas pełnego uruchomienia szczęki w osteotomii typu Le Fort I, aby zapewnić dobre gojenie?",
+  "options": {
+   "A": "Tętnic podniebiennych zstępujących, policzkowych i podniebiennych wstępujących",
+   "B": "Tętnicy kręgowej",
+   "C": "Tętnicy szyjnej wewnętrznej",
+   "D": "Żyły szyjnej zewnętrznej",
+   "E": "Tętnicy ocznej"
+  },
+  "correct": "A",
+  "explanation": "Dobry wynik leczenia gwarantuje pełne uruchomienie szczęki przy możliwie pełnym zachowaniu naczyń krwionośnych, tj. tętnic podniebiennych zstępujących, policzkowych i podniebiennych wstępujących."
+ },
+ {
+  "id": "t3-c028-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    82,
+    86
+   ]
+  },
+  "question": "Jakie badania na małpach rezus udowodniły bezpieczeństwo pełnego uruchomienia szczęki w osteotomii typu Le Fort I?",
+  "options": {
+   "A": "Badania zespołu AO ASIF",
+   "B": "Badania Wasmunda",
+   "C": "Badania Traunera",
+   "D": "Badania Williama Bella i Bruce'a Epkera",
+   "E": "Badania Renégo Le Forta"
+  },
+  "correct": "D",
+  "explanation": "Badania naukowców amerykańskich, Williama Bella i Bruce'a Epkera, wykazały względne bezpieczeństwo tej procedury, a efektywne gojenie kości udokumentowano badaniami empirycznymi na małpach rezus."
+ },
+ {
+  "id": "t3-c029-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    87,
+    89
+   ]
+  },
+  "question": "Jaki kształt powinno mieć cięcie błony śluzowej podczas osteotomii szczęki typu Le Fort I?",
+  "options": {
+   "A": "Odwróconej litery V",
+   "B": "Prostej linii poziomej bez zagięć",
+   "C": "Litery S",
+   "D": "Litery Y",
+   "E": "Okręgu"
+  },
+  "correct": "A",
+  "explanation": "Sugerowana linia cięcia błony śluzowej powinna przypominać odwróconą literę V, a jej boczne końce powinny zakręcać do góry, co chroni błonę śluzową przed rozerwaniem w kierunku guza szczęki."
+ },
+ {
+  "id": "t3-c029-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    87,
+    89
+   ]
+  },
+  "question": "Jakie poważne powikłanie grozi przy niekontrolowanej manipulacji kleszczami Rowego-Killeya w trakcie uruchamiania szczęki?",
+  "options": {
+   "A": "Perforacja błony bębenkowej",
+   "B": "Obfite krwawienie ze splotu skrzydłowatego, a nawet uszkodzenie nerwu wzrokowego",
+   "C": "Uszkodzenie ślinianki przyusznej",
+   "D": "Złamanie kości jarzmowej po stronie przeciwnej",
+   "E": "Trwałe porażenie nerwu twarzowego"
+  },
+  "correct": "B",
+  "explanation": "Duże, nie zawsze kontrolowane siły stosowane przy manipulacji kleszczami Rowego-Killeya mogą prowadzić do wysokiego złamania szczęki z obfitym krwawieniem ze splotu skrzydłowatego, a nawet uszkodzeniem nerwu wzrokowego."
+ },
+ {
+  "id": "t3-c029-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    87,
+    89
+   ]
+  },
+  "question": "Jaka jest minimalna zalecana odległość linii osteotomii typu Le Fort I od wierzchołków korzeni zębów?",
+  "options": {
+   "A": "0,5 mm",
+   "B": "1-2 mm",
+   "C": "15-20 mm",
+   "D": "10-12 mm",
+   "E": "5-6 mm"
+  },
+  "correct": "E",
+  "explanation": "Nacięcia kości rozpoczyna się w linii Le Fort I, która znajduje się minimum 5-6 mm powyżej wierzchołków korzeni zębowych."
+ },
+ {
+  "id": "t3-c030-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    90,
+    92
+   ]
+  },
+  "question": "Jaką zaletą charakteryzuje się genioplastyka w porównaniu z większością zabiegów chirurgii ortognatycznej?",
+  "options": {
+   "A": "Jest wykonywana wyłącznie z dostępu zewnątrzustnego",
+   "B": "Nie wymaga przygotowania ortodontycznego pacjenta",
+   "C": "Nie wymaga znieczulenia ogólnego u żadnego pacjenta",
+   "D": "Wymaga zawsze wcześniejszego usunięcia wszystkich zębów trzonowych",
+   "E": "Nigdy nie łączy się jej z innymi zabiegami przygotowawczymi"
+  },
+  "correct": "B",
+  "explanation": "Dużą zaletą zabiegu genioplastyki jest to, że w przeciwieństwie do większości procedur chirurgii ortognatycznej nie wymaga przygotowania ortodontycznego pacjenta."
+ },
+ {
+  "id": "t3-c030-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    90,
+    92
+   ]
+  },
+  "question": "Jaki efekt czynnościowy, poza estetycznym, daje wysunięcie dolnej krawędzi żuchwy metodą tzw. C-wing osteotomy?",
+  "options": {
+   "A": "Poprawę słuchu",
+   "B": "Zwiększenie wydzielania śliny",
+   "C": "Poszerzenie oddechowej przestrzeni zajęzykowej",
+   "D": "Zmniejszenie napięcia mięśni żucia",
+   "E": "Wzrost gęstości kości żuchwy"
+  },
+  "correct": "C",
+  "explanation": "Wysunięcie bródki, a zwłaszcza całej dolnej krawędzi żuchwy (C-wing osteotomy), przesuwa do przodu kość gnykową i mięśnie języka, co powoduje poszerzenie oddechowej przestrzeni zajęzykowej."
+ },
+ {
+  "id": "t3-c030-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    90,
+    92
+   ]
+  },
+  "question": "W jakich wadach genioplastyka z wysunięciem powinna być częścią większego zabiegu, tzw. bimaxillary advancement, a nie wykonywana samodzielnie?",
+  "options": {
+   "A": "Nigdy nie ma takiej konieczności",
+   "B": "W wadach II klasy z posteriorotacją (long face) ze zgryzem otwartym",
+   "C": "W każdej wadzie I klasy szkieletowej",
+   "D": "Wyłącznie u pacjentów po zakończeniu leczenia ortodontycznego",
+   "E": "Tylko u pacjentów z prawidłowym zgryzem"
+  },
+  "correct": "B",
+  "explanation": "Przy wadach II klasy z posteriorotacją szkieletu czaszkowo-twarzowego (tzw. long face), gdzie często komponentą wady jest zgryz otwarty, genioplastyka z wysunięciem powinna być częścią większego zabiegu bimaxillary advancement."
+ },
+ {
+  "id": "t3-c031-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    93,
+    94
+   ]
+  },
+  "question": "Czym różni się efekt zastosowania implantów bródkowych od genioplastyki kostnej?",
+  "options": {
+   "A": "Implanty bródkowe nie niosą żadnego ryzyka powikłań",
+   "B": "Implanty poprawiają jedynie estetykę, natomiast genioplastyka kostna daje dodatkowo efekt czynnościowy w postaci poprawy drożności dróg oddechowych",
+   "C": "Genioplastyka kostna nie zmienia w ogóle rysów twarzy",
+   "D": "Implanty zawsze poprawiają drożność dróg oddechowych bardziej niż genioplastyka kostna",
+   "E": "Genioplastyka kostna nigdy nie wymaga znieczulenia ogólnego, w przeciwieństwie do implantów"
+  },
+  "correct": "B",
+  "explanation": "Implanty bródkowe poprawiają warunki estetyczne, lecz nie dają żadnego efektu czynnościowego, czyli poprawy drożności dróg oddechowych, w przeciwieństwie do genioplastyki kostnej, która dodatkowo poszerza przestrzeń zajęzykową."
+ },
+ {
+  "id": "t3-c031-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    93,
+    94
+   ]
+  },
+  "question": "Na czym polega tzw. reguła piątek stosowana przy planowaniu linii cięcia w genioplastyce?",
+  "options": {
+   "A": "Zabieg wykonuje się wyłącznie co piąty dzień hospitalizacji",
+   "B": "Wysunięcie bródki nie może przekraczać 5 mm w żadnym przypadku",
+   "C": "Nacięcie kości wykonuje się w pięciu równoległych liniach",
+   "D": "Minimum 5 mm od wierzchołków korzeni, 5 mm od dolnej krawędzi żuchwy i, jeśli to możliwe, 5 mm od otworu bródkowego",
+   "E": "Do stabilizacji stosuje się zawsze pięć śrub tytanowych"
+  },
+  "correct": "D",
+  "explanation": "Planując linie cięć w genioplastyce, należy pamiętać o regule piątek: minimum 5 mm od wierzchołków korzeni, 5 mm od dolnej krawędzi żuchwy i, jeśli to możliwe, 5 mm od otworu bródkowego."
+ },
+ {
+  "id": "t3-c031-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    93,
+    94
+   ]
+  },
+  "question": "Jakie badanie obrazowe jest obecnie badaniem z wyboru przed zabiegiem genioplastyki?",
+  "options": {
+   "A": "USG tkanek miękkich okolicy bródkowej",
+   "B": "Wyłącznie klasyczne zdjęcie pantomograficzne",
+   "C": "TK z rekonstrukcją 3D lub stożkowa tomografia komputerowa (CBCT) z rekonstrukcją 3D",
+   "D": "Rezonans magnetyczny bez kontrastu",
+   "E": "Scyntygrafia kości żuchwy"
+  },
+  "correct": "C",
+  "explanation": "Obecnie badaniem z wyboru przed zabiegiem genioplastyki jest TK z rekonstrukcją 3D lub CBCT z rekonstrukcją 3D, które precyzyjnie określają budowę żuchwy i topografię pęczków nerwowo-naczyniowych."
+ },
+ {
+  "id": "t3-c032-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    95,
+    102
+   ]
+  },
+  "question": "Jaką technikę osteotomii stosuje się przy bardzo dużych wysunięciach dolnej krawędzi żuchwy, tj. powyżej 1 cm?",
+  "options": {
+   "A": "Kortykotomię zamkniętą",
+   "B": "Osteotomię typu BSSO",
+   "C": "Klasyczną osteotomię typu Le Fort I",
+   "D": "Dystrakcję naczaszkową",
+   "E": "Osteotomię schodkową lub jej modyfikacje"
+  },
+  "correct": "E",
+  "explanation": "Przy bardzo dużych wysunięciach dolnej krawędzi żuchwy, powyżej 1 cm, należy stosować osteotomię schodkową lub jej modyfikacje, co umożliwia duże wysunięcie przy zachowanym kontakcie kostnym między odłamami."
+ },
+ {
+  "id": "t3-c032-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    95,
+    102
+   ]
+  },
+  "question": "Co zaleca się zastosować przy drobnej żuchwie i dużych wysunięciach, gdy ilość kości pomiędzy odłamami osteotomijnymi jest niewielka?",
+  "options": {
+   "A": "Wyłącznie płytkę tytanową bez żadnego materiału kostnego",
+   "B": "Implant bródkowy silikonowy zamiast osteotomii",
+   "C": "Przeszczep interpozycyjny (interpositional graft), najlepiej autogenny",
+   "D": "Wyłącznie szwy kostne bez płytek i śrub",
+   "E": "Rezygnację z jakiejkolwiek stabilizacji odłamów"
+  },
+  "correct": "C",
+  "explanation": "W przypadku drobnej żuchwy przy dużych wysunięciach, gdy jest mało kości, należy wspomóc się przeszczepem interpozycyjnym włożonym między odłamy, przy czym najlepszym rozwiązaniem jest przeszczep autogenny."
+ },
+ {
+  "id": "t3-c032-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    95,
+    102
+   ]
+  },
+  "question": "Które z poniższych wymieniono w tekście jako możliwą przyczynę powikłań przedoperacyjnych w chirurgii ortognatycznej?",
+  "options": {
+   "A": "Nieprawidłowe lub niekompletne rozpoznanie wady",
+   "B": "Stosowanie piły piezoelektrycznej zamiast tradycyjnej",
+   "C": "Nadmierna liczba wykonanych zdjęć fotograficznych",
+   "D": "Zbyt częste wizyty kontrolne u ortodonty",
+   "E": "Zbyt krótki czas trwania znieczulenia ogólnego"
+  },
+  "correct": "A",
+  "explanation": "Wśród powikłań okresu przedoperacyjnego tekst wymienia m.in. nieprawidłowe bądź niekompletne rozpoznanie wady, nieprawidłowe przygotowanie ortodontyczne oraz błędy na etapie planowania zabiegu."
  }
 ]
