@@ -8,6 +8,8 @@ import json
 import sys
 from pathlib import Path
 
+# Allow running as a script (`python pipeline/assemble.py`) as well as a module.
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from pipeline.schema import validate_bank
 
 Q_DIR = Path("data/questions")
