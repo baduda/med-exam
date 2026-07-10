@@ -3,38 +3,44 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Testy — egzamin (chirurgia szczękowo-twarzowa)</title>
+  <title>Testy — chirurgia szczękowo-twarzowa</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦷</text></svg>">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Testy do egzaminu</h1>
-    <div id="score"></div>
+    <div class="brand"><span class="logo">🦷</span><h1>Testy do egzaminu</h1></div>
+    <div id="score" class="chip"></div>
   </header>
+
   <main>
-    <section id="start">
+    <section id="start" class="card">
       <p class="lead">Pytania jednokrotnego wyboru (A–E) na podstawie podręcznika
         chirurgii szczękowo-twarzowej.</p>
-      <label>Tryb:
+      <div class="field">
+        <label for="mode">Tryb</label>
         <select id="mode">
           <option value="order">Po kolei</option>
           <option value="random">Losowo</option>
         </select>
-      </label>
+      </div>
       <div class="actions">
-        <button id="start-btn">Start</button>
-        <button id="reset-btn" type="button">Reset postępu</button>
+        <button id="start-btn" class="primary">Start</button>
+        <button id="reset-btn" type="button" class="ghost">Reset postępu</button>
       </div>
       <p id="loaded" class="muted"></p>
     </section>
 
     <section id="quiz" hidden>
+      <div class="bar"><div id="bar-fill"></div></div>
       <div id="progress" class="muted"></div>
-      <p id="question"></p>
-      <ul id="options"></ul>
-      <p id="explanation" hidden></p>
-      <p id="source" class="muted" hidden></p>
-      <button id="next-btn" hidden>Dalej</button>
+      <div class="card">
+        <p id="question"></p>
+        <ul id="options"></ul>
+        <div id="explanation" hidden></div>
+        <p id="source" class="muted" hidden></p>
+      </div>
+      <button id="next-btn" class="primary" hidden>Dalej →</button>
     </section>
   </main>
   <script src="app.js"></script>

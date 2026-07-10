@@ -38,12 +38,14 @@ function renderQuestion() {
 
   if (idx >= queue.length) {
     el("progress").textContent = "";
-    el("question").textContent = "Koniec zestawu. Dobra robota!";
+    el("bar-fill").style.width = "100%";
+    el("question").textContent = "Koniec zestawu. Dobra robota! 🦷";
     el("options").innerHTML = "";
     return;
   }
 
   const q = queue[idx];
+  el("bar-fill").style.width = `${(idx / queue.length) * 100}%`;
   el("progress").textContent = `Pytanie ${idx + 1} z ${queue.length}`;
   el("question").textContent = q.question;
   el("options").innerHTML = "";
