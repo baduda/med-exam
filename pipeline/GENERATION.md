@@ -19,6 +19,10 @@ API key). Work is resumable via `data/state.json` (`generated` flag per chunk).
    - `explanation`: one–two Polish sentences on why the answer is correct,
      tied to the chunk content.
    - No `topic` field needed (UI has no topic filter).
+   - **Keep the 5 options similar in length and detail** — do NOT make the
+     correct one conspicuously longer/more qualified (a common tell). The
+     correct-answer *position* is auto-randomised by assemble.py, so don't
+     worry about which letter you assign; just avoid the length giveaway.
 4. Write the list to `data/questions/<chunk_id>.json`.
 
 ## Batch / resume

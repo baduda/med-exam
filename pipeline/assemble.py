@@ -4,13 +4,31 @@ Reads every JSON list under data/questions/, validates the whole bank against
 pipeline/schema.py, and writes data/questions.json plus a copy at
 web/questions.json. Exits non-zero (printing errors) if anything is invalid.
 """
+import hashlib
 import json
+import random
 import sys
 from pathlib import Path
 
 # Allow running as a script (`python pipeline/assemble.py`) as well as a module.
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from pipeline.schema import validate_bank
+from pipeline.schema import OPTION_KEYS, validate_bank
+
+
+def balance_options(q: dict) -> dict:
+    """Deterministically shuffle a question's options so the correct answer's
+    position is not biased (generators over-pick 'B'). Seeded by id → stable
+    across rebuilds. Returns a new dict; input is not mutated."""
+    correct_value = q["options"][q["correct"]]
+    values = [q["options"][k] for k in OPTION_KEYS]
+    seed = int(hashlib.md5(q["id"].encode("utf-8")).hexdigest(), 16)
+    random.Random(seed).shuffle(values)
+    new_options = dict(zip(OPTION_KEYS, values))
+    new_correct = next(k for k in OPTION_KEYS if new_options[k] == correct_value)
+    out = dict(q)
+    out["options"] = new_options
+    out["correct"] = new_correct
+    return out
 
 Q_DIR = Path("data/questions")
 OUT = Path("data/questions.json")
@@ -26,7 +44,7 @@ def load_bank(directory: Path) -> list[dict]:
 
 
 def main() -> int:
-    bank = load_bank(Q_DIR)
+    bank = [balance_options(q) for q in load_bank(Q_DIR)]
     errors = validate_bank(bank)
     if errors:
         print(f"{len(errors)} validation errors:")

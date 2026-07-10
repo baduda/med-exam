@@ -1,0 +1,2642 @@
+[
+ {
+  "id": "t2-c004-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    11,
+    13
+   ]
+  },
+  "question": "Na czym polega diafanoskopia zatoki szczękowej?",
+  "options": {
+   "A": "Na przyłożeniu w zaciemnionym pomieszczeniu źródła jasnego światła do błony śluzowej podniebienia twardego lub wprowadzeniu go do przewodu nosowego i obserwacji transluminacji",
+   "B": "Na opukiwaniu bocznej ściany zatoki szczękowej",
+   "C": "Na podaniu kontrastu do zatoki i wykonaniu zdjęcia rentgenowskiego",
+   "D": "Na wprowadzeniu endoskopu do światła zatoki",
+   "E": "Na pomiarze ciśnienia wewnątrz zatoki szczękowej"
+  },
+  "correct": "A",
+  "explanation": "Diafanoskopia polega na przyłożeniu jasnego źródła światła do błony śluzowej podniebienia twardego lub wprowadzeniu go do przewodu nosowego i obserwacji transluminacji światła przez zatokę; w stanach chorobowych przepuszczalność światła jest zmniejszona."
+ },
+ {
+  "id": "t2-c004-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    11,
+    13
+   ]
+  },
+  "question": "Która metoda obrazowania zatok przynosowych generuje mniejszą dawkę promieniowania niż klasyczna tomografia komputerowa i jest mniej podatna na artefakty pochodzące od implantów czy wypełnień amalgamatowych?",
+  "options": {
+   "A": "Klasyczna tomografia komputerowa (CT)",
+   "B": "Zdjęcie w projekcji Watersa",
+   "C": "Tomografia komputerowa wiązki stożkowej (CBCT)",
+   "D": "Zdjęcie w projekcji Caldwella",
+   "E": "Pantomogram"
+  },
+  "correct": "C",
+  "explanation": "CBCT daje obrazy o wyższej rozdzielczości niż tradycyjne CT przy mniejszej dawce promieniowania, a artefakty utwardzające wiązkę (implanty, korony, wypełnienia amalgamatowe) deformują ten obraz znacznie słabiej niż w klasycznym CT."
+ },
+ {
+  "id": "t2-c004-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    11,
+    13
+   ]
+  },
+  "question": "Które struktury najlepiej uwidacznia zdjęcie w projekcji Watersa?",
+  "options": {
+   "A": "Wyłącznie kości podstawy czaszki",
+   "B": "Wyłącznie zatoki czołowe",
+   "C": "Zatoki szczękowe, komórki sitowe, zatoki czołowe i zatokę klinową",
+   "D": "Wyłącznie stawy skroniowo-żuchwowe",
+   "E": "Wyłącznie zatokę klinową"
+  },
+  "correct": "C",
+  "explanation": "Zgodnie z tabelą diagnostyki radiologicznej zatok przynosowych, projekcja Watersa (wykonywana przy otwartych ustach pacjenta) obrazuje zatoki szczękowe, komórki sitowe, zatoki czołowe oraz zatokę klinową."
+ },
+ {
+  "id": "t2-c005-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    14,
+    17
+   ]
+  },
+  "question": "Jaki odsetek zapaleń zatoki szczękowej o przyczynie zębopochodnej podaje, według tekstu, najnowsza literatura jako możliwe maksimum?",
+  "options": {
+   "A": "Ponad 60%",
+   "B": "Prawie 100%",
+   "C": "Około 5%",
+   "D": "10-12%",
+   "E": "Nawet 40%"
+  },
+  "correct": "E",
+  "explanation": "Klasycznie podawano 10-12%, jednak według najnowszej literatury odsetek przyczyn zębopochodnych zapaleń zatoki szczękowej może sięgać nawet 40%."
+ },
+ {
+  "id": "t2-c005-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    14,
+    17
+   ]
+  },
+  "question": "Jaka grubość błony śluzowej zatoki szczękowej w obrazie radiologicznym jest uznawana za pierwszy symptom stanu zapalnego?",
+  "options": {
+   "A": "Powyżej 10 mm",
+   "B": "Powyżej 1 mm",
+   "C": "Powyżej 2 mm",
+   "D": "Powyżej 5 mm",
+   "E": "Błona śluzowa nigdy nie jest widoczna w badaniu radiologicznym"
+  },
+  "correct": "C",
+  "explanation": "Prawidłowa grubość błony śluzowej zatoki szczękowej nie przekracza 2 mm; jej pogrubienie powyżej tej wartości uznaje się za pierwszy radiologiczny symptom zapalenia zatoki."
+ },
+ {
+  "id": "t2-c005-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    14,
+    17
+   ]
+  },
+  "question": "Zgodnie z kryteriami rozpoznania zapalenia zatok przynosowych u dorosłych, wśród dwóch lub więcej stwierdzanych objawów jednym z nich powinno być:",
+  "options": {
+   "A": "Utrata słuchu",
+   "B": "Kaszel lub chrypka",
+   "C": "Ból głowy lub gorączka",
+   "D": "Niedrożność nosa lub wydzielina z jam nosa",
+   "E": "Obrzęk powiek"
+  },
+  "correct": "D",
+  "explanation": "Rozpoznanie wymaga stwierdzenia dwóch lub więcej objawów, przy czym jednym z nich musi być niedrożność nosa lub wydzielina z jam nosa."
+ },
+ {
+  "id": "t2-c006-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    18,
+    19
+   ]
+  },
+  "question": "Jak definiuje się nawracające ostre zapalenie błony śluzowej nosa i zatok przynosowych (RARS)?",
+  "options": {
+   "A": "Wystąpienie 2 epizodów w ciągu roku",
+   "B": "Wystąpienie 4 lub więcej epizodów ostrego zapalenia w ciągu roku",
+   "C": "Utrzymywanie się objawów dłużej niż 12 tygodni",
+   "D": "Wystąpienie 3 epizodów w ciągu miesiąca",
+   "E": "Jeden epizod rocznie przez 3 kolejne lata"
+  },
+  "correct": "B",
+  "explanation": "RARS definiuje się jako cyklicznie nawracający stan ostrego zapalenia, przy wystąpieniu 4 lub więcej epizodów w ciągu roku; leczenie jest takie samo jak w OZZP."
+ },
+ {
+  "id": "t2-c006-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    18,
+    19
+   ]
+  },
+  "question": "Powyżej jakiego czasu trwania objawów rozpoznaje się przewlekłe zapalenie zatok przynosowych (PZZP)?",
+  "options": {
+   "A": "12 tygodni",
+   "B": "6 tygodni",
+   "C": "2 tygodni",
+   "D": "6 miesięcy",
+   "E": "4 tygodni"
+  },
+  "correct": "A",
+  "explanation": "PZZP określa się jako stan przetrwały, bakteryjny, utrzymujący się ponad 12 tygodni, najczęściej jako zejście stanu ostrego."
+ },
+ {
+  "id": "t2-c006-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    18,
+    19
+   ]
+  },
+  "question": "Co jest charakterystyczne dla zespołu cichej zatoki (silent sinus syndrome)?",
+  "options": {
+   "A": "Postępujące obkurczanie się zatoki szczękowej z zapadnięciem gałki ocznej po stronie chorej",
+   "B": "Perforacja przegrody nosowej",
+   "C": "Obustronne powiększenie oczodołów",
+   "D": "Postępujące powiększanie się objętości zatoki szczękowej",
+   "E": "Ostry ból twarzy i wysoka gorączka"
+  },
+  "correct": "A",
+  "explanation": "Zespół cichej zatoki charakteryzuje się postępującym obkurczaniem zatoki szczękowej na skutek ujemnego ciśnienia, co prowadzi do zapadnięcia gałki ocznej i asymetrii twarzy po stronie chorej."
+ },
+ {
+  "id": "t2-c007-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    20,
+    22
+   ]
+  },
+  "question": "Jakie jest leczenie z wyboru zespołu cichej zatoki?",
+  "options": {
+   "A": "Radioterapia",
+   "B": "Operacja Caldwella-Luca w trybie pilnym",
+   "C": "Czynnościowa chirurgia endoskopowa zatok przynosowych (FESS)",
+   "D": "Wyłącznie donosowe glikokortykosteroidy",
+   "E": "Antybiotykoterapia doustna"
+  },
+  "correct": "C",
+  "explanation": "Leczeniem z wyboru zespołu cichej zatoki jest czynnościowa chirurgia endoskopowa zatok przynosowych (FESS); jeśli okaże się niewystarczająca, konieczna może być rekonstrukcja dna oczodołu."
+ },
+ {
+  "id": "t2-c007-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    20,
+    22
+   ]
+  },
+  "question": "Grzyby z jakiego rodzaju najczęściej wywołują grzybicze zapalenie zatok przynosowych?",
+  "options": {
+   "A": "Candida",
+   "B": "Cryptococcus",
+   "C": "Mucor",
+   "D": "Rhizopus",
+   "E": "Aspergillus"
+  },
+  "correct": "E",
+  "explanation": "Grzybicze zapalenie zatok przynosowych najczęściej wywołują grzyby z rodzaju Aspergillus (np. Aspergillus flavus, Aspergillus fumigatus)."
+ },
+ {
+  "id": "t2-c007-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    20,
+    22
+   ]
+  },
+  "question": "Ile etapów obejmuje klasyczna operacja Caldwella-Luca?",
+  "options": {
+   "A": "7",
+   "B": "3",
+   "C": "10",
+   "D": "9",
+   "E": "5"
+  },
+  "correct": "A",
+  "explanation": "Operacja Caldwella-Luca wykonywana w znieczuleniu ogólnym obejmuje 7 etapów, od cięcia błony śluzowej przedsionka jamy ustnej po zszycie rany."
+ },
+ {
+  "id": "t2-c008-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    23,
+    25
+   ]
+  },
+  "question": "Jaki obraz radiologiczny opisuje typowo torbiel zastoinową zatoki szczękowej (retention cyst)?",
+  "options": {
+   "A": "Obraz płatków śniegu",
+   "B": "Obraz baniek mydlanych",
+   "C": "Obraz zachodzącego słońca",
+   "D": "Obraz plastra miodu",
+   "E": "Obraz matowego szkła"
+  },
+  "correct": "C",
+  "explanation": "Torbiel zastoinowa przedstawia się radiologicznie jako półokrągłe wygórowanie w dnie zatoki szczękowej, opisywane jako 'obraz zachodzącego słońca'."
+ },
+ {
+  "id": "t2-c008-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    23,
+    25
+   ]
+  },
+  "question": "Śluzowiak zatoki szczękowej (mucocoele) powstaje najczęściej w wyniku:",
+  "options": {
+   "A": "Urazu zębów siecznych",
+   "B": "Infekcji wirusowej górnych dróg oddechowych",
+   "C": "Przerzutu nowotworowego",
+   "D": "Braku drożności ujścia zatoki i zalegania w niej śluzu",
+   "E": "Alergii pokarmowej"
+  },
+  "correct": "D",
+  "explanation": "Śluzowiak powstaje w wyniku braku drożności ujścia zatoki i zalegania śluzu w jej wnętrzu; do przyczyn zalicza się też wcześniejsze zapalenia, urazy i guzy."
+ },
+ {
+  "id": "t2-c008-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    23,
+    25
+   ]
+  },
+  "question": "Czym pseudotorbiel zatoki szczękowej (pseudocyst) różni się od torbieli zastoinowej (retention cyst)?",
+  "options": {
+   "A": "Pseudotorbiel zawsze lokalizuje się w dnie zatoki szczękowej",
+   "B": "Pseudotorbiel nie daje żadnego obrazu radiologicznego",
+   "C": "Pseudotorbiel występuje wyłącznie u dzieci",
+   "D": "Pseudotorbiel nigdy nie ma przyczyny zębopochodnej",
+   "E": "Pseudotorbiel jest zawsze wyścielona nabłonkiem"
+  },
+  "correct": "A",
+  "explanation": "Pseudotorbiel, w przeciwieństwie do torbieli zastoinowej, która może pojawić się na każdej ze ścian zatoki, zawsze lokalizuje się w dnie zatoki szczękowej i najczęściej ma przyczynę zębopochodną."
+ },
+ {
+  "id": "t2-c009-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    26,
+    27
+   ]
+  },
+  "question": "Po usunięciu którego zęba najczęściej dochodzi do powstania połączenia ustno-zatokowego?",
+  "options": {
+   "A": "Zęba przedtrzonowego",
+   "B": "Pierwszego zęba trzonowego",
+   "C": "Siekacza",
+   "D": "Dolnego zęba trzonowego",
+   "E": "Kła"
+  },
+  "correct": "B",
+  "explanation": "Połączenie ustno-zatokowe najczęściej występuje po usunięciu zębów trzonowych w szczęce, szczególnie pierwszego zęba trzonowego."
+ },
+ {
+  "id": "t2-c009-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    26,
+    27
+   ]
+  },
+  "question": "Jaki objaw świadczy o dodatnim wyniku próby Valsalvy w diagnostyce połączenia ustno-zatokowego?",
+  "options": {
+   "A": "Brak oporu kostnego w badaniu sondą kulkową",
+   "B": "Charakterystyczny świst powietrza przy delikatnym dmuchnięciu nosem przy zatkanych otworach nosowych i otwartej jamie ustnej",
+   "C": "Ból zęba przy opukiwaniu",
+   "D": "Krwawienie z ucha",
+   "E": "Obrzęk policzka po stronie zabiegu"
+  },
+  "correct": "B",
+  "explanation": "W próbie Valsalvy przy istniejącym połączeniu ustno-zatokowym dochodzi do przepływu powietrza między jamą ustną a zatoką szczękową, co objawia się charakterystycznym świstem."
+ },
+ {
+  "id": "t2-c009-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    26,
+    27
+   ]
+  },
+  "question": "Na czym polega metoda Wassmunda-Borusiewicza zamknięcia połączenia ustno-zatokowego?",
+  "options": {
+   "A": "Na wszczepieniu siatki metalowej jako jedynej warstwy zamknięcia",
+   "B": "Na stworzeniu trapezowatego płata pełnej grubości pokrywającego zębodół na wysokości połączenia",
+   "C": "Na wykorzystaniu płata językowego pobieranego dwuetapowo",
+   "D": "Na zastosowaniu obturatora",
+   "E": "Na użyciu ciała tłuszczowego Bichata"
+  },
+  "correct": "B",
+  "explanation": "Metoda Wassmunda-Borusiewicza, najczęściej stosowana, polega na utworzeniu trapezowatego płata pełnej grubości, który po opracowaniu brzegów kostnych i wykonaniu poprawki Borusiewicza pokrywa zębodół."
+ },
+ {
+  "id": "t2-c010-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    28,
+    31
+   ]
+  },
+  "question": "Co nowego, w porównaniu z klasyfikacją WHO z 2005 roku, wprowadziła klasyfikacja WHO guzów zębopochodnych z 2017 roku?",
+  "options": {
+   "A": "Klasyfikację TNM nowotworów głowy i szyi",
+   "B": "Wyłącznie klasyfikację chorób przyzębia",
+   "C": "Wyłącznie zmiany dotyczące próchnicy zębów",
+   "D": "Torbiele kości szczękowych, łagodne i złośliwe guzy kościo- i chrzęstnopochodne oraz nowotwory układu limfatycznego i krwiotwórczego",
+   "E": "Wyłącznie nowe podtypy szkliwiaka"
+  },
+  "correct": "D",
+  "explanation": "Klasyfikacja WHO z 2017 roku, poza typowymi guzami zębopochodnymi, wprowadziła dodatkowo torbiele kości szczękowych, guzy kościo- i chrzęstnopochodne oraz nowotwory układu limfatycznego i krwiotwórczego."
+ },
+ {
+  "id": "t2-c010-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    28,
+    31
+   ]
+  },
+  "question": "W jakim wieku i lokalizacji najczęściej rozwija się rak szkliwiakowy (ameloblastic carcinoma, AC)?",
+  "options": {
+   "A": "U osób starszych (6.-8. dekada życia), w bocznym odcinku trzonu żuchwy",
+   "B": "W obrębie stawu skroniowo-żuchwowego",
+   "C": "U młodych kobiet, w gałęzi żuchwy",
+   "D": "U dzieci, w bocznym odcinku szczęki",
+   "E": "Wyłącznie w przednim odcinku szczęki"
+  },
+  "correct": "A",
+  "explanation": "Rak szkliwiakowy rozwija się zwykle u osób starszych (6.-8. dekada życia) i najczęściej dotyczy bocznego odcinka trzonu żuchwy, rzadziej szczęki."
+ },
+ {
+  "id": "t2-c010-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    28,
+    31
+   ]
+  },
+  "question": "Rak pierwotny wewnątrzkostny (PIOC) zlokalizowany w szczęce, w odróżnieniu od lokalizacji żuchwowej, niemal zawsze dotyczy:",
+  "options": {
+   "A": "Trzonu żuchwy",
+   "B": "Odcinka bocznego",
+   "C": "Gałęzi żuchwy",
+   "D": "Stawu skroniowo-żuchwowego",
+   "E": "Odcinka przedniego"
+  },
+  "correct": "E",
+  "explanation": "PIOC najczęściej rozpoznaje się w bocznym odcinku żuchwy, natomiast w przypadku lokalizacji w szczęce niemal regułą jest zajęcie odcinka przedniego, a nie bocznego."
+ },
+ {
+  "id": "t2-c011-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    32,
+    33
+   ]
+  },
+  "question": "Jaką cechą charakteryzuje się twardniejący rak zębopochodny (sclerosing odontogenic carcinoma, SOC)?",
+  "options": {
+   "A": "Wysokim stopniem złośliwości i licznymi opisanymi przerzutami odległymi",
+   "B": "Niskim stopniem złośliwości (low-grade) i brakiem opisanych przypadków przerzutowania",
+   "C": "Typowym obrazem wielokomorowym z obwodową osteosklerozą",
+   "D": "Całkowitym brakiem wskazań do leczenia",
+   "E": "Występowaniem wyłącznie u dzieci"
+  },
+  "correct": "B",
+  "explanation": "SOC jest rakiem o niskim stopniu złośliwości (low-grade), mimo agresywnego naciekania; nie opisywano przypadków jego przerzutowania, choć wymaga leczenia radykalnego (resekcji kości)."
+ },
+ {
+  "id": "t2-c011-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    32,
+    33
+   ]
+  },
+  "question": "Gdzie najczęściej lokalizuje się jasnokomórkowy rak zębopochodny (clear cell odontogenic carcinoma, CCOC)?",
+  "options": {
+   "A": "W gałęzi żuchwy",
+   "B": "W przednim odcinku szczęki",
+   "C": "W bocznym odcinku żuchwy, w obszarze zębów przedtrzonowych",
+   "D": "W podniebieniu twardym",
+   "E": "W stawie skroniowo-żuchwowym"
+  },
+  "correct": "C",
+  "explanation": "Żuchwa jest zajęta 3-8 razy częściej niż szczęka, a zdecydowana większość przypadków CCOC rozwija się w bocznym odcinku żuchwy, najczęściej w obszarze zębów przedtrzonowych."
+ },
+ {
+  "id": "t2-c011-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    32,
+    33
+   ]
+  },
+  "question": "Zębopochodny mięsak (odontogenic sarcoma, ODSA) rozwija się:",
+  "options": {
+   "A": "Wyłącznie w szczęce",
+   "B": "Wyłącznie de novo, nigdy na podłożu włókniaka szkliwiakowego",
+   "C": "De novo lub na podłożu włókniaka szkliwiakowego (AF), z częstością rozkładającą się mniej więcej po połowie",
+   "D": "Tylko u dzieci poniżej 5. roku życia",
+   "E": "Częściej u kobiet niż u mężczyzn"
+  },
+  "correct": "C",
+  "explanation": "ODSA może rozwinąć się de novo lub na podłożu włókniaka szkliwiakowego (AF), przy czym częstość obu scenariuszy rozkłada się mniej więcej po połowie; rozpoznawany jest 1,5 raza częściej u mężczyzn i cztery razy częściej w żuchwie."
+ },
+ {
+  "id": "t2-c012-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    34,
+    35
+   ]
+  },
+  "question": "Gdzie najczęściej lokalizuje się klasyczna postać szkliwiaka (ameloblastoma, AM)?",
+  "options": {
+   "A": "W żuchwie (80% przypadków)",
+   "B": "Wyłącznie w stawie skroniowo-żuchwowym",
+   "C": "W szczęce (80% przypadków)",
+   "D": "W podniebieniu twardym",
+   "E": "Równie często w szczęce i żuchwie"
+  },
+  "correct": "A",
+  "explanation": "Dominują przypadki szkliwiaka zlokalizowane w żuchwie (80%), które dodatkowo dotyczą zwykle nieco młodszych pacjentów niż rzadsze postaci w szczęce (20%)."
+ },
+ {
+  "id": "t2-c012-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    34,
+    35
+   ]
+  },
+  "question": "Mutacje jakiego szlaku sygnałowego stwierdza się w przytłaczającej większości przypadków szkliwiaka (AM)?",
+  "options": {
+   "A": "JAK-STAT",
+   "B": "mTOR",
+   "C": "MAPK, zwłaszcza genu BRAF V600E",
+   "D": "Notch",
+   "E": "Wnt"
+  },
+  "correct": "C",
+  "explanation": "W przytłaczającej większości przypadków AM stwierdza się mutacje genów szlaku MAPK, zwłaszcza BRAF V600E, rzadziej KRAS, HRAS, NRAS czy FGFR2."
+ },
+ {
+  "id": "t2-c012-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    34,
+    35
+   ]
+  },
+  "question": "Jaki charakterystyczny obraz radiologiczny przyjmuje zaawansowany szkliwiak (AM) wraz ze wzrostem guza?",
+  "options": {
+   "A": "Obraz halo wokół korzenia zęba",
+   "B": "Obraz matowego szkła",
+   "C": "Obraz płatków śniegu",
+   "D": "Obraz baniek mydlanych/plastra miodu/banieczek szampana",
+   "E": "Trójkąt Codmana"
+  },
+  "correct": "D",
+  "explanation": "Wraz ze wzrostem guza w obrębie litego utkania powstają wewnętrzne przestrzenie torbielowate, nadając obrazowi radiologicznemu charakter wielokomorowy opisywany jako obraz baniek mydlanych/plastra miodu/banieczek szampana."
+ },
+ {
+  "id": "t2-c013-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    36,
+    37
+   ]
+  },
+  "question": "Jaki jest średni wiek pacjentów, u których rozwija się szkliwiak jednokomorowy (unicystic ameloblastoma, UAM)?",
+  "options": {
+   "A": "50 lat",
+   "B": "5 lat",
+   "C": "70 lat",
+   "D": "35 lat",
+   "E": "16 lat"
+  },
+  "correct": "E",
+  "explanation": "UAM w przytłaczającej większości przypadków rozwija się u młodszych pacjentów niż klasyczny szkliwiak, gdyż średnia wieku chorych wynosi 16 lat."
+ },
+ {
+  "id": "t2-c013-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    36,
+    37
+   ]
+  },
+  "question": "W obrębie jakiej struktury rozwija się szkliwiak obwodowy (peripheral ameloblastoma, PAM)?",
+  "options": {
+   "A": "Błony śluzowej dziąsła",
+   "B": "Kanału żuchwy",
+   "C": "Zatoki szczękowej",
+   "D": "Stawu skroniowo-żuchwowego",
+   "E": "Kości podniebienia twardego"
+  },
+  "correct": "A",
+  "explanation": "PAM jest rzadkim wariantem szkliwiaka rozwijającym się w obrębie błony śluzowej dziąsła, zwykle u starszych pacjentów, częściej w okolicy zatrzonowcowej lub w obrębie guza szczęki."
+ },
+ {
+  "id": "t2-c013-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    36,
+    37
+   ]
+  },
+  "question": "Jaki charakterystyczny kształt przyjmuje w większości przypadków obraz radiologiczny płaskonabłonkowego guza zębopochodnego (squamous odontogenic tumour, SOT)?",
+  "options": {
+   "A": "Halo wokół korzenia zęba",
+   "B": "Zbliżony do trójkąta, często z rozsunięciem sąsiadujących zębów",
+   "C": "Baniek mydlanych",
+   "D": "Płatków śniegu",
+   "E": "Matowego szkła"
+  },
+  "correct": "B",
+  "explanation": "Charakterystyczny obraz radiologiczny SOT w większości przypadków ma kształt mniej lub bardziej zbliżony do trójkąta, często z rozsunięciem sąsiadujących zębów."
+ },
+ {
+  "id": "t2-c014-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    38,
+    39
+   ]
+  },
+  "question": "Co zawiera około 80% przypadków pseudogruczołowego guza zębopochodnego (adenomatoid odontogenic tumour, AOT)?",
+  "options": {
+   "A": "Korzeń zęba mądrości",
+   "B": "Mnogie zawiązki zębów",
+   "C": "Tkankę kostniwną",
+   "D": "Nowotworowe komórki-cienie",
+   "E": "Zatrzymany ząb, najczęściej górny kieł"
+  },
+  "correct": "E",
+  "explanation": "Około 80% przypadków AOT zawiera zatrzymany ząb, najczęściej górny kieł, a obraz kliniczny jest zwykle niemy z wyjątkiem braku zęba w łuku."
+ },
+ {
+  "id": "t2-c014-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    38,
+    39
+   ]
+  },
+  "question": "W kierunku jakiego nowotworu może ulec transformacji niedoszczętnie usunięty włókniak szkliwiakowy (ameloblastic fibroma, AF)?",
+  "options": {
+   "A": "Raka płaskonabłonkowego",
+   "B": "Raka szkliwiakowego",
+   "C": "Ameloblastic fibrosarcoma",
+   "D": "Chrzęstniakomięsaka",
+   "E": "Mięsaka kościopochodnego"
+  },
+  "correct": "C",
+  "explanation": "Niedoszczętne usunięcie AF jest częstą przyczyną nawrotów, a powtarzane interwencje chirurgiczne mogą skutkować transformacją AF w kierunku ameloblastic fibrosarcoma."
+ },
+ {
+  "id": "t2-c014-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    38,
+    39
+   ]
+  },
+  "question": "Jak radiologicznie prezentuje się zębiak zestawny (odontoma, compound type, OCp)?",
+  "options": {
+   "A": "Jako obraz halo wokół korzenia zęba",
+   "B": "Jako obraz trójkąta Codmana",
+   "C": "Jako obraz matowego szkła",
+   "D": "Jako mnogie odontoidy przypominające szczątkowe zęby wewnątrz torebki guza",
+   "E": "Jako jednorodny, silnie wysycony cień o regularnym kształcie"
+  },
+  "correct": "D",
+  "explanation": "Struktura OCp w obrazie radiologicznym jest bardzo charakterystyczna — wewnątrz torebki guza obserwuje się mnogie odontoidy przypominające szczątkowe zęby."
+ },
+ {
+  "id": "t2-c015-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    40,
+    41
+   ]
+  },
+  "question": "Jak w odróżnieniu od zębiaka zestawnego prezentuje się radiologicznie zębiak złożony (odontoma, complex type, OC)?",
+  "options": {
+   "A": "Jako obraz płatków śniegu",
+   "B": "Jako mnogie odontoidy przypominające szczątkowe zęby",
+   "C": "Jako silnie wysycony cień o dość regularnych kształtach",
+   "D": "Jako obraz baniek mydlanych",
+   "E": "Jako obraz halo wokół korzenia zęba"
+  },
+  "correct": "C",
+  "explanation": "W przeciwieństwie do patognomonicznego obrazu zębiaka zestawnego, zębiak złożony prezentuje się jako silnie wysycony cień o dość regularnych kształtach, mogący być mylony z innymi zmianami uwapnionymi."
+ },
+ {
+  "id": "t2-c015-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    40,
+    41
+   ]
+  },
+  "question": "Jaki charakter kliniczny ma zębinopochodny guz zawierający komórki-cienie (dentinogenic ghost cell tumour, DGCT)?",
+  "options": {
+   "A": "Jest półzłośliwy, nacieka, ma dużą tendencję do nawrotów i zwykle wymaga odcinkowej resekcji kości",
+   "B": "Nie niesie ryzyka transformacji złośliwej",
+   "C": "Występuje wyłącznie w postaci obwodowej",
+   "D": "Jest całkowicie łagodny i nie wymaga leczenia",
+   "E": "Występuje częściej u kobiet niż u mężczyzn"
+  },
+  "correct": "A",
+  "explanation": "DGCT jest guzem półzłośliwym, wzrastającym w sposób naciekający, o dużej tendencji do nawrotów (nawet do 75% przy leczeniu oszczędzającym), stąd zaleca się odcinkową resekcję kości."
+ },
+ {
+  "id": "t2-c015-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    40,
+    41
+   ]
+  },
+  "question": "Którym co do częstości występowania guzem zębopochodnym jest śluzak zębopochodny (odontogenic myxoma, OM)?",
+  "options": {
+   "A": "Nigdy nie zajmuje światła zatoki szczękowej",
+   "B": "Występuje wyłącznie w żuchwie",
+   "C": "Trzecim co do częstości (po zębiakach i szkliwiaku)",
+   "D": "Najrzadziej występującym",
+   "E": "Pierwszym co do częstości"
+  },
+  "correct": "C",
+  "explanation": "OM jest trzecim co do częstości występowania guzem zębopochodnym (po zębiakach i szkliwiaku) i drugim co do częstości nowotworem zębopochodnym (po szkliwiaku)."
+ },
+ {
+  "id": "t2-c016-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    42,
+    43
+   ]
+  },
+  "question": "Jaki jest zalecany sposób leczenia śluzaka zębopochodnego (OM)?",
+  "options": {
+   "A": "Odcinkowe wycięcie kości objętej zmianą w granicach kości niezmienionej",
+   "B": "Wyłącznie obserwacja radiologiczna co 6 miesięcy",
+   "C": "Wyłyżeczkowanie zmiany bez marginesu kostnego",
+   "D": "Chemioterapia neoadiuwantowa",
+   "E": "Radioterapia jako leczenie z wyboru"
+  },
+  "correct": "A",
+  "explanation": "Śluzaki leczy się poprzez odcinkowe wycięcie kości w granicach tkanki niezmienionej; nawroty sięgają 25%, najczęściej w ciągu pierwszych 2 lat po zabiegu."
+ },
+ {
+  "id": "t2-c016-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    42,
+    43
+   ]
+  },
+  "question": "U pacjentów w jakim wieku najczęściej rozwija się kostniwiak (cementoblastoma)?",
+  "options": {
+   "A": "Wiek nie ma znaczenia klinicznego",
+   "B": "Po 60. roku życia",
+   "C": "Przed 30. rokiem życia",
+   "D": "Wyłącznie u dzieci przed 10. rokiem życia",
+   "E": "Między 40. a 50. rokiem życia"
+  },
+  "correct": "C",
+  "explanation": "Kostniwiak rozwija się w większości przypadków u pacjentów młodych, przed 30. r.ż., rzadko u dzieci; nie wykazano predylekcji płciowej."
+ },
+ {
+  "id": "t2-c016-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    42,
+    43
+   ]
+  },
+  "question": "Jaki jest zwykle pierwszy objaw kliniczny kostniwiaka (cementoblastoma)?",
+  "options": {
+   "A": "Ból zęba związanego z guzem",
+   "B": "Powiększenie węzłów chłonnych szyi",
+   "C": "Szczękościsk",
+   "D": "Krwawienie z dziąsła",
+   "E": "Bezbolesne rozdęcie kości"
+  },
+  "correct": "A",
+  "explanation": "Kostniwiak daje objawy szybko i dość unikatowo wśród guzów zębopochodnych — pierwszym objawem jest zwykle ból zęba związanego z CB, następnie rozdęcie kości."
+ },
+ {
+  "id": "t2-c017-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    44,
+    45
+   ]
+  },
+  "question": "Gdzie najczęściej lokalizuje się melanotyczny neuroektodermalny guz wieku niemowlęcego (MNTI)?",
+  "options": {
+   "A": "W podniebieniu miękkim",
+   "B": "W szczęce (do 80% przypadków)",
+   "C": "W kości potylicznej",
+   "D": "W stawie skroniowo-żuchwowym",
+   "E": "W żuchwie"
+  },
+  "correct": "B",
+  "explanation": "Najczęstszą lokalizacją MNTI jest szczęka (do 80% przypadków), w dalszej kolejności kości mózgoczaszki (11%), a bardzo rzadko żuchwa (6%)."
+ },
+ {
+  "id": "t2-c017-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    44,
+    45
+   ]
+  },
+  "question": "Jaka jest charakterystyczna cecha kliniczna kostniaka kostnawego (osteoid osteoma, OSO)?",
+  "options": {
+   "A": "Całkowity brak dolegliwości bólowych",
+   "B": "Krwawienie z nosa jako jedyny objaw",
+   "C": "Obrzęk powiek i zaburzenia widzenia jako główny objaw",
+   "D": "Ból kości niewspółmierny do wielkości guza, nasilający się w nocy i ustępujący po kwasie acetylosalicylowym",
+   "E": "Szybki wzrost z licznymi przerzutami odległymi"
+  },
+  "correct": "D",
+  "explanation": "Charakterystyczną cechą OSO jest ból kości niewspółmierny do rozmiaru guza (zwykle 1-2 cm), nasilający się w nocy i ustępujący po zażyciu kwasu acetylosalicylowego."
+ },
+ {
+  "id": "t2-c017-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    44,
+    45
+   ]
+  },
+  "question": "Czego wewnątrzkostnym odpowiednikiem jest włókniak desmoplastyczny (desmoplastic fibroma, DPF)?",
+  "options": {
+   "A": "Szkliwiaka",
+   "B": "Guza desmoidalnego tkanek miękkich",
+   "C": "Kostniakomięsaka",
+   "D": "Mięsaka Ewinga",
+   "E": "Chrzęstniakomięsaka"
+  },
+  "correct": "B",
+  "explanation": "DPF jest bardzo rzadko spotykaną, agresywnie wzrastającą zmianą miofibroblastyczną kości, stanowiącą wewnątrzkostny odpowiednik guza desmoidalnego tkanek miękkich."
+ },
+ {
+  "id": "t2-c018-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    46,
+    47
+   ]
+  },
+  "question": "Mutacja jakiego genu jest związana z dysplazją włóknistą (fibrous dysplasia, FD)?",
+  "options": {
+   "A": "GNAS",
+   "B": "BRAF",
+   "C": "H3F3B",
+   "D": "CDC73",
+   "E": "APC"
+  },
+  "correct": "A",
+  "explanation": "FD jest schorzeniem kości o podłożu genetycznym, wynikającym z mutacji w obrębie genu GNAS, prowadzącej do zastępowania prawidłowej struktury kości niedojrzałą, nieprawidłowo zmineralizowaną kością i tkanką włóknistą."
+ },
+ {
+  "id": "t2-c018-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    46,
+    47
+   ]
+  },
+  "question": "Z jaką postacią dysplazji włóknistej związany jest zespół McCune'a-Albrighta?",
+  "options": {
+   "A": "Czaszkowo-twarzową",
+   "B": "Monoostyczną",
+   "C": "Kwitnącą",
+   "D": "Poliostyczną",
+   "E": "Ogniskową"
+  },
+  "correct": "D",
+  "explanation": "Postać poliostyczna FD, wraz z zaburzeniami endokrynnymi i charakterystycznymi plamami koloru mlecznej kawy na skórze, jest elementem zespołu McCune'a-Albrighta."
+ },
+ {
+  "id": "t2-c018-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    46,
+    47
+   ]
+  },
+  "question": "Jak zwykle przebiega dysplazja kostniwno-kostna (cemento-osseous dysplasia, COD)?",
+  "options": {
+   "A": "Jest najrzadszym schorzeniem włóknisto-kostnym kości szczękowych",
+   "B": "Jest wykrywana przypadkowo, przebiega bezobjawowo i wymaga jedynie okresowej kontroli radiologicznej",
+   "C": "Zawsze powoduje resorpcję korzeni zębów",
+   "D": "Wymaga natychmiastowego leczenia chirurgicznego",
+   "E": "Występuje wyłącznie u mężczyzn"
+  },
+  "correct": "B",
+  "explanation": "COD wykrywana jest przypadkowo w badaniu radiologicznym, klinicznie zwykle nie daje objawów, nie wymaga leczenia, a jedynie regularnych kontroli co 6-12 miesięcy, gdyż stacjonarny charakter zmiany potwierdza rozpoznanie."
+ },
+ {
+  "id": "t2-c019-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    48,
+    49
+   ]
+  },
+  "question": "Z mutacjami w jakich genach związana jest wrodzona, mnoga postać kostniakochrzęstniaka (OSCH) kości szczękowych?",
+  "options": {
+   "A": "SH3BP2",
+   "B": "p53 i Rb",
+   "C": "MECT-MAML2",
+   "D": "EXT1 i EXT2",
+   "E": "CDH11 i USP6"
+  },
+  "correct": "D",
+  "explanation": "Wrodzona, mnoga postać kostniakochrzęstniaka jest związana z mutacjami w genach EXT1 i EXT2, podczas gdy SH3BP2 odpowiada za cherubizm."
+ },
+ {
+  "id": "t2-c019-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    48,
+    49
+   ]
+  },
+  "question": "Który opis najlepiej odpowiada epidemiologii i lokalizacji ziarniniaka olbrzymiokomórkowego wewnątrzkostnego (CGCG)?",
+  "options": {
+   "A": "Rozwija się wyłącznie w kościach długich, a w kościach twarzoczaszki stanowi rzadkość",
+   "B": "Jest zmianą odczynową dziąsła spowodowaną kamieniem nazębnym",
+   "C": "Występuje głównie u osób starszych, bez predylekcji płciowej, w tylnym odcinku szczęki",
+   "D": "Jest nowotworem złośliwym o wysokim potencjale przerzutowania do płuc",
+   "E": "Rozpoznawany najczęściej w 2. i 3. dekadzie życia, trzykrotnie częściej u kobiet, typowo w przednim odcinku żuchwy"
+  },
+  "correct": "E",
+  "explanation": "CGCG jest typowy dla kości szczękowych, rozpoznawany najczęściej w 2. i 3. dekadzie życia, trzykrotnie częściej u kobiet, z typową lokalizacją w odcinku przednim i przednio-bocznym trzonu żuchwy."
+ },
+ {
+  "id": "t2-c019-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    48,
+    49
+   ]
+  },
+  "question": "Jaki jest sposób dziedziczenia cherubizmu (CHB) i z mutacją którego genu jest związany?",
+  "options": {
+   "A": "Autosomalnie dominująco, gen SH3BP2",
+   "B": "Mitochondrialnie, gen CDH11",
+   "C": "Sprzężone z chromosomem X, gen USP6",
+   "D": "Autosomalnie recesywnie, gen EXT1",
+   "E": "Cherubizm nie ma podłoża genetycznego"
+  },
+  "correct": "A",
+  "explanation": "Cherubizm jest schorzeniem wrodzonym, dziedziczonym autosomalnie dominująco, związanym z mutacjami w genie SH3BP2 w locus 4p16.3."
+ },
+ {
+  "id": "t2-c020-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    50,
+    51
+   ]
+  },
+  "question": "Jaki obraz kliniczny twarzy jest charakterystyczny dla zaawansowanego cherubizmu i dał nazwę temu schorzeniu?",
+  "options": {
+   "A": "Twarz przypominająca cherubina — pucołowate policzki, oczy pozornie zwrócone ku niebu i poszerzona szyja z powodu limfadenopatii",
+   "B": "Silne wygórowanie w okolicy kąta żuchwy z owrzodzeniem skóry",
+   "C": "Twarz maskowata z ograniczeniem mimiki",
+   "D": "Zapadnięcie policzków i wytrzeszcz gałek ocznych",
+   "E": "Asymetria twarzy z opadaniem kącika ust po jednej stronie"
+  },
+  "correct": "A",
+  "explanation": "Rozdęcie kości szczękowych, pucołowatość policzków, oczy pozornie zwrócone ku niebu oraz szeroka szyja z powodu limfadenopatii nadają twarzy wygląd przypominający cherubina z malarstwa renesansowego."
+ },
+ {
+  "id": "t2-c020-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    50,
+    51
+   ]
+  },
+  "question": "Które badanie obrazowe pozwala uwidocznić charakterystyczne dla torbieli tętniakowatej kości (ABC), choć niepatognomoniczne, poziomy płyn-płyn?",
+  "options": {
+   "A": "Zdjęcie pantomograficzne",
+   "B": "Rezonans magnetyczny (MR)",
+   "C": "Sialografia",
+   "D": "Ultrasonografia",
+   "E": "Scyntygrafia kości"
+  },
+  "correct": "B",
+  "explanation": "W badaniu MR w obrębie torbieli tętniakowatej kości można ujawnić dość specyficzne, choć niepatognomoniczne, poziomy płyn-płyn."
+ },
+ {
+  "id": "t2-c020-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    50,
+    51
+   ]
+  },
+  "question": "Jaka jest typowa cecha radiologiczna torbieli samotnej (prostej) kości (SBC) w odniesieniu do sąsiadujących zębów?",
+  "options": {
+   "A": "Powoduje martwicę miazgi zębów sąsiadujących ze zmianą",
+   "B": "Zawsze przemieszcza zęby w kierunku dogłowowym",
+   "C": "Powoduje wyraźną resorpcję korzeni zębów sąsiednich",
+   "D": "Zmiana rozwija się pomiędzy korzeniami zębów z żywą miazgą, bez ich przemieszczenia (zęby jakby wiszące w jamie torbieli)",
+   "E": "Prowadzi do zesznurowania korzeni zębów sąsiednich"
+  },
+  "correct": "D",
+  "explanation": "SBC typowo rozwija się między korzeniami zębów z żywą miazgą, bez ich przemieszczenia i bez cech resorpcji — jest to tzw. obraz zębów wiszących/pływających w jamie torbieli."
+ },
+ {
+  "id": "t2-c022-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    54,
+    56
+   ]
+  },
+  "question": "Jaka jest łacińska maksyma przywoływana jako nadrzędna zasada diagnostyki nowotworów gruczołów ślinowych?",
+  "options": {
+   "A": "Vis medicatrix naturae",
+   "B": "Qui bene diagnoscit, bene curat",
+   "C": "Primum non nocere",
+   "D": "Ars longa, vita brevis",
+   "E": "Similia similibus curantur"
+  },
+  "correct": "B",
+  "explanation": "Przywołana maksyma \"Qui bene diagnoscit, bene curat\" oznacza \"Kto dobrze rozpoznaje, ten dobrze leczy\" i podkreśla znaczenie prawidłowej diagnostyki."
+ },
+ {
+  "id": "t2-c022-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    54,
+    56
+   ]
+  },
+  "question": "Jaka jest ogólna skuteczność diagnostyczna śródoperacyjnego badania doraźnego (intra operationem) w rozpoznawaniu schorzeń gruczołów ślinowych?",
+  "options": {
+   "A": "Około 85,9%",
+   "B": "Około 50%",
+   "C": "Około 96,6%",
+   "D": "Około 70%",
+   "E": "100%"
+  },
+  "correct": "C",
+  "explanation": "Skuteczność diagnostyczna badania śródoperacyjnego w rozpoznaniu schorzenia gruczołów ślinowych wynosi 96,6%, natomiast w diagnostyce nowotworów złośliwych jest niższa (85,9%)."
+ },
+ {
+  "id": "t2-c022-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    54,
+    56
+   ]
+  },
+  "question": "Z jakim guzem najczęściej mylony jest w badaniu doraźnym guz mieszany, gdy dochodzi do fałszywie pozytywnego rozpoznania złośliwości?",
+  "options": {
+   "A": "Rakiem śluzowonaskórkowym lub rakiem gruczołowato-torbielowatym",
+   "B": "Guzem Warthina",
+   "C": "Rakiem zrazikowokomórkowym",
+   "D": "Rakiem płaskonabłonkowym",
+   "E": "Chłoniakiem MALT"
+  },
+  "correct": "A",
+  "explanation": "Fałszywie dodatnie rozpoznanie złośliwości w badaniu śródoperacyjnym najczęściej dotyczy guza mieszanego, rozpoznawanego omyłkowo jako rak śluzowonaskórkowy lub rak gruczołowato-torbielowaty."
+ },
+ {
+  "id": "t2-c023-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    57,
+    59
+   ]
+  },
+  "question": "Jaki obraz sialograficzny jest charakterystyczny dla guzów łagodnych dużych gruczołów ślinowych?",
+  "options": {
+   "A": "Amputacja przewodów",
+   "B": "Ubytek zakontrastowania wstecznego",
+   "C": "Obraz \"piłki w ręku\"",
+   "D": "Obraz \"kwitnącej jabłoni\"",
+   "E": "Obraz \"drzewa bez liści\""
+  },
+  "correct": "C",
+  "explanation": "Obraz \"piłki w ręku\" w sialografii jest typowy dla guzów łagodnych, natomiast amputacja przewodów wskazuje na nowotwór złośliwy."
+ },
+ {
+  "id": "t2-c023-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    57,
+    59
+   ]
+  },
+  "question": "Jaki jest szczyt zachorowań i stosunek płci dla gruczolaka wielopostaciowego (guza mieszanego)?",
+  "options": {
+   "A": "6.-8. dekada życia, częściej mężczyźni (2:1)",
+   "B": "3. i 4. dekada życia, częściej kobiety (2:1)",
+   "C": "8. dekada życia, częściej kobiety (10:1)",
+   "D": "1. dekada życia, bez predylekcji płciowej",
+   "E": "5. dekada życia, wyłącznie u mężczyzn"
+  },
+  "correct": "B",
+  "explanation": "Szczyt zachorowań na gruczolaka wielopostaciowego przypada na 3. i 4. dekadę życia (średnia wieku 45 lat), a guz występuje częściej u kobiet niż u mężczyzn w stosunku 2:1."
+ },
+ {
+  "id": "t2-c023-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    57,
+    59
+   ]
+  },
+  "question": "Jaka metoda diagnostyki obrazowej jest niezbędna u chorych z rakiem gruczołów ślinowych do precyzyjnej oceny wielkości i relacji topograficznych guza pierwotnego względem otaczających struktur?",
+  "options": {
+   "A": "Scyntygrafia z technetem 99m",
+   "B": "Zdjęcie pantomograficzne",
+   "C": "Klasyczne zdjęcie RTG czaszki",
+   "D": "Tomografia komputerowa i/lub rezonans magnetyczny twarzoczaszki z kontrastem",
+   "E": "Wyłącznie ultrasonografia"
+  },
+  "correct": "D",
+  "explanation": "U chorych z rakiem gruczołów ślinowych konieczne jest wykonanie TK i/lub RM twarzoczaszki z kontrastem celem oceny wielkości, położenia guza oraz jego relacji do otaczających struktur i naciekania kości."
+ },
+ {
+  "id": "t2-c024-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    60,
+    61
+   ]
+  },
+  "question": "Jakie jest typowe miejsce występowania guzów mieszanych wywodzących się z drobnych gruczołów ślinowych?",
+  "options": {
+   "A": "Migdałek podniebienny",
+   "B": "Wargowa część błony śluzowej dolnej",
+   "C": "Dno jamy ustnej",
+   "D": "Okolica zatrzonowcowa",
+   "E": "Granica podniebienia twardego i miękkiego"
+  },
+  "correct": "E",
+  "explanation": "Guzy mieszane z drobnych gruczołów ślinowych manifestują się typowo w okolicy granicy podniebienia twardego i miękkiego jako niebolesny opór podśluzówkowy nieruchomy względem mucoperiosteum."
+ },
+ {
+  "id": "t2-c024-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    60,
+    61
+   ]
+  },
+  "question": "Jaki zabieg jest zabiegiem z wyboru w leczeniu gruczolaka wielopostaciowego płata powierzchownego ślinianki przyusznej?",
+  "options": {
+   "A": "Tumorektomia",
+   "B": "Obserwacja bez leczenia chirurgicznego",
+   "C": "Enukleacja guza",
+   "D": "Parotidektomia powierzchowna (częściowa lub całkowita)",
+   "E": "Radioterapia radykalna bez zabiegu"
+  },
+  "correct": "D",
+  "explanation": "Parotidektomia powierzchowna daje najmniejszy odsetek wznów miejscowych i jest zabiegiem z wyboru u pacjentów z gruczolakiem wielopostaciowym płata powierzchownego przyusznicy, w odróżnieniu od skazanych na niepowodzenie enukleacji czy tumorektomii."
+ },
+ {
+  "id": "t2-c024-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    60,
+    61
+   ]
+  },
+  "question": "Dlaczego preparowanie otorebkowanego gruczolaka wielopostaciowego bywa trudne technicznie?",
+  "options": {
+   "A": "Guz zawsze nacieka nerw twarzowy",
+   "B": "Guz nie posiada żadnej struktury torebkowej",
+   "C": "Guz jest zawsze zrośnięty ze skórą",
+   "D": "Torebka guza wykazuje wysoką skłonność do oddzielania się od leżącego pod nią guza, co tworzy iluzoryczną płaszczyznę preparowania",
+   "E": "Guz zawsze jest bardzo twardy i zwapniały"
+  },
+  "correct": "D",
+  "explanation": "Torebka gruczolaka wielopostaciowego może być bardzo cienka lub niekompletna i ma wysoką skłonność do oddzielania się od guza, co stwarza nieprawidłową, iluzoryczną płaszczyznę preparowania podczas zabiegu."
+ },
+ {
+  "id": "t2-c025-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    62,
+    64
+   ]
+  },
+  "question": "Jakie jest ryzyko wznowy w przypadku pęknięcia gruczolaka wielopostaciowego w trakcie zabiegu chirurgicznego z wydostaniem się jego zawartości w zdrową tkankę?",
+  "options": {
+   "A": "5%",
+   "B": "1%",
+   "C": "100%",
+   "D": "20%",
+   "E": "80%"
+  },
+  "correct": "E",
+  "explanation": "Pęknięcie guza w trakcie zabiegu z wydostaniem się jego zawartości w obręb zdrowej tkanki zwiększa ryzyko wznowy miejscowej aż do 80% przypadków."
+ },
+ {
+  "id": "t2-c025-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    62,
+    64
+   ]
+  },
+  "question": "Który z wymienionych czynników zwiększa ryzyko transformacji złośliwej gruczolaka wielopostaciowego?",
+  "options": {
+   "A": "Pojedynczy epizod choroby bez wznów",
+   "B": "Wielokrotne wznowy guza i umiejscowienie w płacie głębokim przyusznicy",
+   "C": "Obecność torebki dobrze wykształconej",
+   "D": "Umiejscowienie w płacie powierzchownym przyusznicy",
+   "E": "Płeć żeńska i młody wiek"
+  },
+  "correct": "B",
+  "explanation": "Czynniki zwiększające ryzyko zezłośliwienia gruczolaka wielopostaciowego to m.in. płeć męska, starszy wiek, wielokrotne wznowy oraz umiejscowienie guza w płacie głębokim przyusznicy."
+ },
+ {
+  "id": "t2-c025-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    62,
+    64
+   ]
+  },
+  "question": "Jaka jest typowa lokalizacja i etiologia guza Warthina?",
+  "options": {
+   "A": "Rozwija się głównie w śliniance podjęzykowej, niezwiązany z paleniem tytoniu",
+   "B": "Rozwija się w gruczole łzowym i nie ma związku z czynnikami środowiskowymi",
+   "C": "Rozwija się prawie wyłącznie w śliniance przyusznej, a jego rozwój jest silnie związany z paleniem tytoniu",
+   "D": "Rozwija się w śliniance podżuchwowej, głównie u osób młodych",
+   "E": "Występuje wyłącznie w drobnych gruczołach ślinowych podniebienia"
+  },
+  "correct": "C",
+  "explanation": "Guz Warthina rozwija się prawie wyłącznie w śliniance przyusznej i jest nowotworem tytoniozależnym — rozwija się 8 razy częściej u palaczy tytoniu."
+ },
+ {
+  "id": "t2-c026-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    65,
+    67
+   ]
+  },
+  "question": "Dlaczego niektóre ośrodki preferują wykonanie parotidektomii powierzchownej zamiast wyłuszczenia w leczeniu guza Warthina?",
+  "options": {
+   "A": "Ponieważ parotidektomia jest zabiegiem krótszym",
+   "B": "Ponieważ wyłuszczenie zwiększa ryzyko porażenia nerwu twarzowego",
+   "C": "Ponieważ guz Warthina zawsze jest złośliwy",
+   "D": "Ponieważ wyłuszczenie jest technicznie niemożliwe",
+   "E": "Ponieważ przy rozwoju wieloogniskowym subkliniczne guzki mogą zostać pozostawione i stać się zaczątkiem wznowy"
+  },
+  "correct": "E",
+  "explanation": "Guz Warthina bywa wieloogniskowy — przy samym wyłuszczeniu lub wycięciu subkliniczne guzki mogą pozostać i być źródłem wznowy, dlatego niektóre ośrodki preferują parotidektomię powierzchowną."
+ },
+ {
+  "id": "t2-c026-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    65,
+    67
+   ]
+  },
+  "question": "Jaka jest lokalizacja gruczolaka mioepitelialnego (myoepithelioma) najczęstsza spośród wymienionych?",
+  "options": {
+   "A": "Gruczoł łzowy",
+   "B": "Ślinianka podjęzykowa",
+   "C": "Krtań",
+   "D": "Ślinianka przyuszna (48%)",
+   "E": "Skóra"
+  },
+  "correct": "D",
+  "explanation": "Gruczolak mioepitelialny najczęściej umiejscawia się w obrębie przyusznicy (48%), rzadziej w drobnych gruczołach ślinowych i śliniance podżuchwowej."
+ },
+ {
+  "id": "t2-c026-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    65,
+    67
+   ]
+  },
+  "question": "Jaki odsetek nawrotu miejscowego jest charakterystyczny dla typu błoniastego gruczolaka podstawnokomórkowego (basal cell adenoma)?",
+  "options": {
+   "A": "Około 5%",
+   "B": "Około 50%",
+   "C": "Około 25%",
+   "D": "Ponad 90%",
+   "E": "Poniżej 1%"
+  },
+  "correct": "C",
+  "explanation": "Gruczolaki podstawnokomórkowe cechują się niskim odsetkiem nawrotu miejscowego, natomiast w przypadku typu błoniastego odsetek ten jest relatywnie wysoki i wynosi aż 25%."
+ },
+ {
+  "id": "t2-c027-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    68,
+    69
+   ]
+  },
+  "question": "Z czego wynika ziarnista cytoplazma onkocytów budujących gruczolaka kwasochłonnego (oncocytoma)?",
+  "options": {
+   "A": "Z nagromadzenia mitochondriów",
+   "B": "Z nagromadzenia glikogenu",
+   "C": "Z nagromadzenia keratyny",
+   "D": "Z nagromadzenia lizosomów",
+   "E": "Z nagromadzenia melaniny"
+  },
+  "correct": "A",
+  "explanation": "Onkocyty to duże komórki nabłonkowe z ziarnistą cytoplazmą, co wynika z nagromadzenia w nich mitochondriów."
+ },
+ {
+  "id": "t2-c027-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    68,
+    69
+   ]
+  },
+  "question": "Jaka cecha epidemiologiczna dotyczy gruczolaka kwasochłonnego rozwijającego się w tkankach po radioterapii?",
+  "options": {
+   "A": "Średni wiek pacjentów jest o około 20 lat niższy (43 lata) niż w populacji ogólnej chorych z oncocytoma",
+   "B": "Średni wiek pacjentów jest wyższy niż w populacji ogólnej",
+   "C": "Występuje wyłącznie u dzieci",
+   "D": "Nie różni się epidemiologicznie od klasycznej postaci",
+   "E": "Zawsze ma charakter obustronny"
+  },
+  "correct": "A",
+  "explanation": "Oncocytoma może rozwijać się z tkanek po radioterapii u 20% chorych, u których średni wiek jest o 20 lat niższy niż w populacji ogólnej (43 lata wobec 64 lat)."
+ },
+ {
+  "id": "t2-c027-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    68,
+    69
+   ]
+  },
+  "question": "Jaka jest najczęstsza lokalizacja torbielakogruczolaka (cystadenoma) wśród drobnych gruczołów ślinowych?",
+  "options": {
+   "A": "Nosogardło",
+   "B": "Dno jamy ustnej",
+   "C": "Migdałek podniebienny",
+   "D": "Warga górna i błona śluzowa policzka",
+   "E": "Język"
+  },
+  "correct": "D",
+  "explanation": "Po lokalizacji w przyusznicy (45-50% przypadków) na drugim miejscu wśród lokalizacji cystadenoma znajdują się przypadki wywodzące się z drobnych gruczołów warg i błony śluzowej policzka."
+ },
+ {
+  "id": "t2-c028-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    70,
+    71
+   ]
+  },
+  "question": "Jaka jest najczęstsza lokalizacja gruczolaka śliniankopochodnego brodawkującego (sialadenoma papilliferum)?",
+  "options": {
+   "A": "Warga dolna",
+   "B": "Migdałek podniebienny",
+   "C": "Ślinianka podżuchwowa",
+   "D": "Podniebienie (81%)",
+   "E": "Dno jamy ustnej"
+  },
+  "correct": "D",
+  "explanation": "Gruczolak śliniankopochodny brodawkujący występuje najczęściej w drobnych gruczołach ślinowych jamy ustnej, w tym najczęściej na podniebieniu (81%)."
+ },
+ {
+  "id": "t2-c028-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    70,
+    71
+   ]
+  },
+  "question": "Jaki czynnik etiologiczny bierze się pod uwagę w powstawaniu brodawczaków przewodowych (ductal papillomas)?",
+  "options": {
+   "A": "Ekspozycja na promieniowanie jonizujące",
+   "B": "Infekcja EBV",
+   "C": "Urazy zgryzowe i zakażenie wirusem brodawczaka ludzkiego (HPV)",
+   "D": "Mutacje genu SH3BP2",
+   "E": "Kamica ślinowa wyłącznie"
+  },
+  "correct": "C",
+  "explanation": "W etiopatogenezie brodawczaków przewodowych bierze się pod uwagę urazy zgryzowe oraz zakażenie wirusem brodawczaka ludzkiego (HPV)."
+ },
+ {
+  "id": "t2-c028-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    70,
+    71
+   ]
+  },
+  "question": "Jaka jest najczęstsza lokalizacja gruczolaka łojowego (sebaceous adenoma) wśród dużych gruczołów ślinowych?",
+  "options": {
+   "A": "Migdałek podniebienny",
+   "B": "Ślinianka przyuszna (50%)",
+   "C": "Ślinianka podjęzykowa",
+   "D": "Ślinianka podżuchwowa (50%)",
+   "E": "Gruczoł łzowy"
+  },
+  "correct": "B",
+  "explanation": "Sebaceous adenoma rozwija się najczęściej w obrębie dużych gruczołów ślinowych (61%), z czego najczęściej w przyusznicy (50%), a rzadziej w śliniance podżuchwowej (12%)."
+ },
+ {
+  "id": "t2-c029-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    72,
+    73
+   ]
+  },
+  "question": "Która jednostka chorobowa gruczołów ślinowych została nowo wprowadzona do klasyfikacji WHO w 2022 roku?",
+  "options": {
+   "A": "Torbielak rogowy (keratocystoma)",
+   "B": "Gruczolak kanalikowy",
+   "C": "Guz Warthina",
+   "D": "Gruczolak podstawnokomórkowy",
+   "E": "Rak śluzowonaskórkowy"
+  },
+  "correct": "A",
+  "explanation": "Torbielak rogowy (keratocystoma) jest nową jednostką nozologiczną wprowadzoną w 2022 roku do klasyfikacji guzów gruczołów ślinowych WHO."
+ },
+ {
+  "id": "t2-c029-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    72,
+    73
+   ]
+  },
+  "question": "Jaki jest podstawowy czynnik etiologiczny w powstawaniu raka śluzowonaskórkowego (mucoepidermoid carcinoma)?",
+  "options": {
+   "A": "Kamica ślinowa",
+   "B": "Ekspozycja na promieniowanie jonizujące",
+   "C": "Palenie tytoniu",
+   "D": "Infekcja wirusem HPV",
+   "E": "Zakażenie EBV"
+  },
+  "correct": "B",
+  "explanation": "Podstawowym czynnikiem etiologicznym raka śluzowonaskórkowego jest ekspozycja na promieniowanie jonizujące — w 44% przypadków w wywiadzie stwierdza się przebytą radioterapię w dzieciństwie."
+ },
+ {
+  "id": "t2-c029-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    72,
+    73
+   ]
+  },
+  "question": "Jaka jest najczęstsza lokalizacja gruczolaka kanalikowego (canalicular adenoma)?",
+  "options": {
+   "A": "Ślinianka podżuchwowa",
+   "B": "Ślinianka przyuszna",
+   "C": "Dno jamy ustnej",
+   "D": "Warga górna (80%)",
+   "E": "Podniebienie miękkie"
+  },
+  "correct": "D",
+  "explanation": "Zdecydowana większość gruczolaków kanalikowych lokalizuje się w wardze górnej (80%), rzadziej w błonie śluzowej policzka, wardze dolnej i podniebieniu."
+ },
+ {
+  "id": "t2-c030-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    74,
+    75
+   ]
+  },
+  "question": "Jaki jest odsetek przerzutów do węzłów chłonnych w przypadku raka śluzowonaskórkowego low-grade dużych gruczołów ślinowych?",
+  "options": {
+   "A": "Około 30%",
+   "B": "Około 55%",
+   "C": "100%",
+   "D": "Około 80%",
+   "E": "Około 5%"
+  },
+  "correct": "E",
+  "explanation": "Odsetek guzów low-grade z przerzutami do lokoregionalnych węzłów chłonnych wynosi jedynie 5%, natomiast u chorych z guzem high-grade wzrasta do 55%."
+ },
+ {
+  "id": "t2-c030-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    74,
+    75
+   ]
+  },
+  "question": "Jaki zabieg jest zabiegiem z wyboru w leczeniu raka śluzowonaskórkowego zlokalizowanego w przyusznicy?",
+  "options": {
+   "A": "Wycięcie skóry bez ingerencji w gruczoł",
+   "B": "Chemioterapia jako leczenie pierwszego rzutu",
+   "C": "Wyłącznie radioterapia bez leczenia chirurgicznego",
+   "D": "Enukleacja guza",
+   "E": "Parotidektomia powierzchowna lub całkowita z próbą zachowania nerwu twarzowego"
+  },
+  "correct": "E",
+  "explanation": "W przypadku guzów wywodzących się z przyusznicy zabiegiem z wyboru jest parotidektomia powierzchowna lub całkowita z próbą zachowania nerwu twarzowego, ocenianą śródoperacyjnie."
+ },
+ {
+  "id": "t2-c030-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    74,
+    75
+   ]
+  },
+  "question": "Jakie jest 10-letnie przeżycie całkowite (OS) u pacjentów z rakiem śluzowonaskórkowym high-grade?",
+  "options": {
+   "A": "25%",
+   "B": "50%",
+   "C": "10%",
+   "D": "70%",
+   "E": "90%"
+  },
+  "correct": "A",
+  "explanation": "10-letnie przeżycie (OS) wynosi odpowiednio: low-grade — 90%, intermediate-grade — 70% i high-grade — 25%."
+ },
+ {
+  "id": "t2-c031-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    76,
+    78
+   ]
+  },
+  "question": "Który czynnik jest negatywnym czynnikiem rokowniczym w raku śluzowonaskórkowym?",
+  "options": {
+   "A": "Niski stopień zaawansowania klinicznego",
+   "B": "Lokalizacja guza w śliniance podżuchwowej",
+   "C": "Ekspresja MUC4",
+   "D": "Płeć żeńska",
+   "E": "Wiek chorych poniżej 40. roku życia"
+  },
+  "correct": "B",
+  "explanation": "Do czynników negatywnych rokowniczo w raku śluzowonaskórkowym należy m.in. lokalizacja guza w śliniance podżuchwowej, obok wieku >40-60 lat, płci męskiej i wysokiego stopnia zaawansowania."
+ },
+ {
+  "id": "t2-c031-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    76,
+    78
+   ]
+  },
+  "question": "Z jakich typów komórek zbudowany jest rak gruczołowato-torbielowaty (adenoid cystic carcinoma)?",
+  "options": {
+   "A": "Z komórek nabłonkowych i mioepitelialnych tworzących struktury cewkowe, sitowate i lite",
+   "B": "Wyłącznie z komórek limfoidalnych",
+   "C": "Z onkocytów bogatych w mitochondria",
+   "D": "Wyłącznie z komórek nabłonkowych surowiczych",
+   "E": "Z komórek śluzowych i pośrednich (clear cells)"
+  },
+  "correct": "A",
+  "explanation": "Rak gruczołowato-torbielowaty zbudowany jest z nowotworowych komórek nabłonkowych i mioepitelialnych tworzących struktury cewkowe, sitowate (gruczołowe) i lite."
+ },
+ {
+  "id": "t2-c031-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    76,
+    78
+   ]
+  },
+  "question": "Jaka cecha kliniczna raka gruczołowato-torbielowatego wynika z jego neurotropizmu (szerzenia się okołonerwowego)?",
+  "options": {
+   "A": "Guz powoduje wyłącznie zaburzenia smaku",
+   "B": "Objawy dotyczą wyłącznie nerwu wzrokowego",
+   "C": "Guz nigdy nie daje objawów neurologicznych",
+   "D": "Guz zawsze jest bezobjawowy do momentu przerzutów",
+   "E": "U większości pacjentów występują bóle, drętwienia i parestezje w obszarze guza"
+  },
+  "correct": "E",
+  "explanation": "Adenoid cystic carcinoma manifestuje się klinicznie bólem, drętwieniem i parestezjami związanymi z naciekającym typem wzrostu i szerzeniem się okołonerwowym (neurotropizmem)."
+ },
+ {
+  "id": "t2-c032-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    79,
+    81
+   ]
+  },
+  "question": "Jaki zabieg węzłowy jest zabiegiem z wyboru w przypadku raka gruczołowato-torbielowatego zlokalizowanego w śliniance podżuchwowej w stadium zaawansowanym?",
+  "options": {
+   "A": "Wyłącznie radioterapia węzłowa",
+   "B": "Operacja nadłopatkowo-gnykowa (SOHND) lub zmodyfikowana operacja kompleksowa układu chłonnego szyi (MRND)",
+   "C": "Brak operacji węzłowej",
+   "D": "Biopsja węzła wartowniczego",
+   "E": "Chemioterapia neoadjuwantowa"
+  },
+  "correct": "B",
+  "explanation": "W przypadku lokalizacji raka gruczołowato-torbielowatego w śliniance podżuchwowej w przypadkach zaawansowanych lub guzach high-grade zabiegiem z wyboru jest SOHND lub zmodyfikowana MRND."
+ },
+ {
+  "id": "t2-c032-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    79,
+    81
+   ]
+  },
+  "question": "Jakie jest 15-letnie przeżycie u chorych z rakiem gruczołowato-torbielowatym o wysokim stopniu dojrzałości histologicznej (grade I)?",
+  "options": {
+   "A": "14%",
+   "B": "39,6%",
+   "C": "5%",
+   "D": "26%",
+   "E": "65%"
+  },
+  "correct": "A",
+  "explanation": "W grupie raków grade I wskaźniki przeżycia 5-, 10- i 15-letniego wynoszą odpowiednio 92%, 65% i 14%."
+ },
+ {
+  "id": "t2-c032-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    79,
+    81
+   ]
+  },
+  "question": "Jakie jest ryzyko wznowy miejscowej u pacjentów z rakiem gruczołowato-torbielowatym w IV stopniu zaawansowania klinicznego?",
+  "options": {
+   "A": "50%",
+   "B": "37%",
+   "C": "80%",
+   "D": "60%",
+   "E": "23%"
+  },
+  "correct": "D",
+  "explanation": "Ryzyko nawrotu miejscowego wzrasta wraz ze stopniem zaawansowania klinicznego — w stopniu I wynosi 23%, a w stopniu IV rośnie do 60%."
+ },
+ {
+  "id": "t2-c033-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    82,
+    83
+   ]
+  },
+  "question": "Który nowotwór złośliwy gruczołów ślinowych jest, po raku śluzowonaskórkowym, drugim co do częstości nowotworem złośliwym wieku rozwojowego?",
+  "options": {
+   "A": "Rak gruczołowato-torbielowaty",
+   "B": "Rak zrazikowokomórkowy (acinic cell carcinoma)",
+   "C": "Polimorficzny gruczolakorak",
+   "D": "Rak z komórek Merkla",
+   "E": "Chłoniak MALT"
+  },
+  "correct": "B",
+  "explanation": "Acinic cell carcinoma jest drugim co do częstości nowotworem złośliwym gruczołów ślinowych wieku rozwojowego, po raku śluzowonaskórkowym."
+ },
+ {
+  "id": "t2-c033-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    82,
+    83
+   ]
+  },
+  "question": "Jaki zabieg jest zabiegiem z wyboru w leczeniu raka zrazikowokomórkowego zlokalizowanego w przyusznicy?",
+  "options": {
+   "A": "Wyłącznie radioterapia",
+   "B": "Obserwacja bez interwencji chirurgicznej",
+   "C": "Enukleacja guza",
+   "D": "Chemioterapia systemowa",
+   "E": "Parotidektomia powierzchowna z zachowaniem marginesów wolnych od nowotworu"
+  },
+  "correct": "E",
+  "explanation": "Ponieważ guzy te najczęściej lokalizują się w przyusznicy, zabiegiem z wyboru w raku zrazikowokomórkowym jest parotidektomia powierzchowna z zachowaniem marginesów wolnych od komórek nowotworowych."
+ },
+ {
+  "id": "t2-c033-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    82,
+    83
+   ]
+  },
+  "question": "W której lokalizacji najczęściej rozwija się polimorficzny gruczolakorak (polymorphous adenocarcinoma) wśród drobnych gruczołów ślinowych jamy ustnej?",
+  "options": {
+   "A": "Podniebienie (50-65% przypadków)",
+   "B": "Nosogardło",
+   "C": "Migdałek podniebienny",
+   "D": "Dno jamy ustnej",
+   "E": "Warga dolna"
+  },
+  "correct": "A",
+  "explanation": "Polymorphous adenocarcinoma rozwija się głównie w drobnych gruczołach ślinowych jamy ustnej, zazwyczaj na podniebieniu (50-65% przypadków)."
+ },
+ {
+  "id": "t2-c034-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    84,
+    85
+   ]
+  },
+  "question": "Jaki jest odsetek przerzutów do lokoregionalnych węzłów chłonnych w polimorficznym gruczolakoraku (polymorphous adenocarcinoma) gruczołów ślinowych?",
+  "options": {
+   "A": "Praktycznie nigdy nie występują",
+   "B": "9-15%",
+   "C": "Ponad 90%",
+   "D": "40-50%",
+   "E": "70-80%"
+  },
+  "correct": "B",
+  "explanation": "Zgodnie z tekstem polimorficzny gruczolakorak daje przerzuty do lokoregionalnych węzłów chłonnych w 9-15% przypadków, natomiast przerzuty krwiopochodne są rzadkie."
+ },
+ {
+  "id": "t2-c034-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    84,
+    85
+   ]
+  },
+  "question": "Jaki narząd jest najczęstszym miejscem przerzutów krwiopochodnych polimorficznego gruczolakoraka gruczołów ślinowych?",
+  "options": {
+   "A": "Nadnercza",
+   "B": "Śledziona",
+   "C": "Mózg",
+   "D": "Płuca",
+   "E": "Wątroba"
+  },
+  "correct": "D",
+  "explanation": "Tekst wskazuje płuca jako narząd, w obrębie którego najczęściej występują przerzuty krwiopochodne polimorficznego gruczolakoraka."
+ },
+ {
+  "id": "t2-c034-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    84,
+    85
+   ]
+  },
+  "question": "Kiedy u pacjenta z polimorficznym gruczolakorakiem gruczołów ślinowych wykonuje się operację węzłową?",
+  "options": {
+   "A": "Tylko profilaktycznie u wszystkich chorych poniżej 40. roku życia",
+   "B": "Zawsze, niezależnie od stanu węzłów chłonnych",
+   "C": "Nigdy się jej nie wykonuje",
+   "D": "Wyłącznie u chorych z wyraźną limfadenopatią szyjną",
+   "E": "Wyłącznie w przypadku wznowy miejscowej"
+  },
+  "correct": "D",
+  "explanation": "Zgodnie z tekstem operacje węzłowe wykonuje się wyłącznie u chorych z wyraźną limfadenopatią szyjną; rutynowo nie stosuje się elektywnego leczenia węzłowego."
+ },
+ {
+  "id": "t2-c035-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    86,
+    87
+   ]
+  },
+  "question": "Rearanżacja jakiego genu wiąże się z konwersją raka jasnokomórkowego gruczołów ślinowych z postaci o niskiej złośliwości do postaci high-grade?",
+  "options": {
+   "A": "ETV6",
+   "B": "MYB",
+   "C": "TP53",
+   "D": "EWSR1",
+   "E": "BRAF"
+  },
+  "correct": "D",
+  "explanation": "Tekst podaje, że konwersja raka jasnokomórkowego do postaci high-grade jest związana z rearanżacją genu EWSR1 w komórkach nowotworowych."
+ },
+ {
+  "id": "t2-c035-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    86,
+    87
+   ]
+  },
+  "question": "Jaki odsetek przypadków gruczolakoraka podstawnokomórkowego (basal cell adenocarcinoma) powstaje na podłożu wcześniej istniejącego gruczolaka podstawnokomórkowego?",
+  "options": {
+   "A": "23%",
+   "B": "50%",
+   "C": "10%",
+   "D": "1%",
+   "E": "90%"
+  },
+  "correct": "A",
+  "explanation": "Zgodnie z tekstem 23% przypadków basal cell adenocarcinoma powstaje na podłożu wcześniej występującego gruczolaka podstawnokomórkowego (basal cell adenoma)."
+ },
+ {
+  "id": "t2-c035-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    86,
+    87
+   ]
+  },
+  "question": "W której śliniance najczęściej rozwija się gruczolakorak podstawnokomórkowy?",
+  "options": {
+   "A": "Gruczoł łzowy",
+   "B": "Ślinianka przyuszna",
+   "C": "Ślinianka podżuchwowa",
+   "D": "Drobne gruczoły ślinowe jamy nosa",
+   "E": "Ślinianka podjęzykowa"
+  },
+  "correct": "B",
+  "explanation": "Gruczolakorak podstawnokomórkowy w 90% przypadków rozwija się w śliniance przyusznej, stanowiąc 0,6% jej guzów i 5% pierwotnych raków przyusznicy."
+ },
+ {
+  "id": "t2-c036-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    88,
+    89
+   ]
+  },
+  "question": "Które z poniższych NIE jest wskazaniem do radioterapii uzupełniającej u chorych z gruczolakorakiem „nieokreślonym inaczej” (adenocarcinoma NOS)?",
+  "options": {
+   "A": "Guz low-grade z marginesem powyżej 5 mm i bez cech nieradykalności",
+   "B": "Margines wycięcia poniżej 5 mm",
+   "C": "Guz o pośredniej lub wysokiej złośliwości",
+   "D": "Zaawansowanie miejscowe T3 lub T4",
+   "E": "Nieradykalność mikroskopowa w preparacie operacyjnym"
+  },
+  "correct": "A",
+  "explanation": "Wskazania do RT uzupełniającej obejmują guzy intermediate/high-grade, T3/T4 oraz wąski margines (<5 mm) lub nieradykalność mikroskopową; guz low-grade z szerokim, radykalnym marginesem nie wymaga RT."
+ },
+ {
+  "id": "t2-c036-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    88,
+    89
+   ]
+  },
+  "question": "Jaki odsetek chorych z przerzutami odległymi w przebiegu adenocarcinoma NOS umiera w ciągu 3 lat od ich rozpoznania?",
+  "options": {
+   "A": "50%",
+   "B": "73%",
+   "C": "37%",
+   "D": "93%",
+   "E": "23%"
+  },
+  "correct": "D",
+  "explanation": "Zgodnie z tekstem przerzuty odległe rozpoznaje się u 37% pacjentów, a aż 93% z nich umiera w ciągu 3 lat od ich stwierdzenia."
+ },
+ {
+  "id": "t2-c036-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    88,
+    89
+   ]
+  },
+  "question": "U jakiej grupy chorych z adenocarcinoma NOS operację węzłową wykonuje się obligatoryjnie, niezależnie od zaawansowania miejscowego?",
+  "options": {
+   "A": "U wszystkich chorych, bez wyjątku",
+   "B": "U chorych z guzem high-grade",
+   "C": "Nigdy się jej nie wykonuje w tym rozpoznaniu",
+   "D": "Wyłącznie u dzieci",
+   "E": "U chorych z guzem low-grade"
+  },
+  "correct": "B",
+  "explanation": "U pacjentów z rozpoznanym guzem high-grade obligatoryjnie należy wykonać odpowiedni do kategorii N zabieg węzłowy, bez względu na zaawansowanie miejscowe."
+ },
+ {
+  "id": "t2-c037-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    90,
+    91
+   ]
+  },
+  "question": "Który czynnik jest korzystny rokowniczo w raku przewodowym gruczołów ślinowych (salivary duct carcinoma)?",
+  "options": {
+   "A": "Rozległość nacieku poza torebkę gruczołu",
+   "B": "Wysoka ekspresja białka p53 w komórkach nowotworu",
+   "C": "Wznowa miejscowa po 1 roku",
+   "D": "Transformacja do adenosquamous carcinoma",
+   "E": "Rozpoznanie po 10 latach od leczenia"
+  },
+  "correct": "B",
+  "explanation": "Tekst podaje, że wysoka ekspresja białka p53 w komórkach nowotworu jest czynnikiem pozytywnym prognostycznie w raku przewodowym gruczołów ślinowych."
+ },
+ {
+  "id": "t2-c037-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    90,
+    91
+   ]
+  },
+  "question": "W której lokalizacji najczęściej rozwija się rak mioepitelialny (myoepithelial carcinoma) gruczołów ślinowych?",
+  "options": {
+   "A": "Zatoki przynosowe",
+   "B": "Krtań",
+   "C": "Ślinianka podżuchwowa",
+   "D": "Ślinianka przyuszna",
+   "E": "Korzeń języka"
+  },
+  "correct": "D",
+  "explanation": "Myoepithelial carcinoma lokalizuje się głównie w przyusznicy (66%), rzadziej w drobnych gruczołach ślinowych (25%) i śliniance podżuchwowej (10%)."
+ },
+ {
+  "id": "t2-c037-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    90,
+    91
+   ]
+  },
+  "question": "Jaki jest zazwyczaj obraz kliniczny raka mioepitelialnego gruczołów ślinowych?",
+  "options": {
+   "A": "Niebolesny guz o wolnym tempie wzrostu",
+   "B": "Bolesny, szybko rosnący guz z owrzodzeniem skóry",
+   "C": "Obustronne rozdęcie żuchwy",
+   "D": "Nagłe porażenie nerwu twarzowego jako jedyny objaw",
+   "E": "Wyłącznie bezobjawowy przebieg do końca życia"
+  },
+  "correct": "A",
+  "explanation": "Rak mioepitelialny manifestuje się klinicznie jako niebolesny guz o wolnym tempie wzrostu, zwykle rozwijający się od kilku miesięcy do kilku lat."
+ },
+ {
+  "id": "t2-c038-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    92,
+    93
+   ]
+  },
+  "question": "Jaka jest zazwyczaj śmiertelność z powodu raka nabłonkowo-mioepitelialnego (epithelial-myoepithelial carcinoma) gruczołów ślinowych?",
+  "options": {
+   "A": "Ponad 90%",
+   "B": "Około 60%",
+   "C": "5-7%",
+   "D": "30-40%",
+   "E": "Poniżej 1%"
+  },
+  "correct": "C",
+  "explanation": "Zgodnie z tekstem śmiertelność z powodu raka nabłonkowo-mioepitelialnego zazwyczaj wynosi 5-7%, ponieważ są to zwykle guzy o niskim lub pośrednim stopniu złośliwości."
+ },
+ {
+  "id": "t2-c038-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    92,
+    93
+   ]
+  },
+  "question": "Który z poniższych czynników NIE jest wymieniony jako niekorzystny rokowniczo w raku nabłonkowo-mioepitelialnym?",
+  "options": {
+   "A": "Obecność stref martwicy",
+   "B": "Płeć żeńska pacjenta",
+   "C": "Anaplazja komórek mioepitelialnych w odsetku >20%",
+   "D": "Wąskie lub nieradykalne marginesy wycięcia",
+   "E": "Duża wyjściowa masa guza"
+  },
+  "correct": "B",
+  "explanation": "Do niekorzystnych czynników rokowniczych zaliczono m.in. dużą masę guza, wąskie marginesy, anaplazję >20% i martwicę, natomiast płeć nie została wymieniona jako czynnik rokowniczy."
+ },
+ {
+  "id": "t2-c038-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    92,
+    93
+   ]
+  },
+  "question": "Jaki odsetek przypadków raka nabłonkowo-mioepitelialnego daje przerzuty do węzłów chłonnych?",
+  "options": {
+   "A": "50%",
+   "B": "5%",
+   "C": "2%",
+   "D": "30%",
+   "E": "15%"
+  },
+  "correct": "B",
+  "explanation": "Przerzuty do węzłów chłonnych występują w 5% przypadków raka nabłonkowo-mioepitelialnego, a przerzuty odległe ocenia się na 2% (najczęściej do płuc i nerek)."
+ },
+ {
+  "id": "t2-c039-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    94,
+    95
+   ]
+  },
+  "question": "Jaki jest 5-letni odsetek przeżyć u chorych z rakiem z gruczolaka wielopostaciowego (carcinoma ex pleomorphic adenoma), u których komponenta złośliwa to polimorficzny gruczolakorak?",
+  "options": {
+   "A": "62%",
+   "B": "50%",
+   "C": "16%",
+   "D": "96%",
+   "E": "30%"
+  },
+  "correct": "D",
+  "explanation": "Tekst podaje, że 5-letnie przeżycie jest najlepsze dla polimorficznego gruczolakoraka jako komponenty złośliwej i wynosi aż 96%, w porównaniu np. do 30% dla raka niezróżnicowanego."
+ },
+ {
+  "id": "t2-c039-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    94,
+    95
+   ]
+  },
+  "question": "Jak zmienia się 5-letnie przeżycie w carcinoma ex pleomorphic adenoma w zależności od obecności przerzutów do węzłów chłonnych?",
+  "options": {
+   "A": "Obecność przerzutów węzłowych nie ma znaczenia rokowniczego",
+   "B": "pN0: 25%, pN+: 53%",
+   "C": "pN0: 67%, pN+: 16%",
+   "D": "pN0: 98%, pN+: 65%",
+   "E": "pN0: 16%, pN+: 67%"
+  },
+  "correct": "C",
+  "explanation": "5-letnie przeżycie u pacjentów pN0 wynosi 67%, a w grupie chorych pN+ spada do 16%, co czyni obecność przerzutów węzłowych istotnym czynnikiem rokowniczym."
+ },
+ {
+  "id": "t2-c039-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    94,
+    95
+   ]
+  },
+  "question": "Z jakim genem fuzyjnym związany jest rak wydzielniczy (secretory carcinoma) gruczołów ślinowych?",
+  "options": {
+   "A": "TP53",
+   "B": "ETV6-NTRK3",
+   "C": "EWSR1",
+   "D": "MYB-NFIB",
+   "E": "PLAG1"
+  },
+  "correct": "B",
+  "explanation": "Rak wydzielniczy jest morfologicznie podobny do raka wydzielniczego sutka i cechuje się fuzją genu ETV6-NTRK3."
+ },
+ {
+  "id": "t2-c040-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    96,
+    97
+   ]
+  },
+  "question": "Z jakich dwóch komponentów zbudowany jest mięsakorak (carcinosarcoma) gruczołów ślinowych?",
+  "options": {
+   "A": "Wyłącznie komórki mioepitelialne",
+   "B": "Komponenta neuroendokrynna i płaskonabłonkowa",
+   "C": "Wyłącznie komórki podstawne",
+   "D": "Komponenta nabłonkowa i limfatyczna",
+   "E": "Komponenta rakowa i heterologiczna komponenta mięsakowa"
+  },
+  "correct": "E",
+  "explanation": "Mięsakorak jest dwuskładnikowym nowotworem złożonym z odmiennej komponenty rakowej i heterologicznej komponenty mięsakowej."
+ },
+ {
+  "id": "t2-c040-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    96,
+    97
+   ]
+  },
+  "question": "Która lokalizacja jest najczęstszym miejscem występowania mięsakoraka gruczołów ślinowych?",
+  "options": {
+   "A": "Podniebienie",
+   "B": "Język",
+   "C": "Ślinianka podjęzykowa",
+   "D": "Ślinianka podżuchwowa",
+   "E": "Przyusznica"
+  },
+  "correct": "E",
+  "explanation": "Najczęstszym miejscem występowania mięsakoraka jest przyusznica (66%), rzadziej ślinianka podżuchwowa (19%), a najrzadziej podniebienie (14%)."
+ },
+ {
+  "id": "t2-c040-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    96,
+    97
+   ]
+  },
+  "question": "Jakie utkanie histologiczne najczęściej przyjmuje komponenta mięsakowa mięsakoraka gruczołów ślinowych?",
+  "options": {
+   "A": "Mięsak Ewinga",
+   "B": "Mięsak prążkowanokomórkowy",
+   "C": "Chrzęstniakomięsak, mięsak kościopochodny lub włókniakomięsak",
+   "D": "Naczyniakomięsak",
+   "E": "Mięsak gładkokomórkowy"
+  },
+  "correct": "C",
+  "explanation": "Histologicznie komponenta mięsakowa najczęściej przyjmuje postać chrzęstniakomięsaka, mięsaka kościopochodnego lub włókniakomięsaka."
+ },
+ {
+  "id": "t2-c041-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    98,
+    99
+   ]
+  },
+  "question": "Który z poniższych czynników NIE jest wymieniony jako niekorzystny rokowniczo w raku drobnokomórkowym ślinianek?",
+  "options": {
+   "A": "Ekspresja wyłącznie 2-3 spośród 6 markerów neuroendokrynnych",
+   "B": "Płeć męska chorego",
+   "C": "Brak ekspresji CD20 w komórkach nowotworu",
+   "D": "Wielkość guza powyżej 3 cm",
+   "E": "Wiek chorego powyżej 60 lat"
+  },
+  "correct": "E",
+  "explanation": "Tekst wymienia jako czynniki niekorzystne wielkość guza >3 cm, brak ekspresji CD20 oraz ograniczoną ekspresję markerów neuroendokrynnych, natomiast wiek chorego nie jest tam wskazany."
+ },
+ {
+  "id": "t2-c041-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    98,
+    99
+   ]
+  },
+  "question": "Jaki jest typowy przebieg kliniczny raka wielkokomórkowego (large cell carcinoma) gruczołów ślinowych?",
+  "options": {
+   "A": "Powolny wzrost trwający wiele lat, bez owrzodzenia skóry",
+   "B": "Guz zawsze mniejszy niż 1 cm",
+   "C": "Wyłącznie bezobjawowy przebieg",
+   "D": "Szybko rosnący guz (mediana 3,5 miesiąca), wcześnie unieruchomiony i często z owrzodzeniem skóry",
+   "E": "Przebieg identyczny jak w gruczolaku wielopostaciowym"
+  },
+  "correct": "D",
+  "explanation": "Rak wielkokomórkowy manifestuje się szybko rosnącym guzem (mediana 3,5 miesiąca), który wcześnie staje się nieruchomy względem podłoża i skóry, a częstym objawem jest owrzodzenie skóry."
+ },
+ {
+  "id": "t2-c041-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    98,
+    99
+   ]
+  },
+  "question": "Z której ślinianki najczęściej wywodzi się rak wielkokomórkowy gruczołów ślinowych?",
+  "options": {
+   "A": "Ślinianka podjęzykowa",
+   "B": "Przyusznica",
+   "C": "Woreczek łzowy",
+   "D": "Gruczoł łzowy",
+   "E": "Drobne gruczoły ślinowe policzka"
+  },
+  "correct": "B",
+  "explanation": "Większość guzów o utkaniu raka wielkokomórkowego lokalizuje się w przyusznicy, a u 25-33% pacjentów guz wywodzi się ze ślinianki podżuchwowej."
+ },
+ {
+  "id": "t2-c042-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    100,
+    101
+   ]
+  },
+  "question": "Jaki warunek musi być spełniony, aby rozpoznać pierwotny rak płaskonabłonkowy (SCC) gruczołów ślinowych?",
+  "options": {
+   "A": "Lokalizacja wyłącznie w śliniance podjęzykowej",
+   "B": "Obecność owrzodzenia skóry nad guzem",
+   "C": "Obecność kamicy ślinowej w wywiadzie",
+   "D": "Wykluczenie przerzutu raka płaskonabłonkowego skóry",
+   "E": "Wiek chorego poniżej 30 lat"
+  },
+  "correct": "D",
+  "explanation": "Rozpoznanie pierwotnego SCC gruczołów ślinowych może zostać ustalone wyłącznie po wykluczeniu przerzutu raka płaskonabłonkowego skóry."
+ },
+ {
+  "id": "t2-c042-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    100,
+    101
+   ]
+  },
+  "question": "Jaka jest przewaga płci u chorych z pierwotnym rakiem płaskonabłonkowym gruczołów ślinowych?",
+  "options": {
+   "A": "Wyłącznie u mężczyzn",
+   "B": "Mężczyźni : kobiety 2:1",
+   "C": "Brak jakiejkolwiek predylekcji do płci",
+   "D": "Wyłącznie u kobiet",
+   "E": "Kobiety : mężczyźni 2:1"
+  },
+  "correct": "B",
+  "explanation": "Nowotwór wykazuje predylekcję do występowania u płci męskiej w stosunku 2:1."
+ },
+ {
+  "id": "t2-c042-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    100,
+    101
+   ]
+  },
+  "question": "Jaki czynnik etiologiczny wymieniono jako związany z rozwojem pierwotnego raka płaskonabłonkowego gruczołów ślinowych?",
+  "options": {
+   "A": "Ekspozycja na azbest",
+   "B": "Uraz mechaniczny okolicy przyusznej",
+   "C": "Zakażenie wirusem HPV",
+   "D": "Wieloletnia obturacja przewodów ślinowych lub kamica ślinowa",
+   "E": "Zakażenie EBV"
+  },
+  "correct": "D",
+  "explanation": "Pierwotny rak płaskonabłonkowy może rozwijać się na podłożu dysplazji i metaplazji nabłonka przewodów wyprowadzających u pacjentów z wieloletnim wywiadem obturacji przewodów ślinowych lub kamicy ślinowej."
+ },
+ {
+  "id": "t2-c043-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    102,
+    104
+   ]
+  },
+  "question": "Jaki odsetek pacjentów z rakiem koloidalnym (colloid carcinoma) gruczołów ślinowych ma przerzuty do węzłów chłonnych?",
+  "options": {
+   "A": "44%",
+   "B": "70%",
+   "C": "10%",
+   "D": "90%",
+   "E": "20%"
+  },
+  "correct": "A",
+  "explanation": "Rak koloidalny daje przerzuty do węzłów chłonnych u 44% pacjentów z tym rozpoznaniem."
+ },
+ {
+  "id": "t2-c043-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    102,
+    104
+   ]
+  },
+  "question": "Co odróżnia raka koloidalnego od torbielakogruczolakoraka śluzowego (mucinous cystadenocarcinoma)?",
+  "options": {
+   "A": "Rak koloidalny rozwija się wyłącznie w śliniance podjęzykowej",
+   "B": "Rak koloidalny występuje wyłącznie u dzieci",
+   "C": "Rak koloidalny nigdy nie daje przerzutów",
+   "D": "Rak koloidalny nie zawiera śluzu zewnątrzkomórkowego",
+   "E": "Rak koloidalny nie zawiera struktur torbielowatych na przekroju"
+  },
+  "correct": "E",
+  "explanation": "Raki koloidalne nie zawierają w przekroju struktur torbielowatych, co odróżnia je od torbielakogruczolakoraka śluzowego."
+ },
+ {
+  "id": "t2-c043-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    102,
+    104
+   ]
+  },
+  "question": "Jakie jest zalecane postępowanie terapeutyczne w raku koloidalnym gruczołów ślinowych?",
+  "options": {
+   "A": "Wyłącznie chemioterapia",
+   "B": "Leczenie skojarzone: chirurgia oraz radioterapia przed- lub pooperacyjna",
+   "C": "Wyłącznie radioterapia bez leczenia chirurgicznego",
+   "D": "Wyłącznie obserwacja bez leczenia",
+   "E": "Immunoterapia jako leczenie pierwszego rzutu"
+  },
+  "correct": "B",
+  "explanation": "Leczenie raka koloidalnego wymaga terapii skojarzonej: radykalnego leczenia chirurgicznego oraz radioterapii przed- lub pooperacyjnej."
+ },
+ {
+  "id": "t2-c044-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    105,
+    106
+   ]
+  },
+  "question": "Co jest ostatecznym potwierdzeniem centralnego (wewnątrzkostnego) charakteru nowotworu śliniankopochodnego?",
+  "options": {
+   "A": "Podwyższone stężenie markerów nowotworowych we krwi",
+   "B": "Destrukcja kości bez naruszenia kortykalnej kości zbitej w diagnostyce obrazowej, przy histopatologicznym potwierdzeniu materiału pobranego z wnętrza kości",
+   "C": "Wyłącznie wywiad rodzinny",
+   "D": "Obecność owrzodzenia błony śluzowej",
+   "E": "Wyłącznie badanie palpacyjne guza"
+  },
+  "correct": "B",
+  "explanation": "Ostatecznym potwierdzeniem centralnego charakteru nowotworu jest stwierdzenie destrukcji kości bez naruszenia kortykalnej kości zbitej w badaniach obrazowych, przy jednoznacznym rozpoznaniu histopatologicznym z materiału z wnętrza kości."
+ },
+ {
+  "id": "t2-c044-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    105,
+    106
+   ]
+  },
+  "question": "W której kości najczęściej lokalizują się wewnątrzkostne nowotwory śliniankopochodne?",
+  "options": {
+   "A": "Żuchwa",
+   "B": "Kość jarzmowa",
+   "C": "Kość podniebienna",
+   "D": "Kość skroniowa",
+   "E": "Szczęka"
+  },
+  "correct": "A",
+  "explanation": "Wewnątrzkostne nowotwory śliniankopochodne w 75% przypadków lokalizują się w żuchwie, najczęściej w dystalnej części trzonu oraz kącie."
+ },
+ {
+  "id": "t2-c044-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    105,
+    106
+   ]
+  },
+  "question": "Jaki jest zwykle przebieg kliniczny centralnych nowotworów gruczołów ślinowych we wczesnym okresie?",
+  "options": {
+   "A": "Zawsze obustronne rozdęcie żuchwy od początku",
+   "B": "Natychmiastowe porażenie nerwu twarzowego",
+   "C": "Długi okres całkowicie bezobjawowego rozwoju",
+   "D": "Silny ból od samego początku choroby",
+   "E": "Gwałtowne krwawienie z dziąsła jako pierwszy objaw"
+  },
+  "correct": "C",
+  "explanation": "Centralne nowotwory gruczołów ślinowych przez długi czas rozwijają się całkowicie bezobjawowo i bywają rozpoznawane przypadkowo w badaniach radiologicznych."
+ },
+ {
+  "id": "t2-c045-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    107,
+    108
+   ]
+  },
+  "question": "Z jakiego pierwotnego nowotworu najczęściej pochodzą przerzuty do dużych gruczołów ślinowych?",
+  "options": {
+   "A": "Czerniaka błony śluzowej",
+   "B": "Raka jasnokomórkowego nerki",
+   "C": "Raka gruczołu krokowego",
+   "D": "Raka piersi",
+   "E": "Raka płaskonabłonkowego skóry"
+  },
+  "correct": "E",
+  "explanation": "W 60% przypadków przerzuty do dużych gruczołów ślinowych pochodzą z raka płaskonabłonkowego skóry, a u 14,5% pacjentów z czerniaka skóry."
+ },
+ {
+  "id": "t2-c045-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    107,
+    108
+   ]
+  },
+  "question": "Jaki odsetek przerzutów do ślinianki podżuchwowej pochodzi z ognisk pierwotnych zlokalizowanych poniżej obojczyków?",
+  "options": {
+   "A": "100%",
+   "B": "37%",
+   "C": "15%",
+   "D": "60%",
+   "E": "85%"
+  },
+  "correct": "E",
+  "explanation": "W przypadku zmian przerzutowych w śliniance podżuchwowej w 85% przypadków odpowiedzialne są za nie ogniska pierwotne rozwijające się poniżej obojczyków (sutek, nerka, płuco)."
+ },
+ {
+  "id": "t2-c045-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    107,
+    108
+   ]
+  },
+  "question": "Jakie jest zalecane leczenie przerzutów do dużych gruczołów ślinowych?",
+  "options": {
+   "A": "Wyłącznie chemioterapia systemowa",
+   "B": "Usunięcie guza w granicach zdrowych tkanek",
+   "C": "Wyłączna obserwacja bez interwencji",
+   "D": "Wyłyżeczkowanie bez marginesu",
+   "E": "Wyłącznie radioterapia paliatywna"
+  },
+  "correct": "B",
+  "explanation": "Leczenie przerzutów do dużych gruczołów ślinowych polega na usunięciu guza w granicach zdrowych tkanek."
+ },
+ {
+  "id": "t2-c046-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    109,
+    110
+   ]
+  },
+  "question": "Jaki jest odsetek dolegliwości bólowych u pacjentów ze złośliwymi nowotworami gruczołu łzowego, w porównaniu do nowotworów łagodnych?",
+  "options": {
+   "A": "Złośliwe i łagodne: po 50%",
+   "B": "Złośliwe: 100%, łagodne: 0%",
+   "C": "Złośliwe: 75%, łagodne: 15%",
+   "D": "Ból nie występuje w żadnej z grup",
+   "E": "Złośliwe: 15%, łagodne: 85%"
+  },
+  "correct": "C",
+  "explanation": "Nowotwory łagodne gruczołu łzowego często przebiegają bezobjawowo (85%), a ból występuje tylko w 15% przypadków, natomiast w nowotworach złośliwych ból pojawia się u 75% pacjentów."
+ },
+ {
+  "id": "t2-c046-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    109,
+    110
+   ]
+  },
+  "question": "Który typ histopatologiczny guza gruczołu łzowego opisany w tekście występuje u najmłodszych pacjentów (średni wiek)?",
+  "options": {
+   "A": "Rak gruczołowato-torbielowaty (śr. 39,5 roku)",
+   "B": "Gruczolakorak (śr. 60 lat)",
+   "C": "Wszystkie występują w tym samym wieku",
+   "D": "Guz mieszany (śr. 40,8 roku)",
+   "E": "Carcinoma ex pleomorphic adenoma (śr. 53 lata)"
+  },
+  "correct": "A",
+  "explanation": "Średni wiek pacjentów z rozpoznanym rakiem gruczołowato-torbielowatym gruczołu łzowego wynosi 39,5 roku – najmniej spośród wymienionych typów."
+ },
+ {
+  "id": "t2-c046-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    109,
+    110
+   ]
+  },
+  "question": "Który nowotwór gruczołów ślinowych nie został dotychczas dobrze udokumentowany w obrębie gruczołu łzowego?",
+  "options": {
+   "A": "Guz mieszany",
+   "B": "Carcinoma ex pleomorphic adenoma",
+   "C": "Guz Warthina",
+   "D": "Gruczolakorak",
+   "E": "Rak gruczołowato-torbielowaty"
+  },
+  "correct": "C",
+  "explanation": "Utkanie histopatologiczne guzów gruczołu łzowego jest zbliżone do nowotworów ślinianek z wyjątkiem guza Warthina, który nie jest tam dobrze udokumentowany."
+ },
+ {
+  "id": "t2-c047-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    111,
+    112
+   ]
+  },
+  "question": "Jaki jest najczęstszy łagodny nabłonkowy nowotwór woreczka łzowego?",
+  "options": {
+   "A": "Brodawczak",
+   "B": "Chłoniak",
+   "C": "Guz mieszany",
+   "D": "Benign fibrous histiocytoma",
+   "E": "Gruczolak kwasochłonny (oncocytoma)"
+  },
+  "correct": "A",
+  "explanation": "Nabłonkowe nowotwory łagodne woreczka łzowego są w 24-28% reprezentowane przez brodawczaki (egzofityczne, odwrócone i mieszane) i są najczęstsze w tej grupie."
+ },
+ {
+  "id": "t2-c047-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    111,
+    112
+   ]
+  },
+  "question": "Jaka jest śmiertelność u chorych leczonych z powodu raka z nabłonka przejściowego (transitional cell carcinoma) woreczka łzowego?",
+  "options": {
+   "A": "100%",
+   "B": "50%",
+   "C": "66,6%",
+   "D": "13,6%",
+   "E": "37,5%"
+  },
+  "correct": "A",
+  "explanation": "Śmiertelność wynosi odpowiednio 50% dla raka płaskonabłonkowego, 66,6% dla gruczolakoraka i 100% dla raka z nabłonka przejściowego."
+ },
+ {
+  "id": "t2-c047-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    111,
+    112
+   ]
+  },
+  "question": "Jakie jest standardowe leczenie złośliwych guzów nabłonkowych woreczka łzowego?",
+  "options": {
+   "A": "Wyłączna chemioterapia",
+   "B": "Immunoterapia jako leczenie pierwszego rzutu",
+   "C": "Wyłączna radioterapia bez leczenia chirurgicznego",
+   "D": "Szerokie usunięcie ogniska pierwotnego z dostępu poprzez rynotomię boczną, uzupełnione radioterapią adjuwantową (poza low-grade mucoepidermoid carcinoma)",
+   "E": "Wyłączna obserwacja"
+  },
+  "correct": "D",
+  "explanation": "Leczenie polega na szerokim usunięciu ogniska pierwotnego z dostępu poprzez rynotomię boczną, obligatoryjnie uzupełnionym radioterapią adjuwantową, z wyjątkiem mucoepidermoid carcinoma low-grade po radykalnym usunięciu."
+ },
+ {
+  "id": "t2-c048-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    113,
+    114
+   ]
+  },
+  "question": "Jakie jest ryzyko zezłośliwienia (transformacji nowotworowej) w przypadku severe dysplasia (dysplazji znacznie nasilonej) w zaburzeniach potencjalnie złośliwych jamy ustnej (OPMD)?",
+  "options": {
+   "A": "85%",
+   "B": "Ryzyko jest zerowe",
+   "C": "6%",
+   "D": "18%",
+   "E": "39%"
+  },
+  "correct": "E",
+  "explanation": "Ryzyko zezłośliwienia wzrasta wraz ze stopniem dysplazji: od 6% dla mild dysplasia, poprzez 18% dla moderate dysplasia, do 39% w severe dysplasia."
+ },
+ {
+  "id": "t2-c048-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    113,
+    114
+   ]
+  },
+  "question": "W systemie binarnym oceny dysplazji, ile razy wyższe jest ryzyko zezłośliwienia w high-grade dysplasia w porównaniu do low-grade dysplasia?",
+  "options": {
+   "A": "10 razy",
+   "B": "1,5 raza",
+   "C": "5 razy",
+   "D": "Ryzyko jest identyczne w obu grupach",
+   "E": "2,76 raza"
+  },
+  "correct": "E",
+  "explanation": "Wiadomo, że ryzyko zezłośliwienia w high-grade dysplasia jest 2,76 raza wyższe niż w low-grade dysplasia w systemie binarnym."
+ },
+ {
+  "id": "t2-c048-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    113,
+    114
+   ]
+  },
+  "question": "Czym jest carcinoma in situ (CIS) według obecnej klasyfikacji dysplazji nabłonka jamy ustnej?",
+  "options": {
+   "A": "Odrębną, dodatkową kategorią obok dysplazji",
+   "B": "Postacią raka inwazyjnego",
+   "C": "Synonimem mild dysplasia",
+   "D": "Synonimem znacznie nasilonej dysplazji (severe dysplasia)",
+   "E": "Terminem wycofanym bez odpowiednika w nowej klasyfikacji"
+  },
+  "correct": "D",
+  "explanation": "Według obecnej klasyfikacji CIS jest synonimem znacznie nasilonej dysplazji (severe dysplasia), podczas gdy w klasyfikacji WHO z 2005 roku był wyodrębniony jako osobna kategoria."
+ }
+]
