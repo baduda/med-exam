@@ -33,6 +33,32 @@ API key). Work is resumable via `data/state.json` (`generated` flag per chunk).
   under `data/questions/` are gitignored).
 - v1 target ~300 questions; expand later by generating from remaining chunks.
 
+## Extra styles (wave 4+): combined and clinical questions
+
+Two additional question styles enrich the bank. Both stay single-select (one
+letter A–E correct) and use the SAME schema, plus an optional `"type"` field.
+
+### combined  (`"type": "combined"`)
+Numbered statements embedded in `question`, options are combinations. Example:
+```
+"question": "Wskaż prawdziwe stwierdzenia dotyczące kostniwiaka (cementoblastoma):\n1. Rozwija się głównie przed 30. r.ż.\n2. Najczęściej dotyczy górnych siekaczy.\n3. Pierwszym objawem jest zwykle ból zęba.\n4. Jest ściśle związany z korzeniem zęba.",
+"options": {"A":"tylko 1 i 2","B":"tylko 1, 3 i 4","C":"tylko 2 i 4","D":"wszystkie prawidłowe","E":"żadna z powyższych"},
+"correct": "B"
+```
+CRITICAL: craft the four statements and the five combination-options so that
+**exactly one** option correctly names all-and-only the true statements. Double-
+check which statements are true against the chunk before choosing `correct`.
+
+### clinical  (`"type": "clinical"`)
+A short patient vignette, then a decision. Example:
+```
+"question": "Do gabinetu zgłasza się 10-letni pacjent 40 minut po urazie z całkowicie wybitym stałym zębem siecznym; ząb przyniesiono w mleku. Jakie postępowanie jest właściwe?",
+"options": {"A":"…","B":"…","C":"…","D":"…","E":"…"}, "correct":"C"
+```
+Ground the vignette + correct management strictly in the chunk's content.
+
+Both: still Polish, 5 options A–E similar length, one correct, real `source.pages`.
+
 ## Schema (validated by pipeline/schema.py)
 ```json
 { "id": "t2-c016-001",

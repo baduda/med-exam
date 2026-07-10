@@ -75,7 +75,12 @@ button:active { transform: translateY(1px); }
 .bar { height: 7px; background: var(--line); border-radius: 999px; overflow: hidden; margin: .2rem 0 .5rem; }
 #bar-fill { height: 100%; width: 0; background: linear-gradient(90deg, var(--accent), #37c9b8); transition: width .3s ease; }
 
-#question { font-size: 1.16rem; font-weight: 650; margin: .1rem 0 1rem; }
+#question { font-size: 1.16rem; font-weight: 650; margin: .1rem 0 1rem; white-space: pre-line; }
+.badge {
+  display: inline-block; font-size: .72rem; font-weight: 700; letter-spacing: .03em;
+  text-transform: uppercase; color: var(--accent); background: var(--accent-soft);
+  border: 1px solid var(--accent); border-radius: 999px; padding: .12rem .55rem; margin-bottom: .6rem;
+}
 
 #options { list-style: none; padding: 0; margin: 0; }
 #options li {

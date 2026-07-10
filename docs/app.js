@@ -47,6 +47,9 @@ function renderQuestion() {
   const q = queue[idx];
   el("bar-fill").style.width = `${(idx / queue.length) * 100}%`;
   el("progress").textContent = `Pytanie ${idx + 1} z ${queue.length}`;
+  const badge = { combined: "Zestaw twierdzeń", clinical: "Przypadek kliniczny" }[q.type];
+  el("qtype").textContent = badge || "";
+  el("qtype").hidden = !badge;
   el("question").textContent = q.question;
   el("options").innerHTML = "";
   for (const k of LETTERS) {
@@ -76,6 +79,8 @@ function choose(q, k, li) {
     el("source").hidden = false;
   }
   el("next-btn").hidden = false;
+  // reveal explanation + Dalej without manual scrolling (esp. on mobile)
+  el("next-btn").scrollIntoView({ behavior: "smooth", block: "center" });
 
   const s = loadProgress();
   s.answered = answered;

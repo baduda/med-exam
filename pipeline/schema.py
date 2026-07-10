@@ -1,6 +1,7 @@
 """Question schema and validation for the med-exam MCQ bank."""
 
 OPTION_KEYS = ("A", "B", "C", "D", "E")
+QUESTION_TYPES = ("single", "combined", "clinical")
 
 
 def _nonempty(v) -> bool:
@@ -18,6 +19,9 @@ def validate_question(q: dict) -> list[str]:
     # `topic` is optional (no topic filter in the UI); if present it must be a string.
     if "topic" in q and not isinstance(q["topic"], str):
         errors.append("topic: must be a string when present")
+    # `type` is optional; absent means a standard single-best question.
+    if "type" in q and q["type"] not in QUESTION_TYPES:
+        errors.append(f"type: must be one of {QUESTION_TYPES} when present")
     opts = q.get("options")
     if not isinstance(opts, dict) or tuple(sorted(opts)) != OPTION_KEYS:
         errors.append("options: must be exactly keys A-E")
