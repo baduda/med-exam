@@ -2638,5 +2638,3005 @@
   },
   "correct": "D",
   "explanation": "Według obecnej klasyfikacji CIS jest synonimem znacznie nasilonej dysplazji (severe dysplasia), podczas gdy w klasyfikacji WHO z 2005 roku był wyodrębniony jako osobna kategoria."
+ },
+ {
+  "id": "t2-c049-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    115,
+    116
+   ]
+  },
+  "question": "Jaka substancja jest najczęściej stosowana jako czynnik kriogeniczny w kriodestrukcji leukoplakii?",
+  "options": {
+   "A": "Podtlenek azotu",
+   "B": "Ciekły azot",
+   "C": "Dwutlenek węgla w postaci suchego lodu",
+   "D": "Ciekły hel",
+   "E": "Ciekły tlen"
+  },
+  "correct": "B",
+  "explanation": "W kriodestrukcji stosuje się najczęściej ciekły azot, który wrze w temperaturze minus 196°C i powoduje powstawanie kryształów lodu rozrywających komórki."
+ },
+ {
+  "id": "t2-c049-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    115,
+    116
+   ]
+  },
+  "question": "Dlaczego obecnie odchodzi się od kriodestrukcji w leczeniu OPMD (potencjalnie złośliwych zaburzeń błony śluzowej)?",
+  "options": {
+   "A": "Ponieważ metoda wymaga wielokrotnego znieczulenia dotkankowego",
+   "B": "Ze względu na wysoki koszt zabiegu",
+   "C": "Z powodu braku możliwości przewidzenia objętości niszczonej tkanki i częstych nawrotów",
+   "D": "Ze względu na konieczność znieczulenia ogólnego",
+   "E": "Z powodu długiego czasu gojenia przekraczającego 6 miesięcy"
+  },
+  "correct": "C",
+  "explanation": "Mimo skuteczności dwóch cykli zamrażania, nie można przewidzieć objętości tkanki ulegającej destrukcji, co prowadzi do częstych nawrotów zmian."
+ },
+ {
+  "id": "t2-c049-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    115,
+    116
+   ]
+  },
+  "question": "Która cecha jest charakterystyczna dla leukoplakii brodawkowatej proliferującej (PVL)?",
+  "options": {
+   "A": "Występuje niemal wyłącznie u młodych mężczyzn",
+   "B": "Dotyczy wyłącznie błony śluzowej podniebienia twardego",
+   "C": "Nie wykazuje żadnego ryzyka zezłośliwienia",
+   "D": "Ma charakter postępujący i często wieloogniskowy, głównie u kobiet po 60. r.ż.",
+   "E": "Zawsze ustępuje samoistnie bez leczenia"
+  },
+  "correct": "D",
+  "explanation": "PVL ma charakter postępujący, występuje zwykle wielomiejscowo, dotyczy głównie osób po 60. roku życia, 4 razy częściej kobiet, a ryzyko zezłośliwienia sięga 70%."
+ },
+ {
+  "id": "t2-c050-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    117,
+    118
+   ]
+  },
+  "question": "Jakie postępowanie jest zalecane w erytroplakii po wykluczeniu transformacji złośliwej w badaniu wycinka próbnego?",
+  "options": {
+   "A": "Kriodestrukcja jako metoda z wyboru",
+   "B": "Wycięcie zmiany w całości (biopsja wycięciowa) z badaniem histopatologicznym",
+   "C": "Obserwacja bez dalszego leczenia",
+   "D": "Wyłącznie miejscowa steroidoterapia",
+   "E": "Radioterapia paliatywna"
+  },
+  "correct": "B",
+  "explanation": "Przy braku transformacji złośliwej zaleca się wycięcie zmiany w całości i jej pełne badanie histopatologiczne."
+ },
+ {
+  "id": "t2-c050-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    117,
+    118
+   ]
+  },
+  "question": "Które stwierdzenie dotyczące liszaja płaskiego błony śluzowej jamy ustnej jest prawdziwe?",
+  "options": {
+   "A": "Nigdy nie wiąże się z ryzykiem transformacji złośliwej",
+   "B": "Ma charakterystyczne cechy histopatologiczne i częściej dotyczy kobiet",
+   "C": "Jest schorzeniem wyłącznie klinicznym, bez cech histopatologicznych",
+   "D": "Zawsze towarzyszy mu zajęcie skóry",
+   "E": "Występuje częściej u mężczyzn niż u kobiet"
+  },
+  "correct": "B",
+  "explanation": "Liszaj płaski występuje dwa razy częściej u kobiet i ma charakterystyczny obraz histopatologiczny (naciek limfocytarny, ciałka koloidowe), w przeciwieństwie do leukoplakii i erytroplakii."
+ },
+ {
+  "id": "t2-c050-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    117,
+    118
+   ]
+  },
+  "question": "Z czym najczęściej wiążą się zmiany lichenoidne błony śluzowej jamy ustnej?",
+  "options": {
+   "A": "Wyłącznie z idiopatycznym procesem autoimmunologicznym",
+   "B": "Z reakcją kontaktową na amalgamat lub reakcją polekową",
+   "C": "Zawsze z niedoborem żelaza",
+   "D": "Z ekspozycją na promieniowanie słoneczne",
+   "E": "Wyłącznie z infekcją wirusem HIV"
+  },
+  "correct": "B",
+  "explanation": "Zmiany lichenoidne nie mają charakteru idiopatycznego i zwykle wiążą się z reakcją kontaktową na amalgamat lub reakcją polekową na wiele leków."
+ },
+ {
+  "id": "t2-c051-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    119,
+    120
+   ]
+  },
+  "question": "Z żuciem jakich substancji najczęściej wiąże się rozwój włóknienia podśluzowego jamy ustnej?",
+  "options": {
+   "A": "Liści koki",
+   "B": "Korzenia lukrecji",
+   "C": "Tytoniu do żucia typu snus",
+   "D": "Gumy do żucia z nikotyną",
+   "E": "Orzechów areka lub liści betelu"
+  },
+  "correct": "E",
+  "explanation": "Włóknienie podśluzowe jest związane z żuciem orzechów areka (owoce palmy kateszowej) lub betelu, występuje endemicznie m.in. w Indiach."
+ },
+ {
+  "id": "t2-c051-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    119,
+    120
+   ]
+  },
+  "question": "Jakie jest szacowane ryzyko zezłośliwienia w przebiegu rogowacenia słonecznego warg?",
+  "options": {
+   "A": "Ryzyko jest zerowe",
+   "B": "Około 70%",
+   "C": "Około 1%",
+   "D": "Około 50%",
+   "E": "Około 10%"
+  },
+  "correct": "E",
+  "explanation": "Ryzyko zezłośliwienia w rogowaceniu słonecznym warg wynosi około 10%."
+ },
+ {
+  "id": "t2-c051-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    119,
+    120
+   ]
+  },
+  "question": "Jakie jest typowe połączenie objawów w zespole Plummera-Vinsona?",
+  "options": {
+   "A": "Nadciśnienie tętnicze i bóle głowy",
+   "B": "Nadczynność tarczycy i wytrzeszcz gałek ocznych",
+   "C": "Niedobór witaminy B12 i zaburzenia czucia głębokiego",
+   "D": "Niedokrwistość z niedoboru żelaza i dysfagia spowodowana skurczem przełyku",
+   "E": "Cukrzyca i polineuropatia obwodowa"
+  },
+  "correct": "D",
+  "explanation": "Zespół Plummera-Vinsona to współwystępowanie niedokrwistości z niedoboru żelaza z dysfagią wywołaną skurczem przełyku w okolicy zapierściennej."
+ },
+ {
+  "id": "t2-c052-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    121,
+    122
+   ]
+  },
+  "question": "Zgodnie z klasyfikacją ATLS, jaka utrata objętości krwi krążącej charakteryzuje wstrząs hipowolemiczny stopnia III?",
+  "options": {
+   "A": "15-30%",
+   "B": "30-40%",
+   "C": "Poniżej 15%",
+   "D": "Powyżej 40%",
+   "E": "Dokładnie 50%"
+  },
+  "correct": "B",
+  "explanation": "Według tabeli ATLS wstrząs stopnia III odpowiada utracie 30-40% objętości krwi krążącej, z obniżonym ciśnieniem skurczowym."
+ },
+ {
+  "id": "t2-c052-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    121,
+    122
+   ]
+  },
+  "question": "Który z wymienionych markerów NIE jest rutynowo oznaczany u dawcy krwi przed jej pobraniem do przetoczeń?",
+  "options": {
+   "A": "Przeciwciała anty-HCV",
+   "B": "Stężenie prokalcytoniny",
+   "C": "Odczyny kiłowe",
+   "D": "Antygen HBs",
+   "E": "Przeciwciała anty-HIV-1 i anty-HIV-2"
+  },
+  "correct": "B",
+  "explanation": "Rutynowo u dawcy oznacza się przeciwciała anty-HIV, anty-HCV, antygen HBs, DNA HBV, RNA HIV/HCV oraz odczyny kiłowe; prokalcytonina nie jest badaniem standardowym w kwalifikacji dawcy."
+ },
+ {
+  "id": "t2-c052-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    121,
+    122
+   ]
+  },
+  "question": "Ile godzin powinna trwać obserwacja pacjenta od rozpoczęcia transfuzji krwi lub jej składników?",
+  "options": {
+   "A": "Do 12 godzin",
+   "B": "Do 48 godzin",
+   "C": "Do 4 godzin",
+   "D": "Do 1 godziny",
+   "E": "Do 24 godzin"
+  },
+  "correct": "A",
+  "explanation": "Obserwacja pacjenta powinna trwać do 12 godzin od rozpoczęcia transfuzji, z pomiarami parametrów po pierwszych 15 minutach."
+ },
+ {
+  "id": "t2-c053-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    123,
+    124
+   ]
+  },
+  "question": "Jakie badania należy wykonać u każdego pacjenta przed przetoczeniem krwi zgodnie z opisaną procedurą?",
+  "options": {
+   "A": "Określenie grupy krwi ABO i RhD oraz oznaczenie przeciwciał odpornościowych",
+   "B": "Koagulogram i lipidogram",
+   "C": "Wyłącznie morfologię krwi obwodowej",
+   "D": "Wyłącznie próbę tolerancji glukozy",
+   "E": "Wyłącznie oznaczenie poziomu żelaza"
+  },
+  "correct": "A",
+  "explanation": "Przed przetoczeniem u każdego pacjenta należy określić grupę krwi ABO i RhD oraz oznaczyć obecność przeciwciał odpornościowych."
+ },
+ {
+  "id": "t2-c053-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    123,
+    124
+   ]
+  },
+  "question": "Dlaczego dziewczynkom i kobietom w okresie prokreacyjnym nie należy przetaczać krwinek zawierających antygen K układu Kell?",
+  "options": {
+   "A": "Aby zapobiec konfliktowi serologicznemu",
+   "B": "Ponieważ zwiększa ryzyko zakażenia wirusowego",
+   "C": "Ponieważ przyspiesza krzepnięcie krwi",
+   "D": "Ze względu na ryzyko hipotermii",
+   "E": "Ponieważ antygen K powoduje wyłącznie reakcje skórne"
+  },
+  "correct": "A",
+  "explanation": "Unikanie przetaczania antygenu K układu Kell dziewczynkom i kobietom przed menopauzą ma zapobiec konfliktowi serologicznemu w ewentualnej przyszłej ciąży."
+ },
+ {
+  "id": "t2-c053-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    123,
+    124
+   ]
+  },
+  "question": "W ciągu ilu minut od dostarczenia na oddział należy rozpocząć przetaczanie krwi lub KKCz (z wyjątkiem KKP i osocza)?",
+  "options": {
+   "A": "Do 60 minut",
+   "B": "Do 10 minut",
+   "C": "Do 120 minut",
+   "D": "Do 30 minut",
+   "E": "Bez ograniczenia czasowego"
+  },
+  "correct": "D",
+  "explanation": "Przetaczanie krwi lub jej składników (poza KKP i osoczem) należy rozpocząć maksymalnie do 30 minut od ich dostarczenia."
+ },
+ {
+  "id": "t2-c054-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    125,
+    126
+   ]
+  },
+  "question": "Jaką grupę krwi KKCz dobiera się w sytuacji pilnego przetoczenia bez możliwości oznaczenia grupy krwi u kobiety przed menopauzą?",
+  "options": {
+   "A": "KKCz grupy AB",
+   "B": "KKCz grupy A RhD+",
+   "C": "KKCz grupy 0 RhD-",
+   "D": "Dowolną dostępną grupę krwi",
+   "E": "KKCz grupy B RhD+"
+  },
+  "correct": "C",
+  "explanation": "W braku czasu na oznaczenie grupy krwi kobiecie przed menopauzą przetacza się KKCz grupy 0 RhD-, aby zminimalizować ryzyko immunizacji."
+ },
+ {
+  "id": "t2-c054-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    125,
+    126
+   ]
+  },
+  "question": "Który z warunków wymaga zastosowania specjalnego urządzenia do ogrzewania krwi przed przetoczeniem u osoby dorosłej?",
+  "options": {
+   "A": "Szybkość przetoczenia powyżej 10 ml/min",
+   "B": "Przetoczenie mniej niż 1 jednostki krwi",
+   "C": "Każde przetoczenie trwające dłużej niż 2 godziny",
+   "D": "Szybkość przetoczenia powyżej 50 ml/min",
+   "E": "Przetoczenie osocza w dowolnej ilości"
+  },
+  "correct": "D",
+  "explanation": "Ogrzewanie krwi jest wskazane u dorosłych, jeżeli konieczna szybkość przetoczenia przekracza 50 ml/min."
+ },
+ {
+  "id": "t2-c054-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    125,
+    126
+   ]
+  },
+  "question": "Które z poniższych jest jedynym uznawanym obecnie wskazaniem do przetoczenia krwi pełnej konserwowanej (KPK)?",
+  "options": {
+   "A": "Jednoczesny niedobór erytrocytów i hipowolemia przy braku KKCz i środków krwiozastępczych",
+   "B": "Leukopenia bez objawów infekcji",
+   "C": "Rutynowe uzupełnienie objętości krwi krążącej",
+   "D": "Niedobór czynników krzepnięcia bez krwawienia",
+   "E": "Izolowana małopłytkowość"
+  },
+  "correct": "A",
+  "explanation": "KPK ma obecnie bardzo ograniczone zastosowanie - jedynym wskazaniem jest jednoczesny niedobór erytrocytów i znaczna hipowolemia przy braku dostępu do KKCz i środków krwiozastępczych."
+ },
+ {
+  "id": "t2-c055-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    127,
+    128
+   ]
+  },
+  "question": "Poniżej jakiego stężenia hemoglobiny znacząco wzrasta ryzyko śmiertelności związane z niedokrwistością?",
+  "options": {
+   "A": "Poniżej 6 g/dl",
+   "B": "Poniżej 8 g/dl",
+   "C": "Poniżej 9 g/dl",
+   "D": "Poniżej 7 g/dl",
+   "E": "Poniżej 10 g/dl"
+  },
+  "correct": "D",
+  "explanation": "Stężenie hemoglobiny poniżej 7 g/dl istotnie zwiększa ryzyko śmiertelności i zwykle wymaga przetoczenia KKCz."
+ },
+ {
+  "id": "t2-c055-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    127,
+    128
+   ]
+  },
+  "question": "W jakim stosunku należy przetaczać krwinki czerwone, płytki krwi i osocze w przypadku poważnego, niekontrolowanego krwotoku?",
+  "options": {
+   "A": "1:2:3",
+   "B": "2:1:0,5",
+   "C": "3:1:1",
+   "D": "1:1:1",
+   "E": "5:1:1"
+  },
+  "correct": "D",
+  "explanation": "W ostrej fazie masywnego krwotoku zaleca się jednoczesne przetaczanie krwinek czerwonych, płytek krwi i osocza w stosunku 1:1:1."
+ },
+ {
+  "id": "t2-c055-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    127,
+    128
+   ]
+  },
+  "question": "U pacjenta z chorobą nowotworową i niedokrwistością chorób przewlekłych, przy jakim stężeniu Hb należy rozważyć wdrożenie leczenia?",
+  "options": {
+   "A": "Leczenie wdraża się niezależnie od stężenia Hb i objawów",
+   "B": "Dopiero przy Hb poniżej 3 g/dl",
+   "C": "Dopiero po wystąpieniu krwawienia czynnego",
+   "D": "Wyłącznie poniżej 5 g/dl",
+   "E": "Poniżej 9-10 g/dl, przy pojawieniu się objawów"
+  },
+  "correct": "E",
+  "explanation": "U pacjentów onkologicznych z niedokrwistością chorób przewlekłych leczenie należy wdrożyć przy pojawieniu się objawów, gdy Hb jest poniżej 9, a nawet poniżej 10 g/dl."
+ },
+ {
+  "id": "t2-c056-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    129,
+    130
+   ]
+  },
+  "question": "Jaką grupę krwi KKCz przetacza się w wyjątkowych sytuacjach mężczyznom bez wcześniejszego wykonania próby zgodności?",
+  "options": {
+   "A": "KKCz grupy A RhD-",
+   "B": "KKCz grupy AB",
+   "C": "KKCz grupy 0",
+   "D": "Wyłącznie krew autologiczną",
+   "E": "KKCz grupy B RhD+"
+  },
+  "correct": "C",
+  "explanation": "W wyjątkowych sytuacjach mężczyznom przetacza się KKCz grupy 0, natomiast kobietom w wieku prokreacyjnym KKCz grupy 0 RhD-, Kell ujemny."
+ },
+ {
+  "id": "t2-c056-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    129,
+    130
+   ]
+  },
+  "question": "Jaki jest cel stosowania ubogoleukocytarnego koncentratu krwinek czerwonych (UKKCz)?",
+  "options": {
+   "A": "Zwiększenie ryzyka alloimmunizacji antygenami HLA",
+   "B": "Wydłużenie terminu ważności preparatu do 60 dni",
+   "C": "Poprawa krzepliwości krwi biorcy",
+   "D": "Zmniejszenie ryzyka alloimmunizacji HLA i zakażenia wirusem cytomegalii",
+   "E": "Zwiększenie zawartości osocza w preparacie"
+  },
+  "correct": "D",
+  "explanation": "Usunięcie leukocytów z KKCz zmniejsza ryzyko alloimmunizacji antygenami HLA oraz ryzyko przeniesienia zakażenia wirusem cytomegalii (CMV)."
+ },
+ {
+  "id": "t2-c056-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    129,
+    130
+   ]
+  },
+  "question": "W jakiej temperaturze przechowuje się mrożony koncentrat krwinek czerwonych?",
+  "options": {
+   "A": "0 do 4°C",
+   "B": "-60 do -80°C",
+   "C": "-18 do -25°C",
+   "D": "Temperatura pokojowa",
+   "E": "2-6°C"
+  },
+  "correct": "B",
+  "explanation": "Mrożony koncentrat krwinek czerwonych przechowywany jest w temperaturze od -60 do -80°C i przed użyciem musi zostać rozmrożony i przemyty."
+ },
+ {
+  "id": "t2-c057-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    131,
+    132
+   ]
+  },
+  "question": "Jaki poziom płytek krwi zaleca się utrzymywać u pacjentów przed zabiegami w obrębie OUN lub siatkówki, ze względu na krytyczne znaczenie hemostazy?",
+  "options": {
+   "A": "Co najmniej 200 tys./µl",
+   "B": "Co najmniej 50 tys./µl",
+   "C": "Co najmniej 20 tys./µl",
+   "D": "Co najmniej 100 tys./µl",
+   "E": "Wystarczy dowolna wykrywalna liczba płytek"
+  },
+  "correct": "D",
+  "explanation": "W zabiegach w obrębie OUN lub siatkówki, gdzie hemostaza jest krytyczna, dąży się do utrzymania liczby płytek krwi na poziomie co najmniej 100 tys./µl."
+ },
+ {
+  "id": "t2-c057-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    131,
+    132
+   ]
+  },
+  "question": "Jaki wzrost liczby płytek krwi po transfuzji KKP jest uznawany za korzystny efekt leczenia?",
+  "options": {
+   "A": "40%",
+   "B": "90%",
+   "C": "10%",
+   "D": "70%",
+   "E": "20%"
+  },
+  "correct": "A",
+  "explanation": "Za korzystny efekt transfuzji KKP uznaje się 40% wzrost liczby płytek krwi (bezwzględny wzrost płytek, API)."
+ },
+ {
+  "id": "t2-c057-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    131,
+    132
+   ]
+  },
+  "question": "Jaką grupę FFP można przetoczyć biorcy, gdy jego grupa krwi jest nieznana?",
+  "options": {
+   "A": "Grupy B",
+   "B": "Grupy 0",
+   "C": "Nie można przetoczyć FFP bez znajomości grupy krwi biorcy",
+   "D": "Grupy AB",
+   "E": "Grupy A"
+  },
+  "correct": "D",
+  "explanation": "W przypadku nieznanej grupy krwi biorcy dopuszcza się przetoczenie osocza świeżo mrożonego (FFP) grupy AB, ponieważ nie zawiera ono przeciwciał anty-A ani anty-B."
+ },
+ {
+  "id": "t2-c058-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    133,
+    134
+   ]
+  },
+  "question": "Które z poniższych jest bezwzględnym przeciwwskazaniem do przetoczenia osocza świeżo mrożonego (FFP)?",
+  "options": {
+   "A": "Niewielkie krwawienie z dziąseł",
+   "B": "Potwierdzony niedobór IgA z nietolerancją białek osocza",
+   "C": "Prawidłowe wartości PT i APTT",
+   "D": "Łagodna niedokrwistość",
+   "E": "Podwyższone stężenie fibrynogenu"
+  },
+  "correct": "B",
+  "explanation": "U pacjentów z potwierdzonym niedoborem IgA i nietolerancją białek osocza przetoczenie FFP jest przeciwwskazane bezwzględnie z uwagi na ryzyko reakcji anafilaktycznej."
+ },
+ {
+  "id": "t2-c058-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    133,
+    134
+   ]
+  },
+  "question": "W jakiej temperaturze należy rozmrażać krioprecypitat przed przetoczeniem?",
+  "options": {
+   "A": "20°C",
+   "B": "4°C",
+   "C": "56°C",
+   "D": "0°C",
+   "E": "37°C"
+  },
+  "correct": "E",
+  "explanation": "Krioprecypitat, podobnie jak FFP, należy rozmrażać w temperaturze 37°C, np. w suchym podgrzewaczu lub łaźni wodnej, i przetaczać natychmiast po rozmrożeniu."
+ },
+ {
+  "id": "t2-c058-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    133,
+    134
+   ]
+  },
+  "question": "Czym różni się niepożądane zdarzenie poprzetoczeniowe od niepożądanej reakcji poprzetoczeniowej?",
+  "options": {
+   "A": "Zdarzenie dotyczy wyłącznie dawcy krwi, a reakcja wyłącznie biorcy",
+   "B": "Zdarzenie zawsze prowadzi do zgonu pacjenta, reakcja nigdy",
+   "C": "Zdarzenie zawsze wynika z zakażenia bakteryjnego preparatu",
+   "D": "Zdarzenie dotyczy nieprawidłowości w procesie mogącej zagrażać choremu, a reakcja to rzeczywista, niezamierzona odpowiedź organizmu chorego",
+   "E": "Oba terminy są synonimami i opisują to samo zjawisko"
+  },
+  "correct": "D",
+  "explanation": "Niepożądane zdarzenie to np. błąd w oznaczeniu grupy na pojemniku wykryty przed przetoczeniem, natomiast niepożądana reakcja to rzeczywista, niezamierzona reakcja występująca u chorego w trakcie przetaczania."
+ },
+ {
+  "id": "t2-c059-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    135,
+    136
+   ]
+  },
+  "question": "Jakie jest pierwsze działanie w przypadku pojawienia się objawów sugerujących powikłanie w trakcie transfuzji?",
+  "options": {
+   "A": "Natychmiastowe przerwanie przetaczania i odłączenie pojemnika ze składnikiem krwi",
+   "B": "Kontynuacja przetoczenia do jego zakończenia z jednoczesną obserwacją",
+   "C": "Wyłącznie podanie leków przeciwgorączkowych bez przerywania wlewu",
+   "D": "Podanie kolejnej jednostki krwi tej samej grupy",
+   "E": "Zwiększenie szybkości przetaczania w celu szybszego zakończenia procedury"
+  },
+  "correct": "A",
+  "explanation": "W przypadku podejrzenia powikłania należy natychmiast przerwać przetaczanie, odłączyć pojemnik i zabezpieczyć go do badań bakteriologicznych, rozpoczynając wolny wlew 0,9% NaCl."
+ },
+ {
+  "id": "t2-c059-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    135,
+    136
+   ]
+  },
+  "question": "Który objaw jest opisywany jako pierwszy widoczny objaw ostrej reakcji hemolitycznej u chorych w znieczuleniu ogólnym?",
+  "options": {
+   "A": "Świąd skóry",
+   "B": "Ból głowy",
+   "C": "Suchość w jamie ustnej",
+   "D": "Wzrost ciśnienia tętniczego",
+   "E": "Ciemna barwa moczu"
+  },
+  "correct": "E",
+  "explanation": "Ciemna barwa moczu jest opisywana jako pierwszy widoczny objaw ostrej reakcji hemolitycznej u pacjentów znieczulonych ogólnie."
+ },
+ {
+  "id": "t2-c059-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    135,
+    136
+   ]
+  },
+  "question": "W jakim czasie od zakończenia transfuzji rozpoznaje się wczesne niepożądane reakcje poprzetoczeniowe?",
+  "options": {
+   "A": "Do 24 godzin",
+   "B": "Do 48 godzin",
+   "C": "Do 14 dni",
+   "D": "Do 7 dni",
+   "E": "Do 72 godzin"
+  },
+  "correct": "A",
+  "explanation": "Wczesne niepożądane reakcje poprzetoczeniowe rozpoznaje się, gdy objawy pojawiają się w trakcie transfuzji, tuż po niej lub do 24 godzin po jej zakończeniu."
+ },
+ {
+  "id": "t2-c060-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    137,
+    138
+   ]
+  },
+  "question": "Jaki odsetek śmiertelnych poprzetoczeniowych reakcji hemolitycznych związany jest z niezgodnością w układzie ABO?",
+  "options": {
+   "A": "Około 60%",
+   "B": "Około 100%",
+   "C": "Około 30%",
+   "D": "Około 10%",
+   "E": "Około 90%"
+  },
+  "correct": "A",
+  "explanation": "Około 60% śmiertelnych poprzetoczeniowych reakcji hemolitycznych wiąże się z niezgodnością w układzie ABO."
+ },
+ {
+  "id": "t2-c060-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    137,
+    138
+   ]
+  },
+  "question": "Co oznacza dodatni wynik bezpośredniego testu antyglobulinowego (BTA, odczyn Coombsa) w diagnostyce reakcji hemolitycznej?",
+  "options": {
+   "A": "Jest zawsze wynikiem fałszywie dodatnim u biorców KKP",
+   "B": "Wskazuje na hemolizę krwinek czerwonych pochodzenia immunizacyjnego",
+   "C": "Dowodzi obecności zatoru powietrznego",
+   "D": "Świadczy wyłącznie o zakażeniu bakteryjnym preparatu",
+   "E": "Wyklucza hemolizę pochodzenia immunizacyjnego"
+  },
+  "correct": "B",
+  "explanation": "Dodatni wynik BTA oznacza hemolizę krwinek czerwonych o podłożu immunizacyjnym, natomiast wynik ujemny nie wyklucza hemolizy."
+ },
+ {
+  "id": "t2-c060-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    137,
+    138
+   ]
+  },
+  "question": "Po jakim czasie od rozpoczęcia przetoczenia zwykle pojawiają się objawy wczesnej postaci TRALI?",
+  "options": {
+   "A": "Po 2-6 godzinach",
+   "B": "Po 24-48 godzinach",
+   "C": "Natychmiast, w ciągu pierwszej minuty",
+   "D": "Po 6-72 godzinach",
+   "E": "Po 15 minutach"
+  },
+  "correct": "A",
+  "explanation": "Wczesna postać TRALI ujawnia się zwykle po 2-6 godzinach od przetoczenia, najczęściej po podaniu 1 jednostki KKCz, a jej objawy ustępują po 48-96 godzinach."
+ },
+ {
+  "id": "t2-c061-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    139,
+    140
+   ]
+  },
+  "question": "Które leczenie jest opisywane jako nieskuteczne w terapii zespołu TRALI?",
+  "options": {
+   "A": "Podawanie amin presyjnych w hipotensji",
+   "B": "Leczenie objawowe",
+   "C": "Tlenoterapia",
+   "D": "Wentylacja mechaniczna",
+   "E": "Stosowanie glikokortykosteroidów i wymuszanie diurezy"
+  },
+  "correct": "E",
+  "explanation": "W leczeniu TRALI nieskuteczne jest stosowanie glikokortykosteroidów oraz wymuszanie diurezy; leczenie ma charakter objawowy (tlenoterapia, wentylacja mechaniczna, aminy presyjne)."
+ },
+ {
+  "id": "t2-c061-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    139,
+    140
+   ]
+  },
+  "question": "Jakie bakterie najczęściej wywołują poprzetoczeniową posocznicę związaną z przetoczeniem KKCz?",
+  "options": {
+   "A": "Ziarniaki Gram-dodatnie, takie jak Staphylococcus i Streptococcus",
+   "B": "Wyłącznie grzyby z rodzaju Candida",
+   "C": "Prątki gruźlicy",
+   "D": "Pierwotniaki wywołujące malarię",
+   "E": "Wirusy z rodziny Herpesviridae"
+  },
+  "correct": "A",
+  "explanation": "Posocznica poprzetoczeniowa po KKCz jest najczęściej wywołana przez ziarniaki Gram-dodatnie, takie jak Staphylococcus i Streptococcus, namnażające się w niskich temperaturach przechowywania."
+ },
+ {
+  "id": "t2-c061-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    139,
+    140
+   ]
+  },
+  "question": "Co jest najczęstszą niepożądaną reakcją poprzetoczeniową, mogącą wystąpić po przetoczeniu każdego składnika krwi?",
+  "options": {
+   "A": "Opóźniona reakcja hemolityczna",
+   "B": "Odczyn alergiczny (pokrzywka, anafilaksja)",
+   "C": "Poprzetoczeniowa skaza małopłytkowa",
+   "D": "Poprzetoczeniowa choroba przeszczep przeciwko gospodarzowi",
+   "E": "Zator powietrzny"
+  },
+  "correct": "B",
+  "explanation": "Odczyn alergiczny (pokrzywka, anafilaksja) jest opisywany jako najczęstsza niepożądana reakcja poprzetoczeniowa, mogąca wystąpić po przetoczeniu każdego składnika krwi."
+ },
+ {
+  "id": "t2-c062-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    141,
+    142
+   ]
+  },
+  "question": "Jakie postępowanie zapobiegawcze jest zalecane u pacjentów z grupy ryzyka, aby zmniejszyć ryzyko poprzetoczeniowego przeciążenia krążenia (TACO)?",
+  "options": {
+   "A": "Wolne przetaczanie krwi, np. od 2 do 4 ml/kg mc./godz.",
+   "B": "Szybkie przetaczanie dużej objętości krwi jednorazowo",
+   "C": "Rutynowe podawanie diuretyków przed każdym przetoczeniem u wszystkich pacjentów",
+   "D": "Zwiększenie objętości przetaczanego składnika o 50%",
+   "E": "Ogrzewanie każdej jednostki krwi przed podaniem"
+  },
+  "correct": "A",
+  "explanation": "U pacjentów z grupy ryzyka TACO (osoby starsze, z niewydolnością krążenia lub nerek) zaleca się wolne przetaczanie, np. od 2 do 4 ml/kg mc./godz., oraz kontrolę bilansu płynów."
+ },
+ {
+  "id": "t2-c062-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    141,
+    142
+   ]
+  },
+  "question": "Jaka grupa leków zwiększa ryzyko wystąpienia poprzetoczeniowej reakcji hipotensyjnej?",
+  "options": {
+   "A": "Antybiotyki beta-laktamowe",
+   "B": "Leki przeciwhistaminowe",
+   "C": "Statyny",
+   "D": "Inhibitory pompy protonowej",
+   "E": "Inhibitory konwertazy angiotensyny (ACEI)"
+  },
+  "correct": "E",
+  "explanation": "Pacjenci przyjmujący ACEI są najbardziej narażeni na poprzetoczeniową reakcję hipotensyjną, związaną z zablokowaniem metabolizmu bradykininy."
+ },
+ {
+  "id": "t2-c062-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    141,
+    142
+   ]
+  },
+  "question": "Jakie zaburzenie elektrolitowe jest typowo związane z szybkim przetaczaniem dużych ilości krwi zawierającej cytrynian sodu?",
+  "options": {
+   "A": "Hiperkalcemia",
+   "B": "Hiperfosfatemia",
+   "C": "Hipomagnezemia",
+   "D": "Hipernatremia",
+   "E": "Hipokalcemia"
+  },
+  "correct": "E",
+  "explanation": "Szybkie przetaczanie składników krwi zawierających cytrynian sodu może prowadzić do hipokalcemii, objawiającej się m.in. wydłużeniem odcinka QT i tężyczką."
+ },
+ {
+  "id": "t2-c063-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    143,
+    144
+   ]
+  },
+  "question": "W jakiej pozycji należy ułożyć pacjenta w przypadku podejrzenia zatoru powietrznego związanego z przetoczeniem?",
+  "options": {
+   "A": "Na lewym boku lub w pozycji Trendelenburga",
+   "B": "W pozycji siedzącej z opuszczonymi nogami",
+   "C": "Na plecach z uniesionymi nogami",
+   "D": "Na brzuchu",
+   "E": "W pozycji pionowej, stojącej"
+  },
+  "correct": "A",
+  "explanation": "W leczeniu zatoru powietrznego zaleca się ułożenie pacjenta na lewym boku lub w pozycji Trendelenburga, obok tlenoterapii i uzupełnienia objętości wewnątrznaczyniowej."
+ },
+ {
+  "id": "t2-c063-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    143,
+    144
+   ]
+  },
+  "question": "Między którym dniem po przetoczeniu najczęściej pojawiają się objawy opóźnionej poprzetoczeniowej reakcji hemolitycznej (DHTR)?",
+  "options": {
+   "A": "Po roku od przetoczenia",
+   "B": "Po 6 miesiącach od przetoczenia",
+   "C": "W ciągu pierwszych 24 godzin",
+   "D": "Między 5. a 14. dniem po przetoczeniu",
+   "E": "Natychmiast w trakcie przetaczania"
+  },
+  "correct": "D",
+  "explanation": "DHTR pojawia się zwykle między 5. a 14. dniem po przetoczeniu, choć klinicznie może zostać rozpoznana nawet do 6 tygodni po transfuzji."
+ },
+ {
+  "id": "t2-c063-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    143,
+    144
+   ]
+  },
+  "question": "Jaki antygen jest najczęściej odpowiedzialny za rozwój poprzetoczeniowej skazy małopłytkowej (PTP)?",
+  "options": {
+   "A": "Antygen K układu Kell",
+   "B": "Antygen HLA-B27",
+   "C": "Antygen D układu Rh",
+   "D": "Antygen A układu ABO",
+   "E": "Antygen HPA-1a płytek krwi"
+  },
+  "correct": "E",
+  "explanation": "PTP jest wywołana alloimmunizacją chorego przeciwko swoistemu dla płytek krwi antygenowi HPA-1a, a objawy pojawiają się zwykle między 5. a 10. dniem po przetoczeniu."
+ },
+ {
+  "id": "t2-c064-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    145,
+    146
+   ]
+  },
+  "question": "Jakie jest podstawowe działanie zapobiegające TA-GvHD (choroba przeszczep przeciwko gospodarzowi związana z przetoczeniem)?",
+  "options": {
+   "A": "Rutynowe podawanie glikokortykosteroidów przed każdym przetoczeniem",
+   "B": "Podawanie leków chelatujących żelazo",
+   "C": "Ograniczenie liczby dawców do jednego na pacjenta",
+   "D": "Stosowanie transfuzji autologicznych wyłącznie",
+   "E": "Przetaczanie napromieniowanych składników krwi"
+  },
+  "correct": "E",
+  "explanation": "Zgodnie z tekstem zapobieganie TA-GvHD polega na identyfikacji pacjentów z ryzykiem oraz transfuzji napromieniowanych składników krwi."
+ },
+ {
+  "id": "t2-c064-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    145,
+    146
+   ]
+  },
+  "question": "Po przetoczeniu ilu jednostek koncentratu krwinek czerwonych (KKCz) zaleca się rozważenie leczenia chelatującego przy stężeniu ferrytyny 1000 µg/l?",
+  "options": {
+   "A": "100 jednostek",
+   "B": "10 jednostek",
+   "C": "50 jednostek",
+   "D": "5 jednostek",
+   "E": "25 jednostek"
+  },
+  "correct": "B",
+  "explanation": "Tekst wskazuje, że leczenie chelatujące zaleca się po przetoczeniu 10 j. KKCz, gdy stężenie ferrytyny w osoczu wynosi 1000 µg/l."
+ },
+ {
+  "id": "t2-c064-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    145,
+    146
+   ]
+  },
+  "question": "Które narządy są głównie narażone na uszkodzenie w wyniku przeciążenia żelazem po licznych transfuzjach?",
+  "options": {
+   "A": "Mózg, skóra i jelita",
+   "B": "Szpik kostny, tarczyca i żołądek",
+   "C": "Wątroba, mięsień sercowy i trzustka",
+   "D": "Węzły chłonne, kości i stawy",
+   "E": "Nerki, płuca i śledziona"
+  },
+  "correct": "C",
+  "explanation": "Zgodnie z opisem przeciążenia żelazem po transfuzjach uszkodzeniu ulegają głównie wątroba, mięsień sercowy i trzustka."
+ },
+ {
+  "id": "t2-c065-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    147,
+    150
+   ]
+  },
+  "question": "Jakie badanie obrazowe jest konieczne do dokładnego określenia typu złamania kości nosa?",
+  "options": {
+   "A": "Tomografia komputerowa (TK)",
+   "B": "Scyntygrafia kości twarzoczaszki",
+   "C": "Ultrasonografia twarzy",
+   "D": "Rezonans magnetyczny szyi",
+   "E": "Przeglądowe RTG boczne kości nosa"
+  },
+  "correct": "A",
+  "explanation": "Tekst wskazuje, że RTG boczne kości nosa nie daje wystarczającej informacji o typie złamania i konieczne jest badanie TK."
+ },
+ {
+  "id": "t2-c065-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    147,
+    150
+   ]
+  },
+  "question": "Jaki jest maksymalny, ustalony w piśmiennictwie, czasowy limit na próbę nastawienia złamanych kości nosa u osoby dorosłej po urazie?",
+  "options": {
+   "A": "3 dni",
+   "B": "21 dni",
+   "C": "10 dni",
+   "D": "48 godzin",
+   "E": "60 dni"
+  },
+  "correct": "B",
+  "explanation": "Zgodnie z tekstem po 21 dniach od urazu tworzą się zrosty kostne uniemożliwiające prawidłowe ustawienie odłamów."
+ },
+ {
+  "id": "t2-c065-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    147,
+    150
+   ]
+  },
+  "question": "Co charakteryzuje typ III złamania kości nosa według klasyfikacji Ondika i wsp. z 2009 roku?",
+  "options": {
+   "A": "Obustronne rozdrobnienie kości nosowych ze skrzywieniem przegrody, z zachowanym jej podparciem",
+   "B": "Jednostronne przemieszczenie z odchyleniem nosa od linii pośrodkowej",
+   "C": "Rozległe urazy z rozdarciem błony śluzowej i oderwaniem tkanek",
+   "D": "Izolowane złamanie przegrody nosa bez zajęcia kości nosowych",
+   "E": "Jednostronne przemieszczenie bez odchylenia nosa od linii pośrodkowej"
+  },
+  "correct": "A",
+  "explanation": "Typ III według klasyfikacji Ondika to obustronne rozdrobnienie kości nosowych ze skrzywieniem przegrody nosa, przy zachowanym jej podparciu, niewymagające repozycji przegrody."
+ },
+ {
+  "id": "t2-c066-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    151,
+    156
+   ]
+  },
+  "question": "Jaka jest kolejność postępowania podczas badania pacjenta po urazie twarzowej części czaszki zgodnie z zasadą przedstawioną w tekście?",
+  "options": {
+   "A": "Patrz, dotykaj, wykonaj RTG",
+   "B": "Dotykaj, słuchaj, patrz",
+   "C": "Słuchaj, wykonaj RTG, dotykaj",
+   "D": "Wykonaj TK, następnie wywiad, następnie badanie fizykalne",
+   "E": "Słuchaj (wywiad), patrz (oglądanie), dotykaj (badanie miejscowe)"
+  },
+  "correct": "E",
+  "explanation": "Tekst podaje zasadę: słuchaj (wywiad), patrz (badanie wzrokiem/oglądanie), dotykaj (badanie miejscowe)."
+ },
+ {
+  "id": "t2-c066-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    151,
+    156
+   ]
+  },
+  "question": "Co w pierwszej kolejności należy ocenić u pacjenta po urazie twarzowej części czaszki?",
+  "options": {
+   "A": "Wynik badania radiologicznego kości nosa",
+   "B": "Obecność wybroczyn na skórze twarzy",
+   "C": "Uszkodzenia zagrażające życiu, w tym drożność dróg oddechowych",
+   "D": "Stan węchu i drożność nosa",
+   "E": "Symetrię zgryzu i ruchomość żuchwy"
+  },
+  "correct": "C",
+  "explanation": "Zgodnie z tekstem w pierwszej kolejności ocenia się uszkodzenia zagrażające życiu, w tym drożność dróg oddechowych i czynność oddechową."
+ },
+ {
+  "id": "t2-c066-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    151,
+    156
+   ]
+  },
+  "question": "Które objawy mogą wskazywać na przeszkodę w drogach oddechowych u pacjenta po urazie twarzowym?",
+  "options": {
+   "A": "Krwiak małżowiny usznej i ból przy palpacji",
+   "B": "Asymetria zgryzu i ruchomość odłamów kostnych żuchwy",
+   "C": "Zaburzenia widzenia i podwójne widzenie",
+   "D": "Wybroczyny na powiekach i obrzęk okolicy oczodołu",
+   "E": "Zasinienie powłok, szybkie powierzchowne oddechy i poruszanie skrzydełek nosa"
+  },
+  "correct": "E",
+  "explanation": "Tekst wskazuje, że objawem przeszkody w drogach oddechowych jest zasinienie powłok ciała, szybkie powierzchowne oddechy oraz poruszanie się skrzydełek nosa."
+ },
+ {
+  "id": "t2-c067-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    157,
+    161
+   ]
+  },
+  "question": "Na co może wskazywać wyciek krwi lub płynu mózgowo-rdzeniowego z przewodu słuchowego zewnętrznego u pacjenta po urazie twarzoczaszki?",
+  "options": {
+   "A": "Zaburzenie zwarcia zębowego",
+   "B": "Krwiak przegrody nosa",
+   "C": "Uszkodzenie mięśni mimicznych twarzy",
+   "D": "Zwichnięcie zębów w odcinku przednim",
+   "E": "Podejrzenie złamania podstawy czaszki lub wyrostka kłykciowego żuchwy"
+  },
+  "correct": "E",
+  "explanation": "Tekst wskazuje, że wyciek krwi lub płynu mózgowo-rdzeniowego z przewodu słuchowego zewnętrznego nasuwa podejrzenie złamania podstawy czaszki lub złamania wyrostka kłykciowego żuchwy."
+ },
+ {
+  "id": "t2-c067-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    157,
+    161
+   ]
+  },
+  "question": "Co pozwala ustalić informacje zebrane podczas badania wstępnego ITLS u pacjenta po urazie?",
+  "options": {
+   "A": "Konieczność wykonania rynoseptoplastyki",
+   "B": "Decyzję o wypisie pacjenta do domu",
+   "C": "Wybór metody znieczulenia do zabiegu",
+   "D": "Rodzaj klasyfikacji złamania kości nosa według Ondika",
+   "E": "Kwalifikację do kategorii load and go lub stay and play"
+  },
+  "correct": "E",
+  "explanation": "Zgodnie z tekstem informacje z badania wstępnego ITLS wystarczają do zakwalifikowania pacjenta do kategorii load and go lub stay and play."
+ },
+ {
+  "id": "t2-c067-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    157,
+    161
+   ]
+  },
+  "question": "W jakich sytuacjach wskazane jest wykonanie szybkiego badania urazowego zamiast badania miejscowego?",
+  "options": {
+   "A": "Przy izolowanym, lekkim urazie ograniczonym do jednej okolicy ciała",
+   "B": "Wyłącznie u dzieci poniżej 7. roku życia",
+   "C": "Przy uogólnionym mechanizmie urazu i nieprzytomnym poszkodowanym o nieznanym mechanizmie urazu",
+   "D": "Tylko wtedy, gdy pacjent zgłasza ból zęba",
+   "E": "Zawsze, niezależnie od mechanizmu urazu i stanu pacjenta"
+  },
+  "correct": "C",
+  "explanation": "Tekst podaje, że wskazaniami do szybkiego badania urazowego są uogólniony mechanizm urazu oraz nieprzytomny poszkodowany przy nieznanym mechanizmie urazu."
+ },
+ {
+  "id": "t2-c068-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    162,
+    163
+   ]
+  },
+  "question": "Jakie badanie jest najistotniejszym badaniem diagnostycznym w ocenie złamań żeber i towarzyszących uszkodzeń narządów wewnętrznych?",
+  "options": {
+   "A": "Klasyczny radiogram klatki piersiowej",
+   "B": "Tomografia komputerowa (TK)",
+   "C": "Elektrokardiografia",
+   "D": "Badanie palpacyjne klatki piersiowej",
+   "E": "Ultrasonografia jamy brzusznej"
+  },
+  "correct": "B",
+  "explanation": "Tekst wskazuje, że mimo powszechnego stosowania radiogramów klasycznych, najistotniejszym badaniem diagnostycznym pozostaje TK, gdyż radiogramy mają niską czułość (58%)."
+ },
+ {
+  "id": "t2-c068-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    162,
+    163
+   ]
+  },
+  "question": "Jak definiuje się tzw. wiotką klatkę piersiową?",
+  "options": {
+   "A": "Złamanie mostka bez towarzyszącego złamania żeber",
+   "B": "Obecność odmy opłucnowej bez złamań kostnych",
+   "C": "Złamanie dwóch żeber w jednym miejscu z minimalnym przemieszczeniem",
+   "D": "Pojedyncze złamanie jednego żebra bez przemieszczenia odłamów",
+   "E": "Złamanie co najmniej trzech lub więcej sąsiadujących żeber w dwóch bądź więcej miejscach"
+  },
+  "correct": "E",
+  "explanation": "Tekst definiuje wiotką klatkę piersiową jako złamanie co najmniej trzech lub więcej sąsiadujących ze sobą żeber w dwóch bądź więcej miejscach."
+ },
+ {
+  "id": "t2-c068-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    162,
+    163
+   ]
+  },
+  "question": "Jakie działanie jest rekomendowane u pacjentów z uszkodzeniem więcej niż 2-3 żeber z patologiczną ruchomością odłamów?",
+  "options": {
+   "A": "Stabilizacja za pomocą specjalnych płyt metalowych, najczęściej tytanowych",
+   "B": "Unieruchomienie klatki piersiowej opatrunkiem przylepcowym jako metoda podstawowa",
+   "C": "Natychmiastowa torakotomia u wszystkich pacjentów",
+   "D": "Zastosowanie gorsetu ortopedycznego przez 6 tygodni",
+   "E": "Wyłącznie leczenie zachowawcze bez interwencji"
+  },
+  "correct": "A",
+  "explanation": "Zgodnie z tekstem przy uszkodzeniu więcej niż 2-3 żeber z patologiczną ruchomością rekomenduje się stabilizację za pomocą specjalnych płyt metalowych, najczęściej tytanowych."
+ },
+ {
+  "id": "t2-c069-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    164,
+    165
+   ]
+  },
+  "question": "W jakim okresie po urazie niewydolność oddechowa w przebiegu stłuczenia płuca osiąga swój szczyt?",
+  "options": {
+   "A": "W ciągu pierwszych 2 godzin po urazie",
+   "B": "Między 24. a 72. godziną po urazie",
+   "C": "Między 7. a 10. dniem po urazie",
+   "D": "Natychmiast po urazie, w ciągu pierwszej godziny",
+   "E": "Po upływie miesiąca od urazu"
+  },
+  "correct": "B",
+  "explanation": "Zgodnie z tekstem narastająca niewydolność oddechowa osiąga swój szczyt między 24. a 72. godziną po urazie."
+ },
+ {
+  "id": "t2-c069-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    164,
+    165
+   ]
+  },
+  "question": "Jaka jest przewaga ultrasonografii nad RTG i TK w diagnostyce stłuczenia płuca?",
+  "options": {
+   "A": "Pozwala na jednoznaczne rozpoznanie bez badania klinicznego",
+   "B": "Nie wymaga doświadczenia badającego",
+   "C": "Może zostać wykonana przyłóżkowo",
+   "D": "Ma wyższą swoistość niż TK we wszystkich przypadkach",
+   "E": "Jest jedynym badaniem wykrywającym niedodmę"
+  },
+  "correct": "C",
+  "explanation": "Tekst podaje, że przewaga USG nad RTG i TK polega na możliwości wykonania badania przyłóżkowo."
+ },
+ {
+  "id": "t2-c069-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    164,
+    165
+   ]
+  },
+  "question": "Które z wymienionych objawów należą do głównych objawów stłuczenia płuca?",
+  "options": {
+   "A": "Krwioplucie, kaszel, duszność, tachykardia",
+   "B": "Ból stawów, gorączka, wysypka",
+   "C": "Zaparcia, wzdęcia, bóle brzucha",
+   "D": "Bradykardia, hipotermia, drżenia mięśniowe",
+   "E": "Żółtaczka, świąd skóry, obrzęki obwodowe"
+  },
+  "correct": "A",
+  "explanation": "Tekst wymienia jako główne objawy stłuczenia płuca krwioplucie, kaszel, duszność, zmniejszenie tolerancji wysiłku i tachykardię."
+ },
+ {
+  "id": "t2-c070-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    166,
+    167
+   ]
+  },
+  "question": "Kiedy odma prosta (zamknięta) staje się klinicznie objawowa?",
+  "options": {
+   "A": "Wyłącznie gdy towarzyszy jej złamanie mostka",
+   "B": "Dopiero po upływie 48 godzin od urazu",
+   "C": "Gdy powietrze zajmuje więcej niż 25-30% przestrzeni jamy opłucnej",
+   "D": "Gdy dochodzi do przesunięcia śródpiersia na stronę przeciwną",
+   "E": "Zawsze, niezależnie od ilości powietrza w jamie opłucnej"
+  },
+  "correct": "C",
+  "explanation": "Tekst podaje, że odma prosta objawowa ujawnia się klinicznie, jeśli powietrze zajmuje więcej niż 25-30% przestrzeni jamy opłucnej."
+ },
+ {
+  "id": "t2-c070-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    166,
+    167
+   ]
+  },
+  "question": "Jaka jest czułość i swoistość badania USG w rozpoznawaniu odmy opłucnowej u pacjentów z tępym urazem klatki piersiowej?",
+  "options": {
+   "A": "70% czułości i 75% swoistości",
+   "B": "50% czułości i 60% swoistości",
+   "C": "20% czułości i 40% swoistości",
+   "D": "94% czułości i 100% swoistości",
+   "E": "99% czułości i 30% swoistości"
+  },
+  "correct": "D",
+  "explanation": "Zgodnie z tekstem badanie USG w rozpoznaniu odmy wykazuje 94% czułości i 100% swoistości."
+ },
+ {
+  "id": "t2-c070-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    166,
+    167
+   ]
+  },
+  "question": "Jaki mechanizm prowadzi do powstania odmy prężnej (zastawkowej)?",
+  "options": {
+   "A": "Krwawienie z naczyń międzyżebrowych do jamy opłucnej",
+   "B": "Powolne gromadzenie się płynu surowiczego w jamie opłucnej",
+   "C": "Jednorazowe, niewielkie przedostanie się powietrza do jamy opłucnej",
+   "D": "Zamknięcie oskrzela głównego przez ciało obce",
+   "E": "Zasysanie powietrza do jamy opłucnej podczas każdego wdechu bez możliwości jego usunięcia"
+  },
+  "correct": "E",
+  "explanation": "Tekst opisuje, że w odmie prężnej podczas każdego kolejnego wdechu powietrze jest zasysane do jamy opłucnej i nie może zostać usunięte tą samą drogą."
+ },
+ {
+  "id": "t2-c071-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    168,
+    169
+   ]
+  },
+  "question": "Jak nazywa się stan współistnienia odmy i krwiaka opłucnej?",
+  "options": {
+   "A": "Hemomediastinum",
+   "B": "Pneumoperitoneum",
+   "C": "Hemopneumothorax",
+   "D": "Pyothorax",
+   "E": "Hemoptysis"
+  },
+  "correct": "C",
+  "explanation": "Tekst wskazuje, że jednoczesne współistnienie odmy pourazowej i krwiaka opłucnej określa się jako hemopneumothorax."
+ },
+ {
+  "id": "t2-c071-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    168,
+    169
+   ]
+  },
+  "question": "Kiedy konieczne jest leczenie operacyjne uszkodzenia miąższu płuca po założeniu drenażu opłucnej?",
+  "options": {
+   "A": "Gdy przez kolejne 4-6 godzin utrzymuje się krwawienie na poziomie około 200-400 ml",
+   "B": "Tylko wtedy, gdy pacjent jest hemodynamicznie stabilny",
+   "C": "Gdy krwawienie ustępuje samoistnie w ciągu godziny",
+   "D": "Wyłącznie po upływie 7 dni od urazu",
+   "E": "Zawsze, niezależnie od ilości krwawienia po drenażu"
+  },
+  "correct": "A",
+  "explanation": "Zgodnie z tekstem konieczność leczenia operacyjnego zachodzi, gdy po drenażu opłucnej przez 4-6 godzin utrzymuje się krwawienie rzędu 200-400 ml."
+ },
+ {
+  "id": "t2-c071-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    168,
+    169
+   ]
+  },
+  "question": "Na czym polega doraźny opatrunek okluzyjny stosowany w ranie ssącej klatki piersiowej?",
+  "options": {
+   "A": "Na pozostawieniu rany otwartej bez żadnego zaopatrzenia",
+   "B": "Na całkowitym szczelnym zaklejeniu rany ze wszystkich czterech stron",
+   "C": "Na zastosowaniu ucisku ręcznego przez co najmniej godzinę",
+   "D": "Na wprowadzeniu drenu klatki piersiowej bez opatrunku zewnętrznego",
+   "E": "Na zamknięciu rany szczelnym opatrunkiem przyklejonym z trzech stron, tworzącym prowizoryczną zastawkę"
+  },
+  "correct": "E",
+  "explanation": "Tekst opisuje opatrunek okluzyjny jako zamknięcie rany szczelnym opatrunkiem przyklejonym z trzech stron, co tworzy prowizoryczną zastawkę umożliwiającą wydostanie się powietrza na zewnątrz."
+ },
+ {
+  "id": "t2-c072-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    170,
+    171
+   ]
+  },
+  "question": "Jakie objawy składają się na klasyczną triadę Becka w tamponadzie serca?",
+  "options": {
+   "A": "Duszność, kaszel, krwioplucie",
+   "B": "Gorączka, wysypka, powiększenie węzłów chłonnych",
+   "C": "Wzrost ciśnienia żylnego, gwałtowny spadek ciśnienia tętniczego, ciche i głuche tony serca",
+   "D": "Bradykardia, hipotermia, sinica obwodowa",
+   "E": "Ból głowy, sztywność karku, światłowstręt"
+  },
+  "correct": "C",
+  "explanation": "Tekst podaje, że triada Becka obejmuje wzrost ciśnienia żylnego, gwałtowny spadek ciśnienia tętniczego oraz ciche i głuche tony serca."
+ },
+ {
+  "id": "t2-c072-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    170,
+    171
+   ]
+  },
+  "question": "Jakie postępowanie jest wskazane w pierwszej kolejności w pourazowej tamponadzie serca zagrażającej wstrząsem kardiogennym?",
+  "options": {
+   "A": "Podanie dużych dawek glikokortykosteroidów",
+   "B": "Pilne usunięcie nadmiaru krwi z worka osierdziowego pod kontrolą USG (perikardiocenteza)",
+   "C": "Wyłącznie obserwacja i kontrola parametrów życiowych",
+   "D": "Natychmiastowe podanie leków przeciwkrzepliwych",
+   "E": "Wykonanie tracheostomii"
+  },
+  "correct": "B",
+  "explanation": "Zgodnie z tekstem konieczne jest pilne usunięcie nadmiaru krwi z worka osierdziowego pod kontrolą USG, najlepiej z użyciem igły z cewnikiem."
+ },
+ {
+  "id": "t2-c072-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    170,
+    171
+   ]
+  },
+  "question": "Jaki mechanizm urazu dominuje w uszkodzeniach serca i dużych naczyń śródpiersia?",
+  "options": {
+   "A": "Urazy związane z barotraumą nurkową",
+   "B": "Mechanizm przenikający, stanowiący 90-95% przypadków",
+   "C": "Urazy termiczne klatki piersiowej",
+   "D": "Mechanizm tępy, stanowiący ponad 95% przypadków",
+   "E": "Wyłącznie urazy jatrogenne podczas zabiegów kardiochirurgicznych"
+  },
+  "correct": "B",
+  "explanation": "Tekst wskazuje, że w uszkodzeniach serca i dużych naczyń dominują obrażenia w mechanizmie przenikającym, stanowiące 90-95% przypadków."
+ },
+ {
+  "id": "t2-c073-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    172,
+    173
+   ]
+  },
+  "question": "Jakie badanie pozwala potwierdzić rozpoznanie uszkodzenia tchawicy lub oskrzeli i ocenić poziom oraz rozległość uszkodzenia?",
+  "options": {
+   "A": "Badanie spirometryczne",
+   "B": "Klasyczne badanie RTG klatki piersiowej",
+   "C": "Ultrasonografia jamy brzusznej",
+   "D": "Badanie elektrokardiograficzne",
+   "E": "Bronchofiberoskopia"
+  },
+  "correct": "E",
+  "explanation": "Tekst wskazuje, że rozpoznanie potwierdza się w bronchofiberoskopii, która pozwala ocenić poziom i rozległość uszkodzenia oraz odessać krew i wydzielinę."
+ },
+ {
+  "id": "t2-c073-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    172,
+    173
+   ]
+  },
+  "question": "Jak porównuje się śmiertelność po pierwotnej naprawie chirurgicznej oskrzeli do śmiertelności po resekcji anatomicznej płuca?",
+  "options": {
+   "A": "Naprawa pierwotna jest przeciwwskazana we wszystkich przypadkach",
+   "B": "Śmiertelność jest identyczna w obu metodach",
+   "C": "Jest niższa po naprawie pierwotnej (3%) niż po resekcji (13%)",
+   "D": "Jest wyższa po naprawie pierwotnej (13%) niż po resekcji (3%)",
+   "E": "Resekcja anatomiczna zawsze daje 0% śmiertelności"
+  },
+  "correct": "C",
+  "explanation": "Zgodnie z tekstem śmiertelność pacjentów po pierwotnej naprawie oskrzeli jest niższa (3%) niż po resekcji anatomicznej płuca (13%)."
+ },
+ {
+  "id": "t2-c073-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    172,
+    173
+   ]
+  },
+  "question": "Jakie jest zalecane postępowanie przy uszkodzeniu tchawicy o średnicy poniżej 1 cm z niewielkim przeciekiem powietrza?",
+  "options": {
+   "A": "Wyłącznie obserwacja bez jakiegokolwiek zabezpieczenia dróg oddechowych",
+   "B": "Amputacja płata płuca po stronie uszkodzenia",
+   "C": "Próba leczenia zachowawczego, mogąca prowadzić do samoistnego wygojenia",
+   "D": "Rutynowa torakotomia klasyczna u każdego pacjenta",
+   "E": "Natychmiastowa pneumonektomia"
+  },
+  "correct": "C",
+  "explanation": "Tekst wskazuje, że przy minimalnych uszkodzeniach tchawicy poniżej 1 cm z niewielkim przeciekiem można podjąć próbę leczenia zachowawczego."
+ },
+ {
+  "id": "t2-c074-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    174,
+    175
+   ]
+  },
+  "question": "Dlaczego rokowanie w obrażeniach skojarzonych piersiowo-brzusznych jest lepsze, gdy rana wlotowa znajduje się po stronie prawej?",
+  "options": {
+   "A": "Prawe płuco ma mniejszą objętość niż lewe",
+   "B": "Po stronie prawej nie znajdują się żadne narządy miąższowe",
+   "C": "Prawa strona klatki piersiowej jest anatomicznie grubsza",
+   "D": "Śledziona po stronie prawej chroni przed uszkodzeniem jelit",
+   "E": "Wątroba pełni funkcję protekcyjną wobec innych narządów jamy brzusznej"
+  },
+  "correct": "E",
+  "explanation": "Tekst wskazuje, że gdy rana wlotowa jest po stronie prawej, rokowanie jest lepsze, gdyż wątroba pełni funkcję protekcyjną przed uszkodzeniem innych narządów brzusznych."
+ },
+ {
+  "id": "t2-c074-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    174,
+    175
+   ]
+  },
+  "question": "Jaka jest śmiertelność w obrażeniach skojarzonych piersiowo-brzusznych, jeśli konieczne są operacje w obu jamach ciała?",
+  "options": {
+   "A": "Nawet 60%",
+   "B": "Około 10%",
+   "C": "Poniżej 5%",
+   "D": "Około 20%",
+   "E": "Praktycznie 0%"
+  },
+  "correct": "A",
+  "explanation": "Zgodnie z tekstem, jeśli konieczne są operacje w obu jamach ciała, śmiertelność w obrażeniach skojarzonych piersiowo-brzusznych wynosi nawet 60%."
+ },
+ {
+  "id": "t2-c074-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    174,
+    175
+   ]
+  },
+  "question": "Jakie działanie jest kluczowe w postępowaniu przedszpitalnym z pacjentem po skojarzonym urazie piersiowo-brzusznym?",
+  "options": {
+   "A": "Wykonanie laparotomii na miejscu wypadku",
+   "B": "Wykonanie pełnej diagnostyki TK na miejscu zdarzenia",
+   "C": "Szybki transport do centrum urazowego",
+   "D": "Odroczenie transportu do czasu ustąpienia bólu",
+   "E": "Podanie antybiotyku doustnie przed transportem"
+  },
+  "correct": "C",
+  "explanation": "Tekst podkreśla, że w postępowaniu przedszpitalnym kluczowy jest szybki transport do centrum urazowego, ponieważ interwał czasu od urazu decyduje o przeżyciu."
+ },
+ {
+  "id": "t2-c075-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    176,
+    177
+   ]
+  },
+  "question": "Jaka jest najczęstsza przyczyna perforacji przełyku (PP) współcześnie?",
+  "options": {
+   "A": "Neurogenne uszkodzenie po urazach OUN",
+   "B": "Połknięte ciała obce",
+   "C": "Podłoże jatrogenne, głównie podczas badań endoskopowych",
+   "D": "Urazy zewnętrzne klatki piersiowej",
+   "E": "Samoistne pęknięcie przełyku w zespole Boerhaave'a"
+  },
+  "correct": "C",
+  "explanation": "Tekst podaje, że współcześnie do PP dochodzi najczęściej na podłożu jatrogennym, głównie podczas badań endoskopowych (48%)."
+ },
+ {
+  "id": "t2-c075-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    176,
+    177
+   ]
+  },
+  "question": "Jakie objawy składają się na triadę Maklera obserwowaną u pacjentów z perforacją przełyku?",
+  "options": {
+   "A": "Bradykardia, hipotermia i drżenia mięśniowe",
+   "B": "Kaszel, katar i ból gardła",
+   "C": "Rozedma podskórna, ból w klatce piersiowej i wymioty",
+   "D": "Żółtaczka, świąd i powiększenie wątroby",
+   "E": "Gorączka, dreszcze i wysypka skórna"
+  },
+  "correct": "C",
+  "explanation": "Zgodnie z tekstem triada Maklera, występująca u blisko 50% pacjentów, obejmuje rozedmę podskórną, ból w klatce piersiowej i wymioty."
+ },
+ {
+  "id": "t2-c075-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    176,
+    177
+   ]
+  },
+  "question": "Gdzie podczas endoskopii najczęściej dochodzi do perforacji przełyku, w miejscu zwanym „bramą łez”?",
+  "options": {
+   "A": "W okolicy trójkąta gardłowo-przełykowego Lanniera",
+   "B": "W środkowym odcinku przełyku piersiowego",
+   "C": "W okolicy rozworu przełykowego przepony",
+   "D": "W okolicy wpustu żołądka",
+   "E": "W dolnym zwieraczu przełyku"
+  },
+  "correct": "A",
+  "explanation": "Tekst wskazuje, że podczas endoskopii do perforacji dochodzi najczęściej w okolicy trójkąta gardłowo-przełykowego Lanniera, nazywanego bramą łez."
+ },
+ {
+  "id": "t2-c076-001",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    178,
+    179
+   ]
+  },
+  "question": "Jakie są główne wskazania do leczenia endoskopowego perforacji przełyku (PP) opisane w tekście?",
+  "options": {
+   "A": "Wyłącznie przypadki z towarzyszącą tamponadą serca",
+   "B": "Wyłącznie masywne, rozległe uszkodzenia przełyku powyżej 5 cm",
+   "C": "Każdy przypadek perforacji niezależnie od jej wielkości i przyczyny",
+   "D": "Perforacje po zabiegach endoskopowych, nieszczelność zespolenia po resekcji przełyku i uszkodzenia po usunięciu ciał obcych",
+   "E": "Tylko perforacje powstałe w mechanizmie tępego urazu klatki piersiowej"
+  },
+  "correct": "D",
+  "explanation": "Tekst wymienia jako główne wskazania do leczenia endoskopowego perforacje po zabiegach endoskopowych, nieszczelność zespolenia po resekcji przełyku oraz uszkodzenia po usunięciu ciał obcych."
+ },
+ {
+  "id": "t2-c076-002",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    178,
+    179
+   ]
+  },
+  "question": "W jakich przypadkach stosuje się endoskopowe zamknięcie uszkodzenia przełyku metalowymi klipsami?",
+  "options": {
+   "A": "We wcześnie rozpoznanych, niewielkich perforacjach do 1,5 cm z minimalnymi objawami zakażenia",
+   "B": "Zawsze jako metoda pierwszego wyboru niezależnie od wielkości perforacji",
+   "C": "Wyłącznie przy rozległych perforacjach powyżej 5 cm",
+   "D": "Wyłącznie u pacjentów po pneumonektomii",
+   "E": "Tylko przy współistniejącej tamponadzie serca"
+  },
+  "correct": "A",
+  "explanation": "Tekst wskazuje, że klipsy metalowe stosuje się przy wcześnie rozpoznanych i niewielkich perforacjach do 1,5 cm długości z minimalnymi objawami zakażenia."
+ },
+ {
+  "id": "t2-c076-003",
+  "source": {
+   "book": "Tom2",
+   "pages": [
+    178,
+    179
+   ]
+  },
+  "question": "Jaką wadę miała historyczna metoda leczenia perforacji przełyku za pomocą drenu typu T?",
+  "options": {
+   "A": "Brak możliwości oceny wielkości perforacji",
+   "B": "Konieczność wykonania torakotomii u każdego pacjenta",
+   "C": "Niemożność zastosowania u pacjentów w złym stanie ogólnym",
+   "D": "Wysokie ryzyko krwawienia śródoperacyjnego",
+   "E": "Długotrwałe utrzymywanie się przecieku i przewlekły stan septyczny"
+  },
+  "correct": "E",
+  "explanation": "Zgodnie z tekstem poważną wadą metody drenu typu T było długotrwałe utrzymywanie się przecieku przez przetokę przełykową i przewlekły stan septyczny."
+ },
+ {
+  "id": "t3-c003-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    8,
+    9
+   ]
+  },
+  "question": "Które dwie struktury odgrywają największą rolę w regulacji wzrostu kości czaszki i zamykania się szwów czaszkowych?",
+  "options": {
+   "A": "Płyn mózgowo-rdzeniowy i naczynia żylne śródczaszkowe",
+   "B": "Mięśnie skroniowe i powięź głęboka czaszki",
+   "C": "Opona pajęczynowica i skóra owłosiona głowy",
+   "D": "Opona twarda od wewnątrz i okostna od zewnątrz",
+   "E": "Chrząstki wzrostowe kości długich i szpik kostny"
+  },
+  "correct": "D",
+  "explanation": "Fronty osteogenne i szwy czaszkowe są ściśle związane od wewnątrz z blaszką wewnętrzną opony twardej, a od zewnątrz z okostną, co czyni te dwie struktury kluczowymi dla regulacji wzrostu kości czaszki."
+ },
+ {
+  "id": "t3-c003-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    8,
+    9
+   ]
+  },
+  "question": "Który szew czaszkowy, w przeciwieństwie do pozostałych, całkowicie zarasta już w pierwszym roku życia dziecka?",
+  "options": {
+   "A": "Szew łuskowy",
+   "B": "Szew wieńcowy",
+   "C": "Szew strzałkowy",
+   "D": "Szew czołowy",
+   "E": "Szew węgłowy"
+  },
+  "correct": "D",
+  "explanation": "Tekst wskazuje, że jedynym szwem, który całkowicie zarasta w okresie 1. roku życia dziecka, jest szew czołowy, mający odmienne, embriologiczne pochodzenie z grzebienia nerwowego."
+ },
+ {
+  "id": "t3-c003-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    8,
+    9
+   ]
+  },
+  "question": "Zgodnie z opisaną teorią Virchowa, jak przedwczesne zarośnięcie szwu czaszkowego wpływa na wzrost czaszki?",
+  "options": {
+   "A": "Wzrost zostaje zatrzymany wyłącznie w obrębie twarzoczaszki, a mózgoczaszka rośnie prawidłowo",
+   "B": "Wzrost zatrzymuje się prostopadle do zarośniętego szwu, a wzrasta kompensacyjnie wzdłuż niego",
+   "C": "Wzrost przebiega prawidłowo do czasu ukończenia 6-7 roku życia",
+   "D": "Wzrost ulega przyspieszeniu wyłącznie w obrębie podstawy czaszki",
+   "E": "Wzrost całej czaszki ulega równomiernemu spowolnieniu we wszystkich kierunkach"
+  },
+  "correct": "B",
+  "explanation": "Zgodnie z prawem Virchowa dochodzi do osłabienia lub zatrzymania wzrostu w kierunku prostopadłym do przedwcześnie zarośniętego szwu i kompensacyjnego, nadmiernego wzrostu wzdłuż tego szwu."
+ },
+ {
+  "id": "t3-c004-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    10,
+    11
+   ]
+  },
+  "question": "Który podtyp kraniosynostozy strzałkowej według podziału Virchowa jest najczęstszy i wiąże się z zarastaniem szwu w jego tylnej części?",
+  "options": {
+   "A": "Sphenocephalia",
+   "B": "Leptocephalia",
+   "C": "Clinocephalia",
+   "D": "Trigonocephalia",
+   "E": "Brachycephalia"
+  },
+  "correct": "A",
+  "explanation": "Sphenocephalia, w której maksymalna szerokość części czołowej przekracza szerokość dwuciemieniową, jest najczęstszym rodzajem SCP, związanym z początkiem zarastania szwu strzałkowego w jego tylnej części."
+ },
+ {
+  "id": "t3-c004-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    10,
+    11
+   ]
+  },
+  "question": "Jaka jest szacowana częstość występowania izolowanej kraniosynostozy strzałkowej (SCP)?",
+  "options": {
+   "A": "1:15 000 żywych urodzeń",
+   "B": "1:100 000 żywych urodzeń",
+   "C": "1:500 żywych urodzeń",
+   "D": "1:5000 żywych urodzeń",
+   "E": "1:25 000 żywych urodzeń"
+  },
+  "correct": "D",
+  "explanation": "Częstość występowania kraniosynostozy strzałkowej szacuje się na 1:5000 żywych urodzeń, z przewagą chłopców w stosunku 8:2."
+ },
+ {
+  "id": "t3-c004-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    10,
+    11
+   ]
+  },
+  "question": "Jaka cecha kliniczna jest charakterystyczna dla jednostronnej kraniosynostozy wieńcowej (skośnogłowia przedniego, PCA)?",
+  "options": {
+   "A": "Wieżowaty kształt czaszki z prawidłową budową oczodołów",
+   "B": "Izolowane wydłużenie i zwężenie czaszki bez zajęcia oczodołów",
+   "C": "Obniżenie i cofnięcie łuku brwiowego oraz obramowania oczodołu po stronie zarośniętego szwu",
+   "D": "Symetryczne poszerzenie obu oczodołów bez zmian w obrębie łuku brwiowego",
+   "E": "Obustronne uwypuklenie kości potylicznej bez zmian części czołowej"
+  },
+  "correct": "C",
+  "explanation": "W jednostronnej kraniosynostozie wieńcowej łuk brwiowy i obramowanie oczodołu po stronie przedwcześnie zarośniętego szwu są obniżone i cofnięte, co skutkuje zmniejszoną objętością oczodołu po tej stronie."
+ },
+ {
+  "id": "t3-c005-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    12,
+    13
+   ]
+  },
+  "question": "Jaki odsetek dzieci z izolowanym rozpoznaniem jednostronnej kraniosynostozy wieńcowej (PCA) miał w badaniach molekularnych stwierdzone zaburzenia genetyczne?",
+  "options": {
+   "A": "Około 95%",
+   "B": "Około 75%",
+   "C": "Około 50%",
+   "D": "Około 15%",
+   "E": "Około 5%"
+  },
+  "correct": "C",
+  "explanation": "Metody biologii molekularnej pozwoliły wykryć zaburzenia genetyczne, głównie mutacje w genach FGFR1, FGFR2, FGFR3 i TWIST1, u około 50% dzieci z rozpoznaniem izolowanego PCA."
+ },
+ {
+  "id": "t3-c005-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    12,
+    13
+   ]
+  },
+  "question": "Jak definiuje się kąt czołowy (frontal angle, FA) stosowany w ocenie kraniosynostozy czołowej?",
+  "options": {
+   "A": "Kąt pomiędzy podstawą czaszki a kręgosłupem szyjnym",
+   "B": "Kąt zawarty pomiędzy oczodołami a linią pośrodkową twarzy",
+   "C": "Kąt pomiędzy szwem wieńcowym a szwem strzałkowym",
+   "D": "Kąt zawarty pomiędzy punktami bregma i lambda",
+   "E": "Kąt zawarty pomiędzy punktami pterion i nasion"
+  },
+  "correct": "E",
+  "explanation": "Kąt czołowy definiuje się jako kąt zawarty pomiędzy punktami pterion i nasion; u zdrowych dzieci wynosi on 104 stopnie lub więcej, a jego zmniejszenie świadczy o kraniosynostozie czołowej."
+ },
+ {
+  "id": "t3-c005-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    12,
+    13
+   ]
+  },
+  "question": "Jakie jest embriologiczne pochodzenie szwu czołowego, odróżniające go od większości pozostałych szwów sklepienia czaszki?",
+  "options": {
+   "A": "Wywodzi się z mezenchymy grzebienia nerwowego",
+   "B": "Wywodzi się wyłącznie z tkanki mezodermalnej, tak jak szew strzałkowy",
+   "C": "Powstaje z tkanki mięśniowej pierwszego łuku skrzelowego",
+   "D": "Powstaje z chrząstki podstawy czaszki",
+   "E": "Rozwija się z nabłonka jamy nosowej"
+  },
+  "correct": "A",
+  "explanation": "Szew czołowy ma inne pochodzenie embriologiczne niż pozostałe szwy sklepienia czaszki - wywodzi się z mezenchymy grzebienia nerwowego, podczas gdy np. szew strzałkowy jest pochodzenia mezodermalnego."
+ },
+ {
+  "id": "t3-c006-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    14,
+    16
+   ]
+  },
+  "question": "Jakie zaburzenie neuroobrazowe najczęściej stwierdza się u dzieci z jednostronną kraniosynostozą węgłową (skośnogłowiem tylnym, PCP)?",
+  "options": {
+   "A": "Torbiel pajęczynówki tylnej jamy czaszki",
+   "B": "Malformację tętniczo-żylną zatoki poprzecznej",
+   "C": "Agenezję ciała modzelowatego",
+   "D": "Cechy zespołu Chiari typu I",
+   "E": "Wodogłowie wewnętrzne znacznego stopnia"
+  },
+  "correct": "D",
+  "explanation": "W większości przypadków kraniosynostozy węgłowej badania neuroobrazowe wykazują cechy zespołu Chiari typu I, co wiąże się z rotacją, deformacją i zmniejszeniem tylnej jamy czaszki."
+ },
+ {
+  "id": "t3-c006-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    14,
+    16
+   ]
+  },
+  "question": "Jak nazywa się charakterystyczny obraz kliniczny wynikający z jednoczesnego przedwczesnego zarośnięcia szwu strzałkowego i obustronnie szwów węgłowych?",
+  "options": {
+   "A": "Mercedes-Benz pattern",
+   "B": "Turricephalia",
+   "C": "Scaphocephalia",
+   "D": "Golf-tee head",
+   "E": "Cloverleaf skull"
+  },
+  "correct": "A",
+  "explanation": "Jednoczesne zarośnięcie szwu strzałkowego i obu szwów węgłowych daje charakterystyczny, wyczuwalny przez skórę wzór wałowatych zgrubień, znany jako Mercedes-Benz pattern."
+ },
+ {
+  "id": "t3-c006-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    14,
+    16
+   ]
+  },
+  "question": "Jaki jest jeden z podstawowych celów leczenia operacyjnego dzieci z izolowanymi kraniosynostozami wymienionych w tekście?",
+  "options": {
+   "A": "Korekcja nieprawidłowego wzorca wzrostu struktur mózgoczaszki i twarzoczaszki",
+   "B": "Wywołanie przedwczesnego zarośnięcia pozostałych szwów czaszkowych",
+   "C": "Zastąpienie kości sklepienia czaszki implantami na stałe",
+   "D": "Wyłącznie poprawa estetyki bez wpływu na czynność narządów",
+   "E": "Zahamowanie całkowitego wzrostu kości czaszki"
+  },
+  "correct": "A",
+  "explanation": "Wśród celów leczenia operacyjnego wymieniono m.in. korekcję nieprawidłowego wzorca wzrostu struktur mózgoczaszki i twarzoczaszki oraz prewencję nadciśnienia śródczaszkowego."
+ },
+ {
+  "id": "t3-c007-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    17,
+    18
+   ]
+  },
+  "question": "Jak nazywa się opisana w tekście modyfikacja cięcia skórnego polegająca na wielokrotnym trójkątnym załamaniu linii cięcia?",
+  "options": {
+   "A": "Cięcie typu bikoronalnego klasycznego",
+   "B": "Cięcie typu stealth",
+   "C": "Cięcie łukowate proste",
+   "D": "Cięcie liniowe przez vertex",
+   "E": "Cięcie punktowe trepanacyjne"
+  },
+  "correct": "B",
+  "explanation": "Cięcie typu stealth polega na wielokrotnym trójkątnym (piłokształtnym) załamaniu linii cięcia w odstępach od 3 do 7 cm, co poprawia efekt estetyczny i adaptację powłok czaszki."
+ },
+ {
+  "id": "t3-c007-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    17,
+    18
+   ]
+  },
+  "question": "Dlaczego linia cięcia skórnego w rekonstrukcji czaszki jest zawsze prowadzona do tyłu od przedniej linii włosów?",
+  "options": {
+   "A": "Aby ułatwić dostęp do mięśni żwaczy",
+   "B": "Aby skrócić czas znieczulenia ogólnego",
+   "C": "Aby ukryć bliznę pooperacyjną w obrębie owłosionej skóry głowy",
+   "D": "Aby zmniejszyć ryzyko uszkodzenia opony twardej",
+   "E": "Aby ograniczyć dostęp do struktur podstawy czaszki"
+  },
+  "correct": "C",
+  "explanation": "Dobór linii cięcia ma znaczenie estetyczne - prowadzenie jej do tyłu od przedniej linii włosów pozwala schować bliznę pooperacyjną w obrębie owłosionej skóry głowy."
+ },
+ {
+  "id": "t3-c007-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    17,
+    18
+   ]
+  },
+  "question": "Jakie struktury odpowiadają głównie za wzrost kości płaskich sklepienia czaszki i dlatego wymagają starannego zachowania oraz zszycia podczas zabiegu?",
+  "options": {
+   "A": "Naczynia oponowe środkowe i żyły diploiczne",
+   "B": "Skóra owłosiona i tkanka podskórna",
+   "C": "Mięśnie skroniowe i powięź głęboka",
+   "D": "Szew strzałkowy i szew wieńcowy",
+   "E": "Okostna i blaszka ścienna opony twardej"
+  },
+  "correct": "E",
+  "explanation": "Tekst wskazuje, że okostna i blaszka ścienna opony twardej są głównymi strukturami odpowiadającymi za wzrost kości płaskich sklepienia czaszki, dlatego ich zachowanie i zszycie są kluczowym etapem zabiegu."
+ },
+ {
+  "id": "t3-c008-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    19,
+    20
+   ]
+  },
+  "question": "Co jest charakterystyczne dla metody rekonstrukcji czaszki z użyciem endoskopu stosowanej w opisywanym ośrodku?",
+  "options": {
+   "A": "Zabieg wykonuje się wyłącznie u dzieci powyżej 5 roku życia",
+   "B": "Zabieg zawsze łączy się z osteotomią Le Fort III",
+   "C": "Zawsze wymagane jest noszenie kasku korygującego przez rok",
+   "D": "Nie stosuje się żadnego rodzaju ortez, w tym kasków",
+   "E": "Metoda wymaga zastosowania implantów tytanowych na stałe"
+  },
+  "correct": "D",
+  "explanation": "W opisywanej metodzie rekonstrukcji czaszki z użyciem endoskopu nie stosuje się żadnego rodzaju ortez, w tym kasków, co umożliwia prawidłowy i swobodny rozwój dojrzewającego mózgowia."
+ },
+ {
+  "id": "t3-c008-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    19,
+    20
+   ]
+  },
+  "question": "Jaką zaletę mają opisane w tekście sprężyny dystrakcyjne jako małoinwazyjna metoda leczenia kraniosynostozy strzałkowej?",
+  "options": {
+   "A": "Eliminują konieczność jakiejkolwiek dalszej diagnostyki obrazowej",
+   "B": "Powodują natychmiastowe, trwałe zamknięcie wszystkich szwów czaszkowych",
+   "C": "Zmniejszają czas trwania zabiegu, śródoperacyjną utratę krwi i czas hospitalizacji",
+   "D": "Umożliwiają całkowite zastąpienie leczenia klasycznego u wszystkich pacjentów",
+   "E": "Nie wymagają żadnego okresu obserwacji pooperacyjnej"
+  },
+  "correct": "C",
+  "explanation": "Podobnie jak metody endoskopowe, zastosowanie sprężyn dystrakcyjnych zmniejsza czas trwania zabiegu, śródoperacyjną utratę krwi oraz skraca czas hospitalizacji."
+ },
+ {
+  "id": "t3-c008-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    19,
+    20
+   ]
+  },
+  "question": "Jak według tekstu przedstawia się sytuacja epidemiologiczna izolowanych kraniosynostoz w Polsce?",
+  "options": {
+   "A": "Spełniają kryteria chorób rzadkich, ale żyje z nimi w Polsce kilka tysięcy osób",
+   "B": "Dotyczą wyłącznie dzieci z rodzin obciążonych wywiadem genetycznym",
+   "C": "Zostały całkowicie wyeliminowane dzięki badaniom prenatalnym",
+   "D": "Są chorobą powszechną, dotyczącą kilku procent populacji",
+   "E": "Występują wyłącznie sporadycznie, pojedyncze przypadki w kraju"
+  },
+  "correct": "A",
+  "explanation": "Tekst podaje, że izolowane kraniosynostozy spełniają kryteria chorób rzadkich, jednak w Polsce żyje z nimi kilka tysięcy osób, a rozpoznanie u wielu z nich bywa ustalane bardzo późno."
+ },
+ {
+  "id": "t3-c011-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    25,
+    27
+   ]
+  },
+  "question": "Jaka mutacja genetyczna jest najczęściej odpowiedzialna za zespół Aperta?",
+  "options": {
+   "A": "Delecja genu FREM1 na chromosomie 9",
+   "B": "Mutacja mitochondrialnego DNA dziedziczona po matce",
+   "C": "Mutacja genu TWIST1 na chromosomie 7",
+   "D": "Heterozygotyczna mutacja genu FGFR2 na chromosomie 10",
+   "E": "Homozygotyczna mutacja genu RAB23 na chromosomie 6"
+  },
+  "correct": "D",
+  "explanation": "Zespół Aperta jest spowodowany heterozygotyczną mutacją genu FGFR2 zlokalizowanego na długim ramieniu chromosomu 10 (10q26), tą samą, która częściowo pokrywa się z mutacjami w zespole Pfeiffera."
+ },
+ {
+  "id": "t3-c011-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    25,
+    27
+   ]
+  },
+  "question": "Które nieprawidłowości twarzoczaszki są charakterystyczne dla dzieci z zespołem Aperta?",
+  "options": {
+   "A": "Izolowane zwężenie przewodów słuchowych zewnętrznych",
+   "B": "Hiperteloryzm, wytrzeszcz i antymongoidalne ustawienie szpar powiekowych",
+   "C": "Prawidłowa budowa podniebienia bez rozszczepu",
+   "D": "Brak zmian ciemiączka przedniego",
+   "E": "Wyłącznie mikrognacja bez zmian w obrębie oczodołów"
+  },
+  "correct": "B",
+  "explanation": "U dzieci z zespołem Aperta typowe są hiperteloryzm, wytrzeszcz, antymongoidalne ustawienie szpar powiekowych oraz opadanie powiek z charakterystyczną deformacją górnej powieki."
+ },
+ {
+  "id": "t3-c011-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    25,
+    27
+   ]
+  },
+  "question": "Kto jako pierwszy opisał zespół Crouzona i jakie cztery fizyczne ustalenia wskazał jako charakterystyczne?",
+  "options": {
+   "A": "Octave Crouzon w 1912 roku - wytrzeszcz, cofnięcie i skrócenie szczęki oraz retrogenię",
+   "B": "Rudolf Virchow w 1851 roku - trzy typy kraniosynostozy strzałkowej",
+   "C": "George Carpenter w 1901 roku - brachydaktylię i klinodaktylię",
+   "D": "Eugène Apert w 1906 roku - polisyndaktylię i akrocefalię",
+   "E": "Harold Pfeiffer w 1964 roku - szerokie kciuki i paluchy"
+  },
+  "correct": "A",
+  "explanation": "Zespół Crouzona został po raz pierwszy opisany w 1912 roku przez francuskiego neurochirurga Octave'a Crouzona, który wskazał na wytrzeszcz, cofnięcie i skrócenie szczęki oraz paradoksalną retrogenię."
+ },
+ {
+  "id": "t3-c012-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    28,
+    32
+   ]
+  },
+  "question": "Która cecha odróżnia najczęściej pacjentów z zespołem Aperta od pacjentów z zespołem Crouzona?",
+  "options": {
+   "A": "U pacjentów z Crouzona częściej występuje polisyndaktylia kończyn",
+   "B": "U pacjentów z Aperta nigdy nie stwierdza się wytrzeszczu gałek ocznych",
+   "C": "U pacjentów z Aperta nie stwierdza się zaburzeń zgryzu",
+   "D": "U pacjentów z Crouzona zawsze występuje upośledzenie umysłowe znacznego stopnia",
+   "E": "U pacjentów z Aperta częściej występuje rozszczep podniebienia i polisyndaktylia"
+  },
+  "correct": "E",
+  "explanation": "Pacjenci z zespołem Aperta wykazują zwykle cięższą deformację, silnie związaną z rozszczepem podniebienia i charakterystyczną polisyndaktylią, czego zwykle nie obserwuje się w zespole Crouzona."
+ },
+ {
+  "id": "t3-c012-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    28,
+    32
+   ]
+  },
+  "question": "Jaka mutacja genu jest odpowiedzialna za zespół Pfeiffera typu 1 wraz z ewentualnym drugim genem?",
+  "options": {
+   "A": "Mutacja genu RAB23",
+   "B": "Delecja genu FREM1",
+   "C": "Mutacja genu FGFR1 lub FGFR2",
+   "D": "Mutacja genu SOX9",
+   "E": "Mutacja genu TWIST1 wyłącznie"
+  },
+  "correct": "C",
+  "explanation": "Zespół Pfeiffera powstaje na tle mutacji genu FGFR1 na chromosomie 8 lub mutacji genu FGFR2 na chromosomie 10, co czyni zespół genetycznie heterogennym."
+ },
+ {
+  "id": "t3-c012-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    28,
+    32
+   ]
+  },
+  "question": "Który podtyp zespołu Pfeiffera wiąże się z czaszką o kształcie liścia koniczyny (cloverleaf skull) i ankylozą łokci?",
+  "options": {
+   "A": "Typ trilobular",
+   "B": "Typ regularny",
+   "C": "Typ 3",
+   "D": "Typ 2",
+   "E": "Typ 1"
+  },
+  "correct": "D",
+  "explanation": "W typie 2 zespołu Pfeiffera występuje znacznego stopnia kraniosynostoza o charakterze czaszki typu liścia koniczyny wraz z brachydaktylią i często ankylozą łokci; dzieci z tym podtypem rokują gorzej niż w typie 1."
+ },
+ {
+  "id": "t3-c013-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    33,
+    35
+   ]
+  },
+  "question": "Jaki jest wzorzec dziedziczenia zespołu Carpentera, odróżniający go od wcześniej opisanych syndromicznych kraniosynostoz?",
+  "options": {
+   "A": "Autosomalny dominujący ze zmienną ekspresją",
+   "B": "Dziedziczenie mitochondrialne",
+   "C": "Sprzężony z chromosomem X recesywny",
+   "D": "Autosomalny recesywny",
+   "E": "Autosomalny dominujący z pełną penetracją"
+  },
+  "correct": "D",
+  "explanation": "Zespół Carpentera różni się od wcześniej opisanych synostoz sposobem dziedziczenia, ponieważ jest dziedziczony autosomalnie recesywnie, co wiąże się z mutacją genu RAB23."
+ },
+ {
+  "id": "t3-c013-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    33,
+    35
+   ]
+  },
+  "question": "Które szwy czaszkowe są najczęściej zajęte we wzorcu skostnienia w zespole Carpentera?",
+  "options": {
+   "A": "Szew łuskowy i węgłowy",
+   "B": "Wyłącznie szew czołowy",
+   "C": "Szwy strzałkowy i węgłowe",
+   "D": "Szwy wieńcowe obustronnie",
+   "E": "Szwy podstawy przedniego dołu czaszki"
+  },
+  "correct": "C",
+  "explanation": "Wzorzec skostnienia u pacjentów z zespołem Carpentera najczęściej dotyczy szwów strzałkowego i węgłowych, co powoduje znaczną asymetrię czaszki."
+ },
+ {
+  "id": "t3-c013-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    33,
+    35
+   ]
+  },
+  "question": "Jakie elementy wywiadu rodzinnego i prenatalnego są szczególnie istotne przy diagnostyce dziecka z podejrzeniem syndromicznej kraniosynostozy?",
+  "options": {
+   "A": "Wyłącznie wynik badania grupy krwi rodziców",
+   "B": "Tylko liczba wcześniejszych ciąż matki, bez innych czynników",
+   "C": "Jedynie wzrost i masa ciała rodziców w chwili poczęcia",
+   "D": "Wyłącznie miejsce zamieszkania rodziny w trakcie ciąży",
+   "E": "Narażenie na czynniki mutagenne, leki, używki oraz infekcje i urazy w ciąży"
+  },
+  "correct": "E",
+  "explanation": "Istotne są informacje o okresie prenatalnym, narażeniu na środowiskowe czynniki mutagenne, takie jak leki, substancje psychoaktywne, alkohol i nikotyna, a także infekcje i urazy w trakcie ciąży."
+ },
+ {
+  "id": "t3-c014-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    36,
+    37
+   ]
+  },
+  "question": "Jakie nieinwazyjne badanie ultrasonograficzne służy do wykluczenia nadciśnienia śródczaszkowego u dzieci z syndromiczną kraniosynostozą?",
+  "options": {
+   "A": "Ultrasonografia jamy brzusznej",
+   "B": "Ultrasonografia stawów biodrowych",
+   "C": "Analiza szerokości pochewek nerwu wzrokowego (ONSD)",
+   "D": "Echokardiografia przezklatkowa",
+   "E": "Dopplerowska ocena tętnic szyjnych"
+  },
+  "correct": "C",
+  "explanation": "Analiza ultrasonograficzna szerokości pochewek nerwu wzrokowego (ONSD) jest opisana jako bardzo dobre nieinwazyjne badanie służące do wykluczenia nadciśnienia śródczaszkowego."
+ },
+ {
+  "id": "t3-c014-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    36,
+    37
+   ]
+  },
+  "question": "Jakie badania genowe powinna obejmować standardowa analiza genetyczna dzieci z syndromicznymi kraniosynostozami?",
+  "options": {
+   "A": "Jedynie oznaczenie grup krwi rodziców",
+   "B": "Wyłącznie badanie kariotypu bez dalszych badań molekularnych",
+   "C": "Kariotyp oraz panel mutacji genów FGFR1, FGFR2, FGFR3, TWIST1 i innych",
+   "D": "Tylko sekwencjonowanie genu RAB23",
+   "E": "Wyłącznie badanie chromosomu Y"
+  },
+  "correct": "C",
+  "explanation": "Standardowa analiza genetyczna powinna obejmować badanie kariotypu oraz co najmniej panelu najczęściej występujących mutacji genowych, m.in. FGFR1, FGFR2, FGFR3, TWIST1 i innych."
+ },
+ {
+  "id": "t3-c014-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    36,
+    37
+   ]
+  },
+  "question": "Jaki jest najczęstszy schemat postępowania chirurgicznego u dzieci z syndromiczną kraniosynostozą opisany w tekście?",
+  "options": {
+   "A": "Jednoczasowa całkowita rekonstrukcja twarzoczaszki w pierwszej dobie życia",
+   "B": "Rozpoczęcie od małoinwazyjnego leczenia endoskopowego, a następnie dystrakcja potyliczno-podpotyliczna",
+   "C": "Wyłącznie leczenie zachowawcze bez interwencji chirurgicznej",
+   "D": "Natychmiastowa osteotomia Le Fort I jako pierwszy etap leczenia",
+   "E": "Leczenie ortodontyczne jako jedyna metoda korekcji zgryzu"
+  },
+  "correct": "B",
+  "explanation": "Najczęstszy schemat postępowania rozpoczyna się od małoinwazyjnego leczenia endoskopowego, a w drugiej kolejności, jeśli jest taka potrzeba, wykonywana jest dystrakcja osteogenetyczna okolicy potyliczno-podpotylicznej."
+ },
+ {
+  "id": "t3-c015-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    38,
+    40
+   ]
+  },
+  "question": "Dlaczego niedorozwój środkowej części twarzy jest szczególnie problematyczny w pierwszych miesiącach życia noworodka z syndromiczną kraniosynostozą?",
+  "options": {
+   "A": "Noworodki oddychają przez nos przez pierwsze kilka miesięcy życia",
+   "B": "W tym okresie niemożliwe jest wykonanie jakichkolwiek badań obrazowych",
+   "C": "W tym okresie nie występuje jeszcze ryzyko obturacyjnego bezdechu sennego",
+   "D": "Noworodki karmione są wyłącznie dożylnie do 6 miesiąca życia",
+   "E": "Noworodki w tym okresie nie mają jeszcze wykształconych dróg oddechowych"
+  },
+  "correct": "A",
+  "explanation": "Ponieważ noworodki oddychają przez nos przez pierwsze kilka miesięcy życia, niedorozwój środkowej części twarzy i dróg oddechowych jest szczególnie problematyczny na tym wczesnym etapie."
+ },
+ {
+  "id": "t3-c015-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    38,
+    40
+   ]
+  },
+  "question": "Jak często obturacyjny bezdech senny występuje u dzieci z syndromiczną kraniosynostozą według przytoczonych danych?",
+  "options": {
+   "A": "U 40-80% dzieci",
+   "B": "U 10-15% dzieci",
+   "C": "Wyłącznie u dzieci po zabiegach neurochirurgicznych",
+   "D": "Praktycznie nigdy nie występuje",
+   "E": "U mniej niż 5% dzieci"
+  },
+  "correct": "A",
+  "explanation": "Tekst podaje, że obturacyjny bezdech senny jest częstym zjawiskiem i dotyczy 40-80% dzieci z syndromiczną kraniosynostozą."
+ },
+ {
+  "id": "t3-c015-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    38,
+    40
+   ]
+  },
+  "question": "Jakie powikłanie oczne może wystąpić u dzieci z ciężkim wytrzeszczem z powodu niedomykania powiek?",
+  "options": {
+   "A": "Wyłącznie krótkowzroczność postępująca",
+   "B": "Zanik nerwu wzrokowego bez związku z powiekami",
+   "C": "Zaćma wrodzona obustronna",
+   "D": "Wysychanie rogówki prowadzące do keratopatii i owrzodzeń",
+   "E": "Jaskra wtórna z podwyższonym ciśnieniem śródgałkowym"
+  },
+  "correct": "D",
+  "explanation": "Niedomykanie powiek przy wytrzeszczu może prowadzić do wysychania rogówki i stanu zapalnego, a utrzymujące się wysychanie grozi keratopatią, otarciami lub owrzodzeniami zagrażającymi utratą wzroku."
+ },
+ {
+  "id": "t3-c016-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    41,
+    43
+   ]
+  },
+  "question": "Dlaczego osteotomia typu Le Fort I zwykle nie jest wykonywana w czasie zabiegu wysunięcia twarzy u dziecka z syndromiczną kraniosynostozą?",
+  "options": {
+   "A": "Ponieważ zabieg ten jest technicznie niemożliwy do wykonania u dzieci",
+   "B": "Ponieważ Le Fort I nie wpływa w ogóle na zgryz pacjenta",
+   "C": "Ponieważ wymaga on dostępu wewnątrzczaszkowego niedostępnego u dzieci",
+   "D": "Ponieważ dalszy wzrost żuchwy sprawia, że wczesna normalizacja okluzji nie zapewnia trwałej stabilności",
+   "E": "Ponieważ powoduje trwałe uszkodzenie nerwu wzrokowego"
+  },
+  "correct": "D",
+  "explanation": "Normalizacja okluzji przed dojrzewaniem nie daje trwałych rezultatów, ponieważ pozostały wzrost żuchwy sprawia, że długoterminowa stabilność jest mało prawdopodobna, dlatego Le Fort I wykonuje się po osiągnięciu dojrzałości szkieletu."
+ },
+ {
+  "id": "t3-c016-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    41,
+    43
+   ]
+  },
+  "question": "W jakim wieku uzasadniona jest ostateczna rekonstrukcja oczodołów i górnych struktur środkowej części twarzy z ponownym wysunięciem czołowo-oczodołowym?",
+  "options": {
+   "A": "18-21 lat",
+   "B": "13-16 lat",
+   "C": "1-2 lata",
+   "D": "3-4 miesiące",
+   "E": "6-9 lat"
+  },
+  "correct": "E",
+  "explanation": "Ostateczna rekonstrukcja jest uzasadniona w wieku od 6 do 9 lat, ponieważ sklepienie czaszki i oczodoły osiągnęły wtedy około 85-90% ich ostatecznych rozmiarów."
+ },
+ {
+  "id": "t3-c016-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    41,
+    43
+   ]
+  },
+  "question": "W jakim przedziale wiekowym zaleca się interwencję ortognatyczną u pacjentów z syndromiczną kraniosynostozą, aby uzyskać optymalną stabilność wyniku?",
+  "options": {
+   "A": "Około 13-15 lat u dziewcząt i 14-16 lat u chłopców",
+   "B": "Około 1-2 lat, niezależnie od płci",
+   "C": "Dopiero po 25 roku życia",
+   "D": "Około 6-7 lat, niezależnie od płci",
+   "E": "Wyłącznie w pierwszej dobie życia"
+  },
+  "correct": "A",
+  "explanation": "Ponieważ żuchwa rośnie do osiągnięcia dojrzałości kostnej, interwencję ortognatyczną zaleca się przeprowadzać nie wcześniej niż w okresie 13-15 lat u dziewcząt i 14-16 lat u chłopców."
+ },
+ {
+  "id": "t3-c017-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    44,
+    45
+   ]
+  },
+  "question": "Czym różni się operacja monoblock advancement (MA) od osteotomii typu Le Fort III w zakresie zajmowanych struktur?",
+  "options": {
+   "A": "Obie procedury nigdy nie obejmują obramowania czołowo-oczodołowego",
+   "B": "Obie procedury są identyczne pod względem zakresu osteotomii",
+   "C": "Le Fort III zawsze obejmuje ruch obramowania czołowo-oczodołowego, a MA tego nie robi",
+   "D": "MA dotyczy wyłącznie żuchwy, a Le Fort III wyłącznie szczęki",
+   "E": "MA obejmuje ruch obramowania czołowo-oczodołowego razem ze środkową częścią twarzy, a Le Fort III go nie obejmuje"
+  },
+  "correct": "E",
+  "explanation": "Operacja MA pozwala na ruch obramowania czołowo-oczodołowego, środkowej części twarzy i szczęki jako jednej całości, podczas gdy operacja typu Le Fort III nie obejmuje obramowania czołowo-oczodołowego."
+ },
+ {
+  "id": "t3-c017-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    44,
+    45
+   ]
+  },
+  "question": "Dlaczego operacja monoblock advancement (MA) jest uważana za bardziej wymagającą technicznie i obarczoną większym ryzykiem powikłań zapalnych niż Le Fort III?",
+  "options": {
+   "A": "MA nie wymaga w ogóle dostępu wewnątrzczaszkowego, w przeciwieństwie do Le Fort III",
+   "B": "MA jest wykonywane wyłącznie u dorosłych pacjentów, co zwiększa ryzyko",
+   "C": "MA nie obejmuje żadnej osteotomii kości jarzmowej",
+   "D": "MA wymaga osteotomii w poprzek podstawy przedniego dołu czaszki, tworząc otwór między jamą nosową a sklepieniem czaszki",
+   "E": "MA wymaga znieczulenia miejscowego zamiast ogólnego"
+  },
+  "correct": "D",
+  "explanation": "MA wymaga dostępu wewnątrzczaszkowego i osteotomii w poprzek podstawy przedniego dołu czaszki, tworząc otwór między jamą nosową a sklepieniem czaszki, co wiąże się z większym ryzykiem powikłań zapalnych, w tym neuroinfekcji."
+ },
+ {
+  "id": "t3-c017-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    44,
+    45
+   ]
+  },
+  "question": "Jaki typ ustawienia szpar powiekowych jest charakterystyczny dla zespołu Aperta w porównaniu z zespołem Crouzona?",
+  "options": {
+   "A": "Skośne ustawienie szpar powiekowych, w przeciwieństwie do prostego ustawienia w zespole Crouzona",
+   "B": "Symetryczne opadanie obu powiek dolnych",
+   "C": "Proste ustawienie szpar powiekowych, tak samo jak w zespole Crouzona",
+   "D": "Pionowe zwężenie szpar powiekowych niewystępujące w Crouzonie",
+   "E": "Brak jakichkolwiek zmian w ustawieniu szpar powiekowych"
+  },
+  "correct": "A",
+  "explanation": "W zespole Crouzona charakterystyczne jest proste ustawienie szpary powiekowej, natomiast w zespole Aperta widoczne jest skośne ustawienie szpar powiekowych wraz z hipoplazją oczodołów i centralnej części twarzy."
+ },
+ {
+  "id": "t3-c018-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    46,
+    50
+   ]
+  },
+  "question": "Które z poniższych NIE jest wymienione jako wskazanie rozszerzające zastosowanie osteogenezy dystrakcyjnej środkowego piętra twarzy?",
+  "options": {
+   "A": "Nasilone epizody bezdechu sennego",
+   "B": "Współistniejąca wrodzona wada serca",
+   "C": "Objawy podwyższonego ciśnienia śródczaszkowego związane z zaburzeniami oddychania",
+   "D": "Wiek pacjenta poniżej 4-5 lat",
+   "E": "Wytrzeszcz zagrażający uszkodzeniem gałek ocznych"
+  },
+  "correct": "B",
+  "explanation": "Tekst wymienia jako rozszerzone wskazania: młody wiek, objawy podwyższonego ICP, wytrzeszcz, bezdechy senne oraz deformację wtórną do ciężkiej deformacji twarzy - wada serca nie jest wymieniona."
+ },
+ {
+  "id": "t3-c018-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    46,
+    50
+   ]
+  },
+  "question": "Jaka jest opisana zaleta osteogenezy dystrakcyjnej typu monoblok w porównaniu z klasyczną osteotomią u pacjentów z przeciwwskazaniami do zabiegu MA?",
+  "options": {
+   "A": "Nie wymaga żadnej kontroli radiologicznej po zabiegu",
+   "B": "Całkowicie eliminuje konieczność stosowania jakiegokolwiek znieczulenia ogólnego",
+   "C": "Pozwala uniknąć uszkodzenia podstawy czaszki dzięki stopniowemu wydłużaniu się blizny w miejscu osteotomii",
+   "D": "Skraca czas hospitalizacji do jednego dnia",
+   "E": "Zastępuje konieczność wykonywania rekonstrukcji sklepienia czaszki"
+  },
+  "correct": "C",
+  "explanation": "Zgodnie z tekstem blizna w miejscu osteotomii poprzez osteodystrakcję powoli się wydłuża, teoretycznie zapobiegając powstaniu martwej przestrzeni u podstawy czaszki i konieczności jej kostnej rekonstrukcji."
+ },
+ {
+  "id": "t3-c018-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    46,
+    50
+   ]
+  },
+  "question": "Jaki zabieg przebył opisywany 3-letni pacjent z zespołem Crouzona w 1. roku życia, jako pierwszy etap leczenia przed procedurą typu MA?",
+  "options": {
+   "A": "Genioplastykę schodkową",
+   "B": "Dystrakcję potylicy (PCVD)",
+   "C": "Kortykotomię z augmentacją",
+   "D": "Zabieg SARPE",
+   "E": "Osteotomię typu Le Fort I"
+  },
+  "correct": "B",
+  "explanation": "Tekst wskazuje, że pacjent w 1. roku życia przebył zabieg dystrakcji potylicy (PCVD - posterior cranial vault distraction) jako pierwszy etap leczenia narastających bezdechów i wzrostu ciśnienia śródczaszkowego."
+ },
+ {
+  "id": "t3-c019-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    51,
+    54
+   ]
+  },
+  "question": "Co u dziecka z syndromiczną kraniosynostozą powinno szczególnie skłaniać do pilnej kontroli neurochirurgicznej z podejrzeniem problemów wewnątrzczaszkowych?",
+  "options": {
+   "A": "Narastające bóle głowy",
+   "B": "Prawidłowy wzrost obwodu głowy",
+   "C": "Regularny sen bez bezdechów",
+   "D": "Brak zmian w badaniu okulistycznym",
+   "E": "Stabilne, dobre wyniki w szkole"
+  },
+  "correct": "A",
+  "explanation": "Tekst wskazuje, że narastające bóle głowy u takich dzieci mogą wskazywać na problemy wewnątrzczaszkowe, obok bardziej subtelnych objawów jak spadek wyników w szkole czy problemy z koordynacją."
+ },
+ {
+  "id": "t3-c019-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    51,
+    54
+   ]
+  },
+  "question": "Jakie badanie okulistyczne zaleca się regularnie wykonywać u dzieci z wadami twarzoczaszki w celu oceny ciśnienia śródczaszkowego?",
+  "options": {
+   "A": "Badanie dna oka wraz z analizą ONSD w badaniu USG",
+   "B": "Pomiar ciśnienia śródgałkowego tonometrem",
+   "C": "Badanie pola widzenia metodą konfrontacji",
+   "D": "Wyłącznie pomiar ostrości wzroku tablicami Snellena",
+   "E": "Ocena barwowidzenia testem Ishihary"
+  },
+  "correct": "A",
+  "explanation": "Zalecane jest, aby dzieci z wadami twarzoczaszki poddawały się regularnym badaniom okulistycznym obejmującym badanie dna oka i analizę ONSD (średnicy osłonki nerwu wzrokowego) w badaniu USG."
+ },
+ {
+  "id": "t3-c019-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    51,
+    54
+   ]
+  },
+  "question": "Co ujawniło się u pacjenta z zespołem Aperta po wysunięciu środkowego piętra twarzy metodą osteotomii LF III?",
+  "options": {
+   "A": "Ustąpienie wszystkich cech zespołu",
+   "B": "Powiększenie zatok szczękowych",
+   "C": "Zanik przegrody nosowej",
+   "D": "Hipoplazja żuchwy",
+   "E": "Nadmierny rozrost kości jarzmowych"
+  },
+  "correct": "D",
+  "explanation": "Po wysunięciu środkowego piętra twarzy u pacjenta z zespołem Aperta ujawniła się hipoplazja żuchwy, co jest typowym efektem odsłonięcia dysproporcji szkieletowej po korekcji szczęki."
+ },
+ {
+  "id": "t3-c020-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    55,
+    56
+   ]
+  },
+  "question": "Jaki odsetek populacji, na podstawie badań z USA, Wielkiej Brytanii, Szwecji i Niemiec, prezentuje różne formy deformacji zwarciowej wymagającej leczenia?",
+  "options": {
+   "A": "Około 15-20%",
+   "B": "Około 40-50%",
+   "C": "Około 90-95%",
+   "D": "Około 70-80%",
+   "E": "Około 5-10%"
+  },
+  "correct": "B",
+  "explanation": "Tekst podaje, że w oparciu o badania w USA, Wielkiej Brytanii, Szwecji i Niemczech około 40-50% populacji prezentuje różne formy deformacji zwarciowej wymagające leczenia."
+ },
+ {
+  "id": "t3-c020-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    55,
+    56
+   ]
+  },
+  "question": "Jaki jest średni wiek pacjentów najczęściej poddawanych zabiegom ortognatycznym według danych przytoczonych w tekście?",
+  "options": {
+   "A": "60,1 roku",
+   "B": "26,7 roku",
+   "C": "45,9 roku",
+   "D": "12,3 roku",
+   "E": "18,0 roku"
+  },
+  "correct": "B",
+  "explanation": "Najczęściej operowani są ludzie w przedziale 17-50 lat, a średni wiek pacjentów wynosi 26,7 roku, co w Polsce stanowi grupę około 1 miliona osób."
+ },
+ {
+  "id": "t3-c020-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    55,
+    56
+   ]
+  },
+  "question": "Co stanowi główny obszar działania chirurga zajmującego się chirurgią ortognatyczną?",
+  "options": {
+   "A": "Leczenie zachowawcze chorób przyzębia",
+   "B": "Protetyczna odbudowa uzębienia",
+   "C": "Leczenie ortodontyczne aparatami ruchomymi",
+   "D": "Chirurgiczna przebudowa szkieletu czaszkowo-twarzowego",
+   "E": "Wyłączne leczenie próchnicy zębów"
+  },
+  "correct": "D",
+  "explanation": "Tekst definiuje, że głównym obszarem działania chirurga ortognatyka jest chirurgiczna przebudowa szkieletu czaszkowo-twarzowego, uzupełniona wybranymi procedurami z innych dziedzin."
+ },
+ {
+  "id": "t3-c021-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    57,
+    58
+   ]
+  },
+  "question": "Wady jakiej klasy wg Angle'a są operowane najczęściej, pomimo relatywnie niskiej częstości występowania w populacji (2-3%)?",
+  "options": {
+   "A": "II klasy",
+   "B": "I klasy",
+   "C": "III klasy",
+   "D": "IV klasy",
+   "E": "0 klasy"
+  },
+  "correct": "C",
+  "explanation": "III klasę prezentuje około 2-3% populacji i jest to deformacja najczęściej operowana, ponieważ najtrudniej ją zamaskować, w przeciwieństwie do częstszej wady II klasy, którą łatwiej skamuflować."
+ },
+ {
+  "id": "t3-c021-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    57,
+    58
+   ]
+  },
+  "question": "Jaka jest najbardziej prawdopodobna i najczęstsza przyczyna deformacji szczękowo-zębowo-twarzowych według tekstu?",
+  "options": {
+   "A": "Procesy rozrostowe typu dysplazja fibrosa",
+   "B": "Dziedziczenie",
+   "C": "Nowotwory twarzoczaszki",
+   "D": "Infekcja okołoporodowa",
+   "E": "Uraz okołoporodowy"
+  },
+  "correct": "B",
+  "explanation": "Tekst wskazuje dziedziczenie jako najbardziej prawdopodobną i najczęstszą przyczynę deformacji - dzieci dziedziczą po rodzicach cechy fizyczne, w tym wady."
+ },
+ {
+  "id": "t3-c021-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    57,
+    58
+   ]
+  },
+  "question": "Jaki odsetek zabiegów ortognatycznych w Europie stanowią, zgodnie z tekstem, operacje dwuszczękowe?",
+  "options": {
+   "A": "31,7%",
+   "B": "9,0%",
+   "C": "15,3%",
+   "D": "67,3%",
+   "E": "45,8%"
+  },
+  "correct": "D",
+  "explanation": "W Europie zdecydowaną większość, tj. 67,3% ogólnej liczby zabiegów, stanowią operacje dwuszczękowe, w przeciwieństwie do USA, gdzie przeważają zabiegi jednoszczękowe."
+ },
+ {
+  "id": "t3-c022-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    59,
+    60
+   ]
+  },
+  "question": "Ile milimetrów dziąsła powinien odsłaniać zdrowy, młody uśmiech u kobiet, zgodnie z przyjętymi normami?",
+  "options": {
+   "A": "Około 3-4 mm",
+   "B": "Około 8-10 mm",
+   "C": "0 mm - dziąsło nie powinno być widoczne",
+   "D": "Około 6-7 mm",
+   "E": "Około 12-15 mm"
+  },
+  "correct": "A",
+  "explanation": "Zdrowy, młody uśmiech powinien u kobiet odsłaniać pas dziąsła wysokości około 3-4 mm, a u mężczyzn 1-2 mm."
+ },
+ {
+  "id": "t3-c022-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    59,
+    60
+   ]
+  },
+  "question": "Na czym polega koncepcja leczenia typu surgery first w chirurgii ortognatycznej?",
+  "options": {
+   "A": "Na wykonywaniu wyłącznie zabiegów jednoszczękowych bez udziału ortodonty",
+   "B": "Na rezygnacji z jakiegokolwiek leczenia ortodontycznego po zabiegu",
+   "C": "Na wykonywaniu zabiegu wyłącznie u pacjentów po zakończeniu wzrostu",
+   "D": "Na wykonaniu zabiegu chirurgicznego przed długim przygotowaniem ortodontycznym, po wspólnej decyzji ortodonty i chirurga",
+   "E": "Na przeprowadzeniu operacji bez wcześniejszego badania zespołowego"
+  },
+  "correct": "D",
+  "explanation": "W metodzie surgery first decyzja o operowaniu przed długim przygotowaniem ortodontycznym jest podejmowana wspólnie przez ortodontę i chirurga, zwykle w przypadkach III klasy o niedużym lub średnim zaawansowaniu."
+ },
+ {
+  "id": "t3-c022-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    59,
+    60
+   ]
+  },
+  "question": "Ile rodzajów zdjęć powinna obejmować minimalna dokumentacja fotograficzna pacjenta kwalifikowanego do leczenia ortognatycznego?",
+  "options": {
+   "A": "Dokładnie trzy",
+   "B": "Co najmniej dziesięć",
+   "C": "Dokładnie dwa",
+   "D": "Co najmniej pięć",
+   "E": "Tylko jedno zdjęcie panoramiczne twarzy"
+  },
+  "correct": "D",
+  "explanation": "Dokumentację fotograficzną trzeba wykonać co najmniej w pięciu ujęciach: zdjęcie z przodu, profile, półprofile, zdjęcie z zagryzioną szpatułką oraz zdjęcia twarzy od góry i od dołu."
+ },
+ {
+  "id": "t3-c023-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    61,
+    62
+   ]
+  },
+  "question": "W jakim wieku zaleca się usuwanie zatrzymanych zębów mądrości przed zabiegiem ortognatycznym, ze względu na niepełne wykształcenie ich korzeni?",
+  "options": {
+   "A": "40-45 lat",
+   "B": "25-30 lat",
+   "C": "18-20 lat",
+   "D": "12-15 lat",
+   "E": "3-5 lat"
+  },
+  "correct": "D",
+  "explanation": "Najlepszym momentem do usuwania zębów mądrości jest wiek 12-15 lat, gdy zęby te nie mają jeszcze w pełni wykształconych korzeni, co ogranicza zabieg do atraumatycznej germektomii."
+ },
+ {
+  "id": "t3-c023-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    61,
+    62
+   ]
+  },
+  "question": "Ile miesięcy przed planowanym zabiegiem ortognatycznym powinny być, zgodnie z ogólną zasadą, usunięte zatrzymane trzecie trzonowce?",
+  "options": {
+   "A": "Dokładnie w dniu zabiegu",
+   "B": "Minimum 1 miesiąc",
+   "C": "Minimum 24 miesiące",
+   "D": "Minimum 6 miesięcy",
+   "E": "Minimum 36 miesięcy"
+  },
+  "correct": "D",
+  "explanation": "Zatrzymane, nieprawidłowo rosnące lub powodujące stłoczenia trzecie trzonowce powinny być usunięte minimum 6 miesięcy przed planowanym zabiegiem ortognatycznym."
+ },
+ {
+  "id": "t3-c023-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    61,
+    62
+   ]
+  },
+  "question": "Na czym polega dekompensacja wady zgryzu w przygotowaniu ortodontycznym do zabiegu ortognatycznego?",
+  "options": {
+   "A": "Na wykonywaniu wyłącznie ekstrakcji zębów bocznych",
+   "B": "Na maskowaniu wady szkieletowej poprzez ustawienie zębów bez zmiany podstaw kostnych",
+   "C": "Na całkowitym zaniechaniu jakiegokolwiek leczenia ortodontycznego",
+   "D": "Na skróceniu leczenia do maksymalnie jednego miesiąca",
+   "E": "Na przemieszczaniu zębów w kierunku pogłębiającym pozornie warunki zwarciowe, aby uzyskać równe łuki zębowe przed osteotomią"
+  },
+  "correct": "E",
+  "explanation": "Dekompensacja polega na ustawieniu zębów w kierunkach odwrotnych do naturalnej kompensacji, co pozornie pogarsza warunki zwarciowe, ale prowadzi do niwelizacji łuków umożliwiającej ich docelowe spasowanie podczas osteotomii."
+ },
+ {
+  "id": "t3-c024-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    63,
+    68
+   ]
+  },
+  "question": "O ile milimetrów można zwykle pogrubić biotyp kostny od strony wargowej metodą tunelowej augmentacji biomateriałem?",
+  "options": {
+   "A": "Około 15-20 mm",
+   "B": "Około 10-12 mm",
+   "C": "Około 25-30 mm",
+   "D": "Około 0,1-0,5 mm",
+   "E": "Około 2-6 mm"
+  },
+  "correct": "E",
+  "explanation": "Metoda tunelowej augmentacji biomateriałem pozwala zwykle uzyskać pogrubienie biotypu od strony wargowej o około 2-6 mm."
+ },
+ {
+  "id": "t3-c024-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    63,
+    68
+   ]
+  },
+  "question": "W jakim czasie po zabiegu kortykotomii działanie ortodontyczne (tzw. uruchomienie) jest najbardziej skuteczne?",
+  "options": {
+   "A": "Dopiero po upływie 6 miesięcy",
+   "B": "W ciągu pierwszych 10 minut po zabiegu",
+   "C": "Nie ma znaczenia, kiedy zostanie podjęte",
+   "D": "Dopiero po całkowitym zagojeniu rany, czyli po roku",
+   "E": "W ciągu pierwszych 72 godzin po zabiegu"
+  },
+  "correct": "E",
+  "explanation": "Ważne jest, aby pacjent miał założony aparat ortodontyczny przed zabiegiem, gdyż uruchomienie ortodontyczne jest najbardziej skuteczne w pierwszych 72 godzinach po kortykotomii."
+ },
+ {
+  "id": "t3-c024-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    63,
+    68
+   ]
+  },
+  "question": "Jaka jest wada kortykotomii zamkniętej w porównaniu z kortykotomią otwartą?",
+  "options": {
+   "A": "Brak możliwości zastosowania piły piezoelektrycznej",
+   "B": "Wielokrotnie większe ryzyko uszkodzenia nerwu bródkowego",
+   "C": "Konieczność wykonania jej wyłącznie w znieczuleniu ogólnym",
+   "D": "Znacznie większa inwazyjność i dłuższy czas gojenia rany",
+   "E": "Mniejsza skuteczność, mniejsze uruchomienie fragmentów kostnych i brak możliwości jednoczesnej augmentacji"
+  },
+  "correct": "E",
+  "explanation": "Wadą kortykotomii zamkniętej jest mniejsza skuteczność, mniejsze uruchomienie fragmentów kostnych, dłuższy czas leczenia oraz brak możliwości jednoczesnej augmentacji i korekty recesji dziąsła."
+ },
+ {
+  "id": "t3-c025-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    69,
+    70
+   ]
+  },
+  "question": "Jaki lek podaje się dożylnie podczas zabiegu SARPE w celu zmniejszenia utraty krwi?",
+  "options": {
+   "A": "Kwas acetylosalicylowy",
+   "B": "Adrenalinę w dużej dawce dożylnej",
+   "C": "Kwas traneksamowy",
+   "D": "Witaminę K",
+   "E": "Heparynę drobnocząsteczkową"
+  },
+  "correct": "C",
+  "explanation": "Aby zmniejszyć utratę krwi podczas SARPE, warto podać dożylnie kwas traneksamowy, zwykle 2 ampułki po 5 mg (preparat handlowy Exacyl)."
+ },
+ {
+  "id": "t3-c025-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    69,
+    70
+   ]
+  },
+  "question": "Na czym polega główna różnica techniczna zabiegu SARPE w stosunku do klasycznej osteotomii szczęki typu Le Fort I?",
+  "options": {
+   "A": "SARPE nie wymaga zastosowania dystraktora podniebiennego",
+   "B": "SARPE wymaga tylko częściowego uruchomienia szczęki, bez manewru odłamania jej w dół (downfracture)",
+   "C": "SARPE polega na całkowitym usunięciu przegrody nosowej",
+   "D": "SARPE wykonywany jest wyłącznie w znieczuleniu miejscowym u dzieci",
+   "E": "SARPE wykonywany jest wyłącznie z dostępu zewnątrzustnego"
+  },
+  "correct": "B",
+  "explanation": "Różnice wynikają z konieczności tylko częściowego uruchomienia szczęki (części zębodołowej wraz z podniebieniem), przez co nie wykonuje się manewru downfracture, co pozwala na mniejszy dostęp przezśluzówkowy."
+ },
+ {
+  "id": "t3-c025-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    69,
+    70
+   ]
+  },
+  "question": "Jaki kształt powinno mieć nacięcie szczęki w linii pośrodkowej podczas SARPE, aby zapewnić symetryczne ustawienie kolca nosowego?",
+  "options": {
+   "A": "Kształt okręgu",
+   "B": "Kształt prostej linii poziomej",
+   "C": "Kształt litery T",
+   "D": "Kształt litery Y",
+   "E": "Kształt litery W"
+  },
+  "correct": "D",
+  "explanation": "Nacięcie kości w linii pośrodkowej powinno mieć kształt litery Y, co gwarantuje symetryczne i stabilne ustawianie się kolca nosowego podczas dystrakcji."
+ },
+ {
+  "id": "t3-c026-001",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    71,
+    77
+   ]
+  },
+  "question": "Jakie urządzenie jest preferowane przez autora do wykonania zabiegu SARME?",
+  "options": {
+   "A": "Standardowy dystraktor zewnętrzny naczaszkowy",
+   "B": "Płytka zwarciowa mocowana wyłącznie na szczęce",
+   "C": "Indywidualnie wykonany aparat ortodontyczny ze śrubą centralną typu Hyrax mocowany od strony językowej",
+   "D": "Implant wewnątrzkostny bez elementów ortodontycznych",
+   "E": "Aparat Damona mocowany od strony przedsionkowej"
+  },
+  "correct": "C",
+  "explanation": "Preferowanym przez autora urządzeniem do SARME jest indywidualnie wykonany aparat ortodontyczny ze śrubą centralną typu Hyrax, mocowany od strony językowej na zębach."
+ },
+ {
+  "id": "t3-c026-002",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    71,
+    77
+   ]
+  },
+  "question": "Co jest wskaźnikiem prawidłowego uruchomienia szczęki podczas wstępnego rozkręcania dystraktora podniebiennego w zabiegu SARPE?",
+  "options": {
+   "A": "Zmniejszenie się szczeliny pomiędzy jedynkami",
+   "B": "Powiększanie się szczeliny pomiędzy jedynkami",
+   "C": "Ustąpienie obrzęku błony śluzowej",
+   "D": "Zmiana koloru błony śluzowej podniebienia",
+   "E": "Wystąpienie krwawienia z nosa"
+  },
+  "correct": "B",
+  "explanation": "Wskaźnikiem prawidłowości uruchomienia szczęki jest powiększanie się szczelin pomiędzy jedynkami (siekaczami centralnymi) w trakcie rozkręcania dystraktora."
+ },
+ {
+  "id": "t3-c026-003",
+  "source": {
+   "book": "Tom3",
+   "pages": [
+    71,
+    77
+   ]
+  },
+  "question": "Jaka jest zaleta dystraktorów podniebiennych działających na zasadzie śruby rzymskiej i przenoszących siły przez kość, w porównaniu z aparatem cementowanym na zębach typu Hyrax?",
+  "options": {
+   "A": "Eliminują całkowicie potrzebę wcześniejszej osteotomii",
+   "B": "Można je stosować wyłącznie u pacjentów bezzębnych",
+   "C": "Nie wymagają w ogóle wsparcia kostnego",
+   "D": "Działają wyłącznie na żuchwę, nigdy na szczękę",
+   "E": "Ułatwiają leczenie w przypadku braków skrzydłowych lub zmian w przyzębiu, bo siły nie działają najpierw na zęby"
+  },
+  "correct": "E",
+  "explanation": "Zaletą dystraktorów przenoszących siły przez kość jest to, że w przypadku braków skrzydłowych bądź zmian w przyzębiu bardzo ułatwia to leczenie, podczas gdy aparat mocowany na zębach działa najpierw na zęby, a dopiero potem na kości."
  }
 ]
