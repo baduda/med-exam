@@ -12,9 +12,12 @@ def validate_question(q: dict) -> list[str]:
     errors: list[str] = []
     if not _nonempty(q.get("id")):
         errors.append("id: empty or missing")
-    for field in ("topic", "question", "explanation"):
+    for field in ("question", "explanation"):
         if not _nonempty(q.get(field)):
             errors.append(f"{field}: empty or missing")
+    # `topic` is optional (no topic filter in the UI); if present it must be a string.
+    if "topic" in q and not isinstance(q["topic"], str):
+        errors.append("topic: must be a string when present")
     opts = q.get("options")
     if not isinstance(opts, dict) or tuple(sorted(opts)) != OPTION_KEYS:
         errors.append("options: must be exactly keys A-E")
