@@ -1,4 +1,9 @@
-"""Extract cleaned, chapter-split text from the source PDFs."""
+"""Extract cleaned per-page text from the source PDFs.
+
+No chapter/section detection — the books are dense and irregularly structured,
+so downstream chunking uses simple word windows over consecutive pages
+(see chunk.py). Each page keeps its 1-based page number for source references.
+"""
 import json
 import re
 import sys
@@ -8,44 +13,22 @@ import fitz  # pymupdf
 
 BOOKS_DIR = Path("books")
 OUT_DIR = Path("data/text")
-# Chapter heading at line start: "9. Title" or "12.3. Title" — we treat the
-# top-level "N. Title" as chapter boundary.
-HEADING_RE = re.compile(r"^(\d+)\.\s+(.+)$", re.MULTILINE)
 
 
 def dehyphenate(text: str) -> str:
-    text = re.sub(r"-\n", "", text)          # join hyphenated line breaks
+    """Join line-break hyphenation and collapse whitespace to single spaces."""
+    text = re.sub(r"-[ \t]*\n", "", text)    # join hyphenated line breaks
     text = re.sub(r"\n+", " ", text)          # remaining newlines -> spaces
     return re.sub(r"[ \t]+", " ", text).strip()
 
 
-def split_chapters(pages: list[dict]) -> list[dict]:
-    """Group pages into chapters by the first top-level 'N. Title' heading seen."""
-    chapters: list[dict] = []
-    current = None
-    for pg in pages:
-        m = HEADING_RE.search(pg["text"])
-        if m:
-            if current:
-                chapters.append(current)
-            current = {"chapter": m.group(1), "title": m.group(2).strip(),
-                       "pages": [pg["page"], pg["page"]], "text": ""}
-        if current is None:
-            current = {"chapter": "0", "title": "front", "pages": [pg["page"], pg["page"]], "text": ""}
-        current["pages"][1] = pg["page"]
-        current["text"] += "\n" + pg["text"]
-    if current:
-        chapters.append(current)
-    for c in chapters:
-        c["text"] = dehyphenate(c["text"])
-    return chapters
-
-
 def extract_book(pdf_path: Path) -> dict:
+    """Return {"book": "Tom2", "pages": [{"page": 1, "text": "..."}, ...]}."""
     doc = fitz.open(pdf_path)
-    pages = [{"page": i + 1, "text": doc[i].get_text()} for i in range(doc.page_count)]
+    pages = [{"page": i + 1, "text": dehyphenate(doc[i].get_text())}
+             for i in range(doc.page_count)]
     book = pdf_path.stem.split(".")[0].strip()  # "Tom2. Mansur Rahnama" -> "Tom2"
-    return {"book": book, "chapters": split_chapters(pages)}
+    return {"book": book, "pages": pages}
 
 
 def main() -> None:
@@ -54,7 +37,8 @@ def main() -> None:
         data = extract_book(pdf)
         out = OUT_DIR / f"{data['book']}.json"
         out.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
-        print(f"{pdf.name}: {len(data['chapters'])} chapters -> {out}")
+        nonempty = sum(1 for p in data["pages"] if p["text"])
+        print(f"{pdf.name}: {len(data['pages'])} pages ({nonempty} with text) -> {out}")
 
 
 if __name__ == "__main__":
