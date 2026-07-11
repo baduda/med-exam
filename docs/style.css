@@ -76,6 +76,7 @@ button:active { transform: translateY(1px); }
 #bar-fill { height: 100%; width: 0; background: linear-gradient(90deg, var(--accent), #37c9b8); transition: width .3s ease; }
 
 #question { font-size: 1.16rem; font-weight: 650; margin: .1rem 0 1rem; white-space: pre-line; }
+[hidden] { display: none !important; }
 .badge {
   display: inline-block; font-size: .72rem; font-weight: 700; letter-spacing: .03em;
   text-transform: uppercase; color: var(--accent); background: var(--accent-soft);
