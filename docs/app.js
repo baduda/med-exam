@@ -23,8 +23,19 @@ function shuffle(a) {
 }
 
 function buildQueue() {
-  const pool = questions.slice();
+  const pool =
+    el("scope").value === "core"
+      ? questions.filter((q) => q.core)
+      : questions.slice();
   return el("mode").value === "random" ? shuffle(pool) : pool;
+}
+
+function renderLoaded() {
+  const core = questions.filter((q) => q.core).length;
+  el("loaded").textContent =
+    el("scope").value === "core"
+      ? `Zakres kluczowy: ${core} pytań (z ${questions.length})`
+      : `Wszystkie pytania: ${questions.length}`;
 }
 
 function renderScore() {
@@ -89,7 +100,7 @@ function choose(q, k, li) {
   saveProgress(s);
 }
 
-el("mode"); // no-op ref; mode read at start
+el("scope").onchange = renderLoaded;
 el("start-btn").onclick = () => {
   queue = buildQueue();
   idx = 0;
@@ -113,7 +124,7 @@ fetch("questions.json")
     answered = s.answered;
     correct = s.correct;
     renderScore();
-    el("loaded").textContent = `Załadowano pytań: ${questions.length}`;
+    renderLoaded();
   })
   .catch(() => {
     el("loaded").textContent = "Nie udało się wczytać pytań (questions.json).";
