@@ -4,10 +4,20 @@ Guidance for AI agents (and humans) working in this repo.
 
 ## What this project is
 
-An interactive MCQ test bank (~1000 questions) built from Polish maxillofacial-surgery
-textbooks, to prepare foreign doctors for the Polish medical verification exam
-(nostryfikacja / LDEW). Two parts: a build pipeline that turns PDFs into
-`data/questions.json`, and a static web app that serves the quiz.
+An interactive MCQ test bank built from Polish dental textbooks, to prepare foreign
+doctors for the Polish medical verification exam (nostryfikacja / LDEW). Two parts:
+a build pipeline that turns PDFs into `data/questions.json`, and a static web app
+that serves the quiz.
+
+Five source books across two domains, declared in `pipeline/books.py`:
+
+| book_id | `source.book` | Title | Domain |
+|---|---|---|---|
+| `t1`/`t2`/`t3` | `Tom1`/`Tom2`/`Tom3` | Rahnama, *Chirurgia stomatologiczna i szczękowo-twarzowa* | chirurgia |
+| `jz` | `Janczuk` | Jańczuk, *Stomatologia zachowawcza z endodoncją* (2014) | zachowawcza |
+| `ae` | `Arabska` | Arabska-Przedpełska, Pawlicka, *Współczesna endodoncja w praktyce* | zachowawcza |
+
+The web app lets the user practise any combination of books.
 
 ## Language rule (important)
 
@@ -18,10 +28,12 @@ textbooks, to prepare foreign doctors for the Polish medical verification exam
 
 ## Layout
 
-- `books/` — source PDFs. **Gitignored** (up to ~200 MB each). Never commit.
-- `pipeline/` — Python: `extract.py`, `chunk.py`, `assemble.py`, `schema.py`.
+- `books/` — source PDFs. **Gitignored** (up to ~800 MB each). Never commit.
+- `pipeline/` — Python: `books.py` (source registry), `extract.py`, `chunk.py`,
+  `assemble.py`, `mark_generated.py`, `schema.py`.
 - `data/` — `chunks/` and `questions/` are intermediate (gitignored); `state.json`
-  tracks progress; `questions.json` is the committed final product.
+  tracks progress; `core.json` lists the LDEK subset ids; `questions.json` is the
+  committed final product.
 - `web/` — static site (GitHub Pages). Ships its own copy of `questions.json`.
 - `docs/superpowers/specs/` — design spec. Read it before changing architecture.
 
@@ -55,10 +67,20 @@ Polish and non-empty. `assemble.py` rejects anything malformed — run it after 
 ## Commands
 
 ```bash
-python pipeline/extract.py     # PDFs -> cleaned chapter text
-python pipeline/chunk.py       # chapters -> data/chunks/*.json
-# (agent generates data/questions/<chapter>.json here)
-python pipeline/assemble.py    # merge + validate -> data/questions.json, copy to web/
+python pipeline/extract.py                       # PDFs -> per-page text
+python pipeline/chunk.py                         # text -> data/chunks/*.json
+# (agents generate data/questions/<chunk>.json here — see pipeline/GENERATION.md)
+python pipeline/mark_generated.py t1-c001 t1-c108  # record a finished wave
+python pipeline/assemble.py                      # merge + validate -> data/questions.json + docs/
+```
+
+One book is an image-only scan and must be OCR'd before extraction. The output is
+what `books.py` registers; the original stays as an ignored source:
+
+```bash
+ocrmypdf -l pol --force-ocr --jobs 8 \
+  "books/Arabska_Przedpełska_B,_Pawlicka_H_Współczesna_endodoncja_w_praktyce.pdf" \
+  books/Arabska_ocr.pdf
 ```
 Serve the app locally: `python -m http.server -d web 8000` then open localhost:8000.
 
@@ -66,7 +88,8 @@ Serve the app locally: `python -m http.server -d web 8000` then open localhost:8
 
 - Python 3.11, standard style; keep pipeline scripts small and single-purpose.
 - Vanilla JS web app — **no build step, no framework** (GitHub Pages serves it raw).
-- IDs: `t{2|3}-ch{NN}-{NNN}` (book, chapter, running number).
+- IDs: `<book_id>-c{NNN}-{NNN}` (book, chunk, running number) — e.g. `jz-c100-002`.
+  Book ids come from `pipeline/books.py`; never derive them from the filename.
 - Don't add: backend, exam/timed mode, LLM review pass — out of scope for v1.
 
 ## Do not
@@ -74,3 +97,7 @@ Serve the app locally: `python -m http.server -d web 8000` then open localhost:8
 - Commit `books/` or intermediate `data/chunks`, `data/questions`.
 - Invent page references — `source.pages` must come from the chunk being used.
 - Mix languages: no English content, no Polish code identifiers.
+- Hand-edit `core` flags into `data/questions.json` — it is a build artifact, and the
+  next `assemble.py` run overwrites it. The subset lives in `data/core.json`.
+- Let generation agents write `data/state.json`, run `assemble.py`, or run `git`.
+  Concurrent writers lose entries; the orchestrator does those steps once per wave.

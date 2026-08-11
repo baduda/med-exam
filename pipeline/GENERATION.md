@@ -9,6 +9,11 @@ API key). Work is resumable via `data/state.json` (`generated` flag per chunk).
    runs `.....`), a bibliography/`Piśmiennictwo` list of "Author A., Author B.:"
    citations, or OCR garble with few full Polish sentences, skip it (mark
    `generated: true`, write no questions). Only generate from real prose.
+   **Also skip historical and institutional chapters** — who headed which
+   department in which years, who is "ojcem polskiej stomatologii", who is the
+   current national consultant. It reads as prose but yields pure trivia that
+   tests nothing a candidate is examined on. Rule of thumb: if the answer is a
+   person, a city or a year, it does not belong in the bank.
 3. Write **2–3** single-best-answer MCQ grounded ONLY in that chunk's text:
    - Format: 5 options A–E, **exactly one correct**, 4 plausible Polish
      distractors (standard single-best-answer — matches LEW/LDEW; no

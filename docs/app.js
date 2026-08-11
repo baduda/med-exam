@@ -1,8 +1,18 @@
 "use strict";
 
 const KEY = "med-exam-progress";
+const BOOKS_KEY = "med-exam-books";
 const LETTERS = ["A", "B", "C", "D", "E"];
 const el = (id) => document.getElementById(id);
+
+// Display order and Polish labels for source.book values (see pipeline/books.py).
+const BOOKS = [
+  ["Tom1", "Rahnama, tom 1"],
+  ["Tom2", "Rahnama, tom 2"],
+  ["Tom3", "Rahnama, tom 3"],
+  ["Janczuk", "Jańczuk — stomatologia zachowawcza"],
+  ["Arabska", "Arabska-Przedpełska — endodoncja"],
+];
 
 let questions = [];
 let queue = [];
@@ -22,20 +32,60 @@ function shuffle(a) {
   return a;
 }
 
+const bookBoxes = () => [...el("books").querySelectorAll("input")];
+const selectedBooks = () =>
+  new Set(bookBoxes().filter((b) => b.checked).map((b) => b.value));
+
+function renderBooks() {
+  const present = BOOKS.filter(([book]) =>
+    questions.some((q) => q.source.book === book));
+  const saved = JSON.parse(localStorage.getItem(BOOKS_KEY) || "null");
+  el("books").innerHTML = "";
+  for (const [book, label] of present) {
+    const count = questions.filter((q) => q.source.book === book).length;
+    const id = `book-${book}`;
+    const wrap = document.createElement("label");
+    wrap.className = "check";
+    wrap.htmlFor = id;
+    const box = document.createElement("input");
+    box.type = "checkbox";
+    box.id = id;
+    box.value = book;
+    box.checked = saved ? saved.includes(book) : true;
+    box.onchange = onBooksChange;
+    wrap.append(box, document.createTextNode(`${label} (${count})`));
+    el("books").appendChild(wrap);
+  }
+  // A saved selection can leave nothing checked if a book later disappears.
+  if (!selectedBooks().size) bookBoxes().forEach((b) => (b.checked = true));
+}
+
+function onBooksChange(e) {
+  // Never let the user deselect everything — there would be nothing to practise.
+  if (!selectedBooks().size) {
+    e.target.checked = true;
+    return;
+  }
+  localStorage.setItem(BOOKS_KEY, JSON.stringify([...selectedBooks()]));
+  renderLoaded();
+}
+
+function pool() {
+  const books = selectedBooks();
+  return questions.filter(
+    (q) => books.has(q.source.book) && (el("scope").value !== "core" || q.core));
+}
+
 function buildQueue() {
-  const pool =
-    el("scope").value === "core"
-      ? questions.filter((q) => q.core)
-      : questions.slice();
-  return el("mode").value === "random" ? shuffle(pool) : pool;
+  const p = pool();
+  return el("mode").value === "random" ? shuffle(p) : p;
 }
 
 function renderLoaded() {
-  const core = questions.filter((q) => q.core).length;
-  el("loaded").textContent =
-    el("scope").value === "core"
-      ? `Zakres kluczowy: ${core} pytań (z ${questions.length})`
-      : `Wszystkie pytania: ${questions.length}`;
+  const n = pool().length;
+  const scope = el("scope").value === "core" ? "Zakres kluczowy" : "Wszystkie pytania";
+  el("loaded").textContent = `${scope}: ${n} pytań (z ${questions.length})`;
+  el("start-btn").disabled = n === 0;
 }
 
 function renderScore() {
@@ -124,6 +174,7 @@ fetch("questions.json")
     answered = s.answered;
     correct = s.correct;
     renderScore();
+    renderBooks();
     renderLoaded();
   })
   .catch(() => {
