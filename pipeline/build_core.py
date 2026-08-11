@@ -1,18 +1,19 @@
 """Rebuild data/core.json — the "Kluczowe (LDEK)" subset of the bank.
 
-The subset is the smaller, higher-yield set a candidate practises first. Two
-sources feed it:
+The subset is the smaller, higher-yield set a candidate practises first. It has
+two parts:
 
-- **Existing entries are preserved.** The Tom2/Tom3 core was hand-ranked for
-  CEM relevance; that judgement is not reproducible from the text, so ids
-  already listed are kept as long as the question still exists.
-- **New books are selected by rule.** Every `combined` and `clinical` question
-  is included (they test reasoning rather than recall), plus one question from
-  any chunk that would otherwise be unrepresented, so no part of a book is
-  missing from the core scope.
+- `data/core_curated.json` — the original Tom2/Tom3 picks, hand-ranked for CEM
+  relevance. That judgement cannot be re-derived from the text, so the file is
+  frozen input: this script only ever reads it.
+- Everything else is selected by rule: every `combined` and `clinical` question
+  (they test reasoning rather than recall), plus one question from any chunk
+  that would otherwise be unrepresented, so no part of a book is missing from
+  the core scope.
 
-Re-run after each generation wave; it is idempotent and only ever grows the
-subset for books it has not covered yet.
+Reads the per-chunk sources under `data/questions/`, NOT the built
+`data/questions.json` — so it can run before or after `assemble.py` and still
+see every question. Re-run after each generation wave; it is idempotent.
 
     python pipeline/build_core.py
 """
@@ -21,7 +22,12 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-BANK = Path("data/questions.json")
+# Allow running as a script (`python pipeline/build_core.py`) as well as a module.
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from pipeline.assemble import load_bank
+
+Q_DIR = Path("data/questions")
+CURATED_FILE = Path("data/core_curated.json")
 CORE_FILE = Path("data/core.json")
 
 
@@ -30,17 +36,17 @@ def chunk_of(question_id: str) -> str:
     return question_id.rsplit("-", 1)[0]
 
 
-def select(bank: list[dict], keep: set[str]) -> set[str]:
-    """Return the core id set: `keep` (still-valid prior picks) plus rule-based
-    picks for every book that has no prior picks at all."""
-    core = {q["id"] for q in bank if q["id"] in keep}
-    covered_books = {q["source"]["book"] for q in bank if q["id"] in core}
+def select(bank: list[dict], curated: set[str]) -> set[str]:
+    """Curated picks that still exist, plus rule-based picks for every book the
+    curated set does not cover."""
+    core = {q["id"] for q in bank if q["id"] in curated}
+    curated_books = {q["source"]["book"] for q in bank if q["id"] in core}
 
-    fresh = [q for q in bank if q["source"]["book"] not in covered_books]
-    core |= {q["id"] for q in fresh if q.get("type") in ("combined", "clinical")}
+    rest = [q for q in bank if q["source"]["book"] not in curated_books]
+    core |= {q["id"] for q in rest if q.get("type") in ("combined", "clinical")}
 
     represented = {chunk_of(qid) for qid in core}
-    for q in sorted(fresh, key=lambda q: q["id"]):
+    for q in sorted(rest, key=lambda q: q["id"]):
         if chunk_of(q["id"]) not in represented:
             core.add(q["id"])
             represented.add(chunk_of(q["id"]))
@@ -48,11 +54,11 @@ def select(bank: list[dict], keep: set[str]) -> set[str]:
 
 
 def main() -> int:
-    bank = json.loads(BANK.read_text(encoding="utf-8"))
-    previous = set(json.loads(CORE_FILE.read_text(encoding="utf-8"))) if CORE_FILE.exists() else set()
-    core = select(bank, previous)
+    bank = load_bank(Q_DIR)
+    curated = set(json.loads(CURATED_FILE.read_text(encoding="utf-8"))) if CURATED_FILE.exists() else set()
+    core = select(bank, curated)
 
-    dropped = previous - core
+    stale = sorted(curated - {q["id"] for q in bank})
     CORE_FILE.write_text(json.dumps(sorted(core), ensure_ascii=False, indent=1), encoding="utf-8")
 
     by_book = Counter(q["source"]["book"] for q in bank if q["id"] in core)
@@ -60,8 +66,8 @@ def main() -> int:
     print(f"core: {len(core)} of {len(bank)} questions -> {CORE_FILE}")
     for book in sorted(total):
         print(f"  {book:<9} {by_book[book]:>4} / {total[book]:>4}")
-    if dropped:
-        print(f"dropped {len(dropped)} id(s) no longer in the bank: {sorted(dropped)[:10]}")
+    if stale:
+        print(f"WARNING: {len(stale)} curated id(s) no longer in the bank: {stale[:10]}")
     missing = sorted(b for b in total if not by_book[b])
     if missing:
         print(f"WARNING: no core questions for {missing}")

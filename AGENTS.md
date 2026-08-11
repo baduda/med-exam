@@ -32,8 +32,8 @@ The web app lets the user practise any combination of books.
 - `pipeline/` — Python: `books.py` (source registry), `extract.py`, `chunk.py`,
   `assemble.py`, `mark_generated.py`, `schema.py`.
 - `data/` — `chunks/` and `questions/` are intermediate (gitignored); `state.json`
-  tracks progress; `core.json` lists the LDEK subset ids; `questions.json` is the
-  committed final product.
+  tracks progress; `core_curated.json` holds the frozen hand-ranked LDEK picks and
+  `core.json` the generated subset; `questions.json` is the committed final product.
 - `web/` — static site (GitHub Pages). Ships its own copy of `questions.json`.
 - `docs/superpowers/specs/` — design spec. Read it before changing architecture.
 
@@ -77,17 +77,23 @@ python pipeline/assemble.py                      # merge + validate -> data/ques
 
 ### The "Kluczowe (LDEK)" subset
 
-`data/core.json` is a committed list of question ids; `assemble.py` stamps
-`core: true` on them. **This file is the only place the subset exists.** It used
-to live solely inside the built `data/questions.json`, so a single `assemble.py`
-run erased 600 curated flags — do not reintroduce that shape.
+`data/core.json` is a generated list of question ids; `assemble.py` stamps
+`core: true` on them. The subset used to live solely inside the built
+`data/questions.json`, so a single `assemble.py` run erased 600 curated flags —
+do not reintroduce that shape.
 
-`pipeline/build_core.py` rebuilds it and is **idempotent**: ids already listed are
-kept (the Tom2/Tom3 ranking was human judgement, not derivable from the text),
-and any book with no picks yet gets every `combined` and `clinical` question plus
-one question from each otherwise-unrepresented chunk. Run it after every
-generation wave, before `assemble.py`. It exits non-zero if some book ends up
-with no core questions at all.
+Two inputs:
+
+- `data/core_curated.json` — the original Tom2/Tom3 picks, hand-ranked for CEM
+  relevance. **Frozen input, read-only for tooling**; that judgement cannot be
+  re-derived from the text.
+- everything else is rule-based: every `combined` and `clinical` question, plus
+  one question from each otherwise-unrepresented chunk.
+
+`pipeline/build_core.py` regenerates `core.json` from both and is **idempotent**.
+It reads the per-chunk sources under `data/questions/`, not the built bank, so it
+can run before or after `assemble.py`. It exits non-zero if a book ends up with
+no core questions at all. Re-run after every generation wave.
 
 ### OCR
 
