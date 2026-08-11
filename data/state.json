@@ -1330,7 +1330,7 @@
     8
    ],
    "words": 926,
-   "generated": false
+   "generated": true
   },
   "jz-c002": {
    "book": "Janczuk",
@@ -1339,7 +1339,7 @@
     13
    ],
    "words": 907,
-   "generated": false
+   "generated": true
   },
   "jz-c003": {
    "book": "Janczuk",
@@ -1348,7 +1348,7 @@
     17
    ],
    "words": 885,
-   "generated": false
+   "generated": true
   },
   "jz-c004": {
    "book": "Janczuk",
@@ -1357,7 +1357,7 @@
     19
    ],
    "words": 705,
-   "generated": false
+   "generated": true
   },
   "jz-c005": {
    "book": "Janczuk",
@@ -1366,7 +1366,7 @@
     22
    ],
    "words": 1081,
-   "generated": false
+   "generated": true
   },
   "jz-c006": {
    "book": "Janczuk",
@@ -1375,7 +1375,7 @@
     26
    ],
    "words": 791,
-   "generated": false
+   "generated": true
   },
   "jz-c007": {
    "book": "Janczuk",
@@ -1384,7 +1384,7 @@
     28
    ],
    "words": 769,
-   "generated": false
+   "generated": true
   },
   "jz-c008": {
    "book": "Janczuk",
@@ -1393,7 +1393,7 @@
     30
    ],
    "words": 830,
-   "generated": false
+   "generated": true
   },
   "jz-c009": {
    "book": "Janczuk",
@@ -1402,7 +1402,7 @@
     33
    ],
    "words": 936,
-   "generated": false
+   "generated": true
   },
   "jz-c010": {
    "book": "Janczuk",
@@ -1411,7 +1411,7 @@
     36
    ],
    "words": 702,
-   "generated": false
+   "generated": true
   },
   "jz-c011": {
    "book": "Janczuk",
@@ -1420,7 +1420,7 @@
     38
    ],
    "words": 724,
-   "generated": false
+   "generated": true
   },
   "jz-c012": {
    "book": "Janczuk",
@@ -1429,7 +1429,7 @@
     42
    ],
    "words": 770,
-   "generated": false
+   "generated": true
   },
   "jz-c013": {
    "book": "Janczuk",
@@ -1438,7 +1438,7 @@
     45
    ],
    "words": 701,
-   "generated": false
+   "generated": true
   },
   "jz-c014": {
    "book": "Janczuk",
@@ -1447,7 +1447,7 @@
     48
    ],
    "words": 778,
-   "generated": false
+   "generated": true
   },
   "jz-c015": {
    "book": "Janczuk",
@@ -1456,7 +1456,7 @@
     51
    ],
    "words": 722,
-   "generated": false
+   "generated": true
   },
   "jz-c016": {
    "book": "Janczuk",
@@ -1465,7 +1465,7 @@
     54
    ],
    "words": 722,
-   "generated": false
+   "generated": true
   },
   "jz-c017": {
    "book": "Janczuk",
@@ -1474,7 +1474,7 @@
     57
    ],
    "words": 961,
-   "generated": false
+   "generated": true
   },
   "jz-c018": {
    "book": "Janczuk",
@@ -1483,7 +1483,7 @@
     59
    ],
    "words": 885,
-   "generated": false
+   "generated": true
   },
   "jz-c019": {
    "book": "Janczuk",
@@ -1492,7 +1492,7 @@
     62
    ],
    "words": 1091,
-   "generated": false
+   "generated": true
   },
   "jz-c020": {
    "book": "Janczuk",
@@ -1501,7 +1501,7 @@
     64
    ],
    "words": 713,
-   "generated": false
+   "generated": true
   },
   "jz-c021": {
    "book": "Janczuk",
@@ -1510,7 +1510,7 @@
     66
    ],
    "words": 770,
-   "generated": false
+   "generated": true
   },
   "jz-c022": {
    "book": "Janczuk",
@@ -1519,7 +1519,7 @@
     68
    ],
    "words": 803,
-   "generated": false
+   "generated": true
   },
   "jz-c023": {
    "book": "Janczuk",
@@ -1528,7 +1528,7 @@
     70
    ],
    "words": 768,
-   "generated": false
+   "generated": true
   },
   "jz-c024": {
    "book": "Janczuk",
@@ -1537,7 +1537,7 @@
     73
    ],
    "words": 752,
-   "generated": false
+   "generated": true
   },
   "jz-c025": {
    "book": "Janczuk",
@@ -1546,7 +1546,7 @@
     75
    ],
    "words": 879,
-   "generated": false
+   "generated": true
   },
   "jz-c026": {
    "book": "Janczuk",
@@ -1555,7 +1555,7 @@
     77
    ],
    "words": 835,
-   "generated": false
+   "generated": true
   },
   "jz-c027": {
    "book": "Janczuk",
@@ -1564,7 +1564,7 @@
     79
    ],
    "words": 805,
-   "generated": false
+   "generated": true
   },
   "jz-c028": {
    "book": "Janczuk",
@@ -1573,7 +1573,7 @@
     81
    ],
    "words": 852,
-   "generated": false
+   "generated": true
   },
   "jz-c029": {
    "book": "Janczuk",
@@ -1582,7 +1582,7 @@
     83
    ],
    "words": 910,
-   "generated": false
+   "generated": true
   },
   "jz-c030": {
    "book": "Janczuk",
@@ -1591,7 +1591,7 @@
     85
    ],
    "words": 748,
-   "generated": false
+   "generated": true
   },
   "jz-c031": {
    "book": "Janczuk",
@@ -1600,7 +1600,7 @@
     88
    ],
    "words": 967,
-   "generated": false
+   "generated": true
   },
   "jz-c032": {
    "book": "Janczuk",
@@ -1609,7 +1609,7 @@
     90
    ],
    "words": 841,
-   "generated": false
+   "generated": true
   },
   "jz-c033": {
    "book": "Janczuk",
@@ -1618,7 +1618,7 @@
     92
    ],
    "words": 719,
-   "generated": false
+   "generated": true
   },
   "jz-c034": {
    "book": "Janczuk",
@@ -1627,7 +1627,7 @@
     95
    ],
    "words": 835,
-   "generated": false
+   "generated": true
   },
   "jz-c035": {
    "book": "Janczuk",
@@ -1636,7 +1636,7 @@
     97
    ],
    "words": 766,
-   "generated": false
+   "generated": true
   },
   "jz-c036": {
    "book": "Janczuk",
@@ -1645,7 +1645,7 @@
     101
    ],
    "words": 723,
-   "generated": false
+   "generated": true
   },
   "jz-c037": {
    "book": "Janczuk",
@@ -1654,7 +1654,7 @@
     104
    ],
    "words": 793,
-   "generated": false
+   "generated": true
   },
   "jz-c038": {
    "book": "Janczuk",
@@ -1663,7 +1663,7 @@
     106
    ],
    "words": 707,
-   "generated": false
+   "generated": true
   },
   "jz-c039": {
    "book": "Janczuk",
@@ -1672,7 +1672,7 @@
     109
    ],
    "words": 1014,
-   "generated": false
+   "generated": true
   },
   "jz-c040": {
    "book": "Janczuk",
@@ -1681,7 +1681,7 @@
     112
    ],
    "words": 825,
-   "generated": false
+   "generated": true
   },
   "jz-c041": {
    "book": "Janczuk",
@@ -1690,7 +1690,7 @@
     114
    ],
    "words": 819,
-   "generated": false
+   "generated": true
   },
   "jz-c042": {
    "book": "Janczuk",
@@ -1699,7 +1699,7 @@
     116
    ],
    "words": 740,
-   "generated": false
+   "generated": true
   },
   "jz-c043": {
    "book": "Janczuk",
@@ -1708,7 +1708,7 @@
     119
    ],
    "words": 756,
-   "generated": false
+   "generated": true
   },
   "jz-c044": {
    "book": "Janczuk",
@@ -1717,7 +1717,7 @@
     121
    ],
    "words": 802,
-   "generated": false
+   "generated": true
   },
   "jz-c045": {
    "book": "Janczuk",
@@ -1726,7 +1726,7 @@
     124
    ],
    "words": 988,
-   "generated": false
+   "generated": true
   },
   "jz-c046": {
    "book": "Janczuk",
@@ -1735,7 +1735,7 @@
     129
    ],
    "words": 1067,
-   "generated": false
+   "generated": true
   },
   "jz-c047": {
    "book": "Janczuk",
@@ -1744,7 +1744,7 @@
     132
    ],
    "words": 771,
-   "generated": false
+   "generated": true
   },
   "jz-c048": {
    "book": "Janczuk",
@@ -1753,7 +1753,7 @@
     135
    ],
    "words": 912,
-   "generated": false
+   "generated": true
   },
   "jz-c049": {
    "book": "Janczuk",
@@ -1762,7 +1762,7 @@
     138
    ],
    "words": 1058,
-   "generated": false
+   "generated": true
   },
   "jz-c050": {
    "book": "Janczuk",
@@ -1771,7 +1771,7 @@
     140
    ],
    "words": 700,
-   "generated": false
+   "generated": true
   },
   "jz-c051": {
    "book": "Janczuk",
@@ -1780,7 +1780,7 @@
     142
    ],
    "words": 735,
-   "generated": false
+   "generated": true
   },
   "jz-c052": {
    "book": "Janczuk",
@@ -1789,7 +1789,7 @@
     146
    ],
    "words": 889,
-   "generated": false
+   "generated": true
   },
   "jz-c053": {
    "book": "Janczuk",
@@ -1798,7 +1798,7 @@
     148
    ],
    "words": 883,
-   "generated": false
+   "generated": true
   },
   "jz-c054": {
    "book": "Janczuk",
@@ -1807,7 +1807,7 @@
     150
    ],
    "words": 891,
-   "generated": false
+   "generated": true
   },
   "jz-c055": {
    "book": "Janczuk",
@@ -1816,7 +1816,7 @@
     152
    ],
    "words": 847,
-   "generated": false
+   "generated": true
   },
   "jz-c056": {
    "book": "Janczuk",
@@ -1825,7 +1825,7 @@
     155
    ],
    "words": 961,
-   "generated": false
+   "generated": true
   },
   "jz-c057": {
    "book": "Janczuk",
@@ -1834,7 +1834,7 @@
     158
    ],
    "words": 706,
-   "generated": false
+   "generated": true
   },
   "jz-c058": {
    "book": "Janczuk",
@@ -1843,7 +1843,7 @@
     160
    ],
    "words": 749,
-   "generated": false
+   "generated": true
   },
   "jz-c059": {
    "book": "Janczuk",
@@ -1852,7 +1852,7 @@
     163
    ],
    "words": 965,
-   "generated": false
+   "generated": true
   },
   "jz-c060": {
    "book": "Janczuk",
@@ -1861,7 +1861,7 @@
     167
    ],
    "words": 1065,
-   "generated": false
+   "generated": true
   },
   "jz-c061": {
    "book": "Janczuk",
@@ -1870,7 +1870,7 @@
     169
    ],
    "words": 888,
-   "generated": false
+   "generated": true
   },
   "jz-c062": {
    "book": "Janczuk",
@@ -1879,7 +1879,7 @@
     171
    ],
    "words": 729,
-   "generated": false
+   "generated": true
   },
   "jz-c063": {
    "book": "Janczuk",
@@ -1888,7 +1888,7 @@
     174
    ],
    "words": 814,
-   "generated": false
+   "generated": true
   },
   "jz-c064": {
    "book": "Janczuk",
@@ -1897,7 +1897,7 @@
     176
    ],
    "words": 835,
-   "generated": false
+   "generated": true
   },
   "jz-c065": {
    "book": "Janczuk",
@@ -1906,7 +1906,7 @@
     178
    ],
    "words": 719,
-   "generated": false
+   "generated": true
   },
   "jz-c066": {
    "book": "Janczuk",
@@ -1915,7 +1915,7 @@
     181
    ],
    "words": 1068,
-   "generated": false
+   "generated": true
   },
   "jz-c067": {
    "book": "Janczuk",
@@ -1924,7 +1924,7 @@
     184
    ],
    "words": 788,
-   "generated": false
+   "generated": true
   },
   "jz-c068": {
    "book": "Janczuk",
@@ -1933,7 +1933,7 @@
     187
    ],
    "words": 1013,
-   "generated": false
+   "generated": true
   },
   "jz-c069": {
    "book": "Janczuk",
@@ -1942,7 +1942,7 @@
     189
    ],
    "words": 786,
-   "generated": false
+   "generated": true
   },
   "jz-c070": {
    "book": "Janczuk",
@@ -1951,7 +1951,7 @@
     191
    ],
    "words": 991,
-   "generated": false
+   "generated": true
   },
   "jz-c071": {
    "book": "Janczuk",
@@ -1960,7 +1960,7 @@
     193
    ],
    "words": 736,
-   "generated": false
+   "generated": true
   },
   "jz-c072": {
    "book": "Janczuk",
@@ -1969,7 +1969,7 @@
     195
    ],
    "words": 722,
-   "generated": false
+   "generated": true
   },
   "jz-c073": {
    "book": "Janczuk",
@@ -1978,7 +1978,7 @@
     197
    ],
    "words": 793,
-   "generated": false
+   "generated": true
   },
   "jz-c074": {
    "book": "Janczuk",
@@ -1987,7 +1987,7 @@
     200
    ],
    "words": 930,
-   "generated": false
+   "generated": true
   },
   "jz-c075": {
    "book": "Janczuk",
@@ -1996,7 +1996,7 @@
     203
    ],
    "words": 827,
-   "generated": false
+   "generated": true
   },
   "jz-c076": {
    "book": "Janczuk",
@@ -2005,7 +2005,7 @@
     205
    ],
    "words": 895,
-   "generated": false
+   "generated": true
   },
   "jz-c077": {
    "book": "Janczuk",
@@ -2014,7 +2014,7 @@
     208
    ],
    "words": 1038,
-   "generated": false
+   "generated": true
   },
   "jz-c078": {
    "book": "Janczuk",
@@ -2023,7 +2023,7 @@
     211
    ],
    "words": 1057,
-   "generated": false
+   "generated": true
   },
   "jz-c079": {
    "book": "Janczuk",
@@ -2032,7 +2032,7 @@
     213
    ],
    "words": 910,
-   "generated": false
+   "generated": true
   },
   "jz-c080": {
    "book": "Janczuk",
@@ -2041,7 +2041,7 @@
     215
    ],
    "words": 849,
-   "generated": false
+   "generated": true
   },
   "jz-c081": {
    "book": "Janczuk",
@@ -2050,7 +2050,7 @@
     217
    ],
    "words": 716,
-   "generated": false
+   "generated": true
   },
   "jz-c082": {
    "book": "Janczuk",
@@ -2059,7 +2059,7 @@
     219
    ],
    "words": 796,
-   "generated": false
+   "generated": true
   },
   "jz-c083": {
    "book": "Janczuk",
@@ -2068,7 +2068,7 @@
     222
    ],
    "words": 1038,
-   "generated": false
+   "generated": true
   },
   "jz-c084": {
    "book": "Janczuk",
@@ -2077,7 +2077,7 @@
     224
    ],
    "words": 703,
-   "generated": false
+   "generated": true
   },
   "jz-c085": {
    "book": "Janczuk",
@@ -2086,7 +2086,7 @@
     229
    ],
    "words": 1064,
-   "generated": false
+   "generated": true
   },
   "jz-c086": {
    "book": "Janczuk",
@@ -2095,7 +2095,7 @@
     232
    ],
    "words": 969,
-   "generated": false
+   "generated": true
   },
   "jz-c087": {
    "book": "Janczuk",
@@ -2104,7 +2104,7 @@
     235
    ],
    "words": 1032,
-   "generated": false
+   "generated": true
   },
   "jz-c088": {
    "book": "Janczuk",
@@ -2113,7 +2113,7 @@
     237
    ],
    "words": 866,
-   "generated": false
+   "generated": true
   },
   "jz-c089": {
    "book": "Janczuk",
@@ -2122,7 +2122,7 @@
     240
    ],
    "words": 953,
-   "generated": false
+   "generated": true
   },
   "jz-c090": {
    "book": "Janczuk",
@@ -2131,7 +2131,7 @@
     244
    ],
    "words": 942,
-   "generated": false
+   "generated": true
   },
   "jz-c091": {
    "book": "Janczuk",
@@ -2140,7 +2140,7 @@
     247
    ],
    "words": 907,
-   "generated": false
+   "generated": true
   },
   "jz-c092": {
    "book": "Janczuk",
@@ -2149,7 +2149,7 @@
     249
    ],
    "words": 837,
-   "generated": false
+   "generated": true
   },
   "jz-c093": {
    "book": "Janczuk",
@@ -2158,7 +2158,7 @@
     251
    ],
    "words": 737,
-   "generated": false
+   "generated": true
   },
   "jz-c094": {
    "book": "Janczuk",
@@ -2167,7 +2167,7 @@
     254
    ],
    "words": 819,
-   "generated": false
+   "generated": true
   },
   "jz-c095": {
    "book": "Janczuk",
@@ -2176,7 +2176,7 @@
     256
    ],
    "words": 849,
-   "generated": false
+   "generated": true
   },
   "jz-c096": {
    "book": "Janczuk",
@@ -2185,7 +2185,7 @@
     258
    ],
    "words": 911,
-   "generated": false
+   "generated": true
   },
   "jz-c097": {
    "book": "Janczuk",
@@ -2194,7 +2194,7 @@
     260
    ],
    "words": 893,
-   "generated": false
+   "generated": true
   },
   "jz-c098": {
    "book": "Janczuk",
@@ -2203,7 +2203,7 @@
     263
    ],
    "words": 763,
-   "generated": false
+   "generated": true
   },
   "jz-c099": {
    "book": "Janczuk",
@@ -2212,7 +2212,7 @@
     266
    ],
    "words": 713,
-   "generated": false
+   "generated": true
   },
   "jz-c100": {
    "book": "Janczuk",
@@ -2221,7 +2221,7 @@
     268
    ],
    "words": 856,
-   "generated": false
+   "generated": true
   },
   "jz-c101": {
    "book": "Janczuk",
@@ -2230,7 +2230,7 @@
     271
    ],
    "words": 928,
-   "generated": false
+   "generated": true
   },
   "jz-c102": {
    "book": "Janczuk",
@@ -2239,7 +2239,7 @@
     274
    ],
    "words": 750,
-   "generated": false
+   "generated": true
   },
   "jz-c103": {
    "book": "Janczuk",
@@ -2248,7 +2248,7 @@
     276
    ],
    "words": 738,
-   "generated": false
+   "generated": true
   },
   "jz-c104": {
    "book": "Janczuk",
@@ -2257,7 +2257,7 @@
     279
    ],
    "words": 830,
-   "generated": false
+   "generated": true
   },
   "jz-c105": {
    "book": "Janczuk",
@@ -2266,7 +2266,7 @@
     281
    ],
    "words": 718,
-   "generated": false
+   "generated": true
   },
   "jz-c106": {
    "book": "Janczuk",
@@ -2275,7 +2275,7 @@
     283
    ],
    "words": 856,
-   "generated": false
+   "generated": true
   },
   "jz-c107": {
    "book": "Janczuk",
@@ -2284,7 +2284,7 @@
     286
    ],
    "words": 928,
-   "generated": false
+   "generated": true
   },
   "jz-c108": {
    "book": "Janczuk",
@@ -2293,7 +2293,7 @@
     289
    ],
    "words": 1087,
-   "generated": false
+   "generated": true
   },
   "jz-c109": {
    "book": "Janczuk",
@@ -2302,7 +2302,7 @@
     291
    ],
    "words": 893,
-   "generated": false
+   "generated": true
   },
   "jz-c110": {
    "book": "Janczuk",
@@ -2311,7 +2311,7 @@
     294
    ],
    "words": 760,
-   "generated": false
+   "generated": true
   },
   "jz-c111": {
    "book": "Janczuk",
@@ -2320,7 +2320,7 @@
     296
    ],
    "words": 702,
-   "generated": false
+   "generated": true
   },
   "jz-c112": {
    "book": "Janczuk",
@@ -2329,7 +2329,7 @@
     298
    ],
    "words": 861,
-   "generated": false
+   "generated": true
   },
   "jz-c113": {
    "book": "Janczuk",
@@ -2338,7 +2338,7 @@
     300
    ],
    "words": 781,
-   "generated": false
+   "generated": true
   },
   "jz-c114": {
    "book": "Janczuk",
@@ -2347,7 +2347,7 @@
     302
    ],
    "words": 739,
-   "generated": false
+   "generated": true
   },
   "jz-c115": {
    "book": "Janczuk",
@@ -2356,7 +2356,7 @@
     304
    ],
    "words": 852,
-   "generated": false
+   "generated": true
   },
   "jz-c116": {
    "book": "Janczuk",
@@ -2365,7 +2365,7 @@
     307
    ],
    "words": 969,
-   "generated": false
+   "generated": true
   },
   "jz-c117": {
    "book": "Janczuk",
@@ -2374,7 +2374,7 @@
     311
    ],
    "words": 1011,
-   "generated": false
+   "generated": true
   },
   "jz-c118": {
    "book": "Janczuk",
@@ -2383,7 +2383,7 @@
     314
    ],
    "words": 932,
-   "generated": false
+   "generated": true
   },
   "jz-c119": {
    "book": "Janczuk",
@@ -2392,7 +2392,7 @@
     318
    ],
    "words": 932,
-   "generated": false
+   "generated": true
   },
   "jz-c120": {
    "book": "Janczuk",
@@ -2401,7 +2401,7 @@
     320
    ],
    "words": 816,
-   "generated": false
+   "generated": true
   },
   "jz-c121": {
    "book": "Janczuk",
@@ -2410,7 +2410,7 @@
     323
    ],
    "words": 756,
-   "generated": false
+   "generated": true
   },
   "jz-c122": {
    "book": "Janczuk",
@@ -2419,7 +2419,7 @@
     327
    ],
    "words": 1006,
-   "generated": false
+   "generated": true
   },
   "jz-c123": {
    "book": "Janczuk",
@@ -2428,7 +2428,7 @@
     331
    ],
    "words": 855,
-   "generated": false
+   "generated": true
   },
   "jz-c124": {
    "book": "Janczuk",
@@ -2437,7 +2437,7 @@
     334
    ],
    "words": 789,
-   "generated": false
+   "generated": true
   },
   "jz-c125": {
    "book": "Janczuk",
@@ -2446,7 +2446,7 @@
     337
    ],
    "words": 817,
-   "generated": false
+   "generated": true
   },
   "jz-c126": {
    "book": "Janczuk",
@@ -2455,7 +2455,7 @@
     340
    ],
    "words": 719,
-   "generated": false
+   "generated": true
   },
   "jz-c127": {
    "book": "Janczuk",
@@ -2464,7 +2464,7 @@
     343
    ],
    "words": 718,
-   "generated": false
+   "generated": true
   },
   "jz-c128": {
    "book": "Janczuk",
@@ -2473,7 +2473,7 @@
     346
    ],
    "words": 941,
-   "generated": false
+   "generated": true
   },
   "jz-c129": {
    "book": "Janczuk",
@@ -2482,7 +2482,7 @@
     349
    ],
    "words": 712,
-   "generated": false
+   "generated": true
   },
   "jz-c130": {
    "book": "Janczuk",
@@ -2491,7 +2491,7 @@
     352
    ],
    "words": 912,
-   "generated": false
+   "generated": true
   },
   "jz-c131": {
    "book": "Janczuk",
@@ -2500,7 +2500,7 @@
     354
    ],
    "words": 719,
-   "generated": false
+   "generated": true
   },
   "jz-c132": {
    "book": "Janczuk",
@@ -2509,7 +2509,7 @@
     356
    ],
    "words": 734,
-   "generated": false
+   "generated": true
   },
   "jz-c133": {
    "book": "Janczuk",
@@ -2518,7 +2518,7 @@
     358
    ],
    "words": 703,
-   "generated": false
+   "generated": true
   },
   "jz-c134": {
    "book": "Janczuk",
@@ -2527,7 +2527,7 @@
     360
    ],
    "words": 774,
-   "generated": false
+   "generated": true
   },
   "jz-c135": {
    "book": "Janczuk",
@@ -2536,7 +2536,7 @@
     362
    ],
    "words": 858,
-   "generated": false
+   "generated": true
   },
   "jz-c136": {
    "book": "Janczuk",
@@ -2545,7 +2545,7 @@
     364
    ],
    "words": 889,
-   "generated": false
+   "generated": true
   },
   "jz-c137": {
    "book": "Janczuk",
@@ -2554,7 +2554,7 @@
     366
    ],
    "words": 857,
-   "generated": false
+   "generated": true
   },
   "jz-c138": {
    "book": "Janczuk",
@@ -2563,7 +2563,7 @@
     368
    ],
    "words": 710,
-   "generated": false
+   "generated": true
   },
   "jz-c139": {
    "book": "Janczuk",
@@ -2572,7 +2572,7 @@
     371
    ],
    "words": 929,
-   "generated": false
+   "generated": true
   },
   "jz-c140": {
    "book": "Janczuk",
@@ -2581,7 +2581,7 @@
     374
    ],
    "words": 853,
-   "generated": false
+   "generated": true
   },
   "jz-c141": {
    "book": "Janczuk",
@@ -2590,7 +2590,7 @@
     376
    ],
    "words": 786,
-   "generated": false
+   "generated": true
   },
   "jz-c142": {
    "book": "Janczuk",
@@ -2599,7 +2599,7 @@
     378
    ],
    "words": 843,
-   "generated": false
+   "generated": true
   },
   "jz-c143": {
    "book": "Janczuk",
@@ -2608,7 +2608,7 @@
     381
    ],
    "words": 878,
-   "generated": false
+   "generated": true
   },
   "jz-c144": {
    "book": "Janczuk",
@@ -2617,7 +2617,7 @@
     384
    ],
    "words": 1032,
-   "generated": false
+   "generated": true
   },
   "jz-c145": {
    "book": "Janczuk",
@@ -2626,7 +2626,7 @@
     386
    ],
    "words": 785,
-   "generated": false
+   "generated": true
   },
   "jz-c146": {
    "book": "Janczuk",
@@ -2635,7 +2635,7 @@
     389
    ],
    "words": 749,
-   "generated": false
+   "generated": true
   },
   "jz-c147": {
    "book": "Janczuk",
@@ -2644,7 +2644,7 @@
     391
    ],
    "words": 786,
-   "generated": false
+   "generated": true
   },
   "jz-c148": {
    "book": "Janczuk",
@@ -2653,7 +2653,7 @@
     393
    ],
    "words": 725,
-   "generated": false
+   "generated": true
   },
   "jz-c149": {
    "book": "Janczuk",
@@ -2662,7 +2662,7 @@
     396
    ],
    "words": 899,
-   "generated": false
+   "generated": true
   },
   "jz-c150": {
    "book": "Janczuk",
@@ -2671,7 +2671,7 @@
     401
    ],
    "words": 890,
-   "generated": false
+   "generated": true
   },
   "jz-c151": {
    "book": "Janczuk",
@@ -2680,7 +2680,7 @@
     404
    ],
    "words": 1145,
-   "generated": false
+   "generated": true
   },
   "jz-c152": {
    "book": "Janczuk",
@@ -2689,7 +2689,7 @@
     407
    ],
    "words": 875,
-   "generated": false
+   "generated": true
   },
   "jz-c153": {
    "book": "Janczuk",
@@ -2698,7 +2698,7 @@
     410
    ],
    "words": 992,
-   "generated": false
+   "generated": true
   },
   "jz-c154": {
    "book": "Janczuk",
@@ -2707,7 +2707,7 @@
     413
    ],
    "words": 832,
-   "generated": false
+   "generated": true
   },
   "jz-c155": {
    "book": "Janczuk",
@@ -2716,7 +2716,7 @@
     415
    ],
    "words": 832,
-   "generated": false
+   "generated": true
   },
   "jz-c156": {
    "book": "Janczuk",
@@ -2725,7 +2725,7 @@
     417
    ],
    "words": 776,
-   "generated": false
+   "generated": true
   },
   "jz-c157": {
    "book": "Janczuk",
@@ -2734,7 +2734,7 @@
     419
    ],
    "words": 841,
-   "generated": false
+   "generated": true
   },
   "jz-c158": {
    "book": "Janczuk",
@@ -2743,7 +2743,7 @@
     421
    ],
    "words": 753,
-   "generated": false
+   "generated": true
   },
   "jz-c159": {
    "book": "Janczuk",
@@ -2752,7 +2752,7 @@
     423
    ],
    "words": 809,
-   "generated": false
+   "generated": true
   },
   "jz-c160": {
    "book": "Janczuk",
@@ -2761,7 +2761,7 @@
     426
    ],
    "words": 824,
-   "generated": false
+   "generated": true
   },
   "jz-c161": {
    "book": "Janczuk",
@@ -2770,7 +2770,7 @@
     428
    ],
    "words": 709,
-   "generated": false
+   "generated": true
   },
   "jz-c162": {
    "book": "Janczuk",
@@ -2779,7 +2779,7 @@
     431
    ],
    "words": 1098,
-   "generated": false
+   "generated": true
   },
   "jz-c163": {
    "book": "Janczuk",
@@ -2788,7 +2788,7 @@
     434
    ],
    "words": 1112,
-   "generated": false
+   "generated": true
   },
   "jz-c164": {
    "book": "Janczuk",
@@ -2797,7 +2797,7 @@
     436
    ],
    "words": 895,
-   "generated": false
+   "generated": true
   },
   "jz-c165": {
    "book": "Janczuk",
@@ -2806,7 +2806,7 @@
     438
    ],
    "words": 775,
-   "generated": false
+   "generated": true
   },
   "jz-c166": {
    "book": "Janczuk",
@@ -2815,7 +2815,7 @@
     441
    ],
    "words": 1010,
-   "generated": false
+   "generated": true
   },
   "jz-c167": {
    "book": "Janczuk",
@@ -2824,7 +2824,7 @@
     443
    ],
    "words": 867,
-   "generated": false
+   "generated": true
   },
   "jz-c168": {
    "book": "Janczuk",
@@ -2833,7 +2833,7 @@
     445
    ],
    "words": 858,
-   "generated": false
+   "generated": true
   },
   "jz-c169": {
    "book": "Janczuk",
@@ -2842,7 +2842,7 @@
     447
    ],
    "words": 879,
-   "generated": false
+   "generated": true
   },
   "jz-c170": {
    "book": "Janczuk",
@@ -2851,7 +2851,7 @@
     449
    ],
    "words": 903,
-   "generated": false
+   "generated": true
   },
   "jz-c171": {
    "book": "Janczuk",
@@ -2860,7 +2860,7 @@
     451
    ],
    "words": 857,
-   "generated": false
+   "generated": true
   },
   "jz-c172": {
    "book": "Janczuk",
@@ -2869,7 +2869,7 @@
     453
    ],
    "words": 722,
-   "generated": false
+   "generated": true
   },
   "jz-c173": {
    "book": "Janczuk",
@@ -2878,7 +2878,7 @@
     456
    ],
    "words": 974,
-   "generated": false
+   "generated": true
   },
   "jz-c174": {
    "book": "Janczuk",
@@ -2887,7 +2887,7 @@
     458
    ],
    "words": 799,
-   "generated": false
+   "generated": true
   },
   "jz-c175": {
    "book": "Janczuk",
@@ -2896,7 +2896,7 @@
     460
    ],
    "words": 764,
-   "generated": false
+   "generated": true
   },
   "jz-c176": {
    "book": "Janczuk",
@@ -2905,7 +2905,7 @@
     464
    ],
    "words": 912,
-   "generated": false
+   "generated": true
   },
   "jz-c177": {
    "book": "Janczuk",
@@ -2914,7 +2914,7 @@
     467
    ],
    "words": 878,
-   "generated": false
+   "generated": true
   },
   "jz-c178": {
    "book": "Janczuk",
@@ -2923,7 +2923,7 @@
     472
    ],
    "words": 817,
-   "generated": false
+   "generated": true
   },
   "jz-c179": {
    "book": "Janczuk",
@@ -2932,7 +2932,7 @@
     477
    ],
    "words": 701,
-   "generated": false
+   "generated": true
   },
   "jz-c180": {
    "book": "Janczuk",
@@ -2941,7 +2941,7 @@
     480
    ],
    "words": 836,
-   "generated": false
+   "generated": true
   },
   "jz-c181": {
    "book": "Janczuk",
@@ -2950,7 +2950,7 @@
     483
    ],
    "words": 921,
-   "generated": false
+   "generated": true
   },
   "jz-c182": {
    "book": "Janczuk",
@@ -2959,7 +2959,7 @@
     486
    ],
    "words": 825,
-   "generated": false
+   "generated": true
   },
   "jz-c183": {
    "book": "Janczuk",
@@ -2968,7 +2968,7 @@
     490
    ],
    "words": 1002,
-   "generated": false
+   "generated": true
   },
   "jz-c184": {
    "book": "Janczuk",
@@ -2977,7 +2977,7 @@
     493
    ],
    "words": 863,
-   "generated": false
+   "generated": true
   },
   "jz-c185": {
    "book": "Janczuk",
@@ -2986,7 +2986,7 @@
     497
    ],
    "words": 894,
-   "generated": false
+   "generated": true
   },
   "jz-c186": {
    "book": "Janczuk",
@@ -2995,7 +2995,7 @@
     502
    ],
    "words": 982,
-   "generated": false
+   "generated": true
   },
   "jz-c187": {
    "book": "Janczuk",
@@ -3004,7 +3004,7 @@
     504
    ],
    "words": 853,
-   "generated": false
+   "generated": true
   },
   "jz-c188": {
    "book": "Janczuk",
@@ -3013,7 +3013,7 @@
     506
    ],
    "words": 792,
-   "generated": false
+   "generated": true
   },
   "jz-c189": {
    "book": "Janczuk",
@@ -3022,7 +3022,7 @@
     508
    ],
    "words": 784,
-   "generated": false
+   "generated": true
   },
   "jz-c190": {
    "book": "Janczuk",
@@ -3031,7 +3031,7 @@
     511
    ],
    "words": 1104,
-   "generated": false
+   "generated": true
   },
   "jz-c191": {
    "book": "Janczuk",
@@ -3040,7 +3040,7 @@
     513
    ],
    "words": 892,
-   "generated": false
+   "generated": true
   },
   "jz-c192": {
    "book": "Janczuk",
@@ -3049,7 +3049,7 @@
     515
    ],
    "words": 848,
-   "generated": false
+   "generated": true
   },
   "jz-c193": {
    "book": "Janczuk",
@@ -3058,7 +3058,7 @@
     519
    ],
    "words": 1012,
-   "generated": false
+   "generated": true
   },
   "jz-c194": {
    "book": "Janczuk",
@@ -3067,7 +3067,7 @@
     521
    ],
    "words": 702,
-   "generated": false
+   "generated": true
   },
   "jz-c195": {
    "book": "Janczuk",
@@ -3076,7 +3076,7 @@
     523
    ],
    "words": 787,
-   "generated": false
+   "generated": true
   },
   "jz-c196": {
    "book": "Janczuk",
@@ -3085,7 +3085,7 @@
     526
    ],
    "words": 771,
-   "generated": false
+   "generated": true
   },
   "jz-c197": {
    "book": "Janczuk",
@@ -3094,7 +3094,7 @@
     530
    ],
    "words": 715,
-   "generated": false
+   "generated": true
   },
   "jz-c198": {
    "book": "Janczuk",
@@ -3103,7 +3103,7 @@
     532
    ],
    "words": 980,
-   "generated": false
+   "generated": true
   },
   "jz-c199": {
    "book": "Janczuk",
@@ -3112,7 +3112,7 @@
     534
    ],
    "words": 973,
-   "generated": false
+   "generated": true
   },
   "jz-c200": {
    "book": "Janczuk",
@@ -3121,7 +3121,7 @@
     536
    ],
    "words": 915,
-   "generated": false
+   "generated": true
   },
   "jz-c201": {
    "book": "Janczuk",
@@ -3130,7 +3130,7 @@
     538
    ],
    "words": 582,
-   "generated": false
+   "generated": true
   },
   "t1-c001": {
    "book": "Tom1",
