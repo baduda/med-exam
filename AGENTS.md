@@ -71,8 +71,25 @@ python pipeline/extract.py                       # PDFs -> per-page text
 python pipeline/chunk.py                         # text -> data/chunks/*.json
 # (agents generate data/questions/<chunk>.json here — see pipeline/GENERATION.md)
 python pipeline/mark_generated.py t1-c001 t1-c108  # record a finished wave
+python pipeline/build_core.py                    # refresh the LDEK subset -> data/core.json
 python pipeline/assemble.py                      # merge + validate -> data/questions.json + docs/
 ```
+
+### The "Kluczowe (LDEK)" subset
+
+`data/core.json` is a committed list of question ids; `assemble.py` stamps
+`core: true` on them. **This file is the only place the subset exists.** It used
+to live solely inside the built `data/questions.json`, so a single `assemble.py`
+run erased 600 curated flags — do not reintroduce that shape.
+
+`pipeline/build_core.py` rebuilds it and is **idempotent**: ids already listed are
+kept (the Tom2/Tom3 ranking was human judgement, not derivable from the text),
+and any book with no picks yet gets every `combined` and `clinical` question plus
+one question from each otherwise-unrepresented chunk. Run it after every
+generation wave, before `assemble.py`. It exits non-zero if some book ends up
+with no core questions at all.
+
+### OCR
 
 One book is an image-only scan and must be OCR'd before extraction. The output is
 what `books.py` registers; the original stays as an ignored source:
