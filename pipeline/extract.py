@@ -11,6 +11,10 @@ from pathlib import Path
 
 import fitz  # pymupdf
 
+# Allow running as a script (`python pipeline/extract.py`) as well as a module.
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from pipeline.books import lookup
+
 BOOKS_DIR = Path("books")
 OUT_DIR = Path("data/text")
 
@@ -22,19 +26,22 @@ def dehyphenate(text: str) -> str:
     return re.sub(r"[ \t]+", " ", text).strip()
 
 
-def extract_book(pdf_path: Path) -> dict:
+def extract_book(pdf_path: Path, book: str) -> dict:
     """Return {"book": "Tom2", "pages": [{"page": 1, "text": "..."}, ...]}."""
     doc = fitz.open(pdf_path)
     pages = [{"page": i + 1, "text": dehyphenate(doc[i].get_text())}
              for i in range(doc.page_count)]
-    book = pdf_path.stem.split(".")[0].strip()  # "Tom2. Mansur Rahnama" -> "Tom2"
     return {"book": book, "pages": pages}
 
 
 def main() -> None:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     for pdf in sorted(BOOKS_DIR.glob("*.pdf")):
-        data = extract_book(pdf)
+        entry = lookup(pdf.name)
+        if entry is None:
+            print(f"{pdf.name}: ignored (see pipeline/books.py)")
+            continue
+        data = extract_book(pdf, entry["book"])
         out = OUT_DIR / f"{data['book']}.json"
         out.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
         nonempty = sum(1 for p in data["pages"] if p["text"])

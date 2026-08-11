@@ -1,11 +1,32 @@
 import unittest
-from pipeline.chunk import chunk_pages, book_prefix
+from pipeline.chunk import chunk_pages
+from pipeline.books import lookup, by_book
 
 
-class TestBookPrefix(unittest.TestCase):
-    def test_extracts_volume_number(self):
-        self.assertEqual(book_prefix("Tom2"), "t2")
-        self.assertEqual(book_prefix("Tom3"), "t3")
+class TestBookRegistry(unittest.TestCase):
+    def test_resolves_every_source_filename(self):
+        cases = {
+            "Tom1. Mansur Rahnama.pdf": "t1",
+            "Tom2. Mansur Rahnama.pdf": "t2",
+            "Tom3. Mansur Rahnama.pdf": "t3",
+            "Sormatologia zachowawcza z endodoncją- Jańczuk 2014.pdf": "jz",
+            "Arabska_ocr.pdf": "ae",
+        }
+        for filename, book_id in cases.items():
+            self.assertEqual(lookup(filename)["book_id"], book_id, filename)
+
+    def test_ignored_source_returns_none(self):
+        name = "Arabska_Przedpełska_B,_Pawlicka_H_Współczesna_endodoncja_w_praktyce.pdf"
+        self.assertIsNone(lookup(name))
+
+    def test_unknown_filename_raises(self):
+        with self.assertRaises(KeyError):
+            lookup("Jakas_nowa_ksiazka.pdf")
+
+    def test_by_book_maps_stored_book_name(self):
+        self.assertEqual(by_book("Tom2")["book_id"], "t2")
+        with self.assertRaises(KeyError):
+            by_book("Tom9")
 
 
 class TestChunkPages(unittest.TestCase):
