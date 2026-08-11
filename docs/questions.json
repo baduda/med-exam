@@ -1,5 +1,2702 @@
 [
  {
+  "id": "ae-c002-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    9,
+    13
+   ]
+  },
+  "question": "Tkanka miazgowo-ozębnowa (tzw. tkanka mieszana) znajduje się w kanale korzeniowym:",
+  "options": {
+   "A": "w obrębie całej korzeniowej części miazgi",
+   "B": "między otworem fizjologicznym a otworem anatomicznym",
+   "C": "między otworem anatomicznym a wierzchołkiem radiologicznym",
+   "D": "między ujściem kanału a otworem fizjologicznym",
+   "E": "wyłącznie w obrębie kanałów bocznych korzenia"
+  },
+  "correct": "B",
+  "explanation": "Elementy komórkowe i włókniste ozębnej przechodzą w utkanie miazgowe, tworząc tkankę mieszaną położoną między otworem fizjologicznym a anatomicznym; jest ona bogato unaczyniona i ma duże właściwości regeneracyjne."
+ },
+ {
+  "id": "ae-c002-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    9,
+    13
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące warstwowej budowy miazgi zęba:\n1. Warstwa środkowa właściwa jest strefą bogatokomórkową, zbudowaną głównie z fibroblastów i komórek mezenchymatycznych.\n2. Strefa Weila jest warstwą pośrednią, ubogokomórkową, położoną między warstwą środkową a warstwą odontoblastów.\n3. Warstwa obwodowa odontoblastów sąsiaduje bezpośrednio z zębiną.\n4. W strefie Weila nie występują naczynia włosowate ani sploty nerwowe.",
+  "options": {
+   "A": "tylko 1, 2 i 3",
+   "B": "tylko 2 i 4",
+   "C": "wszystkie prawidłowe",
+   "D": "tylko 1 i 2",
+   "E": "tylko 3 i 4"
+  },
+  "correct": "A",
+  "explanation": "Miazga ma trzy warstwy: środkową właściwą (bogatokomórkową), pośrednią Weila i obwodową odontoblastów. Stwierdzenie 4 jest fałszywe, ponieważ w strefie Weila znajduje się bogata sieć naczyń włosowatych oraz dwa sploty nerwowe."
+ },
+ {
+  "id": "ae-c002-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    9,
+    13
+   ]
+  },
+  "question": "Włókna Korffa obecne w miazdze zęba charakteryzują się tym, że:",
+  "options": {
+   "A": "są włóknami sprężystymi tworzącymi zrąb ścian naczyń miazgi",
+   "B": "powstają wyłącznie z odontoblastów i budują zrąb cementu korzeniowego",
+   "C": "są włóknami kolagenowymi biegnącymi równolegle do długiej osi zęba",
+   "D": "tworzą splot w strefie Weila i jako włókna spiralne wnikają do warstwy odontoblastów i prezębiny",
+   "E": "występują najliczniej w centralnej, bogatokomórkowej części miazgi"
+  },
+  "correct": "D",
+  "explanation": "Włókna siateczkowe (reticulinowe) są najliczniejsze na obwodzie miazgi, w strefie Weila tworzą splot, z którego wychodzą pęczki spiralnych włókien Korffa wnikające do warstwy odontoblastów i prezębiny."
+ },
+ {
+  "id": "ae-c003-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    14,
+    15
+   ]
+  },
+  "question": "Jak przebiega przepływ krwi w mikrokrążeniu miazgi zęba?",
+  "options": {
+   "A": "w naczyniach przedwłosowatych jest etapowy, a w naczyniach włosowatych ciągły",
+   "B": "zależy wyłącznie od ciśnienia panującego w naczyniach ozębnej",
+   "C": "we wszystkich naczyniach miazgi jest jednakowo ciągły i niezależny od metabolizmu",
+   "D": "w naczyniach przedwłosowatych jest ciągły, a w naczyniach włosowatych etapowy",
+   "E": "we wszystkich naczyniach miazgi jest etapowy i zależny od czynności odontoblastów"
+  },
+  "correct": "D",
+  "explanation": "Zwieracze położone na granicy naczyń przedwłosowatych i włosowatych otwierają się pod wpływem impulsów nerwowych lub chemicznych, dlatego przepływ w kapilarach jest etapowy, zależny od zapotrzebowania metabolicznego tkanki."
+ },
+ {
+  "id": "ae-c003-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    14,
+    15
+   ]
+  },
+  "question": "Naczynia limfatyczne miazgi zęba tworzą najgęstszą sieć w:",
+  "options": {
+   "A": "strefie pododontoblastycznej",
+   "B": "obrębie ścian naczyń tętniczych miazgi",
+   "C": "okolicy otworu wierzchołkowego korzenia",
+   "D": "warstwie środkowej właściwej miazgi",
+   "E": "obrębie kanalików zębinowych"
+  },
+  "correct": "A",
+  "explanation": "Naczynia limfatyczne biegną wzdłuż naczyń krwionośnych, a ich największa sieć znajduje się w strefie pododontoblastycznej; w części środkowej miazgi łączą się w większe naczynia opuszczające ząb przez otwór wierzchołkowy."
+ },
+ {
+  "id": "ae-c003-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    14,
+    15
+   ]
+  },
+  "question": "Która cecha odnosi się do odontoblastów jako komórek miazgi?",
+  "options": {
+   "A": "mają dwie wypustki: dłuższą obwodową (włókno Tomesa) i krótszą miazgową",
+   "B": "są komórkami najmniej zróżnicowanymi spośród wszystkich komórek miazgi",
+   "C": "zachowują żywotność także po całkowitej martwicy miazgi zęba",
+   "D": "rozmnażają się przez podział mitotyczny w warstwie obwodowej miazgi",
+   "E": "we włóknach Tomesa gromadzą liczne mitochondria i aparat Golgiego"
+  },
+  "correct": "A",
+  "explanation": "Odontoblasty mają wypustkę obwodową, czyli włókno Tomesa wnikające do kanalika zębinowego, oraz krótszą wypustkę miazgową kończącą się w miazdze właściwej; nie dzielą się, a ich żywotność kończy się wraz z utratą żywotności miazgi."
+ },
+ {
+  "id": "ae-c004-001",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    16,
+    18
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące włókien substancji organicznej zębiny:\n1. Włókna Ebnera są włóknami kolagenowymi układającymi się równolegle do długiej osi zęba.\n2. Włókna Ebnera występują głównie w zębinie okołomiazgowej i w środkowych jej warstwach.\n3. Włókna Korffa są najliczniejsze w zębinie płaszczowej sąsiadującej z połączeniem szkliwno-zębinowym.\n4. Obecność włókien Korffa sprawia, że zębina płaszczowa jest silniej zmineralizowana od pozostałych warstw.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 1 i 4",
+   "C": "tylko 3 i 4",
+   "D": "tylko 1, 2 i 3",
+   "E": "tylko 2 i 3"
+  },
+  "correct": "D",
+  "explanation": "Włókna Ebnera biegną równolegle do długiej osi zęba i prostopadle do kanalików, dominując w zębinie okołomiazgowej, a włókna Korffa przeważają w zębinie płaszczowej, która jest w mniejszym, a nie większym stopniu zmineralizowana."
+ },
+ {
+  "id": "ae-c004-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    16,
+    18
+   ]
+  },
+  "question": "Jak zmienia się liczba kanalików zębinowych na przekroju poprzecznym w miarę oddalania się od miazgi?",
+  "options": {
+   "A": "rośnie z około 8.000 do około 50.000-60.000 na mm2",
+   "B": "spada z około 50.000-60.000 do około 8.000 na mm2",
+   "C": "spada z około 20.000 do około 2.000 na mm2",
+   "D": "utrzymuje się na stałym poziomie około 30.000 na mm2",
+   "E": "rośnie z około 1.000 do około 10.000 na mm2"
+  },
+  "correct": "B",
+  "explanation": "Najwięcej kanalików znajduje się w pobliżu miazgi (około 50.000-60.000/mm2), a w kierunku obwodowym ich liczba spada do około 8.000/mm2; zmienia się też ich średnica, z około 4 um do około 1 um."
+ },
+ {
+  "id": "ae-c004-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    16,
+    18
+   ]
+  },
+  "question": "Zgodnie z podziałem topograficznym zębiniaków, zębiniak śródmiąższowy (śródzębinowy) to taki, który:",
+  "options": {
+   "A": "przylega bezpośrednio do połączenia szkliwno-zębinowego",
+   "B": "jest w całości otoczony przez zębinę",
+   "C": "w całości jest otoczony przez miazgę zęba",
+   "D": "leży w obrębie kanału bocznego korzenia",
+   "E": "jest częściowo związany ze ścianą zębiny"
+  },
+  "correct": "B",
+  "explanation": "Podział topograficzny określa stosunek zębiniaka do miazgi i zębiny: wolne są otoczone miazgą, przylegające częściowo związane z zębiną, a śródmiąższowe otoczone są przez zębinę."
+ },
+ {
+  "id": "ae-c005-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    19,
+    20
+   ]
+  },
+  "question": "W jakim kierunku postępują z wiekiem procesy mineralizacyjne w obrębie jamy zęba?",
+  "options": {
+   "A": "od połączenia szkliwno-zębinowego w kierunku miazgi",
+   "B": "równomiernie i jednoczasowo w całej jamie zęba",
+   "C": "od komory zęba w kierunku wierzchołka korzenia",
+   "D": "od ujść kanałów w kierunku sklepienia komory",
+   "E": "od okolicy wierzchołkowej w kierunku korony"
+  },
+  "correct": "E",
+  "explanation": "Złogi mineralne odkładają się w kanalikach zębinowych i świetle kanałów, a procesy mineralizacyjne rozpoczynają się od okolicy wierzchołkowej i postępują w kierunku korony zęba."
+ },
+ {
+  "id": "ae-c005-002",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    19,
+    20
+   ]
+  },
+  "question": "Do gabinetu zgłasza się 72-letni pacjent z głębokim ubytkiem próchnicowym w zębie trzonowym i zachowaną, choć osłabioną reakcją miazgi. Na zdjęciu rentgenowskim komora jest znacznie zwężona, a kanały słabo widoczne. Jak należy ocenić rokowanie i planowane postępowanie?",
+  "options": {
+   "A": "zmiany inwolucyjne miazgi zwiększają jej właściwości regeneracyjne, co poprawia rokowanie",
+   "B": "leczenie przyżyciowe miazgi jest problematyczne, a opracowanie kanałów utrudnione przez złogi wapniowe",
+   "C": "leczenie przyżyciowe miazgi jest metodą z wyboru, ponieważ w tym wieku zdolności obronne miazgi są największe",
+   "D": "obraz przemawia za martwicą miazgi i wskazuje na natychmiastową ekstrakcję zęba",
+   "E": "obliteracja kanałów nie ma znaczenia klinicznego, gdyż światło kanałów zawsze udaje się udrożnić"
+  },
+  "correct": "B",
+  "explanation": "Zmiany zwyrodnieniowe i mineralizacyjne miazgi w wieku podeszłym zmniejszają jej właściwości obronne i regeneracyjne, przez co leczenie przyżyciowe jest problematyczne, a złogi wapniowe utrudniają opracowanie kanałów."
+ },
+ {
+  "id": "ae-c005-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    19,
+    20
+   ]
+  },
+  "question": "Zębina reparacyjna (dentinum reparativum), zwana też mostem zębinowym, powstaje:",
+  "options": {
+   "A": "w okresie rozwoju zęba i stanowi główną masę zębiny korony",
+   "B": "w wyniku odkładania soli mineralnych w świetle kanalików zębiny pierwotnej",
+   "C": "fizjologicznie przez całe życie miazgi, bez udziału bodźców patologicznych",
+   "D": "wskutek przewlekłego starcia zębów i ubytków niepróchnicowego pochodzenia",
+   "E": "w następstwie leczenia biologicznego, pod wpływem leków odontotropowych"
+  },
+  "correct": "E",
+  "explanation": "Zębina reparacyjna jest szczególnym rodzajem zębiny wtórnej patologicznej i tworzy się w następstwie leczenia biologicznego pod wpływem preparatów odontotropowych; nazywana jest również mostem zębinowym."
+ },
+ {
+  "id": "ae-c006-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    21,
+    22
+   ]
+  },
+  "question": "Które komórki biorą udział w pierwszym etapie tworzenia zębiny reparacyjnej bezpośrednio po zranieniu miazgi i jaka tkanka wtedy powstaje?",
+  "options": {
+   "A": "makrofagi, powstaje zbita blizna łącznotkankowa",
+   "B": "fibroblasty, powstaje zębina włóknista bezkanalikowa",
+   "C": "cementoblasty, powstaje warstwa cementu naprawczego",
+   "D": "osteoblasty, powstaje tkanka kostnopodobna",
+   "E": "pierwotne odontoblasty, powstaje regularna zębina kanalikowa"
+  },
+  "correct": "B",
+  "explanation": "Zranienie miazgi uszkadza warstwę odontoblastów, więc naprawę rozpoczynają fibroblasty tworzące zębinę włóknistą bezkanalikową; dopiero po ustąpieniu stanu zapalnego różnicują się nowe odontoblasty i powstaje zębina kanalikowa."
+ },
+ {
+  "id": "ae-c006-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    21,
+    22
+   ]
+  },
+  "question": "Dlaczego proces próchnicowy szerzy się szczególnie szybko w obrębie tzw. martwych przestrzeni zębiny?",
+  "options": {
+   "A": "ponieważ kanaliki zębinowe są tam całkowicie zamknięte złogami mineralnymi",
+   "B": "ponieważ zębina jest tam słabiej zmineralizowana wskutek braku odżywiania",
+   "C": "ponieważ odontoblasty wytwarzają tam nadmiar niezmineralizowanej prezębiny",
+   "D": "ponieważ obszary te są bezpośrednio unaczynione przez naczynia ozębnej",
+   "E": "ponieważ znajduje się tam zwiększona liczba włókien Korffa"
+  },
+  "correct": "B",
+  "explanation": "W martwych przestrzeniach zwyrodniałe wypustki nie zamykają całkowicie światła kanalika, a pozbawiona substancji pokarmowych zębina ulega martwicy i jest słabiej zmineralizowana, co przyspiesza drążenie próchnicy."
+ },
+ {
+  "id": "ae-c006-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    21,
+    22
+   ]
+  },
+  "question": "Jaka jest grubość warstwy cementu korzeniowego w okolicy szyjki zęba i w okolicy wierzchołka korzenia?",
+  "options": {
+   "A": "20-50 um przy szyjce i 150-200 um przy wierzchołku",
+   "B": "5-10 um przy szyjce i 20-30 um przy wierzchołku",
+   "C": "jest jednakowa na całej długości i wynosi około 100 um",
+   "D": "150-200 um przy szyjce i 20-50 um przy wierzchołku",
+   "E": "50-100 um przy szyjce i 100-120 um przy wierzchołku"
+  },
+  "correct": "A",
+  "explanation": "Cement korzeniowy pokrywa korzeń na całej długości; przy szyjce ma 20-50 um, a najgrubszy jest w okolicy wierzchołka, gdzie osiąga 150-200 um i nawarstwia się z wiekiem."
+ },
+ {
+  "id": "ae-c007-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    23,
+    24
+   ]
+  },
+  "question": "Jaka jest szerokość szpary ozębnej u człowieka?",
+  "options": {
+   "A": "od 0,01 do 0,05 mm",
+   "B": "od 2,0 do 2,5 mm",
+   "C": "od 0,17 do 0,36 mm",
+   "D": "od 1,0 do 1,5 mm",
+   "E": "od 0,5 do 0,9 mm"
+  },
+  "correct": "C",
+  "explanation": "Szerokość szpary ozębnej wynosi od 0,17 mm do 0,36 mm i zależy od funkcji zęba, wieku pacjenta, a nawet od wysokości pomiaru w obrębie tego samego korzenia."
+ },
+ {
+  "id": "ae-c007-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    23,
+    24
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące cementu korzeniowego:\n1. Cement bezkomórkowy odkładany jest podczas kształtowania korzenia, przed wyrznięciem się zęba.\n2. Cement komórkowy różni się od bezkomórkowego wyłącznie obecnością cementocytów.\n3. Tempo przyrostu cementu komórkowego jest znacznie szybsze niż bezkomórkowego.\n4. Cement pokrywający korzeń jest bogato unaczyniony i unerwiony.",
+  "options": {
+   "A": "tylko 1 i 4",
+   "B": "tylko 1, 2 i 3",
+   "C": "tylko 3 i 4",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 2 i 3"
+  },
+  "correct": "B",
+  "explanation": "Cement pierwotny powstaje przed wyrznięciem zęba, wtórny różni się jedynie obecnością cementocytów i narasta szybciej; stwierdzenie 4 jest fałszywe, bo cement nie jest unaczyniony ani unerwiony i odżywia go miazga przez zębinę oraz ozębna."
+ },
+ {
+  "id": "ae-c007-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    23,
+    24
+   ]
+  },
+  "question": "Nadmierne odkładanie cementu korzeniowego (hypercementoza) występuje między innymi:",
+  "options": {
+   "A": "w następstwie ostrego niedoboru witaminy C w okresie rozwoju zęba",
+   "B": "w zębach wyłączonych ze zgryzu oraz w odpowiedzi na zakażenie miazgi",
+   "C": "wyłącznie w zębach z prawidłową, żywą miazgą i pełną funkcją żucia",
+   "D": "jako typowe następstwo krótkotrwałego urazu zwichnięcia zęba",
+   "E": "wyłącznie w zębach mlecznych w okresie fizjologicznej resorpcji korzeni"
+  },
+  "correct": "B",
+  "explanation": "Do hypercementozy dochodzi przy silnych i długotrwałych urazach, w zębach wyłączonych ze zgryzu, a także w odpowiedzi na zakażenie miazgi; odkładanie cementu nasila się również z wiekiem i pod wpływem podrażnień bakteryjnych."
+ },
+ {
+  "id": "ae-c008-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    25,
+    26
+   ]
+  },
+  "question": "Odczyn okostnowy, czyli aktywność kościotwórcza okostnej pod wpływem bodźców patologicznych, występuje najczęściej w:",
+  "options": {
+   "A": "przewlekłym zapaleniu dziąsła brzeżnego",
+   "B": "fizjologicznej przebudowie kości wyrostka zębodołowego",
+   "C": "resorpcji wewnętrznej korzenia zęba",
+   "D": "nadmiernym odkładaniu cementu korzeniowego",
+   "E": "zapaleniach kości i nowotworach złośliwych"
+  },
+  "correct": "E",
+  "explanation": "W warunkach fizjologicznych okostna nie jest widoczna na zdjęciach rentgenowskich; pod wpływem bodźców patologicznych nabiera aktywności kościotwórczej, co obserwuje się najczęściej w zapaleniach kości i nowotworach złośliwych."
+ },
+ {
+  "id": "ae-c008-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    25,
+    26
+   ]
+  },
+  "question": "Zagęszczenie utkania kostnego (osteosclerosis) charakteryzuje się radiologicznie zwiększonym pochłanianiem promieni i jest następstwem:",
+  "options": {
+   "A": "zaburzenia odżywiania kości przez naczynia więzadła ozębnowego",
+   "B": "wzmożonej czynności osteoklastów przy prawidłowej czynności osteoblastów",
+   "C": "wzmożonej czynności osteoblastów lub zahamowania fizjologicznego niszczenia kości",
+   "D": "nadmiernej resorpcji istoty zbitej wyrostka zębodołowego",
+   "E": "całkowitego zaniku komórek kościotwórczych w istocie gąbczastej"
+  },
+  "correct": "C",
+  "explanation": "Osteoskleroza powstaje przy wzmożonej czynności osteoblastów lub zahamowaniu fizjologicznego niszczenia kości, natomiast wzmożona czynność osteoklastów prowadzi do zaniku (osteoporosis) lub resorpcji kości (osteolysis)."
+ },
+ {
+  "id": "ae-c009-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    28,
+    30
+   ]
+  },
+  "question": "W którym miejscu ogniska próchnicowego znajduje się największa liczba bakterii?",
+  "options": {
+   "A": "w warstwie zębiny sklerotycznej otaczającej ognisko",
+   "B": "w obrębie zębiny wtórnej odłożonej na ścianie komory",
+   "C": "w warstwie zębiny bezpośrednio sąsiadującej z komorą zęba",
+   "D": "równomiernie w całej grubości zębiny próchnicowej",
+   "E": "w powierzchownej, rozpadłej warstwie zębiny próchnicowej"
+  },
+  "correct": "E",
+  "explanation": "Najwięcej drobnoustrojów zawiera powierzchowna, rozpadła warstwa zębiny próchnicowej, a w kolejnych warstwach ogniska, w kierunku dokomorowym, ich liczba się zmniejsza."
+ },
+ {
+  "id": "ae-c009-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    28,
+    30
+   ]
+  },
+  "question": "Zębina sklerotyczna, powstająca jako odczyn obronny na drażnienie z ogniska próchnicowego:",
+  "options": {
+   "A": "powstaje w wyniku rozrostu wypustek odontoblastów do szkliwa",
+   "B": "odkłada się wyłącznie na sklepieniu komory zęba",
+   "C": "tworzy się wyłącznie w obrębie zębiny wtórnej fizjologicznej",
+   "D": "tworzy się wyłącznie w obrębie zębiny pierwotnej",
+   "E": "powstaje tylko po zastosowaniu preparatów odontotropowych"
+  },
+  "correct": "D",
+  "explanation": "Jeżeli bodziec nie przekroczy progu tolerancji miazgi, powstaje odczyn obronny w postaci mineralizacji światła kanalików; zębina sklerotyczna tworzy się wyłącznie w zębinie pierwotnej i chroni miazgę przed czynnikami drażniącymi."
+ },
+ {
+  "id": "ae-c010-001",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    31,
+    33
+   ]
+  },
+  "question": "Do gabinetu zgłasza się 16-letni pacjent, u którego przed kilkoma godzinami doszło do złamania korony siekacza z obnażeniem miazgi. Jakie postępowanie jest właściwe?",
+  "options": {
+   "A": "wyłącznie odbudowa korony bez zaopatrzenia obnażonej miazgi",
+   "B": "resekcja wierzchołka korzenia z wypełnieniem wstecznym",
+   "C": "natychmiastowa dewitalizacja miazgi preparatem bezarszenikowym",
+   "D": "odroczenie leczenia o dwa tygodnie i obserwacja żywotności",
+   "E": "jak najwcześniejsze leczenie biologiczne miazgi"
+  },
+  "correct": "E",
+  "explanation": "W zębach po złamaniach korony z obnażeniem miazgi zapalenie rozwija się w ciągu 2 dni, a po tygodniu proces martwiczy może objąć całą miazgę, dlatego wskazane jest jak najwcześniejsze leczenie biologiczne."
+ },
+ {
+  "id": "ae-c010-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    31,
+    33
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące dróg uszkodzenia i zakażenia miazgi:\n1. Podwichnięcie i zwichnięcie zęba najczęściej nie zranią miazgi, ale przerywają pęczek naczyniowo-nerwowy.\n2. Zakażenie miazgi może nastąpić od strony patologicznej kieszonki dziąsłowej przez kanały boczne i miazgowo-ozębnowe.\n3. Zapalenie krwiopochodne miazgi może wystąpić w przebiegu chorób zakaźnych, takich jak grypa czy dur brzuszny.\n4. Poprzeczne złamanie korzenia bez przemieszczenia odłamów zawsze prowadzi do martwicy miazgi.",
+  "options": {
+   "A": "tylko 1, 2 i 3",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 2 i 3",
+   "D": "tylko 2, 3 i 4",
+   "E": "tylko 1 i 4"
+  },
+  "correct": "A",
+  "explanation": "Zwichnięcia przerywają pęczek naczyniowo-nerwowy, a zakażenie może dotrzeć do miazgi z kieszonki dziąsłowej lub drogą krwi. Stwierdzenie 4 jest fałszywe, bo złamanie poprzeczne korzenia bez przemieszczenia rokuje dobrze i może ulec samowyleczeniu."
+ },
+ {
+  "id": "ae-c010-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    31,
+    33
+   ]
+  },
+  "question": "Który sposób chłodzenia podczas pracy wiertarką jest zalecany jako najlepszy dla ochrony miazgi i dlaczego?",
+  "options": {
+   "A": "chłodzenie sprężonym powietrzem o obniżonej temperaturze, gdyż obkurcza naczynia",
+   "B": "chłodzenie przerywane, gdyż pozwala miazdze na regenerację między cięciami",
+   "C": "chłodzenie strumieniem powietrza, gdyż szybko odprowadza ciepło z zębiny",
+   "D": "mgła wodna, gdyż zapobiega także odwodnieniu zębiny",
+   "E": "brak chłodzenia przy pracy na niskich obrotach, gdyż ciepło się nie wytwarza"
+  },
+  "correct": "D",
+  "explanation": "Uważa się, że zmiany w miazdze pod wpływem bodźców cieplnych, takie jak zapalenie, resorpcja wewnętrzna i martwica, mogą wynikać z odwodnienia zębiny, dlatego najlepszym rodzajem chłodzenia jest mgła wodna, a nie powietrze."
+ },
+ {
+  "id": "ae-c011-001",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    34,
+    36
+   ]
+  },
+  "question": "U pacjenta po radioterapii okolicy głowy i szyi stwierdzono zaawansowaną zmianę okołowierzchołkową przy zębie trzonowym żuchwy. Jakie postępowanie należy wybrać?",
+  "options": {
+   "A": "wyłącznie obserwację, ponieważ napromienianie hamuje rozwój zmian zapalnych",
+   "B": "leczenie kanałowe, ze względu na ryzyko nekrozy popromiennej kości po zabiegu chirurgicznym",
+   "C": "ekstrakcję zęba z jednoczasowym oczyszczeniem zębodołu i plastyką kości",
+   "D": "resekcję wierzchołka korzenia, ponieważ leczenie kanałowe jest w tych warunkach nieskuteczne",
+   "E": "hemisekcję korzenia z pozostawieniem korony w celu odciążenia kości"
+  },
+  "correct": "B",
+  "explanation": "Naświetlanie głowy i szyi uszkadza miazgę i gruczoły ślinowe; w zaawansowanych przypadkach endodontycznych należy podjąć leczenie kanałowe, a nie chirurgiczne, ze względu na możliwość nekrozy popromiennej kości."
+ },
+ {
+  "id": "ae-c011-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    34,
+    36
+   ]
+  },
+  "question": "Dlaczego obumarła miazga jest gwałtownie kolonizowana przez bakterie, podczas gdy ząb z żywą miazgą jest na ich atak odporny?",
+  "options": {
+   "A": "ponieważ w żywej miazdze średnica kanalików zębinowych jest mniejsza od bakterii",
+   "B": "ponieważ po rozkładzie wypustek odontoblastów puste kanaliki stanowią łatwą drogę wnikania",
+   "C": "ponieważ martwa miazga traci ciągłość z ozębną przez otwór wierzchołkowy",
+   "D": "ponieważ zębina martwego zęba traci całkowicie substancję nieorganiczną",
+   "E": "ponieważ w martwej miazdze rośnie ciśnienie płynu tkankowego wtłaczające bakterie"
+  },
+  "correct": "B",
+  "explanation": "W zębie z żywą miazgą wypustki odontoblastów w kanalikach zębinowych utrudniają wnikanie bakterii, natomiast po obumarciu miazgi rozłożone wypustki pozostawiają puste kanaliki, będące łatwą drogą kolonizacji."
+ },
+ {
+  "id": "ae-c011-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    34,
+    36
+   ]
+  },
+  "question": "Co obejmuje pojęcie zakażenia kanału korzeniowego we współczesnym rozumieniu?",
+  "options": {
+   "A": "wyłącznie światło kanału głównego na całej jego długości",
+   "B": "wyłącznie odcinek przywierzchołkowy kanału wraz z tkanką mieszaną",
+   "C": "kanał główny oraz komorę zęba, bez odgałęzień bocznych",
+   "D": "kanał główny wraz z przylegającą ozębną i kością wyrostka",
+   "E": "kanał główny, kanały boczne, deltę wierzchołka oraz zębinę korzeniową"
+  },
+  "correct": "E",
+  "explanation": "Bakterie wnikają z kanału głównego w kanały boczne i komorowo-ozębnowe, deltę korzeniową oraz kanaliki zębinowe, dlatego zakażenie kanału korzeniowego oznacza zakażenie całego systemu kanałowego wraz z zębiną korzeniową."
+ },
+ {
+  "id": "ae-c012-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    37,
+    38
+   ]
+  },
+  "question": "Badania zębów leczonych endodontycznie, wymagających ponownego leczenia, wykazały przewagę:",
+  "options": {
+   "A": "bezwzględnych beztlenowców z rodzaju Fusobacterium",
+   "B": "bezwzględnych tlenowców z rodzaju Actinomyces",
+   "C": "promieniowców tworzących druzy w świetle kanału",
+   "D": "bakterii z czarnym pigmentem z rodzaju Prevotella",
+   "E": "bakterii fakultatywnych, szczególnie Enterococcus faecalis"
+  },
+  "correct": "E",
+  "explanation": "W kanałach zębów wymagających ponownego leczenia endodontycznego stwierdza się przewagę bakterii fakultatywnych, zwłaszcza Enterococcus faecalis, zamiast bezwzględnych beztlenowców typowych dla zakażeń pierwotnych."
+ },
+ {
+  "id": "ae-c012-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    37,
+    38
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące biofilmu w zakażeniach endodontycznych:\n1. Biofilm zwykle zawiera więcej niż jeden gatunek bakterii.\n2. Kolejne warstwy przylegają do pierwszej dzięki wydzielaniu wielocukrowego śluzu zespalającego.\n3. Bakterie w biofilmie są prawdopodobnie mniej wrażliwe na antybiotyki niż formy planktonowe.\n4. Bakterie po uformowaniu biofilmu zachowują niezmienione cechy fenotypowe i fizjologię.",
+  "options": {
+   "A": "tylko 1, 2 i 3",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 2 i 4",
+   "D": "tylko 1 i 4",
+   "E": "tylko 3 i 4"
+  },
+  "correct": "A",
+  "explanation": "Biofilm jest wielogatunkowym zespołem spojonym wielocukrowym śluzem, który utrudnia dyfuzję antybiotyku; stwierdzenie 4 jest fałszywe, gdyż bakterie w biofilmie zmieniają cechy fenotypowe i znacznie różnią się fizjologią od form planktonowych."
+ },
+ {
+  "id": "ae-c012-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    37,
+    38
+   ]
+  },
+  "question": "Która cecha enzymatyczna odróżnia bezwzględne beztlenowce, dominujące w zakażeniach endodontycznych, od pozostałych grup bakterii?",
+  "options": {
+   "A": "nie posiadają dysmutazy nadtlenkowej ani katalazy",
+   "B": "posiadają dysmutazę nadtlenkową, lecz nie posiadają katalazy",
+   "C": "posiadają oba enzymy w ilościach większych niż tlenowce",
+   "D": "posiadają katalazę, lecz nie posiadają dysmutazy nadtlenkowej",
+   "E": "wytwarzają katalazę wyłącznie w obecności tlenu atmosferycznego"
+  },
+  "correct": "A",
+  "explanation": "Bezwzględne beztlenowce funkcjonują przy niskich potencjałach oksydo-redukcyjnych i nie posiadają enzymów nadtlenku dysmutazy ani katalazy, w odróżnieniu od beztlenowców fakultatywnych i bezwzględnych tlenowców."
+ },
+ {
+  "id": "ae-c038-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    109,
+    111
+   ]
+  },
+  "question": "Która struktura anatomiczna żuchwy leży poniżej kresy skośnej i bywa widoczna razem z nią na zdjęciach dolnych zębów trzonowych?",
+  "options": {
+   "A": "kanał żuchwy",
+   "B": "szew pośrodkowy",
+   "C": "kresa żuchwowo-gnykowa",
+   "D": "otwór bródkowy",
+   "E": "otwór językowy"
+  },
+  "correct": "C",
+  "explanation": "Na radiogramach dolnych trzonowców widoczne bywają jednocześnie kresa skośna i kresa żuchwowo-gnykowa, przy czym ta druga położona jest poniżej kresy skośnej."
+ },
+ {
+  "id": "ae-c038-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    109,
+    111
+   ]
+  },
+  "question": "Wskaż struktury anatomiczne szczęki, które mogą imitować stan patologiczny wokół korzeni lub utrudniać ocenę radiogramu:\n1. kostny brzeg dołu nosowego\n2. otwór i kanał przysieczny\n3. łuk jarzmowy\n4. otwór bródkowy",
+  "options": {
+   "A": "tylko 3 i 4",
+   "B": "tylko 2 i 4",
+   "C": "wszystkie prawidłowe",
+   "D": "tylko 1, 2 i 3",
+   "E": "tylko 1 i 2"
+  },
+  "correct": "D",
+  "explanation": "Do struktur szczęki utrudniających diagnostykę należą m.in. brzeg dołu nosowego, otwór i kanał przysieczny oraz łuk jarzmowy; otwór bródkowy jest strukturą żuchwy."
+ },
+ {
+  "id": "ae-c038-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    109,
+    111
+   ]
+  },
+  "question": "Dlaczego na dwuwymiarowym zdjęciu wewnątrzustnym nie można ocenić trzeciego wymiaru badanych struktur?",
+  "options": {
+   "A": "rozdzielczość detektorów jest zbyt niska dla wymiaru poprzecznego zęba",
+   "B": "obraz jest zawsze pomniejszony w płaszczyźnie poziomej badanego łuku",
+   "C": "radiogram jest rzutem obiektu trójwymiarowego na płaszczyznę i nie oddaje wymiaru przedsionkowo-językowego",
+   "D": "promieniowanie rentgenowskie nie przenika struktur w przekroju poprzecznym",
+   "E": "detektory cyfrowe rejestrują wyłącznie wymiar mezjalno-dystalny badanego zęba"
+  },
+  "correct": "C",
+  "explanation": "Radiogram dwuwymiarowy jest rzutem obiektu trójwymiarowego na płaszczyznę, dlatego nie uwidacznia wymiaru poprzecznego, czyli przekroju przedsionkowo-językowego."
+ },
+ {
+  "id": "ae-c039-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    112,
+    114
+   ]
+  },
+  "question": "Dlaczego na podstawie zdjęcia ortopantomograficznego nie wolno dokonywać pomiaru długości roboczej kanałów?",
+  "options": {
+   "A": "detektor rejestruje wyłącznie koronę kliniczną badanego zęba",
+   "B": "obraz jest powiększony nawet o 25% i zniekształcony geometrycznie",
+   "C": "promień centralny biegnie prostopadle do długiej osi każdego zęba",
+   "D": "obraz jest zawsze pomniejszony o około 25% w stosunku do rzeczywistego",
+   "E": "wierzchołki korzeni są na nim zawsze przesłonięte przez gutaperkę"
+  },
+  "correct": "B",
+  "explanation": "Ortopantomogram daje powiększenie obrazu sięgające 25% oraz zniekształcenia geometryczne, dlatego nie może służyć do pomiaru długości roboczej."
+ },
+ {
+  "id": "ae-c039-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    112,
+    114
+   ]
+  },
+  "question": "Prawidłowo wykonane zdjęcie zębowe do diagnostyki endodontycznej powinno przedstawiać:\n1. całą koronę kliniczną zęba\n2. korzeń lub korzenie zęba\n3. kość wyrostka zębodołowego z przyzębiem wierzchołkowym i brzeżnym\n4. ząb diagnozowany usytuowany w centralnej części radiogramu",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 1, 3 i 4",
+   "C": "tylko 2 i 3",
+   "D": "tylko 1 i 2",
+   "E": "żadna z powyższych"
+  },
+  "correct": "A",
+  "explanation": "Zdjęcie diagnostyczne musi obejmować całą koronę kliniczną, korzenie oraz kość wyrostka z przyzębiem wierzchołkowym i brzeżnym, a badany ząb powinien być w centrum radiogramu."
+ },
+ {
+  "id": "ae-c039-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    112,
+    114
+   ]
+  },
+  "question": "Na czym polega dostępna w oprogramowaniu radiografii cyfrowej funkcja tomosyntezy (isodensity)?",
+  "options": {
+   "A": "na odwróceniu obrazu negatywowego w pozytywowy",
+   "B": "na uwypukleniu jednym kolorem pikseli o tej samej wartości w skali szarości",
+   "C": "na powiększeniu wybranego fragmentu zdjęcia bez utraty rozdzielczości",
+   "D": "na złożeniu kilku ekspozycji w jeden obraz przestrzenny zęba",
+   "E": "na automatycznej kalibracji i pomiarze liniowym długości zęba"
+  },
+  "correct": "B",
+  "explanation": "Tomosynteza (isodensity) polega na wyróżnieniu jednym kolorem pikseli o identycznej wartości skali szarości, co ułatwia ocenę rozległości zmian i uwidacznianie szczelin złamania."
+ },
+ {
+  "id": "ae-c040-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    115,
+    116
+   ]
+  },
+  "question": "W metodzie Ingle'a drugie zdjęcie wykonuje się z narzędziem wprowadzonym do kanału na długość:",
+  "options": {
+   "A": "dłuższą o 1-1,5 mm od zmierzonej radiologicznej długości zęba",
+   "B": "krótszą o 3-4 mm od zmierzonej radiologicznej długości zęba",
+   "C": "równą połowie zmierzonej radiologicznej długości zęba",
+   "D": "równą zmierzonej radiologicznej długości zęba",
+   "E": "krótszą o 1-1,5 mm od zmierzonej radiologicznej długości zęba"
+  },
+  "correct": "E",
+  "explanation": "Kolejne zdjęcie w metodzie Ingle'a wykonuje się z narzędziem wprowadzonym krócej o 1-1,5 mm niż długość radiologiczna zęba oszacowana na pierwszym radiogramie."
+ },
+ {
+  "id": "ae-c040-002",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    115,
+    116
+   ]
+  },
+  "question": "Pacjent z wszczepionym rozrusznikiem serca i zaburzeniami rytmu wymaga leczenia kanałowego. Jak wyznaczyć długość roboczą kanału?",
+  "options": {
+   "A": "wyczuciem oporu narzędzia w okolicy przywierzchołkowej kanału",
+   "B": "na podstawie średnich długości anatomicznych danej grupy zębów",
+   "C": "radiologiczną metodą porównań Ingle'a z użyciem kolejnych zdjęć",
+   "D": "endometrem elektronicznym w trybie o obniżonej mocy sygnału",
+   "E": "wyłącznie na podstawie pomiaru z ortopantomogramu przeglądowego"
+  },
+  "correct": "C",
+  "explanation": "U pacjentów z rozrusznikiem serca i zaburzeniami rytmu endometry elektroniczne są przeciwwskazane, dlatego stosuje się radiologiczną metodę Ingle'a; jest ona zalecana także w zębach z niezakończonym rozwojem wierzchołka."
+ },
+ {
+  "id": "ae-c040-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    115,
+    116
+   ]
+  },
+  "question": "Z jaką dokładnością badanie CBCT umożliwia dokonywanie pomiarów istotnych dla endodoncji?",
+  "options": {
+   "A": "2-3 mm",
+   "B": "0,2-0,5 mm",
+   "C": "0,01-0,05 mm",
+   "D": "5-7 mm",
+   "E": "1-1,5 mm"
+  },
+  "correct": "B",
+  "explanation": "Zgodnie z tekstem badanie CBCT pozwala na pomiary z dokładnością 0,2-0,5 mm, podczas gdy odchylenia wymiarów na zdjęciu przylegającym mogą sięgać kilku milimetrów."
+ },
+ {
+  "id": "ae-c041-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    117,
+    119
+   ]
+  },
+  "question": "Na czym polega podstawowa zasada techniki izometrii przy wykonywaniu zdjęcia zębowego?",
+  "options": {
+   "A": "detektor ustawia się równolegle do osi długiej zęba w oddaleniu od korony",
+   "B": "promień centralny biegnie prostopadle do dwusiecznej kąta między osią długą zęba a detektorem",
+   "C": "promień centralny biegnie równolegle do długiej osi zęba i do detektora promieniowania",
+   "D": "detektor ustawia się prostopadle do płaszczyzny zgryzowej badanego łuku",
+   "E": "promień centralny odchyla się o 20 stopni mezjalnie względem łuku zębowego"
+  },
+  "correct": "B",
+  "explanation": "W technice izometrii wyznacza się dwusieczną kąta utworzonego przez oś długą zęba i detektor, a promień centralny kieruje prostopadle do niej i na wierzchołek korzenia."
+ },
+ {
+  "id": "ae-c041-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    117,
+    119
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące techniki kąta prostego (równoległej):\n1. detektor układa się równolegle do długiej osi zęba, a promień centralny prostopadle do nich\n2. konieczne jest zastosowanie przedłużonego tubusu o długości około 30 cm\n3. nośnik obrazu musi być odsunięty od prześwietlanego zęba\n4. technika ta ułatwia wykonanie zdjęć trzecich zębów trzonowych",
+  "options": {
+   "A": "tylko 1 i 2",
+   "B": "tylko 1, 2 i 3",
+   "C": "tylko 2 i 4",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 3 i 4"
+  },
+  "correct": "B",
+  "explanation": "Technika kąta prostego wymaga równoległego ułożenia detektora, długiego tubusu i odsunięcia nośnika od zęba, natomiast wykonanie zdjęć trzecich trzonowców jest w niej najtrudniejsze lub wręcz niemożliwe."
+ },
+ {
+  "id": "ae-c041-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    117,
+    119
+   ]
+  },
+  "question": "Minimalna liczba zdjęć rentgenowskich, jakie należy wykonać w trakcie leczenia kanałowego jednego zęba, wynosi:",
+  "options": {
+   "A": "sześć",
+   "B": "dwa",
+   "C": "cztery",
+   "D": "trzy",
+   "E": "jedno"
+  },
+  "correct": "D",
+  "explanation": "Kanonem postępowania jest wykonanie minimum trzech zdjęć rentgenowskich w trakcie leczenia kanałowego, dlatego obrazy powinny być powtarzalne."
+ },
+ {
+  "id": "ae-c042-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    120,
+    122
+   ]
+  },
+  "question": "Zgodnie z regułą SLOB, obiekt położony przedsionkowo na zdjęciu wykonanym z odchyleniem promienia centralnego:",
+  "options": {
+   "A": "pozostanie nieruchomy w stosunku do projekcji ortoradialnej",
+   "B": "ulegnie skróceniu, nie zmieniając swojego położenia poziomego",
+   "C": "przesunie się znacznie i w kierunku przeciwnym do biegu promienia centralnego",
+   "D": "przesunie się nieznacznie w kierunku przeciwnym do biegu promienia centralnego",
+   "E": "przesunie się minimalnie i w tym samym kierunku, z którego biegnie promień centralny"
+  },
+  "correct": "C",
+  "explanation": "Reguła SLOB mówi, że struktury położone językowo (bliżej detektora) przesuwają się minimalnie w kierunku biegu promienia, a przedsionkowe znacznie i w kierunku przeciwnym."
+ },
+ {
+  "id": "ae-c042-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    120,
+    122
+   ]
+  },
+  "question": "Jaki minimalny rozmiar wg ISO powinno mieć narzędzie kanałowe umieszczone w kanale na zdjęciu weryfikującym długość roboczą?",
+  "options": {
+   "A": "15",
+   "B": "20",
+   "C": "35",
+   "D": "08",
+   "E": "10"
+  },
+  "correct": "B",
+  "explanation": "Aby narzędzie było dobrze widoczne na radiogramie, jego rozmiar powinien wynosić co najmniej 20 wg ISO."
+ },
+ {
+  "id": "ae-c042-003",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    120,
+    122
+   ]
+  },
+  "question": "Po leczeniu kanałowym górnego pierwszego zęba trzonowego, w którym opracowano kanał MB2, chcesz na zdjęciu kontrolnym rozdzielić nakładające się na siebie kanały. Jak wykonać radiogram?",
+  "options": {
+   "A": "zastosować projekcję skośną z odchyleniem promienia centralnego w płaszczyźnie poziomej",
+   "B": "wykonać zdjęcie pantomograficzne z dodatkowym powiększeniem obrazu",
+   "C": "zwiększyć kąt nachylenia pionowego tubusu o około 20 stopni",
+   "D": "zastosować projekcję ortoradialną z promieniem prostopadłym do stycznej łuku",
+   "E": "wykonać zdjęcie zgryzowe z detektorem na powierzchni żującej"
+  },
+  "correct": "A",
+  "explanation": "Kanały leżące równolegle w płaszczyźnie przedsionkowo-językowej, w tym MB2, rozdziela się przez odchylenie promienia centralnego w płaszczyźnie horyzontalnej, czyli projekcję skośną."
+ },
+ {
+  "id": "ae-c043-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    123,
+    124
+   ]
+  },
+  "question": "Za prawidłowo wypełniony uznaje się kanał, w którym materiał umieszczony jest w odległości od wierzchołka radiologicznego wynoszącej:",
+  "options": {
+   "A": "dokładnie 3 mm",
+   "B": "od 1 do 4 mm",
+   "C": "od 2 do 4 mm",
+   "D": "od 0 do 5 mm",
+   "E": "od 0 do 2 mm"
+  },
+  "correct": "E",
+  "explanation": "Kanał uznaje się za prawidłowo wypełniony, gdy materiał znajduje się od 0 do 2 mm od wierzchołka radiologicznego; powyżej 2 mm mówimy o kanale niedopełnionym."
+ },
+ {
+  "id": "ae-c043-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    123,
+    124
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące oceny radiologicznej po obturacji kanałów:\n1. obecność samego sealera poza wierzchołkiem oznacza kanał przepełniony\n2. przejście ćwieka gutaperkowego poza otwór wierzchołkowy określa się jako przepchnięcie gutaperki\n3. prawidłowo skondensowany materiał jest homogenny i pozbawiony pęcherzyków powietrza\n4. po zamknięciu perforacji dna komory zdjęcie kontrolne wykonuje się dopiero po 6 miesiącach",
+  "options": {
+   "A": "tylko 1, 2 i 3",
+   "B": "tylko 2 i 4",
+   "C": "wszystkie prawidłowe",
+   "D": "tylko 3 i 4",
+   "E": "tylko 1 i 2"
+  },
+  "correct": "A",
+  "explanation": "Sealer poza wierzchołkiem oznacza przepełnienie, gutaperka poza otworem wierzchołkowym to przepchnięcie, a materiał ma być homogenny; po zamknięciu perforacji zdjęcie kontrolne wykonuje się natychmiast, aby móc skorygować położenie preparatu."
+ },
+ {
+  "id": "ae-c043-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    123,
+    124
+   ]
+  },
+  "question": "Na przekroju osiowym tomogramu CBCT ocenia się przede wszystkim:",
+  "options": {
+   "A": "długość roboczą kanałów wraz z otworem fizjologicznym",
+   "B": "przebieg kanałów w wymiarze przedsionkowo-językowym",
+   "C": "poziom kości wyrostka zębodołowego w odcinku przednim",
+   "D": "liczbę kanałów korzeniowych i obecność pionowych pęknięć korzenia",
+   "E": "kierunek zagięcia kanałów w wymiarze mezjalno-dystalnym"
+  },
+  "correct": "D",
+  "explanation": "Przekrój osiowy pozwala stwierdzić liczbę kanałów korzeniowych, obecność pionowych pęknięć korzenia (VRF) oraz przejaśnienia wokół korzeni i wskazać zajętą ścianę."
+ },
+ {
+  "id": "ae-c044-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    125,
+    129
+   ]
+  },
+  "question": "Jaka rozdzielczość przekrojów tomogramu CBCT jest zalecana do diagnostyki endodontycznej?",
+  "options": {
+   "A": "0,125 lub 0,2 woksela",
+   "B": "0,4 lub 0,6 woksela",
+   "C": "0,8 lub 1,2 woksela",
+   "D": "1,0 woksela",
+   "E": "2,0 woksela"
+  },
+  "correct": "A",
+  "explanation": "Do diagnostyki endodontycznej zalecana jest rozdzielczość 0,125 lub 0,2 woksela, czyli sześcian o boku 125 lub 200 mikrometrów, co pozwala wykryć pionowe złamania korzenia."
+ },
+ {
+  "id": "ae-c044-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    125,
+    129
+   ]
+  },
+  "question": "Główną przewagą tomogramu CBCT nad konwencjonalnym radiogramem dwuwymiarowym w ocenie zmian zapalnych okołozębowych jest:",
+  "options": {
+   "A": "brak nakładania się struktur anatomicznych dzięki obrazowaniu warstwowemu",
+   "B": "możliwość zastosowania funkcji pseudokolorowania obrazu",
+   "C": "kilkakrotnie niższa dawka promieniowania pochłonięta przez pacjenta",
+   "D": "znacznie krótszy czas uzyskania obrazu na monitorze komputera",
+   "E": "brak konieczności umieszczania detektora w jamie ustnej pacjenta"
+  },
+  "correct": "A",
+  "explanation": "CBCT jest badaniem warstwowym, więc nie występuje problem nakładania się struktur anatomicznych i zmiany zapalne okołozębowe są na nim lepiej widoczne niż na radiogramach 2D."
+ },
+ {
+  "id": "ae-c045-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    130,
+    131
+   ]
+  },
+  "question": "Gdzie u osoby dorosłej znajduje się otwór żuchwowy, istotny przy znieczuleniu nerwu zębodołowego dolnego?",
+  "options": {
+   "A": "na wysokości powierzchni zgryzowej dolnych zębów trzonowych",
+   "B": "tuż poniżej wcięcia żuchwy, przy wyrostku dziobiastym",
+   "C": "poniżej powierzchni żujących mlecznych zębów trzonowych",
+   "D": "w połowie wysokości trzonu żuchwy, poniżej kresy skośnej",
+   "E": "na wysokości szyjek dolnych zębów przedtrzonowych"
+  },
+  "correct": "A",
+  "explanation": "Wraz z rozwojem otwór żuchwowy przesuwa się ku górze gałęzi żuchwy i u dorosłego leży na wysokości powierzchni zgryzowej dolnych zębów trzonowych, podczas gdy u dziecka jest niżej."
+ },
+ {
+  "id": "ae-c045-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    130,
+    131
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące progu odczuwania bólu (POB):\n1. około 70% populacji reaguje właściwie na łagodny bodziec bólowy\n2. około 15% populacji nie reaguje w ogóle na taki bodziec\n3. ból utrzymujący się przed leczeniem obniża próg odczuwania bólu\n4. zmęczenie i strach podwyższają próg odczuwania bólu",
+  "options": {
+   "A": "tylko 3 i 4",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 2 i 4",
+   "D": "tylko 1, 2 i 3",
+   "E": "tylko 1 i 2"
+  },
+  "correct": "D",
+  "explanation": "Około 70% chorych reaguje właściwie, po 15% wykazuje hypo- i hiper-reakcję, a ból przed leczeniem, zmęczenie i strach należą do czynników obniżających, a nie podwyższających POB."
+ },
+ {
+  "id": "ae-c046-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    132,
+    133
+   ]
+  },
+  "question": "Jakim lekiem można odwrócić działanie midazolamu zastosowanego do sedacji płytkiej?",
+  "options": {
+   "A": "flumazenilem w dawce 5-10 ug/kg dożylnie",
+   "B": "atropiną w dawce 0,5 mg dożylnie",
+   "C": "neostygminą w dawce 0,5 mg domięśniowo",
+   "D": "naloksonem w dawce 5-10 ug/kg dożylnie",
+   "E": "hydroksyzyną w dawce 25 mg doustnie"
+  },
+  "correct": "A",
+  "explanation": "Midazolam jest benzodiazepiną, a jego działanie odwraca się flumazenilem podawanym dożylnie w dawce 5-10 ug/kg, przy maksymalnej dawce całkowitej 1 mg."
+ },
+ {
+  "id": "ae-c046-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    132,
+    133
+   ]
+  },
+  "question": "Dlaczego American Heart Association zaleca stosowanie w stomatologii wyłącznie adrenaliny jako środka obkurczającego naczynia?",
+  "options": {
+   "A": "noradrenalina rozszerza naczynia krwionośne i skraca czas działania anestetyku",
+   "B": "noradrenalina ma znacznie większe powinowactwo do receptorów beta i wywołuje ciężkie arytmie",
+   "C": "adrenalina jest jedynym środkiem obkurczającym naczynia rozpuszczalnym w roztworach amidowych",
+   "D": "noradrenalina ma znacznie większe powinowactwo do receptorów alfa i może wywołać martwicę tkanek",
+   "E": "adrenalina nie przechodzi do krążenia ogólnego i nie pobudza żadnych receptorów sercowych"
+  },
+  "correct": "D",
+  "explanation": "Powinowactwo noradrenaliny do receptorów alfa jest około 9 razy większe niż do receptorów beta, co grozi nadmiernym niedokrwieniem i martwicą tkanek o słabym krążeniu obocznym."
+ },
+ {
+  "id": "ae-c046-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    132,
+    133
+   ]
+  },
+  "question": "Umiarkowane uspokojenie przy sedacji wziewnej podtlenkiem azotu uzyskuje się przy jego stężeniu:",
+  "options": {
+   "A": "50-70%",
+   "B": "1-3%",
+   "C": "5-25%",
+   "D": "30-50%",
+   "E": "75-95%"
+  },
+  "correct": "C",
+  "explanation": "Umiarkowane uspokojenie osiąga się przy stężeniu podtlenku azotu 5-25% i tlenu 75-95%; pacjent odpowiada wtedy na pytania i polecenia lekarza."
+ },
+ {
+  "id": "ae-c047-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    134,
+    135
+   ]
+  },
+  "question": "Czym tłumaczy się bardzo krótki, 27-minutowy okres półtrwania artikainy w osoczu?",
+  "options": {
+   "A": "rozkładem leku do toluidyny przez esterazy błony śluzowej jamy ustnej",
+   "B": "obecnością grupy tiofenowej i całkowitym metabolizmem w wątrobie",
+   "C": "obecnością grupy estrowej i metabolizmem w 90-95% we krwi",
+   "D": "szybkim wiązaniem cząsteczki z receptorami alfa naczyń krwionośnych",
+   "E": "wydalaniem leku w postaci niezmienionej przez nerki w 90%"
+  },
+  "correct": "C",
+  "explanation": "Artikaina jako jedyny powszechnie stosowany amid zawiera dodatkowo grupę estrową, dzięki czemu jest hydrolizowana w 90-95% w osoczu, a jedynie w 5-10% w wątrobie."
+ },
+ {
+  "id": "ae-c047-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    134,
+    135
+   ]
+  },
+  "question": "Który środek znieczulający jest w tekście uznawany za standard porównawczy dla pozostałych anestetyków stomatologicznych?",
+  "options": {
+   "A": "4% artikaina z dodatkiem adrenaliny 1:100 000",
+   "B": "2% lidokaina z dodatkiem adrenaliny 1:100 000",
+   "C": "3% mepiwakaina bez środka obkurczającego naczynia",
+   "D": "4% prilokaina z dodatkiem adrenaliny 1:200 000",
+   "E": "2% mepiwakaina z alfa-metylorepinefryną 1:20 000"
+  },
+  "correct": "B",
+  "explanation": "Dwuprocentowa lidokaina z dodatkiem 1:100 000 adrenaliny jest uznawana za standard, do którego porównuje się inne środki znieczulające."
+ },
+ {
+  "id": "ae-c047-003",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    134,
+    135
+   ]
+  },
+  "question": "U pacjentki planujesz znieczulenie i rozważasz prilokainę. Jakie ryzyko metaboliczne wiąże się z tym środkiem?",
+  "options": {
+   "A": "hipoglikemia wynikająca z blokady enzymów mikrosomalnych",
+   "B": "gromadzenie nieaktywnego kwasu artikainowego w nerkach",
+   "C": "powstawanie toluidyny i rozwój methemoglobinemii",
+   "D": "kumulacja ksylidyny o działaniu miejscowo znieczulającym",
+   "E": "nasilona hemoliza wskutek hydrolizy przez esterazy osoczowe"
+  },
+  "correct": "C",
+  "explanation": "Jednym z produktów metabolizmu prilokainy jest toluidyna, której powstawanie wiąże się z rozwojem methemoglobinemii."
+ },
+ {
+  "id": "ae-c048-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    136,
+    137
+   ]
+  },
+  "question": "Dzięki czemu w strzykawce samoaspirującej możliwe jest wykonanie aspiracji bez pociągania tłoka?",
+  "options": {
+   "A": "obrót ampułki wokół własnej osi zasysa krew do światła igły",
+   "B": "metalowy pierścień kciukowy automatycznie odciąga cylinder ku tyłowi",
+   "C": "sprężystość gumowej przepony cofa ampułkę i wytwarza podciśnienie",
+   "D": "harpun wbity w gumowy tłoczek unosi go po zwolnieniu nacisku",
+   "E": "sprężyna umieszczona w łączniku igły odciąga słup płynu"
+  },
+  "correct": "C",
+  "explanation": "Po zwolnieniu nacisku ampułka wraca dzięki sprężystości gumowej przepony opartej o metalową rurkę, co wytwarza podciśnienie umożliwiające aspirację."
+ },
+ {
+  "id": "ae-c048-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    136,
+    137
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące ampułek dentystycznych i ich przechowywania:\n1. ampułka składa się z cylindra, tłoczka, czapeczki aluminiowej i przepony\n2. ampułki należy przechowywać w temperaturze pokojowej i bez dostępu światła\n3. w pojemniku ampułki układa się czapeczką aluminiową do dna\n4. przed użyciem roztwór należy zawsze dodatkowo podgrzać",
+  "options": {
+   "A": "tylko 1 i 4",
+   "B": "tylko 3 i 4",
+   "C": "tylko 2 i 3",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 1, 2 i 3"
+  },
+  "correct": "E",
+  "explanation": "Ampułka ma cztery części, przechowuje się ją w temperaturze pokojowej bez dostępu światła i czapeczką do dna pojemnika; dodatkowe podgrzewanie jest zbędne i może być nieprzyjemne dla pacjenta."
+ },
+ {
+  "id": "ae-c049-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    138,
+    139
+   ]
+  },
+  "question": "Jaka jest zależność między oznaczeniem rozmiaru igły dentystycznej a jej światłem?",
+  "options": {
+   "A": "im większy rozmiar igły, tym mniejsze jej światło wewnętrzne",
+   "B": "rozmiar określa wyłącznie długość igły, nie jej światło",
+   "C": "rozmiar odpowiada średnicy zewnętrznej wyrażonej w milimetrach",
+   "D": "im większy rozmiar igły, tym większe jej światło wewnętrzne",
+   "E": "rozmiar określa kąt ścięcia końcówki, a nie średnicę światła"
+  },
+  "correct": "A",
+  "explanation": "Numer rozmiaru odnosi się do światła igły odwrotnie: igła o rozmiarze 30 ma mniejszą średnicę wewnętrzną niż igła o rozmiarze 25."
+ },
+ {
+  "id": "ae-c049-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    138,
+    139
+   ]
+  },
+  "question": "W której części igły dentystycznej najczęściej dochodzi do złamania?",
+  "options": {
+   "A": "w miejscu w pobliżu łącznika",
+   "B": "w połowie długości trzonu igły",
+   "C": "w części doampułkowej igły",
+   "D": "tuż przy ściętej końcówce igły",
+   "E": "w gwintowanej części łącznika"
+  },
+  "correct": "A",
+  "explanation": "Najsłabszym miejscem igły jest okolica łącznika i tam najczęściej dochodzi do złamań, dlatego nie należy wprowadzać igły do tkanek aż do kontaktu z łącznikiem."
+ },
+ {
+  "id": "ae-c049-003",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    138,
+    139
+   ]
+  },
+  "question": "Planujesz znieczulenie przewodowe nerwu zębodołowego dolnego w silnie unaczynionej okolicy, gdzie prawdopodobieństwo dodatniej aspiracji jest duże. Jaką igłę należy wybrać?",
+  "options": {
+   "A": "igłę krótką o rozmiarze 27, ułatwiającą kontrolę głębokości",
+   "B": "igłę krótką o rozmiarze 30, powodującą mniejszy uraz tkanek",
+   "C": "dowolną igłę krótką, ponieważ grubość nie ma znaczenia",
+   "D": "igłę długą o rozmiarze 30 z potrójnym ścięciem końcówki",
+   "E": "igłę długą o rozmiarze 25, mniej odginającą się w tkankach"
+  },
+  "correct": "E",
+  "explanation": "Do znieczuleń przewodowych zaleca się igły długie o większej średnicy (rozmiar 25), które mniej się odginają i zapewniają najbardziej wiarygodną aspirację."
+ },
+ {
+  "id": "ae-c050-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    140,
+    142
+   ]
+  },
+  "question": "W jakim położeniu należy prowadzić igłę podczas wkłucia przy znieczuleniu nasiękowym?",
+  "options": {
+   "A": "ściętym końcem skierowanym od kości, prostopadle do błony śluzowej",
+   "B": "ściętym końcem do kości, prostopadle do powierzchni wyrostka",
+   "C": "ściętym końcem od kości, równolegle do przebiegu okostnej",
+   "D": "obojętnie, ponieważ ustawienie ścięcia nie wpływa na uraz tkanek",
+   "E": "ściętym końcem skierowanym do kości, pod kątem około 45 stopni"
+  },
+  "correct": "E",
+  "explanation": "Igłę kieruje się ściętym końcem do kości i prowadzi pod kątem około 45 stopni, co pozwala zdeponować płyn na okostnej i uniknąć jej skaleczenia lub rozerwania."
+ },
+ {
+  "id": "ae-c050-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    140,
+    142
+   ]
+  },
+  "question": "Wolne tempo podawania anestetyku w systemie The Wand oznacza podanie 1,8 ml roztworu w czasie:",
+  "options": {
+   "A": "około 2 minut",
+   "B": "około 10 minut",
+   "C": "niespełna 45 sekund",
+   "D": "około 1 minuty",
+   "E": "około 4 minut i 45 sekund"
+  },
+  "correct": "E",
+  "explanation": "W systemie The Wand tempo wolne to 1,8 ml podane w około 4 minuty i 45 sekund; tempo bardzo szybkie (turbo) to ta sama objętość w niespełna 45 sekund."
+ },
+ {
+  "id": "ae-c050-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    140,
+    142
+   ]
+  },
+  "question": "Jakim roztworem zaleca się odkażenie miejsca wkłucia przed iniekcją?",
+  "options": {
+   "A": "wodnym roztworem podchlorynu sodu o stężeniu 5,25%",
+   "B": "roztworem nadtlenku wodoru o stężeniu 3%",
+   "C": "roztworem alkoholu izopropylowego o stężeniu 91%",
+   "D": "roztworem jodopowidonu o stężeniu 10%",
+   "E": "wodnym roztworem chlorheksydyny o stężeniu 0,02%"
+  },
+  "correct": "E",
+  "explanation": "Przed iniekcją miejsce wkłucia odkaża się wodnym roztworem chlorheksydyny 0,02% albo poleca pacjentowi wypłukanie jamy ustnej płynem odkażającym."
+ },
+ {
+  "id": "ae-c051-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    143,
+    144
+   ]
+  },
+  "question": "Jak długo powinno trwać powolne zdeponowanie zawartości jednej ampułki o pojemności 1,8 ml?",
+  "options": {
+   "A": "około 30 sekund",
+   "B": "około 10 sekund",
+   "C": "około 2 minut",
+   "D": "około 1 minuty",
+   "E": "około 5 minut"
+  },
+  "correct": "C",
+  "explanation": "Deponowanie 0,8-0,9 ml powinno trwać około minuty, zatem podanie całej ampułki 1,8 ml zajmuje około 2 minut."
+ },
+ {
+  "id": "ae-c051-002",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    143,
+    144
+   ]
+  },
+  "question": "Po zdjęciu sklepienia komory zęba planujesz znieczulenie domiazgowe miazgi kanałowej. Jak należy je wykonać?",
+  "options": {
+   "A": "wprowadzić długą igłę o średnicy 0,5 mm do najszerszego kanału i podać około 1 ml roztworu",
+   "B": "wprowadzić krótką igłę o średnicy 0,3 mm do każdego ujścia i podać około 0,2 ml roztworu",
+   "C": "wykonać dodatkowe znieczulenie nasiękowe od strony podniebiennej lub językowej",
+   "D": "zdeponować około 0,5 ml roztworu na dnie komory bez wprowadzania igły do ujść",
+   "E": "podać około 0,2 ml roztworu do szpary ozębnej każdego korzenia badanego zęba"
+  },
+  "correct": "B",
+  "explanation": "Po usunięciu sklepienia komory do każdego ujścia kanałowego wprowadza się krótką igłę o średnicy 0,3 mm, podając około 0,2 ml roztworu znieczulającego."
+ },
+ {
+  "id": "ae-c051-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    143,
+    144
+   ]
+  },
+  "question": "Który nerw znieczula się przez wstrzyknięcie do kanału przysiecznego jako uzupełnienie znieczulenia zębów siecznych szczęki?",
+  "options": {
+   "A": "policzkowy",
+   "B": "podniebienny większy",
+   "C": "zębodołowy górny tylny",
+   "D": "nosowo-podniebienny",
+   "E": "podoczodołowy"
+  },
+  "correct": "D",
+  "explanation": "W kanale przysiecznym biegnie nerw nosowo-podniebienny; jego znieczulenie obejmuje przednią część podniebienia i uzupełnia znieczulenie nasiękowe od strony przedsionka."
+ },
+ {
+  "id": "ae-c075-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    216,
+    217
+   ]
+  },
+  "question": "Przy zobliterowanej jamie zęba podejmuje się próbę wybarwienia ujść kanałowych 1-2% błękitem metylenowym. Jak długo barwnik powinien pozostawać w komorze?",
+  "options": {
+   "A": "do następnej wizyty pod opatrunkiem czasowym",
+   "B": "około 1 minuty, potem osuszenie komory",
+   "C": "około 30 sekund, potem osuszenie komory",
+   "D": "około 5 minut, potem wypłukanie i osuszenie",
+   "E": "około 20 minut, potem wypłukanie komory"
+  },
+  "correct": "D",
+  "explanation": "Barwnik pozostawia się w komorze na około 5 minut, następnie dokładnie się go wypłukuje i osusza komorę; miejsca ujść kanałów wybarwiają się intensywniej."
+ },
+ {
+  "id": "ae-c075-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    216,
+    217
+   ]
+  },
+  "question": "W jaki sposób bezpieczniej jest usunąć miazgę z kanału o dużej średnicy?",
+  "options": {
+   "A": "jednym grubym miazgociągiem wprowadzonym osiowo",
+   "B": "wiertłem różyczkowym na wolnych obrotach",
+   "C": "dwoma cienkimi miazgociągami wzdłuż przeciwległych ścian",
+   "D": "pilnikiem Hedströma ruchem piłowania po obwodzie",
+   "E": "wiertłem Gates-Glidden nr 3 bez ucisku"
+  },
+  "correct": "C",
+  "explanation": "W kanałach szerokich zamiast jednego grubego miazgociągu wprowadza się dwa cienkie wzdłuż dwóch przeciwległych ścian, wykonuje lekki ruch skręcenia i wyciąga je razem z miazgą."
+ },
+ {
+  "id": "ae-c075-003",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    216,
+    217
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące opracowania jamy zęba:\n1. Sklepienie komory zdejmuje się tępo zakończonymi wiertłami walcowymi w końcówce wolnoobrotowej.\n2. Dno komory jest ciemnoszare i stanowi figurę o wierzchołkach wyznaczonych przez ujścia kanałów.\n3. W zębie wielokanałowym ze zobliterowaną jamą wiertło kieruje się najpierw w stronę najwęższego kanału.\n4. Pozostawienie martwej tkanki w zachyłkach komory powoduje trwałe przebarwienie korony zęba.",
+  "options": {
+   "A": "tylko 3 i 4",
+   "B": "tylko 2 i 3",
+   "C": "tylko 1 i 2",
+   "D": "tylko 1, 2 i 4",
+   "E": "wszystkie prawidłowe"
+  },
+  "correct": "D",
+  "explanation": "W zębach wielokanałowych ze zobliterowaną jamą wiertło kieruje się najpierw w stronę największego, a nie najwęższego kanału; pozostałe stwierdzenia są zgodne z zasadami opracowania komory."
+ },
+ {
+  "id": "ae-c076-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    218,
+    219
+   ]
+  },
+  "question": "Zgodnie z zasadami opracowania kanałów, ile razy wolno użyć pilników o rozmiarach 15-25 wg ISO?",
+  "options": {
+   "A": "wyłącznie jednorazowo",
+   "B": "pięciokrotnie",
+   "C": "dowolną liczbę razy po sterylizacji",
+   "D": "dziesięciokrotnie",
+   "E": "dwukrotnie"
+  },
+  "correct": "E",
+  "explanation": "Pilniki 08-10 stosuje się wyłącznie jednorazowo, narzędzia 15-25 dwukrotnie, a dopiero nieuszkodzone narzędzia powyżej nr 30 mogą być używane kilkakrotnie."
+ },
+ {
+  "id": "ae-c076-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    218,
+    219
+   ]
+  },
+  "question": "Czym jest pilnik główny MAF (Master Apical File)?",
+  "options": {
+   "A": "pierwszym narzędziem, które lekko klinuje się na długości roboczej",
+   "B": "najszerszym narzędziem użytym w koronowej części kanału",
+   "C": "najgrubszym narzędziem wprowadzanym na pełną długość roboczą",
+   "D": "narzędziem odpowiadającym szerokości otworu anatomicznego",
+   "E": "narzędziem służącym wyłącznie do rekapitulacji kanału"
+  },
+  "correct": "C",
+  "explanation": "MAF to najgrubsze narzędzie wprowadzane na długość roboczą, odpowiadające maksymalnej średnicy poszerzenia kanału w okolicy otworu fizjologicznego; pierwsze klinujące się narzędzie to IAF."
+ },
+ {
+  "id": "ae-c076-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    218,
+    219
+   ]
+  },
+  "question": "Jaki kształt powinien mieć optymalnie opracowany kanał korzeniowy?",
+  "options": {
+   "A": "lejka rozszerzającego się w okolicy przywierzchołkowej",
+   "B": "stożka z podstawą skierowaną dokoronowo",
+   "C": "klepsydry z przewężeniem w części środkowej",
+   "D": "walca o jednakowej średnicy na całej długości",
+   "E": "stożka z podstawą skierowaną dowierzchołkowo"
+  },
+  "correct": "B",
+  "explanation": "Optymalnie opracowany kanał ma kształt stożka, którego podstawa skierowana jest dokoronowo, a wierzchołek znajduje się w okolicy otworu fizjologicznego."
+ },
+ {
+  "id": "ae-c077-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    220,
+    221
+   ]
+  },
+  "question": "Co jest podstawową wadą tradycyjnej (klasycznej) metody opracowania kanału korzeniowego?",
+  "options": {
+   "A": "nadmierne poszerzenie części koronowej przy braku opracowania wierzchołka",
+   "B": "nadmierne opracowanie części wierzchołkowej przy małym poszerzeniu części koronowej",
+   "C": "brak możliwości ustalenia długości roboczej przed rozpoczęciem zabiegu",
+   "D": "konieczność wcześniejszego użycia narzędzi maszynowych niklowo-tytanowych",
+   "E": "wysokie ryzyko przepchnięcia zawartości kanału poza otwór anatomiczny"
+  },
+  "correct": "B",
+  "explanation": "Wadą metody tradycyjnej jest nadmierne opracowanie części wierzchołkowej kanału przy stosunkowo niewielkim usunięciu zębiny w części koronowej, co sprzyja prostowaniu krzywizny i perforacji."
+ },
+ {
+  "id": "ae-c077-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    220,
+    221
+   ]
+  },
+  "question": "Na czym polega okrężne poszerzanie kanału (ang. circumferential), zalecane w kanałach szerokich o owalnym przekroju?",
+  "options": {
+   "A": "na wprowadzaniu kolejnych narzędzi na coraz krótszą głębokość roboczą",
+   "B": "na obracaniu narzędzia o pełny obrót przy stałym docisku do jednej ściany",
+   "C": "na ruchach posuwisto-zwrotnych z jednoczesnym naciskiem na wszystkie ściany",
+   "D": "na naprzemiennym stosowaniu pilników K i poszerzaczy Kerra",
+   "E": "na opracowaniu kanału wiertłami Gates-Glidden o wzrastającej numeracji"
+  },
+  "correct": "C",
+  "explanation": "Okrężne poszerzanie polega na wprowadzeniu narzędzia na długość roboczą i wykonywaniu ruchów posuwisto-zwrotnych z jednoczesnym naciskiem na wszystkie ściany kanału."
+ },
+ {
+  "id": "ae-c077-003",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    220,
+    221
+   ]
+  },
+  "question": "U pacjenta leczony jest endodontycznie kieł górny o wąskim, cienkim wierzchołku korzenia. Lekarz rozważa opracowanie kanału techniką tradycyjną, kolejnymi coraz grubszymi narzędziami wprowadzanymi na pełną długość roboczą. Jak należy ocenić ten plan?",
+  "options": {
+   "A": "jest właściwy, pod warunkiem zakończenia opracowania na rozmiarze 80",
+   "B": "jest niewłaściwy, bo technika tradycyjna nie pozwala ustalić długości roboczej",
+   "C": "jest niewłaściwy, bo grozi perforacją korzenia lub złamaniem wierzchołka",
+   "D": "jest właściwy, bo technika tradycyjna najlepiej oczyszcza wąskie wierzchołki",
+   "E": "jest właściwy, jeśli zrezygnuje się z płukania kanału między narzędziami"
+  },
+  "correct": "C",
+  "explanation": "W zębach o wąskich wierzchołkach korzeni, takich jak kieł górny, technika tradycyjna prowadzi do nadmiernego poszerzenia części przywierzchołkowej, a w konsekwencji do perforacji korzenia lub złamania wierzchołka."
+ },
+ {
+  "id": "ae-c078-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    222,
+    223
+   ]
+  },
+  "question": "Jaką średnicę powinno mieć narzędzie końcowe FF (Final File) w technice „step-back”?",
+  "options": {
+   "A": "o jeden numer mniejszą od narzędzia głównego MAF",
+   "B": "o 6-8 numerów większą od narzędzia głównego MAF",
+   "C": "o 2-4 numery większą od narzędzia głównego MAF",
+   "D": "równą średnicy narzędzia głównego MAF",
+   "E": "odpowiadającą pilnikowi początkowemu IAF"
+  },
+  "correct": "C",
+  "explanation": "Narzędzie końcowe FF jest najszerszym instrumentem wprowadzanym do kanału, a jego średnica powinna być o 2-4 numery większa od narzędzia głównego MAF."
+ },
+ {
+  "id": "ae-c078-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    222,
+    223
+   ]
+  },
+  "question": "Wiertło Gates-Glidden nr 2 stosowane w koronowej części kanału odpowiada średnicą pilnikowi o numerze:",
+  "options": {
+   "A": "60",
+   "B": "40",
+   "C": "50",
+   "D": "30",
+   "E": "80"
+  },
+  "correct": "A",
+  "explanation": "Wiertło Gates-Glidden nr 2 odpowiada pilnikowi nr 60, a wiertło nr 3 pilnikowi nr 80; pracuje się nimi bez ucisku."
+ },
+ {
+  "id": "ae-c078-003",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    222,
+    223
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące techniki „step-down”:\n1. Długość robocza nie jest ustalana na początku zabiegu, co zmniejsza ryzyko jej skrócenia.\n2. Szerokie opracowanie części koronowej ułatwia dostęp do zakrzywionej części przyszczytowej.\n3. Technika ta zwiększa ryzyko przepchnięcia zawartości kanału poza wierzchołek korzenia.\n4. Technika ta poprawia penetrację środków płuczących w kanale.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 2 i 3",
+   "C": "tylko 2, 3 i 4",
+   "D": "tylko 1 i 3",
+   "E": "tylko 1, 2 i 4"
+  },
+  "correct": "E",
+  "explanation": "Technika „step-down” zmniejsza, a nie zwiększa, ryzyko przepchnięcia zawartości poza otwór anatomiczny, ponieważ główna masa zakażonej tkanki usuwana jest na początku opracowania."
+ },
+ {
+  "id": "ae-c079-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    224,
+    225
+   ]
+  },
+  "question": "W technice „balanced forces” cięcie zębiny następuje podczas ruchu:",
+  "options": {
+   "A": "obrotu o 90-180° zgodnie z ruchem wskazówek zegara",
+   "B": "piłowania góra-dół po całym obwodzie kanału",
+   "C": "swobodnego wsuwania narzędzia do miejsca oporu",
+   "D": "wycofywania narzędzia z jednoczesnym obrotem zgodnym z zegarem",
+   "E": "obrotu o 120-360° przeciwnie do ruchu wskazówek zegara z naciskiem"
+  },
+  "correct": "E",
+  "explanation": "Po wprowadzeniu do oporu i obrocie o 90-180° zgodnie z ruchem wskazówek zegara wykonuje się obrót o 120-360° w stronę przeciwną z naciskiem utrzymującym narzędzie w kanale — w trakcie tego ruchu następuje cięcie zębiny."
+ },
+ {
+  "id": "ae-c079-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    224,
+    225
+   ]
+  },
+  "question": "Podczas opracowywania kanału zakrzywionego oznakowanie na ograniczniku silikonowym powinno być skierowane:",
+  "options": {
+   "A": "dowolnie, bo służy tylko do odczytu długości",
+   "B": "zawsze w stronę policzkową zęba",
+   "C": "zawsze w stronę językową zęba",
+   "D": "w stronę przeciwną do krzywizny kanału",
+   "E": "w stronę krzywizny kanału"
+  },
+  "correct": "E",
+  "explanation": "Oznakowanie na ograniczniku kieruje się w stronę krzywizny kanału, co umożliwia prawidłowe, powtarzalne wprowadzanie dogiętego narzędzia."
+ },
+ {
+  "id": "ae-c079-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    224,
+    225
+   ]
+  },
+  "question": "Na czym polega działanie tzw. bezpiecznych pilniczków Hedströma stosowanych w kanałach zakrzywionych?",
+  "options": {
+   "A": "posiadają numerację pośrednią pomiędzy standardami ISO",
+   "B": "wykonane są ze stopu niklowo-tytanowego o zbieżności 0,06",
+   "C": "mają zwiększoną sztywność przy średnicy 06, 08 i 10",
+   "D": "mają nietnący wierzchołek prowadzący narzędzie po krzywiźnie",
+   "E": "mają jedną gładką powierzchnię kierowaną w stronę krzywizny kanału"
+  },
+  "correct": "E",
+  "explanation": "W bezpiecznych pilniczkach Hedströma gładką (nieaktywną) powierzchnię kieruje się w stronę krzywizny kanału, co zapobiega jego perforacji."
+ },
+ {
+  "id": "ae-c080-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    226,
+    227
+   ]
+  },
+  "question": "Jakiego rozmiaru rozpychacza (spreadera) używa się do kondensacji bocznej w kanale zakrzywionym opracowanym do rozmiaru 25-30?",
+  "options": {
+   "A": "nr 20 lub 25",
+   "B": "nr 60 lub 70",
+   "C": "nr 10 lub 15",
+   "D": "nr 45 lub 50",
+   "E": "nr 35 lub 40"
+  },
+  "correct": "A",
+  "explanation": "W kanałach zakrzywionych ćwiek główny ma rozmiar 20-25, a do kondensacji bocznej potrzebny jest rozpychacz nr 20 lub 25."
+ },
+ {
+  "id": "ae-c080-002",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    226,
+    227
+   ]
+  },
+  "question": "Lekarz rozpoczyna opracowanie zobliterowanego kanału zęba przedniego. Kanał jest ledwo drożny dla najcieńszych narzędzi. Które postępowanie w tym początkowym etapie jest właściwe?",
+  "options": {
+   "A": "opracowanie kanału techniką tradycyjną do rozmiaru 40",
+   "B": "obfite płukanie 15% EDTA już od pierwszego narzędzia",
+   "C": "poszerzenie kanału wiertłem Gates-Glidden na całej długości",
+   "D": "użycie sztywnych narzędzi C-file 08 lub 10 ze środkiem naoliwiającym",
+   "E": "wprowadzenie pilnika Hedströma nr 25 ruchem piłowania"
+  },
+  "correct": "D",
+  "explanation": "Kanały zobliterowane udrażnia się cienkimi, sztywnymi narzędziami typu C-file 08 lub 10 z lubrikantem; środki chelatujące w początkowym etapie grożą wytworzeniem fałszywej drogi."
+ },
+ {
+  "id": "ae-c080-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    226,
+    227
+   ]
+  },
+  "question": "Co dzieje się z długością roboczą w trakcie opracowywania kanału zakrzywionego?",
+  "options": {
+   "A": "pozostaje stała niezależnie od stopnia poszerzenia",
+   "B": "ulega zmniejszeniu wskutek złagodzenia krzywizny kanału",
+   "C": "ulega zwiększeniu wskutek pogłębienia krzywizny kanału",
+   "D": "zwiększa się o 0,5 mm po każdym kolejnym rozmiarze narzędzia",
+   "E": "zmienia się jedynie po przejściu na narzędzia maszynowe"
+  },
+  "correct": "B",
+  "explanation": "Podczas opracowywania kanału zakrzywionego zwiększa się jego przekrój i łagodnieje krzywizna, co prowadzi do zmniejszenia długości roboczej."
+ },
+ {
+  "id": "ae-c081-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    228,
+    229
+   ]
+  },
+  "question": "Co odróżnia narzędzia systemu LightSpeed od innych narzędzi niklowo-tytanowych?",
+  "options": {
+   "A": "zmienna stożkowatość w obrębie części roboczej o długości 16 mm",
+   "B": "przekrój poprzeczny w kształcie trzech odwróconych liter U",
+   "C": "obecność aktywnego, ostro zakończonego wierzchołka tnącego",
+   "D": "znaczne skrócenie części roboczej i wydłużenie nietnącego trzonu",
+   "E": "skrócenie trzonka do 11 mm ułatwiające pracę w zębach trzonowych"
+  },
+  "correct": "D",
+  "explanation": "Cechą wyróżniającą LightSpeed jest znaczna redukcja części skrawającej (0,5 mm dla nr 20 do 1,75 mm dla nr 100), co wydłużyło gładki, nietnący trzon i zwiększyło giętkość narzędzia."
+ },
+ {
+  "id": "ae-c081-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    228,
+    229
+   ]
+  },
+  "question": "Jaka prędkość obrotowa zalecana jest podczas pracy narzędziami LightSpeed?",
+  "options": {
+   "A": "3000-8000 obrotów na minutę",
+   "B": "powyżej 10000 obrotów na minutę",
+   "C": "150-350 obrotów na minutę",
+   "D": "280 obrotów na minutę",
+   "E": "750-2000 obrotów na minutę"
+  },
+  "correct": "E",
+  "explanation": "Narzędzia LightSpeed pracują z prędkością od 750 do 2000 obr./min; przekroczenie 2000 obr./min jest niedozwolone, gdyż grozi złamaniem instrumentu."
+ },
+ {
+  "id": "ae-c081-003",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    228,
+    229
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące systemu ProTaper:\n1. Narzędzia oznaczone literą S służą do nadawania kształtu kanałowi.\n2. Pilnik SX przeznaczony jest do opracowania przykoronowej i środkowej części kanału.\n3. Narzędzia F1, F2, F3 służą do wstępnego udrożnienia kanału przed pomiarem długości.\n4. Cały system składa się z ośmiu narzędzi.",
+  "options": {
+   "A": "tylko 1, 2 i 4",
+   "B": "tylko 2 i 3",
+   "C": "tylko 3 i 4",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 1 i 3"
+  },
+  "correct": "A",
+  "explanation": "Narzędzia F (Finishing) służą do końcowego opracowania kanału i wprowadza się je na pełną długość roboczą, a nie do wstępnego udrożnienia; pozostałe stwierdzenia są prawdziwe."
+ },
+ {
+  "id": "ae-c082-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    230,
+    231
+   ]
+  },
+  "question": "Czym charakteryzuje się narzędzie systemu Self Adjusting File (SAF)?",
+  "options": {
+   "A": "jest pilnikiem o przekroju trzech połączonych, odwróconych liter U",
+   "B": "jest pilnikiem stalowym o zmiennych krawędziach tnących i zbieżności 0,10",
+   "C": "jest narzędziem o skróconej części roboczej i nietnącym wierzchołku",
+   "D": "jest światłowodem kwarcowym transmitującym promieniowanie do kanału",
+   "E": "jest przestrzenną siatką niklowo-tytanową z centralnym kanałem dla płynu"
+  },
+  "correct": "E",
+  "explanation": "Narzędzie SAF to przestrzenna siatka ze stopu niklowo-tytanowego, która rozpręża się w kanale, a roztwory płuczące podawane są przez jego centralną, pustą część."
+ },
+ {
+  "id": "ae-c082-002",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    230,
+    231
+   ]
+  },
+  "question": "Lekarz zamierza wspomóc opracowanie wąskiego kanału korzeniowego urządzeniem ultradźwiękowym. Które postępowanie jest prawidłowe?",
+  "options": {
+   "A": "wprowadzić pracujące narzędzie ultradźwiękowe od razu do wąskiego kanału",
+   "B": "umieścić ogranicznik bezpośrednio na narzędziu i pracować bez płukania",
+   "C": "opracować kanał ręcznie do nr 40, a następnie użyć największej końcówki",
+   "D": "opracować kanał ręcznie do nr 15, wprowadzić narzędzie w spoczynku i włączyć aparat",
+   "E": "zrezygnować z pomiaru długości roboczej, bo wibracje same ją wyznaczą"
+  },
+  "correct": "D",
+  "explanation": "Wąskie kanały opracowuje się najpierw ręcznie do rozmiaru 15 wg ISO, a narzędzie ultradźwiękowe wprowadza się zawsze w spoczynku i włącza aparat dopiero po osiągnięciu długości roboczej."
+ },
+ {
+  "id": "ae-c082-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    230,
+    231
+   ]
+  },
+  "question": "Z jaką częstotliwością pracują endodontyczne urządzenia dźwiękowe (sonic)?",
+  "options": {
+   "A": "3000-8000 Hz",
+   "B": "40000 Hz",
+   "C": "25000 Hz",
+   "D": "powyżej 100000 Hz",
+   "E": "300-800 Hz"
+  },
+  "correct": "A",
+  "explanation": "Urządzenia dźwiękowe (Rispisonic, Heliosonic, Endosonic) pracują z częstotliwością 3000-8000 Hz, czyli znacznie mniejszą niż urządzenia ultradźwiękowe."
+ },
+ {
+  "id": "ae-c083-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    232,
+    233
+   ]
+  },
+  "question": "Jaki jest najtrudniejszy, dotychczas nierozwiązany problem laserowego opracowania kanałów korzeniowych?",
+  "options": {
+   "A": "brak działania przeciwbakteryjnego laserów CO2 i neodymowo-jagowych",
+   "B": "pozostawianie resztek zjonizowanego gazu na ścianach kanału",
+   "C": "złamanie włókna światłowodowego w kanale i trudność z jego usunięciem",
+   "D": "nadmierne poszerzenie kanału w okolicy przywierzchołkowej",
+   "E": "rekrystalizacja stopionej zębiny i zamykanie kanalików zębinowych"
+  },
+  "correct": "C",
+  "explanation": "Kwarcowy światłowód o średnicy 200-300 µm jest kruchy i łamliwy, a jego złamanie w świetle kanału oraz trudność usunięcia pozostają nierozwiązanym problemem techniki laserowej."
+ },
+ {
+  "id": "ae-c083-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    232,
+    233
+   ]
+  },
+  "question": "Jaki odsetek kanałów płukanych podczas opracowania podchlorynem sodu aktywowanym ultradźwiękami był wolny od bakterii?",
+  "options": {
+   "A": "50%",
+   "B": "20%",
+   "C": "35%",
+   "D": "95%",
+   "E": "70%"
+  },
+  "correct": "E",
+  "explanation": "Samo płukanie pozwalało uzyskać jałowość w 20% kanałów, płukanie podchlorynem sodu w 50%, a podchlorynem aktywowanym ultradźwiękami aż w 70% kanałów."
+ },
+ {
+  "id": "ae-c083-003",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    232,
+    233
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące porównania maszynowego i ręcznego opracowania kanału:\n1. Zaletą opracowania maszynowego jest skrócenie czasu pracy.\n2. Opracowanie maszynowe lepiej zachowuje oryginalny przebieg kanału i położenie otworu fizjologicznego.\n3. Wadą opracowania maszynowego jest większe ryzyko złamania narzędzia i koszt leczenia.\n4. Ryzyko niepowodzenia zmniejsza wcześniejsze opracowanie kanału narzędziami ręcznymi do nr 10-15.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 1, 3 i 4",
+   "C": "tylko 2 i 3",
+   "D": "tylko 2, 3 i 4",
+   "E": "tylko 1 i 2"
+  },
+  "correct": "A",
+  "explanation": "Wszystkie wymienione stwierdzenia odpowiadają podsumowaniu rozdziału: maszynowe opracowanie skraca czas i zachowuje przebieg kanału, ale jest droższe i grozi złamaniem narzędzia, czemu zapobiega wstępne opracowanie ręczne do nr 10-15."
+ },
+ {
+  "id": "ae-c084-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    234,
+    235
+   ]
+  },
+  "question": "W jakiej sytuacji klinicznej szczególnie zaleca się płukanie kanału 3% wodą utlenioną zamiast podchlorynu sodu?",
+  "options": {
+   "A": "w kanałach zębów wymagających powtórnego leczenia",
+   "B": "w kanałach z rozległym biofilmem bakteryjnym na ścianach",
+   "C": "w kanałach z nieukształtowanym wierzchołkiem lub sperforowanych",
+   "D": "w kanałach silnie zobliterowanych i zakrzywionych",
+   "E": "w kanałach przygotowywanych do kondensacji gutaperki na ciepło"
+  },
+  "correct": "C",
+  "explanation": "3% woda utleniona jest mniej toksyczna dla tkanek okołowierzchołkowych, dlatego zaleca się ją do płukania kanałów z nieukształtowanym wierzchołkiem, sperforowanych lub z nadmiernie poszerzonym otworem fizjologicznym."
+ },
+ {
+  "id": "ae-c084-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    234,
+    235
+   ]
+  },
+  "question": "Dlaczego po naprzemiennym stosowaniu wody utlenionej i podchlorynu sodu ostatnie płukanie powinno być zawsze wykonane podchlorynem sodu?",
+  "options": {
+   "A": "aby zapobiec wytrącaniu się kryształów wersenianu sodu w kanale",
+   "B": "aby przywrócić wybielający efekt utracony w reakcji obu płynów",
+   "C": "aby zneutralizować kwaśny odczyn pozostający po wodzie utlenionej",
+   "D": "aby usunąć ze ścian kanału warstwę mazistą przed wypełnieniem",
+   "E": "aby usunąć wodę utlenioną, z której uwalniany tlen wywołuje ból i obrzęk"
+  },
+  "correct": "E",
+  "explanation": "Pozostawiona w kanale woda utleniona pod wpływem peroksydazy krwi uwalnia tlen, który przedostając się poza otwór wierzchołkowy powoduje wzrost ciśnienia, ból i obrzęk."
+ },
+ {
+  "id": "ae-c084-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    234,
+    235
+   ]
+  },
+  "question": "Jakie powikłanie grozi przy stosowaniu roztworu wersenianu sodu (EDTA) w kanałach szerokich?",
+  "options": {
+   "A": "powstawanie stopni lub perforacji w „zmiękczonej” zębinie",
+   "B": "trwałe przebarwienie twardych tkanek korony zęba",
+   "C": "martwica tkanek okołowierzchołkowych z powodu toksyczności",
+   "D": "zablokowanie okolicy przyszczytowej opiłkami zębiny",
+   "E": "gwałtowne pienienie się płynu i przepchnięcie treści kanału"
+  },
+  "correct": "A",
+  "explanation": "EDTA wypłukuje jony wapnia i „rozmiękcza” zębinę kanałową, przez co szczególnie w kanałach szerokich łatwo o wytworzenie stopnia lub perforacji."
+ },
+ {
+  "id": "ae-c112-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    299,
+    300
+   ]
+  },
+  "question": "Jak długo powinien pozostawać dren założony do jamy naciętego ropnia pochodzenia zębowego?",
+  "options": {
+   "A": "do momentu wygojenia kości",
+   "B": "przez 3 tygodnie",
+   "C": "przez 12 godzin",
+   "D": "przez 2-5 dni",
+   "E": "przez 10-14 dni"
+  },
+  "correct": "D",
+  "explanation": "Dren wprowadzony przez nacięcie ma zapewnić odpływ wydzieliny i uniemożliwić zasklepienie rany, a zaleca się pozostawienie go przez 2-5 dni."
+ },
+ {
+  "id": "ae-c112-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    299,
+    300
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące nacięcia ropnia podśluzówkowego i jego zaopatrzenia:\n1. Nacięcie wykonuje się ostrzem chirurgicznym nr 11, zwykle na długości około 1 cm.\n2. W celu ewakuacji treści ropnej wprowadza się w nacięcie kleszczyki naczyniowe i rozwiera je.\n3. Otwartą jamę ropnia płucze się np. 0,02% roztworem chlorheksydyny lub 0,5% roztworem metronidazolu.\n4. Chory po nacięciu zgłasza się dopiero po tygodniu na kontrolę i toaletę rany.",
+  "options": {
+   "A": "tylko 1, 2 i 3",
+   "B": "tylko 3 i 4",
+   "C": "tylko 2 i 4",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 1 i 2"
+  },
+  "correct": "A",
+  "explanation": "Nacięcie ostrzem nr 11, rozwarcie kleszczyków i płukanie chlorheksydyną lub metronidazolem są prawidłowe; chorzy muszą zgłaszać się do codziennej, a nie cotygodniowej kontroli i toalety rany."
+ },
+ {
+  "id": "ae-c112-003",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    299,
+    300
+   ]
+  },
+  "question": "Ogólnie zdrowy 34-latek ma ostre ropne zapalenie tkanek okołowierzchołkowych bez gorączki i szczękościsku. Wykonano opracowanie chemo-mechaniczne kanałów z drenażem przez ząb. Jakie postępowanie jest właściwe?",
+  "options": {
+   "A": "nie podawać antybiotyku, kontynuować leczenie endodontyczne",
+   "B": "podać klindamycynę w podwójnej dawce jednorazowo",
+   "C": "odroczyć leczenie kanałowe do zakończenia antybiotykoterapii",
+   "D": "podać metronidazol z tetracykliną przez 5 dni",
+   "E": "podać profilaktycznie amoksycylinę przez 7 dni"
+  },
+  "correct": "A",
+  "explanation": "U pacjentów ogólnie zdrowych dokładne opracowanie chemo-mechaniczne z drenażem jest wystarczające, a ogólne podanie antybiotyku na tym etapie nie jest wskazane."
+ },
+ {
+  "id": "ae-c113-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    301,
+    302
+   ]
+  },
+  "question": "Który antybiotyk, dzięki bardzo dobrej penetracji do tkanki kostnej, jest lekiem z wyboru w leczeniu zapaleń kości pochodzenia zębowego?",
+  "options": {
+   "A": "klindamycyna",
+   "B": "amoksycylina",
+   "C": "azytromycyna",
+   "D": "doksycyklina",
+   "E": "metronidazol"
+  },
+  "correct": "A",
+  "explanation": "Linkozamidy, w tym klindamycyna, dobrze penetrują do tkanek objętych zapaleniem, zwłaszcza do tkanki kostnej, dlatego są antybiotykami z wyboru w zapaleniach kości."
+ },
+ {
+  "id": "ae-c113-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    301,
+    302
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące antybiotykoterapii w zakażeniach zębopochodnych:\n1. Antybiotykiem pierwszego rzutu z wyboru pozostaje penicylina.\n2. Przy uczuleniu na penicyliny lekiem z wyboru są makrolidy.\n3. Tetracyklin nie stosuje się u kobiet w ciąży i u dzieci poniżej 12 roku życia.\n4. W trakcie przyjmowania metronidazolu dozwolone jest spożywanie alkoholu.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 2 i 3",
+   "C": "tylko 3 i 4",
+   "D": "tylko 1, 2 i 3",
+   "E": "tylko 1 i 4"
+  },
+  "correct": "D",
+  "explanation": "Penicylina pozostaje lekiem pierwszego rzutu, makrolidy są alternatywą przy uczuleniu, a tetracykliny są przeciwwskazane w ciąży i u dzieci do 12 lat; alkohol przy metronidazolu grozi reakcją disulfiramową."
+ },
+ {
+  "id": "ae-c113-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    301,
+    302
+   ]
+  },
+  "question": "Jak zmienia się dolegliwości bólowe zęba z miazgą martwą (III klasa barodontalgii) podczas lotu samolotem?",
+  "options": {
+   "A": "ból występuje zarówno przy spadku, jak i wzroście ciśnienia",
+   "B": "ból ustępuje dopiero po kilku dniach od lotu",
+   "C": "ból pojawia się podczas spadku ciśnienia, przy wznoszeniu",
+   "D": "ból pojawia się podczas wzrostu ciśnienia, przy lądowaniu",
+   "E": "zmiany ciśnienia nie wywołują żadnych dolegliwości"
+  },
+  "correct": "D",
+  "explanation": "W III klasie, charakterystycznej dla miazgi martwej, obniżanie ciśnienia nie wywołuje bólu, natomiast jego wzrost powoduje tępy, pulsujący ból."
+ },
+ {
+  "id": "ae-c114-001",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    303,
+    304
+   ]
+  },
+  "question": "Pacjentka od kilku lat zgłasza nieokreślone bóle zęba trzonowego podczas żucia; zdjęcie RTG i test opukiwania nie wnoszą nic istotnego. Które badanie ma tu największą wartość diagnostyczną w kierunku pęknięcia zęba?",
+  "options": {
+   "A": "test nagryzania zwiniętej gumy koferdamu lub drenu",
+   "B": "pomiar głębokości kieszonek dziąsłowych",
+   "C": "zdjęcie zgryzowo-skrzydłowe okolicy zęba",
+   "D": "test opukiwania w kierunku poziomym",
+   "E": "badanie ruchomości zęba w zwarciu"
+  },
+  "correct": "A",
+  "explanation": "Przy podejrzeniu pęknięcia zęba test na opukiwanie zwykle nie jest użyteczny, natomiast dużą wartość diagnostyczną ma test nagryzania gumowego drenu lub zwiniętej gumy od koferdamu."
+ },
+ {
+  "id": "ae-c114-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    303,
+    304
+   ]
+  },
+  "question": "Czym można uwidocznić szczelinę pęknięcia korony zęba, gdy podświetlenie diafanoskopowe pozostawia wątpliwości?",
+  "options": {
+   "A": "aplikacją 37% kwasu ortofosforowego na 30 sekund",
+   "B": "posmarowaniem korony roztworem jodyny",
+   "C": "napyleniem korony proszkiem tlenku glinu",
+   "D": "wybarwieniem korony płynem z fuksyną zasadową",
+   "E": "wykonaniem zdjęcia skrzydłowo-zgryzowego"
+  },
+  "correct": "B",
+  "explanation": "W sytuacjach wątpliwych koronę smaruje się roztworem jodyny; po około 2 minutach szczelina złamania zabarwia się na ciemno."
+ },
+ {
+  "id": "ae-c114-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    303,
+    304
+   ]
+  },
+  "question": "Które postępowanie jest błędem u pacjenta z bólami zębów wywołanymi zgryzem urazowym i bruksizmem?",
+  "options": {
+   "A": "podanie niewielkiej dawki leku przeciwbólowego i przeciwzapalnego",
+   "B": "przedwczesne podjęcie leczenia endodontycznego bolącego zęba",
+   "C": "korekta zwarcia po kontroli kontaktów kalką artykulacyjną",
+   "D": "wypełnienie ubytków niepróchnicowego pochodzenia",
+   "E": "wykonanie szyny relaksacyjnej i eliminacja nawyków zgryzowych"
+  },
+  "correct": "B",
+  "explanation": "Mimo objawów zbliżonych do zapaleń nieodwracalnych przedwczesne leczenie endodontyczne jest błędem; wystarcza leczenie czynnościowe z odciążeniem zęba."
+ },
+ {
+  "id": "ae-c115-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    307,
+    310
+   ]
+  },
+  "question": "Dzięki jakiej właściwości tlenku cynku zawartego w proszku preparatów TCE zmniejsza się ciśnienie w kanalikach zębinowych?",
+  "options": {
+   "A": "silnemu odczynowi zasadowemu opatrunku",
+   "B": "hygroskopijności, czyli zdolności wyciągania płynu z kanalików",
+   "C": "wytwarzaniu warstwy hybrydowej na zębinie",
+   "D": "wysokiej rozpuszczalności w płynie zębinowym",
+   "E": "zdolności chelatowania jonów wapnia zębiny"
+  },
+  "correct": "B",
+  "explanation": "Tlenek cynku ma właściwości hygroskopijne i wyciąga płyn z kanalików zębinowych, co zmniejsza w nich ciśnienie."
+ },
+ {
+  "id": "ae-c115-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    307,
+    310
+   ]
+  },
+  "question": "Czym twardniejące preparaty wodorotlenkowo-wapniowe różnią się od nietwardniejących?",
+  "options": {
+   "A": "słabiej alkalizują, ale lepiej przylegają do zębiny",
+   "B": "stosuje się je jako opatrunki w zębach z martwą miazgą",
+   "C": "są mniej odporne na działanie mechaniczne",
+   "D": "nie mogą być stosowane jako uszczelniacze kanałowe",
+   "E": "silniej alkalizują i mają wyższe stężenie jonów OH"
+  },
+  "correct": "A",
+  "explanation": "Preparaty twardniejące mają słabe działanie alkalizujące i bakteriobójcze, ale lepiej przylegają do zębiny i są bardziej odporne mechanicznie; jako opatrunki kanałowe służą preparaty nietwardniejące."
+ },
+ {
+  "id": "ae-c115-003",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    307,
+    310
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące stadiów ochrony w leczeniu endodontycznym:\n1. Pierwsze stadium to zaopatrzenie odsłoniętej zębiny, czyli przykrycie pośrednie.\n2. Drugie stadium to ochrona odsłoniętej miazgi, czyli przykrycie bezpośrednie.\n3. Trzecie stadium to ochrona tkanek okołowierzchołkowych.\n4. Trzecie stadium polega na zachowaniu żywej miazgi komorowej.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 2 i 3",
+   "C": "tylko 1, 2 i 3",
+   "D": "tylko 3 i 4",
+   "E": "tylko 1 i 4"
+  },
+  "correct": "C",
+  "explanation": "Wyróżnia się ochronę odsłoniętej zębiny, odsłoniętej miazgi i tkanek okołowierzchołkowych; trzecie stadium polega na usunięciu zmienionej miazgi oraz opracowaniu i szczelnym wypełnieniu kanału, a nie na zachowaniu miazgi komorowej."
+ },
+ {
+  "id": "ae-c116-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    311,
+    312
+   ]
+  },
+  "question": "Dlaczego w głębokich ubytkach przy przykryciu pośrednim, bezpośrednim i amputacji przyżyciowej przeciwwskazane są podkłady światłoutwardzalne?",
+  "options": {
+   "A": "wykazują wyższe pH niż preparaty nietwardniejące",
+   "B": "wiążą zbyt wolno w kontakcie z wilgotną zębiną",
+   "C": "całkowicie blokują uwalnianie jonów fluorkowych",
+   "D": "przegrzanie może podrażnić miazgę lub wywołać jej martwicę",
+   "E": "powodują trwałe przebarwienie zębiny na szaro"
+  },
+  "correct": "D",
+  "explanation": "Przegrzanie miazgi podczas naświetlania może wywołać jej podrażnienie, zapalenie lub martwicę, dlatego podkłady światłoutwardzalne są w tych metodach przeciwwskazane."
+ },
+ {
+  "id": "ae-c116-002",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    311,
+    312
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące zastosowania cementu MTA na ranę miazgi:\n1. Proszek zarabia się wodą destylowaną w stosunku 3:1.\n2. Czas wiązania materiału wynosi 4-6 godzin.\n3. Postępowanie jest dwuetapowe, z pozostawieniem w ubytku wilgotnej kuleczki waty.\n4. Na drugiej wizycie MTA pokrywa się podkładem szkło-jonomerowym i wykonuje wypełnienie stałe.",
+  "options": {
+   "A": "tylko 2, 3 i 4",
+   "B": "tylko 1 i 3",
+   "C": "tylko 2 i 4",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 1, 2 i 4"
+  },
+  "correct": "D",
+  "explanation": "MTA zarabia się wodą destylowaną 3:1, wiąże 4-6 godzin, a jego aplikacja na ranę miazgi jest dwuetapowa: wilgotna kuleczka waty pod opatrunkiem, a na drugiej wizycie podkład szkło-jonomerowy i wypełnienie stałe."
+ },
+ {
+  "id": "ae-c116-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    311,
+    312
+   ]
+  },
+  "question": "Dlaczego preparaty z antybiotykami nie sprawdziły się w biologicznym leczeniu miazgi?",
+  "options": {
+   "A": "powodują nadmierne wytwarzanie włókien kolagenowych",
+   "B": "podwyższają ciśnienie tlenu w zapalnie zmienionej miazdze",
+   "C": "zwiększają przepuszczalność naczyń i ilość wysięku",
+   "D": "całkowicie hamują uwalnianie jonów wapnia z podkładu",
+   "E": "zmniejszają aktywność fosfatazy zasadowej niezbędnej w tworzeniu zębiny"
+  },
+  "correct": "E",
+  "explanation": "Antybiotyki zmniejszają aktywność fosfatazy zasadowej, enzymu sprzyjającego gojeniu i niezbędnego w tworzeniu zębiny, a ich miejscowe stosowanie grozi uczuleniami i selekcją szczepów opornych."
+ },
+ {
+  "id": "ae-c117-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    313,
+    314
+   ]
+  },
+  "question": "Dlaczego w metodzie pośredniego przykrycia miazgi preparaty tlenkowo-cynkowo-eugenolowe uzyskały pierwszeństwo przed preparatami wodorotlenkowo-wapniowymi?",
+  "options": {
+   "A": "wykazują większą odporność mechaniczną wypełnienia",
+   "B": "szybciej doprowadzają do remineralizacji zębiny",
+   "C": "lepiej wiążą z materiałami złożonymi",
+   "D": "silniej alkalizują zębinę ściany dokomorowej",
+   "E": "nie wymagają zakładania cementu podkładowego"
+  },
+  "correct": "B",
+  "explanation": "Preparaty na bazie tlenku cynku z eugenolem szybciej niż wodorotlenek wapnia doprowadzają do remineralizacji zębiny, dlatego mają pierwszeństwo w przykryciu pośrednim."
+ },
+ {
+  "id": "ae-c117-002",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    313,
+    314
+   ]
+  },
+  "question": "U pacjenta z próchnicą głęboką zębina zdemineralizowana na ścianie dokomorowej obejmuje powierzchnię ponad 1 mm2, a jej opracowanie maszynowe groziłoby obnażeniem miazgi. Jakie postępowanie jest właściwe?",
+  "options": {
+   "A": "pozostawić zębinę i wypełnić ubytek czasowo cementem TCE na 3 miesiące",
+   "B": "wypełnić ubytek czasowo preparatem TCE na okres 2 tygodni",
+   "C": "wykonać ekstyrpację miazgi w znieczuleniu na tej samej wizycie",
+   "D": "wykonać przykrycie bezpośrednie preparatem wodorotlenkowo-wapniowym",
+   "E": "usunąć całą zdemineralizowaną zębinę wiertłem różyczkowym i wypełnić ubytek na stałe"
+  },
+  "correct": "A",
+  "explanation": "W trzecim wariancie przykrycia pośredniego częściowo zdemineralizowaną zębinę pozostawia się pod czasowym wypełnieniem z cementu TCE na 3 miesiące, w czasie których dochodzi do remineralizacji lub odłożenia zębiny wtórnej."
+ },
+ {
+  "id": "ae-c117-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    313,
+    314
+   ]
+  },
+  "question": "Dlaczego nie należy wykonywać podkładów z cementów tlenkowo-cynkowo-eugenolowych pod wypełnienia z materiałów złożonych?",
+  "options": {
+   "A": "zwiększają nadwrażliwość zęba na bodźce termiczne",
+   "B": "rozpuszczają się szybciej niż cementy polikarboksylowe",
+   "C": "uniemożliwiają odłożenie zębiny wtórnej w rogu miazgi",
+   "D": "utrudniają wiązanie i powodują przebarwienia materiału złożonego",
+   "E": "zbyt silnie alkalizują zębinę ściany dokomorowej"
+  },
+  "correct": "D",
+  "explanation": "Cementy z tlenkiem cynku i eugenolem utrudniają proces wiązania materiałów złożonych i powodują ich przebarwienia, dlatego pod takie wypełnienia zastępuje się je preparatami Ca(OH)2."
+ },
+ {
+  "id": "ae-c118-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    315,
+    316
+   ]
+  },
+  "question": "Dlaczego w leczeniu biologicznym miazgi nie stosuje się podkładów z cementu fosforanowego?",
+  "options": {
+   "A": "zakwaszają zasadowe środowisko preparatów odontotropowych i uszkadzają miazgę",
+   "B": "wiążą zbyt szybko, uniemożliwiając ukształtowanie podkładu",
+   "C": "powodują trwałe przebarwienie zębiny na kolor ciemnoszary",
+   "D": "całkowicie blokują dyfuzję jonów wapnia do zębiny wtórnej",
+   "E": "wykazują niedostateczną szczelność brzeżną w ubytkach głębokich"
+  },
+  "correct": "A",
+  "explanation": "Cementy fosforanowe zakwaszają zasadowe środowisko preparatów odontotropowych i uszkadzają miazgę, dlatego w leczeniu biologicznym są niedopuszczalne."
+ },
+ {
+  "id": "ae-c118-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    315,
+    316
+   ]
+  },
+  "question": "Które z poniższych jest przeciwwskazaniem do bezpośredniego przykrycia miazgi?",
+  "options": {
+   "A": "powikłane złamanie korony zęba z niewielkim obnażeniem",
+   "B": "pourazowe odsłonięcie miazgi większe niż 1 mm2 po upływie 24 godzin",
+   "C": "przypadkowe zranienie miazgi narzędziem rotacyjnym",
+   "D": "przypadkowe obnażenie miazgi podczas opracowania ubytku",
+   "E": "głęboki ubytek niepróchnicowego pochodzenia z odsłoniętą zębiną"
+  },
+  "correct": "B",
+  "explanation": "Przeciwwskazaniami są pulpopatie z próchnicowym obnażeniem miazgi oraz pourazowe odsłonięcie większe niż 1 mm2 po upływie 24 godzin od urazu."
+ },
+ {
+  "id": "ae-c118-003",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    315,
+    316
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące techniki bezpośredniego przykrycia miazgi:\n1. Ubytek z obnażoną miazgą płucze się podgrzanym fizjologicznym roztworem soli.\n2. Na nietwardniejący preparat Ca(OH)2 nanosi się cienką warstwę preparatu twardniejącego.\n3. Preparat na ranę miazgi rozpłaszcza się jałową kulką waty, bez ucisku.\n4. Zastosowanie preparatu Ca(OH)2 zawsze wymaga leczenia dwuetapowego.",
+  "options": {
+   "A": "tylko 2 i 3",
+   "B": "tylko 2, 3 i 4",
+   "C": "tylko 1 i 4",
+   "D": "tylko 1, 2 i 3",
+   "E": "wszystkie prawidłowe"
+  },
+  "correct": "D",
+  "explanation": "Płukanie roztworem soli, uszczelnienie twardniejącym Ca(OH)2 i rozpłaszczanie bez ucisku są prawidłowe; leczenie jednoetapowe jest zasadą, a dwuetapowego wymaga dopiero zastosowanie MTA."
+ },
+ {
+  "id": "ae-c119-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    317,
+    318
+   ]
+  },
+  "question": "Na jaką głębokość usuwa się miazgę komorową podczas częściowej amputacji przyżyciowej?",
+  "options": {
+   "A": "do 8 mm poniżej sklepienia komory",
+   "B": "do 2 mm",
+   "C": "do poziomu ujść kanałowych",
+   "D": "do 5 mm",
+   "E": "do połowy długości kanału"
+  },
+  "correct": "B",
+  "explanation": "Częściowa amputacja przyżyciowa polega na usunięciu miazgi komorowej w znieczuleniu na głębokość do 2 mm i pokryciu rany preparatem Ca(OH)2 lub MTA."
+ },
+ {
+  "id": "ae-c119-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    317,
+    318
+   ]
+  },
+  "question": "Dlaczego podczas całkowitej amputacji przyżyciowej nie należy poszerzać ujść kanałowych?",
+  "options": {
+   "A": "zniesienie anatomicznego przewężenia utrudnia tworzenie mostu zębinowego",
+   "B": "poszerzone ujścia uniemożliwiają zatamowanie krwawienia adrenaliną",
+   "C": "szersze ujścia zaburzają wiązanie cementu polikarboksylowego",
+   "D": "poszerzenie przyspiesza resorpcję zewnętrzną w okolicy szyjki",
+   "E": "poszerzenie zwiększa ryzyko perforacji dna komory zęba"
+  },
+  "correct": "A",
+  "explanation": "Znoszenie anatomicznego przewężenia w kanale opóźnia i utrudnia tworzenie się mostu zębinowego, dlatego ujść kanałowych się nie poszerza."
+ },
+ {
+  "id": "ae-c119-003",
+  "type": "clinical",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    317,
+    318
+   ]
+  },
+  "question": "U 9-letniego chłopca ząb sieczny stały z nieukształtowanym korzeniem ma urazowe obnażenie miazgi sprzed 3 dni. Jakie postępowanie zapewni największą szansę dokończenia rozwoju korzenia?",
+  "options": {
+   "A": "dewitalizacja miazgi i leczenie metodą amputacyjno-ekstyrpacyjną",
+   "B": "przykrycie bezpośrednie miazgi twardniejącym preparatem Ca(OH)2",
+   "C": "ekstyrpacja miazgi w znieczuleniu i wypełnienie kanału na jednej wizycie",
+   "D": "wypełnienie ubytku czasowe cementem TCE i obserwacja przez 3 miesiące",
+   "E": "częściowa amputacja przyżyciowa miazgi z opatrunkiem Ca(OH)2 lub MTA"
+  },
+  "correct": "E",
+  "explanation": "Przy dłużej trwającym urazowym odsłonięciu miazgi powierzchowne jej warstwy są zakażone i przykrycie bezpośrednie zawodzi; amputacja częściowa zachowuje żywą miazgę, co warunkuje zakończenie kształtowania wierzchołka."
+ },
+ {
+  "id": "ae-c120-001",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    319,
+    320
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące reakcji miazgi na wodorotlenek wapnia:\n1. Powstają trzy warstwy martwicy: kontaktowa, rozpływna i skrzepowa.\n2. Martwica skrzepowa tworzy się w pierwszej godzinie po założeniu preparatu.\n3. Wyraźna linia demarkacyjna oddzielająca martwicę od żywej tkanki powstaje po trzech godzinach.\n4. W warstwie martwicy rozpływnej neutralizowana jest większość jonów wodorotlenowych.",
+  "options": {
+   "A": "tylko 2 i 3",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 2, 3 i 4",
+   "D": "tylko 1, 3 i 4",
+   "E": "tylko 1 i 2"
+  },
+  "correct": "B",
+  "explanation": "Wodorotlenek wapnia wywołuje trzy warstwy martwicy, martwica skrzepowa powstaje w pierwszej godzinie, linia demarkacyjna po trzech godzinach, a w warstwie obrzękowej neutralizowana jest większość jonów OH."
+ },
+ {
+  "id": "ae-c120-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    319,
+    320
+   ]
+  },
+  "question": "Jaka tkanka powstaje jako pierwsza warstwa zębiny reparacyjnej po zastosowaniu wodorotlenku wapnia i które komórki ją tworzą?",
+  "options": {
+   "A": "tkanka kostnopodobna tworzona przez cementoblasty",
+   "B": "warstwa prezębiny tworzona przez komórki tuczne",
+   "C": "zmineralizowana ziarnina tworzona przez makrofagi",
+   "D": "kanalikowa zębina wtórna tworzona przez odontoblasty",
+   "E": "bezkanalikowa zębina włóknista tworzona przez fibroblasty"
+  },
+  "correct": "E",
+  "explanation": "W moście kolagenowym wytworzonym przez fibroblasty odkładają się sole mineralne i powstaje bezkanalikowa zębina włóknista; dopiero po miesiącu z komórek mezenchymalnych różnicują się odontoblasty tworzące część kanalikową."
+ },
+ {
+  "id": "ae-c120-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    319,
+    320
+   ]
+  },
+  "question": "Jak długo, ze względu na warunki anatomiczne miazgi, trwa okres zapalenia ostrego tej tkanki?",
+  "options": {
+   "A": "3 miesiące",
+   "B": "48 godzin",
+   "C": "2 tygodnie",
+   "D": "6 tygodni",
+   "E": "5 dni"
+  },
+  "correct": "C",
+  "explanation": "Odczyn naczyniowy szybko ustępuje miejsca zmianom zwyrodnieniowym, dlatego okres zapalenia ostrego miazgi jest krótki i wynosi 2 tygodnie, po czym proces przechodzi w fazę nieodwracalną."
+ },
+ {
+  "id": "ae-c121-001",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    321,
+    323
+   ]
+  },
+  "question": "Na jaki okres wprowadza się nietwardniejący preparat Ca(OH)2 do kanału w leczeniu przewlekłego zapalenia przyzębia przyszczytowego?",
+  "options": {
+   "A": "na 24-48 godzin",
+   "B": "na 6 tygodni",
+   "C": "na 10-12 dni",
+   "D": "na 4-5 dni",
+   "E": "na 3 miesiące"
+  },
+  "correct": "C",
+  "explanation": "Po opracowaniu biomechanicznym i chemicznym kanał wypełnia się nietwardniejącym preparatem Ca(OH)2 na 10-12 dni, a dalsze postępowanie zależy od stanu klinicznego tkanek okołowierzchołkowych."
+ },
+ {
+  "id": "ae-c121-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    321,
+    323
+   ]
+  },
+  "question": "Ile wizyt nie powinno przekraczać leczenie kanałów zakażonych przebiegające bez odczynu lub powikłane ostrym zapaleniem przyzębia przyszczytowego?",
+  "options": {
+   "A": "2-3 wizyt",
+   "B": "1 wizyty",
+   "C": "5-6 wizyt",
+   "D": "8 wizyt",
+   "E": "10-12 wizyt"
+  },
+  "correct": "A",
+  "explanation": "Takie leczenie nie powinno przekraczać 2-3 wizyt; utrzymywanie się objawów świadczy o niedostatecznym opracowaniu kanałów, a nieuzasadnione przedłużanie leczenia grozi zakażeniem przez nieszczelny opatrunek."
+ },
+ {
+  "id": "ae-c121-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    321,
+    323
+   ]
+  },
+  "question": "Co odróżnia antyseptyczne leczenie kanałowe od wyłuszczenia miazgi w znieczuleniu?",
+  "options": {
+   "A": "rezygnacja z izolacji zęba koferdamem",
+   "B": "wypełnianie kanału wyłącznie do otworu anatomicznego",
+   "C": "szersze opracowanie kanału i stosowanie antyseptyków",
+   "D": "odmienna technika wypełniania kanału korzeniowego",
+   "E": "inna metoda określania długości roboczej zęba"
+  },
+  "correct": "C",
+  "explanation": "Opracowanie biomechaniczne i chemiczne oraz wypełnianie kanałów są jednakowe w obu metodach; różnią je szersze opracowanie usuwające zainfekowaną zębinę i stosowanie antyseptyków."
+ },
+ {
+  "id": "ae-c122-001",
+  "type": "combined",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    324,
+    325
+   ]
+  },
+  "question": "Kanał korzeniowy uznaje się za wystarczająco opracowany, gdy:\n1. ściany kanału są twarde i gładkie;\n2. resztki zębinowe na narzędziu kanałowym są jasne;\n3. płyn płuczący wypływający z kanału jest czysty i klarowny;\n4. podchloryn sodu obficie pieni się w ujściu kanału.",
+  "options": {
+   "A": "tylko 3 i 4",
+   "B": "tylko 1, 2 i 3",
+   "C": "tylko 1 i 4",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 2 i 3"
+  },
+  "correct": "B",
+  "explanation": "Kryteriami wystarczającego opracowania są twarde i gładkie ściany, jasne resztki zębinowe oraz klarowny płyn płuczący; podchloryn sodu w prawidłowo opracowanym kanale nie pieni się."
+ },
+ {
+  "id": "ae-c122-002",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    324,
+    325
+   ]
+  },
+  "question": "Jak postępuje się z kanałem na drugiej wizycie antyseptycznego leczenia kanałowego, po usunięciu wypełnienia tymczasowego?",
+  "options": {
+   "A": "ponownie ustala się długość roboczą metodą radiologiczną",
+   "B": "poszerza się kanał narzędziem większym o jeden rozmiar od MAF",
+   "C": "wypełnia się kanał bez ponownego płukania i poszerzania",
+   "D": "zakłada się kolejną wkładkę antyseptyczną na 10 dni",
+   "E": "poszerza się kanał narzędziem mniejszym o dwa rozmiary od MAF"
+  },
+  "correct": "B",
+  "explanation": "Na drugiej wizycie kanał płucze się naprzemiennie z wprowadzaniem narzędzia MAF na długość roboczą, po czym poszerza narzędziem większym o jeden rozmiar od MAF, osusza i wypełnia."
+ },
+ {
+  "id": "ae-c122-003",
+  "source": {
+   "book": "Arabska",
+   "pages": [
+    324,
+    325
+   ]
+  },
+  "question": "Co pozostaje jedynym usprawiedliwieniem zastosowania metody mortalnej pozostawiającej zdewitalizowaną miazgę w jamie zęba?",
+  "options": {
+   "A": "brak zgody pacjenta na wykonanie znieczulenia",
+   "B": "znaczna krzywizna kanału w odcinku przywierzchołkowym",
+   "C": "leczenie zęba wielokorzeniowego u osoby dorosłej",
+   "D": "obecność zmian zapalnych w tkankach okołowierzchołkowych",
+   "E": "obliteracja kanałów spowodowana odkładaniem zębiny"
+  },
+  "correct": "E",
+  "explanation": "Dzięki nowym narzędziom można opracować kanały o nieprawidłowym przebiegu i dużej krzywiźnie, a jedynym powodem usprawiedliwiającym metody mortalne pozostaje obliteracja kanałów spowodowana odkładaniem zębiny."
+ },
+ {
   "id": "jz-c003-001",
   "source": {
    "book": "Janczuk",
