@@ -1,6 +1,6 @@
 import unittest
 from pipeline.chunk import chunk_pages
-from pipeline.books import lookup, by_book
+from pipeline.books import lookup, by_book, mode
 
 
 class TestBookRegistry(unittest.TestCase):
@@ -11,6 +11,7 @@ class TestBookRegistry(unittest.TestCase):
             "Tom3. Mansur Rahnama.pdf": "t3",
             "Sormatologia zachowawcza z endodoncją- Jańczuk 2014.pdf": "jz",
             "Arabska_ocr.pdf": "ae",
+            "Periodontologia_Współczesna_R_Górska,_T_Konopka_2013.pdf": "pd",
         }
         for filename, book_id in cases.items():
             self.assertEqual(lookup(filename)["book_id"], book_id, filename)
@@ -22,6 +23,10 @@ class TestBookRegistry(unittest.TestCase):
     def test_unknown_filename_raises(self):
         with self.assertRaises(KeyError):
             lookup("Jakas_nowa_ksiazka.pdf")
+
+    def test_mode_defaults_to_text_and_is_image_for_the_photo_scan(self):
+        self.assertEqual(mode(lookup("Tom2. Mansur Rahnama.pdf")), "text")
+        self.assertEqual(mode(by_book("Gorska")), "image")
 
     def test_by_book_maps_stored_book_name(self):
         self.assertEqual(by_book("Tom2")["book_id"], "t2")

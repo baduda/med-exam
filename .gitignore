@@ -3,3 +3,5 @@ data/chunks/
 data/questions/
 __pycache__/
 .venv/
+data/images/
+data/transcripts/

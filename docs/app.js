@@ -12,6 +12,7 @@ const BOOKS = [
   ["Tom3", "Rahnama, tom 3"],
   ["Janczuk", "Jańczuk — zachowawcza"],
   ["Arabska", "Arabska — endodoncja"],
+  ["Gorska", "Górska — periodontologia"],
 ];
 
 let questions = [];
