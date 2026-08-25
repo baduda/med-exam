@@ -129,3 +129,33 @@ by eye and frozen.
       (SDD doxycycline inhibits MMPs) verbatim against their chunk text.
 - [x] 35 tests pass; local server smoke test serves 3534 questions.
 - [x] Commit and push.
+
+## Known defect — four page labels are low by one
+
+Chapter openers print their page number at the **bottom** of the page, not in the
+header band the map was read from, and the blank verso facing an opener was not
+photographed. So on the four spreads whose right half is a chapter opener, the two
+halves are not consecutive pages, and the map's "right = left + 1" rule labels the
+opener one too low:
+
+| Spread | Labelled | Actually | Blank verso not in the scan |
+|---|---|---|---|
+| 17 | 25 \| 26 | 25 \| **27** | 26 |
+| 35 | 65 \| 66 | 65 \| **67** | 66 |
+| 63 | 123 \| 124 | 123 \| **125** | 124 |
+| 100 | 197 \| 198 | 197 \| **199** | 198 |
+
+Nine questions cite the low number — `pl-c013-001..003` (s. 25–26 → 25–27),
+`pl-c030-001..003` (s. 63–66 → 63–67), `pl-c079-001..003` (s. 198–200 → 199–200).
+Their content and answer keys are correct; only the printed citation is off by one.
+Left as-is by the user's decision on 2026-08-25.
+
+**To fix:** give `data/pagemap/pl.json` an explicit right page for those four spreads
+(the loader currently derives it as left + 1), re-run `extract.py` (OCR is cached, so
+this is fast), re-chunk, and remap `source.pages` in the affected `data/questions/pl-*`
+files. Chunk grouping does not change — only the recorded ranges — so chunk and
+question ids stay stable.
+
+The other eight absent pages are genuine and harmless: 8, 92, 190 and 210 are blank
+versos facing chapter openers; 36–38 are the tail of chapter 3's bibliography, simply
+not photographed.

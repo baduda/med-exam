@@ -132,8 +132,13 @@ Two traps this scan taught us, both recorded in `scan.py`:
   (verso|recto) with misaligned captures (recto|verso), duplicates some spreads and
   drops others, so no formula maps spread → page. The map in
   `data/pagemap/<book_id>.json` was read off the header bands by eye and is frozen
-  input. For `pl` it covers 220 of 232 pages; pages 1, 8, 27, 36–38, 67, 92, 125,
-  190, 199 and 210 are absent from the scan and so are absent from the bank.
+  input. For `pl` it covers 220 of 232 pages. The absent ones are blank versos facing
+  chapter openers (8, 26, 66, 92, 124, 190, 198, 210, plus 1) and the tail of chapter
+  3's bibliography (36–38) — no prose is lost.
+- **Known defect:** chapter openers print their number at the foot of the page, not in
+  the header band, and the map's "right = left + 1" rule therefore labels four of them
+  one too low (spreads 17, 35, 63, 100 → pages 27, 67, 125, 199). Nine questions cite
+  the low number. See the wave-7 plan for the fix.
 
 **Vision transcription (Górska 2013).** Phone photos at 689×1024 (~96 dpi) with curved
 lines and a finger in frame. OCR — including `--deskew --oversample 400` — returns
