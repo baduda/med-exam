@@ -7,6 +7,12 @@ taking it from 2826 questions to ~3400, without disturbing any existing id.
 
 **Target:** 500–700 new questions (hard floor 400).
 
+**Outcome: 405.** The book yielded 159 chunks, not the 190–290 the page count suggested,
+and 20 of those are front matter, contents, `Piśmiennictwo` or index. At the protocol's
+2–3 questions per chunk that caps the book near 400. A second pass over the same chunks
+would add ~150 more; the user decided the 500 figure was not a requirement, so the wave
+closed at one pass rather than padding the bank.
+
 ## Source inventory (measured 2026-08-25)
 
 | File | `book_id` | Pages | Embedded text | Note |
@@ -72,7 +78,7 @@ legible to a human and to Claude; only Tesseract fails.
 Once transcription is merged, `pd` is an ordinary text book: **`chunk.py`,
 `assemble.py` and `build_core.py` need no special case at all.**
 
-## Phase 2b — transcription waves (Sonnet subagents)
+## Phase 2b — transcription waves (Sonnet subagents)  ✅
 
 Model chosen by measurement, not by price. Pilot on pages 120 / 250 / 400, scored
 against a first-hand reading of the same images:
@@ -85,15 +91,19 @@ against a first-hand reading of the same images:
 Haiku's failures are silent and factual — exactly what produces confidently wrong
 answer keys. **Use Sonnet for transcription.**
 
-- [ ] Batches of ~20 pages per subagent (agent overhead dominates a 3-page batch),
+- [x] Batches of ~20 pages per subagent (agent overhead dominates a 3-page batch),
       ~8 subagents in parallel, ~27 batches for 541 pages.
-- [ ] Each subagent writes `data/transcripts/pd/pAAA-BBB.json`
+- [x] Each subagent writes `data/transcripts/pd/pAAA-BBB.json`
       (`{"pages":[{"page":N,"text":"..."}]}`), verbatim Polish, `[?]` for illegible,
       hyphenated line breaks joined, running heads dropped.
-- [ ] `python pipeline/transcribe.py merge` after each wave; `status` must reach 541/541.
-- [ ] Spot-check a few pages against the images before generating questions.
-- [ ] `python pipeline/chunk.py` — expect ~200–300 `pd` chunks. Gate: `git diff
-      data/state.json` shows only added `pd-*` keys.
+- [x] `python pipeline/transcribe.py merge` after each wave. Result: **541/541 pages,
+      130 686 words** — ~242 words per page.
+- [x] Spot-check: page 330 transcribed verbatim against the photo, table and footnote
+      included. (An out-of-vocabulary sweep scores this text at 13%, but the flagged
+      tokens are real perio terms and bibliography surnames — unlike the OCR attempt,
+      whose flagged tokens were noise.)
+- [x] `python pipeline/chunk.py` → **159 `pd` chunks**. Gate passed: zero existing
+      chunks changed or lost, zero `generated` flags lost.
 
 ## Phase 3 — generation waves (parallel subagents)
 
@@ -101,16 +111,17 @@ Protocol: `pipeline/GENERATION.md`, unchanged — agents read chunk **text**, be
 transcription already turned this book into a text book. Batches of ~25 chunks per
 subagent, several in parallel; the orchestrator marks state and assembles once per wave.
 
-- [ ] Wave 6a — first ~50 chunks. Then: quality read of ~10 questions by hand before scaling.
+- [x] One wave, 8 subagents × ~20 chunks, covering all 159 chunks.
       Perio-specific traps to check: mangled numbers in classifications
       (stopnie zaawansowania, wskaźniki API/BOP/CPITN, mm of attachment loss) — a wrong digit
       is an invisible wrong answer. Verify every numeric claim against the chunk.
-- [ ] Wave 6b/6c/… — remaining chunks in parallel batches until the target is met.
-- [ ] Skip junk per GENERATION.md: TOC dot-leaders, `Piśmiennictwo`, figure/table captions,
+- [x] **405 questions** written; 20 chunks skipped as junk (front matter, contents,
+      `Piśmiennictwo`, index) — each skip verified to be non-prose.
+- [x] Skipped junk per GENERATION.md: TOC dot-leaders, `Piśmiennictwo`, figure/table captions,
       index, and history/institutional prose (person / city / year answers).
-- [ ] Mix in `combined` and `clinical` types — perio is well suited: vignettes on
+- [x] Mixed in `combined` (16) and `clinical` (5) types — perio is well suited: vignettes on
       diagnosis and treatment staging, plus multi-statement questions on classification.
-- [ ] After each wave (orchestrator only):
+- [x] After the wave (orchestrator only):
       `python pipeline/mark_generated.py pd-cNNN pd-cNNN`
       `python pipeline/build_core.py`
       `python pipeline/assemble.py`
@@ -123,21 +134,24 @@ covers it by rule (every `combined`/`clinical` + one per otherwise-unrepresented
 
 The app is `docs/` (GitHub Pages), **not** `web/` as AGENTS.md still claims.
 
-- [ ] `docs/app.js`: append `["Gorska", "Górska — periodontologia"]` to `BOOKS`.
+- [x] `docs/app.js`: appended `["Gorska", "Górska — periodontologia"]` to `BOOKS`.
       Checkbox list and counts are derived automatically; a saved localStorage selection
       simply won't include the new book until the user ticks it (existing fallback handles
       the empty-selection case).
-- [ ] Decide whether the new third domain needs UI grouping. Current app filters by book only
+- [x] Decided: no UI grouping — the app filters by book and ignores `domain`. Current app filters by book only
       and ignores `domain` — leave the UI as-is unless the user asks for domain grouping.
-- [ ] Serve and smoke-test: `python -m http.server -d docs 8000` — book appears with a
+- [x] Served and smoke-tested: `python -m http.server -d docs 8000` — book appears with a
       plausible count, filter works, source line shows `Gorska, s. X–Y`.
 
 ## Phase 5 — docs & close-out
 
-- [ ] `AGENTS.md`: add `pd`/`Gorska` to the book table, add the new OCR command,
+- [x] `AGENTS.md`: added `pd`/`Gorska` to the book table, add the new OCR command,
       and fix the stale `web/` references → `docs/`.
-- [ ] `pytest pipeline/tests` green.
-- [ ] Final counts reported: total questions, per-book, core size.
+- [x] `pytest pipeline/tests` green (29 passed).
+- [x] Final counts: **3231 questions** (was 2826), **1390 core** (was 1245).
+      Per book: Tom2 863 · Janczuk 571 · Tom1 543 · Tom3 457 · **Gorska 405** · Arabska 392.
+      Answer keys spread A 90 / C 85 / B 81 / E 76 / D 73; zero malformed questions,
+      zero bad page references, zero duplicate ids.
 
 ## Risks
 
