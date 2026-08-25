@@ -20057,6 +20057,46 @@
   "explanation": "Triada Parmy obejmuje horyzontalny zanik brzegu wyrostka, zwężenie lub brak przestrzeni ozębnej oraz nawarstwienie cementu (hipercementozę); poszerzenie przestrzeni ozębnej nie jest jej elementem."
  },
  {
+  "id": "pd-c003-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    15,
+    18
+   ]
+  },
+  "question": "Ile co najmniej wapnia musi utracić kość wyrostka zębodołowego, aby zmiany radiologiczne przyzębia w wieku starczym uznać za objawy ewentualnej osteoporozy?",
+  "options": {
+   "A": "30%",
+   "B": "10%",
+   "C": "50%",
+   "D": "20%",
+   "E": "40%"
+  },
+  "correct": "A",
+  "explanation": "Przyzębie w wieku starczym charakteryzuje się poziomym zanikiem brzegu wyrostka zębodołowego wraz z objawami ewentualnej osteoporozy, gdy kość utraci co najmniej 30% wapnia."
+ },
+ {
+  "id": "pd-c003-005",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    15,
+    18
+   ]
+  },
+  "question": "U jakiego odsetka dorosłych występuje na dziąśle przyczepionym tzw. groszkowanie, czyli cętkowanie przypominające skórkę pomarańczy?",
+  "options": {
+   "A": "10% dorosłych",
+   "B": "25% dorosłych",
+   "C": "80% dorosłych",
+   "D": "60% dorosłych",
+   "E": "40% dorosłych"
+  },
+  "correct": "E",
+  "explanation": "Prawidłowe dziąsło bywa cętkowane, czyli wykazuje tzw. groszkowanie przypominające skórkę pomarańczy, które występuje u 40% dorosłych."
+ },
+ {
   "id": "pd-c004-001",
   "source": {
    "book": "Gorska",
@@ -20116,6 +20156,46 @@
   },
   "correct": "E",
   "explanation": "Komórki produkujące keratynę (keratynocyty) stanowią około 90% populacji wszystkich komórek nabłonka jamy ustnej, obok melanocytów, komórek Langerhansa, komórek Merkla i komórek zapalnych."
+ },
+ {
+  "id": "pd-c004-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    19,
+    23
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące budowy nabłonka jamy ustnej pokrywającego dziąsło:\n1. Nabłonek jamy ustnej dziąsła zbudowany jest z czterech warstw: podstawnej, kolczystej, ziarnistej i rogowaciałej.\n2. Komórki warstwy zrogowaciałej dziąsła człowieka w większości zawierają szczątkowe jądra, co świadczy o parakeratozie.\n3. Brak komórek jądrzastych w zewnętrznych warstwach nabłonka oznacza ortokeratozę.\n4. Nabłonek jamy ustnej nie zawiera melanocytów ani komórek Langerhansa.",
+  "options": {
+   "A": "tylko 1 i 2",
+   "B": "tylko 1, 2 i 3",
+   "C": "wszystkie prawidłowe",
+   "D": "żadna z powyższych",
+   "E": "tylko 2, 3 i 4"
+  },
+  "correct": "B",
+  "explanation": "Nabłonek jamy ustnej ma 4 warstwy, u człowieka zwykle ulega parakeratozie (szczątkowe jądra w warstwie zrogowaciałej), a brak komórek jądrzastych oznacza ortokeratozę; nabłonek zawiera jednak melanocyty i komórki Langerhansa, więc stwierdzenie 4 jest fałszywe."
+ },
+ {
+  "id": "pd-c004-005",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    19,
+    23
+   ]
+  },
+  "question": "Jaki procent tkanki łącznej blaszki właściwej dziąsła stanowią włókna kolagenowe?",
+  "options": {
+   "A": "około 5%",
+   "B": "około 60%",
+   "C": "około 35%",
+   "D": "około 75%",
+   "E": "około 90%"
+  },
+  "correct": "B",
+  "explanation": "Główną komponentą tkanki łącznej blaszki właściwej są włókna kolagenowe (około 60%), fibroblasty (5%) oraz naczynia i nerwy (35%), osadzone w bezpostaciowej substancji podstawnej."
  },
  {
   "id": "pd-c005-001",
@@ -20179,6 +20259,46 @@
   "explanation": "Przyczep nabłonkowy, będący częścią nabłonka łączącego, ma grubość 35–140 µm i tworzy połączenie nabłonka dziąsła z powierzchnią zęba."
  },
  {
+  "id": "pd-c005-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    24,
+    26
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące włókien tkanki łącznej przyzębia:\n1. Włókna oksytalanowe rzadko występują w dziąśle, ale licznie w więzadłach przyzębia, gdzie biegną równolegle do długiej osi zęba.\n2. Włókna retikulinowe znajdują się w dużej liczbie w tkance sąsiadującej z błoną podstawną.\n3. Dziąsło przyczepione dokoronowo od granicy śluzówkowo-dziąsłowej nie zawiera włókien elastycznych poza miejscami przebiegu naczyń krwionośnych.\n4. Włókna kolagenowe wykazują charakterystyczne poprzeczne prążkowanie co 1500 Å.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "żadna z powyższych",
+   "C": "tylko 1 i 2",
+   "D": "tylko 1, 2 i 3",
+   "E": "tylko 2, 3 i 4"
+  },
+  "correct": "D",
+  "explanation": "Włókna oksytalanowe, retikulinowe i elastyczne rozmieszczone są zgodnie ze stwierdzeniami 1-3, natomiast prążkowanie poprzeczne włókien kolagenowych występuje co 700 Å, a nie co 1500 Å."
+ },
+ {
+  "id": "pd-c005-005",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    24,
+    26
+   ]
+  },
+  "question": "Ile warstw komórek liczy dno rowka dziąsłowego (o szerokości około 0,15 mm), a ile warstw pozostaje w okolicy połączenia szkliwno-cementowego (CEJ)?",
+  "options": {
+   "A": "40–50 warstw na dnie rowka, 10–15 warstw przy CEJ",
+   "B": "3–4 warstwy na dnie rowka, 15–30 warstw przy CEJ",
+   "C": "5–10 warstw na dnie rowka, 1–2 warstwy przy CEJ",
+   "D": "15–30 warstw na dnie rowka, 3–4 warstwy przy CEJ",
+   "E": "1–2 warstwy na dnie rowka, 15–30 warstw przy CEJ"
+  },
+  "correct": "D",
+  "explanation": "Dno rowka o szerokości około 0,15 mm składa się z 15–30 warstw komórek, natomiast w kierunku wierzchołkowym, w okolicy CEJ, pozostają już tylko nieliczne, 3–4 warstwy komórek."
+ },
+ {
   "id": "pd-c006-001",
   "source": {
    "book": "Gorska",
@@ -20238,6 +20358,46 @@
   },
   "correct": "D",
   "explanation": "Wagowo składniki nieorganiczne, głównie hydroksyapatyty, stanowią około 65% cementu korzeniowego, substancje organiczne 23%, a woda 12%."
+ },
+ {
+  "id": "pd-c006-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    27,
+    30
+   ]
+  },
+  "question": "Według badań Vacka i wsp. (1994) od jakiej wartości w linii pośrodkowej zęba klasyfikuje się szerokość biologiczną jako szeroką?",
+  "options": {
+   "A": "powyżej 2,04 mm",
+   "B": "powyżej 6 mm",
+   "C": "powyżej 1,2 mm",
+   "D": "powyżej 4,5 mm",
+   "E": "powyżej 3 mm"
+  },
+  "correct": "D",
+  "explanation": "Według Vacka i wsp. (1994) szerokość biologiczna jest zmienna (1,2–4,8 mm); wyróżnia się kategorię wąską (poniżej 3 mm), normalną i szeroką (ponad 4,5 mm w linii pośrodkowej zęba)."
+ },
+ {
+  "id": "pd-c006-005",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    27,
+    30
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące włókien dziąsłowych (nadwyrostkowych):\n1. Włókna zębodołowo-dziąsłowe mają przebieg wachlarzowaty od cementu korzenia do dziąsła wolnego.\n2. Włókna okrężne/półokrężne biegną w wolnym dziąśle i otaczają ząb w postaci pierścienia lub ósemkowo.\n3. Włókna przezprzegrodowe przebiegają wprost przez przegrodę międzyzębową i są umocowane w cemencie sąsiadujących zębów.\n4. Więzadło okrężne (ligamentum circulare) nie ma żadnego związku z przyczepem nabłonkowym.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 1, 2 i 3",
+   "C": "żadna z powyższych",
+   "D": "tylko 1 i 2",
+   "E": "tylko 2, 3 i 4"
+  },
+  "correct": "B",
+  "explanation": "Włókna zębodołowo-dziąsłowe, okrężne/półokrężne i przezprzegrodowe przebiegają zgodnie ze stwierdzeniami 1–3; więzadło okrężne wraz z więzadłami cementowo-dziąsłowymi i przyczepem nabłonkowym szczelnie zamyka dojście do ozębnej, więc stwierdzenie 4 jest fałszywe."
  },
  {
   "id": "pd-c007-001",
@@ -20301,6 +20461,46 @@
   "explanation": "Jeśli po stronie policzkowej w okolicy przyszyjkowej zęba korzeń nie jest przykryty kością, tworzy tzw. dehiscencję kostną; gdy kość jest obecna tylko przy koronowym brzegu korzenia, wadę nazywa się fenestracją."
  },
  {
+  "id": "pd-c007-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    31,
+    33
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące typów cementu korzeniowego:\n1. Cement bezkomórkowy obcowłóknisty znajduje się w koronowej i środkowej części korzenia.\n2. Cement komórkowy z włóknami mieszanymi znajduje się w 1/3 wierzchołkowej części korzenia.\n3. Cement komórkowy własnowłóknisty znajduje się głównie w jamie resorpcyjnej.\n4. Cement bezkomórkowy obcowłóknisty jest mniej zmineralizowany niż cement komórkowy z włóknami mieszanymi.",
+  "options": {
+   "A": "tylko 1, 2 i 3",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 1 i 2",
+   "D": "tylko 2, 3 i 4",
+   "E": "żadna z powyższych"
+  },
+  "correct": "A",
+  "explanation": "Lokalizacja poszczególnych typów cementu odpowiada stwierdzeniom 1–3, natomiast cement bezkomórkowy obcowłóknisty jest bardziej, a nie mniej, zmineralizowany niż cement komórkowy z włóknami mieszanymi, więc stwierdzenie 4 jest fałszywe."
+ },
+ {
+  "id": "pd-c007-005",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    31,
+    33
+   ]
+  },
+  "question": "Jaka jest grubość właściwej kości wyrostka zębodołowego, w której znajdują się liczne kanały Volkmanna?",
+  "options": {
+   "A": "2,0–3,0 mm",
+   "B": "0,1–0,4 mm",
+   "C": "1,0–2,0 mm",
+   "D": "0,01–0,05 mm",
+   "E": "0,5–1,0 mm"
+  },
+  "correct": "B",
+  "explanation": "Właściwa kość wyrostka zębodołowego ma grubość 0,1–0,4 mm, z licznymi otworkami podobnymi do sita (kanałami Volkmanna), przez które przechodzą naczynia krwionośne i włókna nerwowe."
+ },
+ {
   "id": "pd-c008-001",
   "source": {
    "book": "Gorska",
@@ -20362,6 +20562,46 @@
   "explanation": "Nerw policzkowy (n. buccalis) unerwia obszar policzkowy dziąsła w okolicy trzonowców żuchwy, zgodnie z tabelą regionów dziąsła unerwionych przez gałęzie nerwu trójdzielnego."
  },
  {
+  "id": "pd-c008-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    34,
+    36
+   ]
+  },
+  "question": "Pasek aluminiowy o jakiej grubości umieszczony między zębami podczas okluzji może zostać wykryty przez receptory więzadła przyzębnego?",
+  "options": {
+   "A": "200–300 µm",
+   "B": "10–30 µm",
+   "C": "100–200 µm",
+   "D": "1–5 µm",
+   "E": "50–100 µm"
+  },
+  "correct": "B",
+  "explanation": "Więzadło przyzębne posiadające receptory może identyfikować małe siły; obecność bardzo cienkiego aluminiowego paska o grubości 10–30 µm pomiędzy zębami podczas okluzji może zostać bez problemu zidentyfikowana."
+ },
+ {
+  "id": "pd-c008-005",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    34,
+    36
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące unerwienia dziąsła przez gałęzie nerwu trójdzielnego:\n1. Nerw podniebienny większy unerwia dziąsło podniebienia z wyjątkiem obszaru siekaczy.\n2. Nerw skrzydłowo-podniebienny unerwia obszar siekaczy szczęki.\n3. Nerw bródkowy unerwia dziąsło od strony językowej w żuchwie.\n4. Gałąź wargowa górna od nerwu podoczodołowego unerwia dziąsło po stronie przedsionkowej siekaczy, kłów i przedtrzonowców szczęki.",
+  "options": {
+   "A": "tylko 1 i 2",
+   "B": "tylko 2, 3 i 4",
+   "C": "wszystkie prawidłowe",
+   "D": "tylko 1, 2 i 4",
+   "E": "żadna z powyższych"
+  },
+  "correct": "D",
+  "explanation": "Nerw podniebienny większy, nerw skrzydłowo-podniebienny i gałąź wargowa górna unerwiają obszary zgodnie ze stwierdzeniami 1, 2 i 4; dziąsło od strony językowej w żuchwie unerwia nerw podjęzykowy, a nie nerw bródkowy, więc stwierdzenie 3 jest fałszywe."
+ },
+ {
   "id": "pd-c009-001",
   "source": {
    "book": "Gorska",
@@ -20401,6 +20641,46 @@
   },
   "correct": "E",
   "explanation": "Tylna grupa (C) węzłów podżuchwowych zbiera chłonkę z obszarów górnych zębów ósmych oraz dolnych siódmych i ósmych."
+ },
+ {
+  "id": "pd-c009-003",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    37,
+    39
+   ]
+  },
+  "question": "Gdzie znajdują się węzły chłonne podbródkowe i jaki obszar drenują?",
+  "options": {
+   "A": "W obrębie grupy tylnej węzłów podżuchwowych; zbierają chłonkę z zębów ósmych",
+   "B": "Na granicy anatomicznej szyi i klatki piersiowej; zbierają chłonkę z warg górnych",
+   "C": "Wzdłuż żyły i tętnicy szyjnej wewnętrznej; zbierają chłonkę z podniebienia",
+   "D": "Między przednim brzuścem mięśnia dwubrzuścowego a kością gnykową; zbierają chłonkę z wargi dolnej, przedniej części języka i siekaczy dolnych",
+   "E": "W miąższu ślinianki podżuchwowej; zbierają chłonkę z dziąseł i policzka"
+  },
+  "correct": "D",
+  "explanation": "Węzły chłonne podbródkowe znajdują się między przednim brzuścem mięśnia dwubrzuścowego a kością gnykową i zbierają chłonkę z wargi dolnej i przedniej części języka oraz siekaczy dolnych."
+ },
+ {
+  "id": "pd-c009-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    37,
+    39
+   ]
+  },
+  "question": "Z jakich okolic zębowych chłonkę zbiera środkowa grupa (B) węzłów podżuchwowych?",
+  "options": {
+   "A": "Z dziąsła na podniebieniu w szczęce",
+   "B": "Z górnych zębów ósmych oraz dolnych siódmych i ósmych",
+   "C": "Z siekaczy centralnych górnych do pierwszego trzonowca oraz dolnych kłów i przedtrzonowców",
+   "D": "Z górnej okolicy zębów górnych piątki i trzonowców oraz dolnego pierwszego i drugiego trzonowca",
+   "E": "Z wargi dolnej i przedniej części języka oraz siekaczy dolnych"
+  },
+  "correct": "D",
+  "explanation": "Węzły podżuchwowe grupy środkowej (B) zbierają chłonkę z górnej okolicy zębów górnych piątki i trzonowców oraz dolnego pierwszego i drugiego trzonowca."
  },
  {
   "id": "pd-c010-001",
@@ -20464,6 +20744,46 @@
   "explanation": "CPITN nie identyfikuje grup wysokiego ryzyka, nie ocenia utraty przyczepu ani recesji, przeszacowuje chorobowość u młodzieży, a jednocześnie nie ma wartości prognostycznej, więc stwierdzenie 3 jest fałszywe."
  },
  {
+  "id": "pd-c010-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    40,
+    43
+   ]
+  },
+  "question": "Podczas badania wskaźnikiem CPITN u pacjenta stwierdzono w jednym sekstancie kieszonkę przyzębną o głębokości 6 mm, a w pozostałych sekstantach jedynie krwawienie po zgłębnikowaniu bez kamienia. Jaka jest interpretacja wskaźnika CPITN i wynikające z niej zalecenie?",
+  "options": {
+   "A": "Wskaźnika CPITN nie można zinterpretować bez dodatkowego badania radiologicznego",
+   "B": "TN3 – wskazania do kompleksowego leczenia zapalenia przyzębia",
+   "C": "TN1 – wskazania do poprawy higieny jamy ustnej",
+   "D": "TN2 – wskazania do poprawy higieny, skalingu i usunięcia zachyłków jatrogennych",
+   "E": "TN0 – zdrowe przyzębie, brak wskazań do leczenia"
+  },
+  "correct": "B",
+  "explanation": "Obecność przynajmniej jednej kieszonki o głębokości 5,5 mm lub więcej (kod 4) w choćby jednym sekstancie kwalifikuje do TN3, czyli wskazań do kompleksowego leczenia zapalenia przyzębia."
+ },
+ {
+  "id": "pd-c010-005",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    40,
+    43
+   ]
+  },
+  "question": "Który rodzaj epidemiologii zajmuje się ustalaniem związków między występowaniem choroby a określonymi czynnikami, np. mikrobiologicznymi, socjalno-ekonomicznymi lub genetycznymi?",
+  "options": {
+   "A": "Epidemiologia analityczna",
+   "B": "Epidemiologia opisowa",
+   "C": "Epidemiologia interwencyjna",
+   "D": "Epidemiologia populacyjna",
+   "E": "Epidemiologia kliniczna"
+  },
+  "correct": "A",
+  "explanation": "Badania zaplanowane w celu ustalenia związków między występowaniem choroby a określonymi czynnikami (mikrobiologicznymi, socjalno-ekonomicznymi czy genetycznymi) wchodzą w zakres epidemiologii analitycznej."
+ },
+ {
   "id": "pd-c011-001",
   "source": {
    "book": "Gorska",
@@ -20481,8 +20801,7 @@
    "E": "Wyłącznie instruktaż higieny jamy ustnej"
   },
   "correct": "A",
-  "explanation": "Przy kodzie 3 PSR/PSI zalecany jest instruktaż higieny jamy ustnej oraz skaling nad- i poddziąsłowy z wygładzeniem cementu, a przy więcej niż 2 sekstantach z tym kodem – dokładne kliniczne badanie perio z badaniem radiologicznym.",
-  "core": true
+  "explanation": "Przy kodzie 3 PSR/PSI zalecany jest instruktaż higieny jamy ustnej oraz skaling nad- i poddziąsłowy z wygładzeniem cementu, a przy więcej niż 2 sekstantach z tym kodem – dokładne kliniczne badanie perio z badaniem radiologicznym."
  },
  {
   "id": "pd-c011-002",
@@ -20523,6 +20842,48 @@
   },
   "correct": "C",
   "explanation": "Badanie przeprowadzone w 4 miejscach pomiarowych wokół zęba (policzkowy dalszy, policzkowy pośrodkowy, policzkowy bliższy oraz językowy pośrodkowy) daje 112 miejsc pomiarowych w przypadku wszystkich zębów."
+ },
+ {
+  "id": "pd-c011-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    44,
+    46
+   ]
+  },
+  "type": "combined",
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące epidemiologicznych definicji zapalenia przyzębia:\n1. Definicja EFP (Tonetti, Claffey 2005) nie wymaga pomiaru głębokości kieszonek (PD).\n2. Łagodne zapalenie przyzębia wg Eke i wsp. (2012) wymaga CAL ≥3 mm na 2 lub więcej zębach i PD ≥4 mm na 2 lub więcej zębach.\n3. Ciężkie zapalenie przyzębia wg Page'a i Eke (2007) wymaga CAL ≥6 mm u 2 lub więcej zębów oraz PD ≥5 mm u co najmniej 1 zęba.\n4. Średnio zaawansowane zapalenie przyzębia wg Page'a i Eke (2007) wymaga jednoczesnego spełnienia kryterium CAL ≥4 mm i PD ≥5 mm na tych samych zębach.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 1, 2 i 3",
+   "C": "żadna z powyższych",
+   "D": "tylko 2, 3 i 4",
+   "E": "tylko 1 i 2"
+  },
+  "correct": "B",
+  "explanation": "Stwierdzenia 1–3 są zgodne z definicjami z tab. 2–II; stwierdzenie 4 jest fałszywe, bo kryteria CAL ≥4 mm i PD ≥5 mm w definicji średnio zaawansowanego zapalenia przyzębia są rozdzielone spójnikiem „lub”, więc nie muszą występować łącznie.",
+  "core": true
+ },
+ {
+  "id": "pd-c011-005",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    44,
+    46
+   ]
+  },
+  "question": "Co oznacza oznaczenie sekstantu gwiazdką (*) w klasyfikacji PSR/PSI?",
+  "options": {
+   "A": "Otwartą furkację międzykorzeniową, patologiczne rozchwianie zęba, recesję dziąsła powyżej 3 mm lub nieprawidłowości śluzówkowo-dziąsłowe, wymagające dokładnego badania perio tego sekstantu",
+   "B": "Kieszonki o głębokości poniżej 3 mm bez krwawienia",
+   "C": "Brak możliwości zbadania sekstantu z powodu ekstrakcji zębów",
+   "D": "Obecność wyłącznie kamienia naddziąsłowego bez innych zmian",
+   "E": "Konieczność wyłącznie instruktażu higieny jamy ustnej"
+  },
+  "correct": "A",
+  "explanation": "Gwiazdką oznacza się sekstant z otwartą furkacją międzykorzeniową, patologicznym rozchwianiem zęba, recesją dziąsła >3 mm lub nieprawidłowościami śluzówkowo-dziąsłowymi, co wymaga dokładnego klinicznego badania perio tego sekstantu i ewentualnej diagnostyki radiologicznej."
  },
  {
   "id": "pd-c012-001",
@@ -21419,8 +21780,7 @@
    "E": "Wyłącznie z badań dodatkowych"
   },
   "correct": "D",
-  "explanation": "Badanie lekarskie składa się z badania podmiotowego, czyli wywiadu, oraz z badania przedmiotowego.",
-  "core": true
+  "explanation": "Badanie lekarskie składa się z badania podmiotowego, czyli wywiadu, oraz z badania przedmiotowego."
  },
  {
   "id": "pd-c030-002",
@@ -21441,6 +21801,48 @@
   },
   "correct": "A",
   "explanation": "Pacjent pierwszorazowy wypełnia w recepcji kwestionariusz zdrowotny, odpowiadając na pytania „tak” lub „nie” i podając swoje dane osobowe."
+ },
+ {
+  "id": "pd-c030-003",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    99,
+    103
+   ]
+  },
+  "question": "Jakie elementy obejmuje zebranie wywiadu (badania podmiotowego) wg opisanego schematu postępowania z pacjentem periodontologicznym?",
+  "options": {
+   "A": "Kwestionariusz zdrowotny, badanie fizykalne oraz rozpoznanie",
+   "B": "Wyłącznie skargi główne i wywiad rodzinny",
+   "C": "Skargi główne, wywiad dotyczący obecnej choroby, dolegliwości ze strony poszczególnych narządów, warunki i tryb życia, przeszłość chorego oraz wywiad rodzinny",
+   "D": "Badanie radiologiczne, mikrobiologiczne oraz wywiad rodzinny",
+   "E": "Wyłącznie dane osobowe i wywiad stomatologiczny"
+  },
+  "correct": "C",
+  "explanation": "Na zebranie wywiadu składają się dane dotyczące skarg głównych, wywiadu dot. obecnej choroby, dolegliwości innych narządów, warunków i trybu życia, przeszłości chorego oraz wywiadu rodzinnego."
+ },
+ {
+  "id": "pd-c030-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    99,
+    103
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące wywiadu w kierunku skargi głównej i obecnej choroby jamy ustnej u pacjenta periodontologicznego:\n1. Ustala się, czy występuje krwawienie z dziąseł samoistne lub przy szczotkowaniu zębów.\n2. Pyta się o obecność wydzieliny z kieszonek dziąsłowych/przyzębnych i jej charakter (krwista lub ropna).\n3. W ramach tego wywiadu rutynowo zleca się badanie mikrobiologiczne płytki nazębnej.\n4. Ustala się, kiedy pacjent zauważył ruchomość zębów lub ich wędrówkę.",
+  "options": {
+   "A": "tylko 1 i 2",
+   "B": "tylko 2, 3 i 4",
+   "C": "wszystkie prawidłowe",
+   "D": "żadna z powyższych",
+   "E": "tylko 1, 2 i 4"
+  },
+  "correct": "E",
+  "explanation": "Wywiad obejmuje pytania o krwawienie z dziąseł, charakter wydzieliny z kieszonek oraz moment zauważenia ruchomości/wędrówki zębów; tekst nie wspomina o rutynowym zlecaniu badania mikrobiologicznego na tym etapie.",
+  "type": "combined",
+  "core": true
  },
  {
   "id": "pd-c031-001",
@@ -21505,6 +21907,46 @@
   "core": true
  },
  {
+  "id": "pd-c031-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    104,
+    106
+   ]
+  },
+  "question": "Jaką cechę mają zazwyczaj węzły chłonne powiększone w przebiegu przewlekłego procesu zapalnego lub przerzutu nowotworowego?",
+  "options": {
+   "A": "Są niewyczuwalne palpacyjnie",
+   "B": "Występują wyłącznie w okolicy pachwinowej",
+   "C": "Są zrośnięte z podłożem, nieprzesuwalne, twarde, mało- lub niebolesne",
+   "D": "Są miękkie, bolesne i ruchome",
+   "E": "Mają zawsze prawidłową spoistość i ruchomość"
+  },
+  "correct": "C",
+  "explanation": "Węzły chłonne w przewlekłych procesach zapalnych i przerzutach nowotworowych często zrastają się z podłożem, są nieprzesuwalne, twarde, mało- lub niebolesne, w odróżnieniu od ostrego zapalenia, gdy są miękkie, bolesne i ruchome."
+ },
+ {
+  "id": "pd-c031-005",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    104,
+    106
+   ]
+  },
+  "question": "Powiększenie której grupy węzłów chłonnych może być pomocne w rozpoznaniu AIDS?",
+  "options": {
+   "A": "Podbródkowych",
+   "B": "Przyusznych",
+   "C": "Podżuchwowych",
+   "D": "Obwodowych (karkowych, szyjnych, nad- i podobojczykowych, pachowych, pachwinowych)",
+   "E": "Wyłącznie szyjnych przednich"
+  },
+  "correct": "D",
+  "explanation": "Tekst wskazuje, że powiększenie obwodowych węzłów chłonnych (karkowych, szyjnych, nad- i podobojczykowych, pachowych, pachwinowych) może być pomocne w rozpoznaniu AIDS."
+ },
+ {
   "id": "pd-c032-001",
   "source": {
    "book": "Gorska",
@@ -21566,6 +22008,46 @@
   "explanation": "Wg tabeli 4-I wartość API poniżej 25% oznacza optymalną higienę jamy ustnej."
  },
  {
+  "id": "pd-c032-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    107,
+    109
+   ]
+  },
+  "question": "Co oznacza wartość 2 wg wskaźnika płytki bakteryjnej (PI) wg Silnessa i Löego?",
+  "options": {
+   "A": "Obfite złogi płytki wzdłuż brzegu dziąsłowego, w przestrzeniach międzyzębowych zalega płytka",
+   "B": "Umiarkowana warstwa płytki wzdłuż brzegu dziąsła, rozpoznawana gołym okiem, przestrzenie międzyzębowe wolne od płytki",
+   "C": "Płytka widoczna wyłącznie po wybarwieniu tabletką",
+   "D": "Cienka warstwa płytki identyfikowana tylko dzięki badaniu zgłębnikiem",
+   "E": "Brak płytki bakteryjnej"
+  },
+  "correct": "B",
+  "explanation": "Wg kryteriów Silnessa i Löego wartość 2 oznacza umiarkowaną warstwę płytki wzdłuż brzegu dziąsła, widoczną gołym okiem, przy wolnych od płytki przestrzeniach międzyzębowych."
+ },
+ {
+  "id": "pd-c032-005",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    107,
+    109
+   ]
+  },
+  "question": "Gdzie strefa dziąsła przyczepionego jest zazwyczaj najwęższa?",
+  "options": {
+   "A": "Przy kłach i zębach przedtrzonowych w żuchwie",
+   "B": "Przy siekaczach w żuchwie",
+   "C": "Przy siekaczach w szczęce",
+   "D": "Jest jednakowej szerokości w szczęce i żuchwie",
+   "E": "Przy zębach trzonowych w szczęce"
+  },
+  "correct": "A",
+  "explanation": "Wg tekstu szerokość dziąsła przyczepionego jest zazwyczaj szersza w szczęce niż w żuchwie, a najwęższa jest przy kłach i zębach przedtrzonowych w żuchwie."
+ },
+ {
   "id": "pd-c033-001",
   "source": {
    "book": "Gorska",
@@ -21583,8 +22065,7 @@
    "E": "0,50-0,75 N"
   },
   "correct": "A",
-  "explanation": "Zalecana siła nacisku podczas sondowania powinna wynosić 0,20-0,25 N, czyli 20-25 g.",
-  "core": true
+  "explanation": "Zalecana siła nacisku podczas sondowania powinna wynosić 0,20-0,25 N, czyli 20-25 g."
  },
  {
   "id": "pd-c033-002",
@@ -21625,6 +22106,48 @@
   },
   "correct": "E",
   "explanation": "Pomiar głębokości kieszonki obejmuje 4 lub 6 punktów przy jednym zębie."
+ },
+ {
+  "id": "pd-c033-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    110,
+    113
+   ]
+  },
+  "question": "U pacjenta podczas badania stwierdzono krwawienie po zgłębnikowaniu obejmujące 15% wszystkich ocenianych jednostek międzyzębowych i brodawek dziąsłowych (wskaźnik mSBI wg Langego). Jak należy zinterpretować ten wynik?",
+  "options": {
+   "A": "Przyzębie klinicznie zdrowe",
+   "B": "Zlokalizowane i łagodne zapalenie dziąseł",
+   "C": "Uogólnione i umiarkowane zapalenie dziąseł",
+   "D": "Uogólnione i intensywne zapalenie dziąseł",
+   "E": "Zaawansowane zapalenie przyzębia wymagające leczenia chirurgicznego"
+  },
+  "correct": "B",
+  "explanation": "Wartość mSBI w zakresie 29-10% odpowiada zlokalizowanemu i łagodnemu zapaleniu dziąseł, a wynik 15% mieści się w tym przedziale.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pd-c033-005",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    110,
+    113
+   ]
+  },
+  "question": "Jaką zaletę zapewnia zastosowanie elektronicznej sondy periodontologicznej (np. Florida Probe) w porównaniu z sondami tradycyjnymi?",
+  "options": {
+   "A": "Eliminację konieczności badania krwawienia podczas zgłębnikowania",
+   "B": "Automatyczne leczenie stanu zapalnego dziąseł",
+   "C": "Brak konieczności kalibracji przed użyciem",
+   "D": "Możliwość pomiaru bez wprowadzania końcówki do kieszonki",
+   "E": "Stałą siłę nacisku 0,25 N, co pozwala uzyskać powtarzalność wyników"
+  },
+  "correct": "E",
+  "explanation": "Sonda elektroniczna zapewnia stałą siłę nacisku 0,25 N, co daje powtarzalność wyników pomiaru głębokości kieszonek."
  },
  {
   "id": "pd-c034-001",
@@ -21686,6 +22209,46 @@
   },
   "correct": "B",
   "explanation": "Stopień II wg Hampa oznacza wnikanie zgłębnika w przestrzeń międzykorzeniową na głębokość powyżej 3 mm, ale bez przejścia na wylot."
+ },
+ {
+  "id": "pd-c034-004",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    114,
+    116
+   ]
+  },
+  "question": "Co oznacza stopień 3 wg wskaźnika krwawienia z brodawek dziąsłowych (PBI) wg Mühlemanna?",
+  "options": {
+   "A": "Brak krwawienia",
+   "B": "Trójkąt międzyzębowy wypełniony krwią po zgłębnikowaniu",
+   "C": "Pojedynczy punkt krwawy",
+   "D": "Krew wypływa z trójkąta międzyzębowego na powierzchnię dziąsła",
+   "E": "Kilka punktów krwawych lub linia krwawa"
+  },
+  "correct": "B",
+  "explanation": "Stopień 3 wg PBI Mühlemanna oznacza wypełnienie trójkąta międzyzębowego krwią po zgłębnikowaniu."
+ },
+ {
+  "id": "pd-c034-005",
+  "source": {
+   "book": "Gorska",
+   "pages": [
+    114,
+    116
+   ]
+  },
+  "question": "Jaką odległość między sklepieniem furkacji a dnem kieszonki obejmuje podklasa B wg pomiaru pionowego furkacji Tarnowa i Fletchera (1984)?",
+  "options": {
+   "A": "0-2 mm",
+   "B": "do 3 mm",
+   "C": "powyżej 12 mm",
+   "D": "4-6 mm",
+   "E": "powyżej 6 mm"
+  },
+  "correct": "D",
+  "explanation": "Wg klasyfikacji Tarnowa i Fletchera podklasa B oznacza odległość 4-6 mm między sklepieniem furkacji a dnem kieszonki."
  },
  {
   "id": "pd-c035-001",

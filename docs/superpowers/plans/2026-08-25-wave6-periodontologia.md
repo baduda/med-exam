@@ -7,11 +7,12 @@ taking it from 2826 questions to ~3400, without disturbing any existing id.
 
 **Target:** 500–700 new questions (hard floor 400).
 
-**Outcome: 405.** The book yielded 159 chunks, not the 190–290 the page count suggested,
+**Outcome: 433.** The book yielded 159 chunks, not the 190–290 the page count suggested,
 and 20 of those are front matter, contents, `Piśmiennictwo` or index. At the protocol's
 2–3 questions per chunk that caps the book near 400. A second pass over the same chunks
-would add ~150 more; the user decided the 500 figure was not a requirement, so the wave
-closed at one pass rather than padding the bank.
+would add ~150 more; the user decided the 500 figure was not a requirement, so it was
+stopped. 28 questions from that pass had already landed in 16 chunks before it stopped —
+each verified against its chunk text and kept, giving 433.
 
 ## Source inventory (measured 2026-08-25)
 
