@@ -4,11 +4,12 @@ No chapter/section detection — the books are dense and irregularly structured,
 so downstream chunking uses simple word windows over consecutive pages
 (see chunk.py). Each page keeps its 1-based page number for source references.
 
-Books declared `mode: "image"` in books.py have no usable text layer and cannot
-be OCR'd (see the note there). For those, pages are rendered to JPEG under
-data/images/<book_id>/ and the per-page record carries an image path instead of
-text; the generating agent reads the images. Rendering uses the images' native
-resolution — upsampling a 96 dpi photo adds pixels, not legibility.
+Books without a text layer take one of two other routes (see books.py). A
+`mode: "scan"` book is OCR'd here via scan.py. A `mode: "image"` book cannot be
+OCR'd at all, so its pages are rendered to JPEG under data/images/<book_id>/ and
+the per-page record carries an image path instead of text; an agent reads the
+images (see transcribe.py). Rendering those uses the images' native resolution —
+upsampling a 96 dpi photo adds pixels, not legibility.
 """
 import json
 import re
@@ -20,6 +21,7 @@ import fitz  # pymupdf
 # Allow running as a script (`python pipeline/extract.py`) as well as a module.
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from pipeline.books import lookup, mode
+from pipeline.scan import scan_book
 
 BOOKS_DIR = Path("books")
 OUT_DIR = Path("data/text")
@@ -43,18 +45,33 @@ def extract_book(pdf_path: Path, book: str) -> dict:
     return {"book": book, "pages": pages}
 
 
+def existing_text(book: str) -> dict[int, str]:
+    """Text already in data/text/<Book>.json, keyed by page number.
+
+    An image book's text is written by agents through transcribe.py, and it is
+    the only copy — nothing can regenerate it. A re-run of extract.py must
+    therefore carry it forward rather than reset every page to "".
+    """
+    out = OUT_DIR / f"{book}.json"
+    if not out.exists():
+        return {}
+    data = json.loads(out.read_text(encoding="utf-8"))
+    return {p["page"]: p.get("text", "") for p in data["pages"]}
+
+
 def render_book(pdf_path: Path, book: str, book_id: str) -> dict:
     """Render every page to JPEG; return the same shape as extract_book(), with
-    an "image" path per page and an empty "text"."""
+    an "image" path per page. Any transcription already on disk is preserved."""
     out_dir = IMAGE_DIR / book_id
     out_dir.mkdir(parents=True, exist_ok=True)
+    kept = existing_text(book)
     doc = fitz.open(pdf_path)
     pages = []
     for i in range(doc.page_count):
         img = out_dir / f"p{i + 1:03d}.jpg"
         if not img.exists():   # rendering 541 photos is slow; make re-runs cheap
             doc[i].get_pixmap(dpi=RENDER_DPI).pil_save(img, quality=JPEG_QUALITY)
-        pages.append({"page": i + 1, "text": "", "image": str(img)})
+        pages.append({"page": i + 1, "text": kept.get(i + 1, ""), "image": str(img)})
     return {"book": book, "pages": pages}
 
 
@@ -68,6 +85,9 @@ def main() -> None:
         if mode(entry) == "image":
             data = render_book(pdf, entry["book"], entry["book_id"])
             kind = f"{len(data['pages'])} page images"
+        elif mode(entry) == "scan":
+            data = scan_book(pdf, entry["book"], entry["book_id"], dehyphenate)
+            kind = f"{len(data['pages'])} pages OCR'd from spreads"
         else:
             data = extract_book(pdf, entry["book"])
             kind = f"{sum(1 for p in data['pages'] if p['text'])} of " \

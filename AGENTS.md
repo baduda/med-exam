@@ -9,7 +9,7 @@ doctors for the Polish medical verification exam (nostryfikacja / LDEW). Two par
 a build pipeline that turns PDFs into `data/questions.json`, and a static web app
 that serves the quiz.
 
-Six source books across three domains, declared in `pipeline/books.py`:
+Seven source books across three domains, declared in `pipeline/books.py`:
 
 | book_id | `source.book` | Title | Domain |
 |---|---|---|---|
@@ -17,6 +17,7 @@ Six source books across three domains, declared in `pipeline/books.py`:
 | `jz` | `Janczuk` | Jańczuk, *Stomatologia zachowawcza z endodoncją* (2014) | zachowawcza |
 | `ae` | `Arabska` | Arabska-Przedpełska, Pawlicka, *Współczesna endodoncja w praktyce* | zachowawcza |
 | `pd` | `Gorska` | Górska, Konopka, *Periodontologia współczesna* (2013) | periodontologia |
+| `pl` | `GorskaLDEK` | Górska (red.), *Periodontologia. Podręcznik dla studentów i do LDEK* (2022) | periodontologia |
 
 The web app lets the user practise any combination of books.
 
@@ -30,10 +31,12 @@ The web app lets the user practise any combination of books.
 ## Layout
 
 - `books/` — source PDFs. **Gitignored** (up to ~800 MB each). Never commit.
-- `pipeline/` — Python: `books.py` (source registry), `extract.py`, `transcribe.py`,
-  `chunk.py`, `assemble.py`, `mark_generated.py`, `build_core.py`, `schema.py`.
+- `pipeline/` — Python: `books.py` (source registry), `extract.py`, `scan.py`,
+  `transcribe.py`, `chunk.py`, `assemble.py`, `mark_generated.py`, `build_core.py`,
+  `schema.py`.
 - `data/` — `chunks/`, `questions/`, `images/` and `transcripts/` are intermediate
-  (gitignored); `state.json`
+  (gitignored); `pagemap/` holds the hand-verified spread→page maps for `scan` books;
+  `state.json`
   tracks progress; `core_curated.json` holds the frozen hand-ranked LDEK picks and
   `core.json` the generated subset; `questions.json` is the committed final product.
 - `docs/` — static site (GitHub Pages serves this directory). Ships its own copy of
@@ -102,8 +105,9 @@ no core questions at all. Re-run after every generation wave.
 
 ### Books without a text layer
 
-Two books ship no text. They are handled differently, and the difference is
-measured, not stylistic — check which case a new book falls into before choosing.
+Three books ship no text. They are handled differently, and the difference is
+measured, not stylistic — OCR a sample and count garbled tokens against the <2%
+gate before choosing.
 
 **OCR (Arabska).** A clean 1163×1613 flatbed scan: OCR yields 0.1% garbled tokens.
 The OCR output is what `books.py` registers; the original stays an ignored source:
@@ -114,7 +118,24 @@ ocrmypdf -l pol --force-ocr --jobs 8 \
   books/Arabska_ocr.pdf
 ```
 
-**Vision transcription (Górska).** Phone photos at 689×1024 (~96 dpi) with curved
+**Spread OCR (Górska LDEK 2022).** A flat, sharp scan with no text layer, one image
+per *spread* — a single PDF page holds two facing book pages. Tesseract reads it at
+~0.4% garbled tokens once each spread is cut in half and rendered at 400 dpi. Such a
+book is declared `"mode": "scan"`, and `scan.py` does the split + OCR from
+`extract.py`; after that it is an ordinary text book.
+
+Two traps this scan taught us, both recorded in `scan.py`:
+
+- **Do not binarize the body.** Binarizing to recover the white-on-red page numbers
+  costs real text — `250 200 mg` for `250–500 mg`. Render plain grayscale.
+- **Printed page numbers cannot be computed.** The scan mixes true spreads
+  (verso|recto) with misaligned captures (recto|verso), duplicates some spreads and
+  drops others, so no formula maps spread → page. The map in
+  `data/pagemap/<book_id>.json` was read off the header bands by eye and is frozen
+  input. For `pl` it covers 220 of 232 pages; pages 1, 8, 27, 36–38, 67, 92, 125,
+  190, 199 and 210 are absent from the scan and so are absent from the bank.
+
+**Vision transcription (Górska 2013).** Phone photos at 689×1024 (~96 dpi) with curved
 lines and a finger in frame. OCR — including `--deskew --oversample 400` — returns
 ~20% garbled tokens, ten times the <2% gate, and upsampling cannot recover glyphs
 that are 10 px tall. Such a book is declared `"mode": "image"` in `books.py`:

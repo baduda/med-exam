@@ -13,6 +13,7 @@ const BOOKS = [
   ["Janczuk", "Jańczuk — zachowawcza"],
   ["Arabska", "Arabska — endodoncja"],
   ["Gorska", "Górska — periodontologia"],
+  ["GorskaLDEK", "Górska — periodontologia (LDEK 2022)"],
 ];
 
 let questions = [];

@@ -2754,6 +2754,888 @@
    "words": 857,
    "generated": true
   },
+  "pl-c001": {
+   "book": "GorskaLDEK",
+   "pages": [
+    2,
+    3
+   ],
+   "words": 1053,
+   "generated": true
+  },
+  "pl-c002": {
+   "book": "GorskaLDEK",
+   "pages": [
+    4,
+    5
+   ],
+   "words": 923,
+   "generated": true
+  },
+  "pl-c003": {
+   "book": "GorskaLDEK",
+   "pages": [
+    6,
+    7
+   ],
+   "words": 1353,
+   "generated": true
+  },
+  "pl-c004": {
+   "book": "GorskaLDEK",
+   "pages": [
+    9,
+    10
+   ],
+   "words": 1179,
+   "generated": true
+  },
+  "pl-c005": {
+   "book": "GorskaLDEK",
+   "pages": [
+    11,
+    12
+   ],
+   "words": 979,
+   "generated": true
+  },
+  "pl-c006": {
+   "book": "GorskaLDEK",
+   "pages": [
+    13,
+    15
+   ],
+   "words": 1294,
+   "generated": true
+  },
+  "pl-c007": {
+   "book": "GorskaLDEK",
+   "pages": [
+    16,
+    16
+   ],
+   "words": 737,
+   "generated": true
+  },
+  "pl-c008": {
+   "book": "GorskaLDEK",
+   "pages": [
+    17,
+    18
+   ],
+   "words": 898,
+   "generated": true
+  },
+  "pl-c009": {
+   "book": "GorskaLDEK",
+   "pages": [
+    19,
+    20
+   ],
+   "words": 947,
+   "generated": true
+  },
+  "pl-c010": {
+   "book": "GorskaLDEK",
+   "pages": [
+    21,
+    22
+   ],
+   "words": 735,
+   "generated": true
+  },
+  "pl-c011": {
+   "book": "GorskaLDEK",
+   "pages": [
+    23,
+    23
+   ],
+   "words": 890,
+   "generated": true
+  },
+  "pl-c012": {
+   "book": "GorskaLDEK",
+   "pages": [
+    24,
+    24
+   ],
+   "words": 1008,
+   "generated": true
+  },
+  "pl-c013": {
+   "book": "GorskaLDEK",
+   "pages": [
+    25,
+    26
+   ],
+   "words": 722,
+   "generated": true
+  },
+  "pl-c014": {
+   "book": "GorskaLDEK",
+   "pages": [
+    28,
+    29
+   ],
+   "words": 1207,
+   "generated": true
+  },
+  "pl-c015": {
+   "book": "GorskaLDEK",
+   "pages": [
+    30,
+    32
+   ],
+   "words": 1223,
+   "generated": true
+  },
+  "pl-c016": {
+   "book": "GorskaLDEK",
+   "pages": [
+    33,
+    33
+   ],
+   "words": 707,
+   "generated": true
+  },
+  "pl-c017": {
+   "book": "GorskaLDEK",
+   "pages": [
+    34,
+    34
+   ],
+   "words": 728,
+   "generated": true
+  },
+  "pl-c018": {
+   "book": "GorskaLDEK",
+   "pages": [
+    35,
+    39
+   ],
+   "words": 920,
+   "generated": true
+  },
+  "pl-c019": {
+   "book": "GorskaLDEK",
+   "pages": [
+    40,
+    42
+   ],
+   "words": 956,
+   "generated": true
+  },
+  "pl-c020": {
+   "book": "GorskaLDEK",
+   "pages": [
+    43,
+    44
+   ],
+   "words": 866,
+   "generated": true
+  },
+  "pl-c021": {
+   "book": "GorskaLDEK",
+   "pages": [
+    45,
+    47
+   ],
+   "words": 1191,
+   "generated": true
+  },
+  "pl-c022": {
+   "book": "GorskaLDEK",
+   "pages": [
+    48,
+    49
+   ],
+   "words": 1096,
+   "generated": true
+  },
+  "pl-c023": {
+   "book": "GorskaLDEK",
+   "pages": [
+    50,
+    51
+   ],
+   "words": 739,
+   "generated": true
+  },
+  "pl-c024": {
+   "book": "GorskaLDEK",
+   "pages": [
+    52,
+    53
+   ],
+   "words": 701,
+   "generated": true
+  },
+  "pl-c025": {
+   "book": "GorskaLDEK",
+   "pages": [
+    54,
+    54
+   ],
+   "words": 742,
+   "generated": true
+  },
+  "pl-c026": {
+   "book": "GorskaLDEK",
+   "pages": [
+    55,
+    56
+   ],
+   "words": 780,
+   "generated": true
+  },
+  "pl-c027": {
+   "book": "GorskaLDEK",
+   "pages": [
+    57,
+    57
+   ],
+   "words": 721,
+   "generated": true
+  },
+  "pl-c028": {
+   "book": "GorskaLDEK",
+   "pages": [
+    58,
+    59
+   ],
+   "words": 1051,
+   "generated": true
+  },
+  "pl-c029": {
+   "book": "GorskaLDEK",
+   "pages": [
+    60,
+    62
+   ],
+   "words": 886,
+   "generated": true
+  },
+  "pl-c030": {
+   "book": "GorskaLDEK",
+   "pages": [
+    63,
+    66
+   ],
+   "words": 873,
+   "generated": true
+  },
+  "pl-c031": {
+   "book": "GorskaLDEK",
+   "pages": [
+    68,
+    70
+   ],
+   "words": 917,
+   "generated": true
+  },
+  "pl-c032": {
+   "book": "GorskaLDEK",
+   "pages": [
+    71,
+    73
+   ],
+   "words": 771,
+   "generated": true
+  },
+  "pl-c033": {
+   "book": "GorskaLDEK",
+   "pages": [
+    74,
+    76
+   ],
+   "words": 1361,
+   "generated": true
+  },
+  "pl-c034": {
+   "book": "GorskaLDEK",
+   "pages": [
+    77,
+    78
+   ],
+   "words": 917,
+   "generated": true
+  },
+  "pl-c035": {
+   "book": "GorskaLDEK",
+   "pages": [
+    79,
+    80
+   ],
+   "words": 1095,
+   "generated": true
+  },
+  "pl-c036": {
+   "book": "GorskaLDEK",
+   "pages": [
+    81,
+    83
+   ],
+   "words": 1130,
+   "generated": true
+  },
+  "pl-c037": {
+   "book": "GorskaLDEK",
+   "pages": [
+    84,
+    86
+   ],
+   "words": 902,
+   "generated": true
+  },
+  "pl-c038": {
+   "book": "GorskaLDEK",
+   "pages": [
+    87,
+    87
+   ],
+   "words": 760,
+   "generated": true
+  },
+  "pl-c039": {
+   "book": "GorskaLDEK",
+   "pages": [
+    88,
+    89
+   ],
+   "words": 1281,
+   "generated": true
+  },
+  "pl-c040": {
+   "book": "GorskaLDEK",
+   "pages": [
+    90,
+    91
+   ],
+   "words": 929,
+   "generated": true
+  },
+  "pl-c041": {
+   "book": "GorskaLDEK",
+   "pages": [
+    93,
+    94
+   ],
+   "words": 926,
+   "generated": true
+  },
+  "pl-c042": {
+   "book": "GorskaLDEK",
+   "pages": [
+    95,
+    96
+   ],
+   "words": 825,
+   "generated": true
+  },
+  "pl-c043": {
+   "book": "GorskaLDEK",
+   "pages": [
+    97,
+    99
+   ],
+   "words": 991,
+   "generated": true
+  },
+  "pl-c044": {
+   "book": "GorskaLDEK",
+   "pages": [
+    100,
+    103
+   ],
+   "words": 807,
+   "generated": true
+  },
+  "pl-c045": {
+   "book": "GorskaLDEK",
+   "pages": [
+    104,
+    106
+   ],
+   "words": 891,
+   "generated": true
+  },
+  "pl-c046": {
+   "book": "GorskaLDEK",
+   "pages": [
+    107,
+    110
+   ],
+   "words": 955,
+   "generated": true
+  },
+  "pl-c047": {
+   "book": "GorskaLDEK",
+   "pages": [
+    111,
+    113
+   ],
+   "words": 985,
+   "generated": true
+  },
+  "pl-c048": {
+   "book": "GorskaLDEK",
+   "pages": [
+    114,
+    116
+   ],
+   "words": 963,
+   "generated": true
+  },
+  "pl-c049": {
+   "book": "GorskaLDEK",
+   "pages": [
+    117,
+    118
+   ],
+   "words": 1331,
+   "generated": true
+  },
+  "pl-c050": {
+   "book": "GorskaLDEK",
+   "pages": [
+    119,
+    120
+   ],
+   "words": 1292,
+   "generated": true
+  },
+  "pl-c051": {
+   "book": "GorskaLDEK",
+   "pages": [
+    121,
+    121
+   ],
+   "words": 707,
+   "generated": true
+  },
+  "pl-c052": {
+   "book": "GorskaLDEK",
+   "pages": [
+    122,
+    122
+   ],
+   "words": 1026,
+   "generated": true
+  },
+  "pl-c053": {
+   "book": "GorskaLDEK",
+   "pages": [
+    123,
+    124
+   ],
+   "words": 767,
+   "generated": true
+  },
+  "pl-c054": {
+   "book": "GorskaLDEK",
+   "pages": [
+    126,
+    127
+   ],
+   "words": 992,
+   "generated": true
+  },
+  "pl-c055": {
+   "book": "GorskaLDEK",
+   "pages": [
+    128,
+    129
+   ],
+   "words": 1252,
+   "generated": true
+  },
+  "pl-c056": {
+   "book": "GorskaLDEK",
+   "pages": [
+    130,
+    131
+   ],
+   "words": 937,
+   "generated": true
+  },
+  "pl-c057": {
+   "book": "GorskaLDEK",
+   "pages": [
+    132,
+    133
+   ],
+   "words": 832,
+   "generated": true
+  },
+  "pl-c058": {
+   "book": "GorskaLDEK",
+   "pages": [
+    134,
+    138
+   ],
+   "words": 1207,
+   "generated": true
+  },
+  "pl-c059": {
+   "book": "GorskaLDEK",
+   "pages": [
+    139,
+    140
+   ],
+   "words": 959,
+   "generated": true
+  },
+  "pl-c060": {
+   "book": "GorskaLDEK",
+   "pages": [
+    141,
+    143
+   ],
+   "words": 700,
+   "generated": true
+  },
+  "pl-c061": {
+   "book": "GorskaLDEK",
+   "pages": [
+    144,
+    148
+   ],
+   "words": 779,
+   "generated": true
+  },
+  "pl-c062": {
+   "book": "GorskaLDEK",
+   "pages": [
+    149,
+    151
+   ],
+   "words": 997,
+   "generated": true
+  },
+  "pl-c063": {
+   "book": "GorskaLDEK",
+   "pages": [
+    152,
+    154
+   ],
+   "words": 1287,
+   "generated": true
+  },
+  "pl-c064": {
+   "book": "GorskaLDEK",
+   "pages": [
+    155,
+    156
+   ],
+   "words": 1091,
+   "generated": true
+  },
+  "pl-c065": {
+   "book": "GorskaLDEK",
+   "pages": [
+    157,
+    159
+   ],
+   "words": 1325,
+   "generated": true
+  },
+  "pl-c066": {
+   "book": "GorskaLDEK",
+   "pages": [
+    160,
+    162
+   ],
+   "words": 999,
+   "generated": true
+  },
+  "pl-c067": {
+   "book": "GorskaLDEK",
+   "pages": [
+    163,
+    166
+   ],
+   "words": 745,
+   "generated": true
+  },
+  "pl-c068": {
+   "book": "GorskaLDEK",
+   "pages": [
+    167,
+    169
+   ],
+   "words": 928,
+   "generated": true
+  },
+  "pl-c069": {
+   "book": "GorskaLDEK",
+   "pages": [
+    170,
+    171
+   ],
+   "words": 965,
+   "generated": true
+  },
+  "pl-c070": {
+   "book": "GorskaLDEK",
+   "pages": [
+    172,
+    173
+   ],
+   "words": 1049,
+   "generated": true
+  },
+  "pl-c071": {
+   "book": "GorskaLDEK",
+   "pages": [
+    174,
+    176
+   ],
+   "words": 865,
+   "generated": true
+  },
+  "pl-c072": {
+   "book": "GorskaLDEK",
+   "pages": [
+    177,
+    185
+   ],
+   "words": 988,
+   "generated": true
+  },
+  "pl-c073": {
+   "book": "GorskaLDEK",
+   "pages": [
+    186,
+    187
+   ],
+   "words": 961,
+   "generated": true
+  },
+  "pl-c074": {
+   "book": "GorskaLDEK",
+   "pages": [
+    188,
+    188
+   ],
+   "words": 984,
+   "generated": true
+  },
+  "pl-c075": {
+   "book": "GorskaLDEK",
+   "pages": [
+    189,
+    191
+   ],
+   "words": 831,
+   "generated": true
+  },
+  "pl-c076": {
+   "book": "GorskaLDEK",
+   "pages": [
+    192,
+    193
+   ],
+   "words": 750,
+   "generated": true
+  },
+  "pl-c077": {
+   "book": "GorskaLDEK",
+   "pages": [
+    194,
+    195
+   ],
+   "words": 765,
+   "generated": true
+  },
+  "pl-c078": {
+   "book": "GorskaLDEK",
+   "pages": [
+    196,
+    197
+   ],
+   "words": 861,
+   "generated": true
+  },
+  "pl-c079": {
+   "book": "GorskaLDEK",
+   "pages": [
+    198,
+    200
+   ],
+   "words": 1267,
+   "generated": true
+  },
+  "pl-c080": {
+   "book": "GorskaLDEK",
+   "pages": [
+    201,
+    202
+   ],
+   "words": 786,
+   "generated": true
+  },
+  "pl-c081": {
+   "book": "GorskaLDEK",
+   "pages": [
+    203,
+    204
+   ],
+   "words": 1032,
+   "generated": true
+  },
+  "pl-c082": {
+   "book": "GorskaLDEK",
+   "pages": [
+    205,
+    206
+   ],
+   "words": 944,
+   "generated": true
+  },
+  "pl-c083": {
+   "book": "GorskaLDEK",
+   "pages": [
+    207,
+    208
+   ],
+   "words": 1354,
+   "generated": true
+  },
+  "pl-c084": {
+   "book": "GorskaLDEK",
+   "pages": [
+    209,
+    211
+   ],
+   "words": 717,
+   "generated": true
+  },
+  "pl-c085": {
+   "book": "GorskaLDEK",
+   "pages": [
+    212,
+    216
+   ],
+   "words": 1169,
+   "generated": true
+  },
+  "pl-c086": {
+   "book": "GorskaLDEK",
+   "pages": [
+    217,
+    217
+   ],
+   "words": 830,
+   "generated": true
+  },
+  "pl-c087": {
+   "book": "GorskaLDEK",
+   "pages": [
+    218,
+    219
+   ],
+   "words": 963,
+   "generated": true
+  },
+  "pl-c088": {
+   "book": "GorskaLDEK",
+   "pages": [
+    220,
+    221
+   ],
+   "words": 1401,
+   "generated": true
+  },
+  "pl-c089": {
+   "book": "GorskaLDEK",
+   "pages": [
+    222,
+    223
+   ],
+   "words": 1494,
+   "generated": true
+  },
+  "pl-c090": {
+   "book": "GorskaLDEK",
+   "pages": [
+    224,
+    224
+   ],
+   "words": 727,
+   "generated": true
+  },
+  "pl-c091": {
+   "book": "GorskaLDEK",
+   "pages": [
+    225,
+    225
+   ],
+   "words": 802,
+   "generated": true
+  },
+  "pl-c092": {
+   "book": "GorskaLDEK",
+   "pages": [
+    226,
+    226
+   ],
+   "words": 844,
+   "generated": true
+  },
+  "pl-c093": {
+   "book": "GorskaLDEK",
+   "pages": [
+    227,
+    227
+   ],
+   "words": 798,
+   "generated": true
+  },
+  "pl-c094": {
+   "book": "GorskaLDEK",
+   "pages": [
+    228,
+    228
+   ],
+   "words": 723,
+   "generated": true
+  },
+  "pl-c095": {
+   "book": "GorskaLDEK",
+   "pages": [
+    229,
+    229
+   ],
+   "words": 871,
+   "generated": true
+  },
+  "pl-c096": {
+   "book": "GorskaLDEK",
+   "pages": [
+    230,
+    230
+   ],
+   "words": 962,
+   "generated": true
+  },
+  "pl-c097": {
+   "book": "GorskaLDEK",
+   "pages": [
+    231,
+    231
+   ],
+   "words": 704,
+   "generated": true
+  },
+  "pl-c098": {
+   "book": "GorskaLDEK",
+   "pages": [
+    232,
+    232
+   ],
+   "words": 741,
+   "generated": true
+  },
   "jz-c001": {
    "book": "Janczuk",
    "pages": [
