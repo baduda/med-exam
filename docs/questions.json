@@ -31894,6 +31894,3926 @@
   "explanation": "Brak rozwiniętego systemu receptorów upośledza odruchową obronę przed nadmiernym obciążeniem, a sztywne połączenie implant-kość pozbawia amortyzacji urazów zgryzowych, co grozi przeciążeniami i dezintegracją wszczepów."
  },
  {
+  "id": "mj-c121-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    290,
+    291
+   ]
+  },
+  "question": "W której grupie schorzeń endokrynologicznych stwierdzano najwięcej powikłań leczenia implantoprotetycznego?",
+  "options": {
+   "A": "w leczonej hiperprolaktynemii",
+   "B": "w wyrównanej niedoczynności tarczycy",
+   "C": "w łagodnej nadczynności przytarczyc",
+   "D": "w niewyrównanej cukrzycy",
+   "E": "w wyrównanej chorobie Addisona"
+  },
+  "correct": "D",
+  "explanation": "Spośród schorzeń endokrynologicznych najwięcej powikłań opisano w niewyrównanej cukrzycy; niekontrolowana cukrzyca osłabia połączenie implantu z kością, a terapia insulinowa zmniejsza lub eliminuje ten efekt.",
+  "core": true
+ },
+ {
+  "id": "mj-c121-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    290,
+    291
+   ]
+  },
+  "question": "Na czym polega niekorzystny wpływ nikotyny na wyniki leczenia implantoprotetycznego?",
+  "options": {
+   "A": "zwiększa przepuszczalność naczyń i przyspiesza gojenie pozabiegowe",
+   "B": "zmniejsza przepływ krwi i proliferację erytrocytów, upośledzając metabolizm tkankowy",
+   "C": "hamuje aktywność osteoklastów i blokuje przebudowę wyrostka",
+   "D": "nasila wydzielanie śliny i wypłukuje wszczep z tkanek miękkich",
+   "E": "zwiększa mineralizację kości i usztywnia połączenie wszczepu z kością"
+  },
+  "correct": "B",
+  "explanation": "Nikotyna zmniejsza przepływ krwi i proliferację erytrocytów, upośledzając ukrwienie i metabolizm tkankowy, przez co zaburza gojenie pozabiegowe i mechanizmy osteointegracyjne."
+ },
+ {
+  "id": "mj-c121-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    290,
+    291
+   ]
+  },
+  "question": "Którzy pacjenci są bardziej narażeni na infekcyjne powikłania leczenia implantoprotetycznego i dlaczego?",
+  "options": {
+   "A": "pacjenci bezzębni, ze względu na brak zębów prowadzących ruchy żuchwy",
+   "B": "obie grupy w równym stopniu, gdyż flora jamy ustnej jest identyczna",
+   "C": "pacjenci z częściowym uzębieniem, ze względu na mniejszą liczbę wszczepów filarowych",
+   "D": "pacjenci z częściowym uzębieniem, ze względu na kieszonki dziąsłowe zębów naturalnych",
+   "E": "pacjenci bezzębni, ze względu na rozległą powierzchnię błony śluzowej podłoża"
+  },
+  "correct": "D",
+  "explanation": "Analizy indywidualnego profilu ryzyka wykazały, że pacjenci z częściowym uzębieniem są bardziej narażeni na infekcje niż bezzębni, gdyż kieszonki dziąsłowe zębów naturalnych stanowią źródło zagrożenia, a obciążenie filarów jest zróżnicowane."
+ },
+ {
+  "id": "mj-c122-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    292,
+    293
+   ]
+  },
+  "question": "W 4-stopniowej klasyfikacji płytki nazębnej wg Mombelliego stopień 2 oznacza:",
+  "options": {
+   "A": "obecność płytki stwierdzaną dopiero w wyniku badania sondą",
+   "B": "płytkę nazębną widoczną gołym okiem",
+   "C": "całkowity brak płytki nazębnej na powierzchni wszczepu",
+   "D": "płytkę widoczną wyłącznie po zastosowaniu barwnika",
+   "E": "znaczne ilości złogów kamienia nazębnego i osadu"
+  },
+  "correct": "B",
+  "explanation": "Wg Mombelliego stopień 0 to brak płytki, stopień 1 jej stwierdzenie sondą, stopień 2 płytka widoczna gołym okiem, a stopień 3 znaczne ilości kamienia i osadu."
+ },
+ {
+  "id": "mj-c122-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    292,
+    293
+   ]
+  },
+  "question": "Jak należy interpretować krwawienie prowokowane sondowaniem kieszonki wokół wszczepu?",
+  "options": {
+   "A": "może być również reakcją na uraz mechaniczny, zależną od siły i rodzaju sondy",
+   "B": "jest ono zawsze jednoznacznym dowodem periimplantitis",
+   "C": "występuje tylko przy zębach naturalnych, nie przy wszczepach",
+   "D": "jest zjawiskiem fizjologicznym i nie ma wartości diagnostycznej",
+   "E": "świadczy wyłącznie o utracie kości wyrostka zębodołowego"
+  },
+  "correct": "A",
+  "explanation": "Krwawienie przy sondowaniu jest ważnym wskaźnikiem, lecz nie można go interpretować bezkrytycznie — jego przyczyną może być zwykły uraz mechaniczny, gdyż zależy od siły sondowania i rodzaju sondy."
+ },
+ {
+  "id": "mj-c122-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    292,
+    293
+   ]
+  },
+  "question": "Ogólnie zdrowy pacjent użytkuje protezę całkowitą wspartą na wszczepach; minęły 2 miesiące od obciążenia, higiena jest dobra, tkanki okołowszczepowe bez zmian. Jaką częstotliwość wizyt kontrolnych należy przyjąć?",
+  "options": {
+   "A": "co 2 lata, wyłącznie z kontrolą radiologiczną",
+   "B": "co 3 miesiące bezterminowo",
+   "C": "co 2 miesiące, a po roku co pół roku",
+   "D": "co 6-12 miesięcy",
+   "E": "co 1 miesiąc przez pierwsze dwa lata"
+  },
+  "correct": "D",
+  "type": "clinical",
+  "explanation": "Po okresie 1-4 tygodni od obciążenia wszczepów u ogólnie zdrowego pacjenta z protezą całkowitą wspartą na implantach kontrole można przeprowadzać co 6-12 miesięcy; trzymiesięczny rytm zarezerwowany jest dla pacjentów wysokiego ryzyka.",
+  "core": true
+ },
+ {
+  "id": "mj-c123-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    294,
+    295
+   ]
+  },
+  "question": "Jaką wartość przyjmuje się jako dolną granicę szerokości strefy nieruchomej błony śluzowej w obszarze wokół implantu?",
+  "options": {
+   "A": "3,5 mm",
+   "B": "5,0 mm",
+   "C": "1,0 mm",
+   "D": "0,5 mm",
+   "E": "2,0 mm"
+  },
+  "correct": "E",
+  "explanation": "Jako dolną granicę szerokości strefy nieruchomej błony śluzowej wokół implantu przyjmuje się wartość 2,0 mm; jej brak zwiększa ryzyko urazu i zapalenia oraz utrudnia higienę."
+ },
+ {
+  "id": "mj-c123-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    294,
+    295
+   ]
+  },
+  "question": "Które badanie obrazowe zapewnia najbardziej wszechstronną i wiarygodną ocenę obszaru wokół wszczepu?",
+  "options": {
+   "A": "zdjęcie zewnątrzustne w projekcji Watersa",
+   "B": "zdjęcie cefalometryczne boczne",
+   "C": "stożkowa tomografia komputerowa (CBCT)",
+   "D": "zdjęcie zgryzowo-skrzydłowe",
+   "E": "zdjęcie pantomograficzne"
+  },
+  "correct": "C",
+  "explanation": "Najbardziej wszechstronne i wiarygodne jest trójwymiarowe obrazowanie techniką stożkowej tomografii komputerowej (CBCT); na pantomogramach nieznaczne zmiany wokół wszczepu mogą pozostać niezauważone."
+ },
+ {
+  "id": "mj-c123-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    294,
+    295
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące badania tkanek okołowszczepowych:\n1. Wszczep nie posiada odpowiednika ozębnej.\n2. Dolną granicę szerokości nieruchomej błony śluzowej wokół implantu przyjmuje się jako 5,0 mm.\n3. Sondowanie należy prowadzić delikatnie, do wyczucia lekkiego oporu.\n4. Najbardziej wszechstronnym badaniem obrazowym okolicy wszczepu jest pantomogram.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 3 i 4",
+   "C": "tylko 2 i 4",
+   "D": "tylko 1 i 2",
+   "E": "tylko 1 i 3"
+  },
+  "correct": "E",
+  "type": "combined",
+  "explanation": "Wszczep nie ma odpowiednika ozębnej, a sondowanie musi być delikatne, do wyczucia lekkiego oporu. Dolna granica nieruchomej błony śluzowej to 2,0 mm, a najbardziej wiarygodnym obrazowaniem jest CBCT, nie pantomogram.",
+  "core": true
+ },
+ {
+  "id": "mj-c124-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    296,
+    297
+   ]
+  },
+  "question": "Jak należy planować kontrolne badania radiologiczne po obciążeniu wszczepów filarowych?",
+  "options": {
+   "A": "dopiero po zgłoszeniu przez pacjenta dolegliwości bólowych",
+   "B": "co 3 miesiące przez pierwsze dwa lata, potem co pół roku",
+   "C": "raz na dwa lata od chwili implantacji, niezależnie od przebiegu leczenia",
+   "D": "wyłącznie bezpośrednio po zabiegu implantacji, bez dalszych kontroli",
+   "E": "w chwili rozpoczęcia obciążenia, a następnie raz w roku; po 5 latach bez powikłań rzadziej"
+  },
+  "correct": "E",
+  "explanation": "Kolejna kontrola rentgenowska powinna być wykonana w chwili rozpoczęcia funkcjonalnego obciążenia, a następnie raz w roku; po pięciu latach bez powikłań odstęp można wydłużyć do dwóch lub więcej lat.",
+  "core": true
+ },
+ {
+  "id": "mj-c124-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    296,
+    297
+   ]
+  },
+  "question": "Jaki wzorzec zgryzu należy uzyskać u pacjenta bezzębnego zaopatrzonego pełnymi protezami wspartymi na wszczepach?",
+  "options": {
+   "A": "obustronnie zrównoważoną okluzję z brakiem kontaktu zębów przednich w okluzji centralnej",
+   "B": "okluzję z prowadzeniem siecznym i rozwarciem zębów bocznych",
+   "C": "obustronnie zrównoważoną okluzję z silnym kontaktem zębów przednich w zwarciu centralnym",
+   "D": "okluzję z punktami kontaktu przesuniętymi poza oś wszczepów",
+   "E": "okluzję jednostronnie prowadzoną z wyraźnym kontaktem kłów"
+  },
+  "correct": "A",
+  "explanation": "W bezzębiu zaopatrzonym pełnymi protezami na wszczepach dąży się do obustronnie zrównoważonej okluzji oraz braku kontaktu zębów przednich w okluzji centralnej, aby uniknąć jednostronnego przeciążenia wszczepów filarowych."
+ },
+ {
+  "id": "mj-c124-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    296,
+    297
+   ]
+  },
+  "question": "Co jest głównymi przyczynami późniejszych powikłań leczenia implantoprotetycznego?",
+  "options": {
+   "A": "alergia na tytan i niedobór witaminy D",
+   "B": "stosowanie protez ruchomych i wiek pacjenta",
+   "C": "zbyt częste wizyty kontrolne i nadmierne polerowanie",
+   "D": "przeciążenia okluzyjne i zaniedbania higieny",
+   "E": "zbyt duża średnica wszczepów i nadmiar cementu"
+  },
+  "correct": "D",
+  "explanation": "Zgodnie z tekstem to przeciążenia okluzyjne i zaniedbania higieny stanowią główne przyczyny późniejszych powikłań leczenia implantoprotetycznego, dlatego kontrola zgryzu i higieny jest rutynowym elementem opieki pozabiegowej."
+ },
+ {
+  "id": "mj-c125-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    298,
+    299
+   ]
+  },
+  "question": "Jakich narzędzi należy używać do usuwania złogów z poddziąsłowych powierzchni wszczepu filarowego?",
+  "options": {
+   "A": "końcówek stalowych w urządzeniach ultradźwiękowych",
+   "B": "piaskarek z proszkiem o wysokiej ścieralności",
+   "C": "kiret teflonowych i z tworzywa sztucznego wzmocnionego włóknami",
+   "D": "wierteł diamentowych o drobnej ziarnistości",
+   "E": "kiret stalowych z ostrymi krawędziami roboczymi"
+  },
+  "correct": "C",
+  "explanation": "Metalowe kiretki pozostawiają ślady i zwiększają szorstkość powierzchni, dlatego najłagodniejszym sposobem usuwania biofilmu są kirety teflonowe i z tworzywa sztucznego wzmocnionego włóknami węglanowymi.",
+  "core": true
+ },
+ {
+  "id": "mj-c125-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    298,
+    299
+   ]
+  },
+  "question": "U której grupy pacjentów wyklucza się stosowanie urządzeń do irygacji wodnej jamy ustnej?",
+  "options": {
+   "A": "u pacjentów zagrożonych zapaleniem wsierdzia",
+   "B": "u pacjentów z nadwrażliwością zębiny",
+   "C": "u pacjentów użytkujących protezy overdenture",
+   "D": "u pacjentów z suchością jamy ustnej",
+   "E": "u pacjentów po zabiegach podniesienia dna zatoki"
+  },
+  "correct": "A",
+  "explanation": "Opisane w literaturze niebezpieczeństwo bakteriemii wyklucza stosowanie urządzeń do irygacji wodnych u pacjentów zagrożonych zapaleniem wsierdzia."
+ },
+ {
+  "id": "mj-c125-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    298,
+    299
+   ]
+  },
+  "question": "Dlaczego u pacjentów z uzupełnieniami na wszczepach tytanowych zaleca się ostrożność przy stosowaniu preparatów fluorkowych?",
+  "options": {
+   "A": "fluor rozpuszcza cement mocujący korony i powoduje ich odcementowanie",
+   "B": "fluor niszczy przyczep nabłonkowy wokół szyjki wszczepu",
+   "C": "fluor wiąże się z akrylem i zmienia barwę uzupełnień protetycznych",
+   "D": "fluor hamuje wydzielanie śliny i nasila retencję płytki nazębnej",
+   "E": "wysokie stężenie fluoru przy niskim pH może powodować korozję powierzchni tytanowych"
+  },
+  "correct": "E",
+  "explanation": "Zbyt wysokie stężenie fluoru przy jednocześnie niskim pH niektórych żeli może spowodować korozję powierzchni tytanowych i zwiększyć ich porowatość."
+ },
+ {
+  "id": "mj-c126-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    300,
+    302
+   ]
+  },
+  "question": "Jak kształtuje się mikroflora jamy ustnej w okresie rozwoju osobniczego?",
+  "options": {
+   "A": "jama ustna płodu jest wolna od zarazków, a flora stabilizuje się około 5. roku życia",
+   "B": "kolonizacja rozpoczyna się po wprowadzeniu pokarmów stałych, około 1. roku życia",
+   "C": "kolonizacja rozpoczyna się dopiero po wyrżnięciu pierwszych zębów mlecznych",
+   "D": "jama ustna płodu jest wolna od zarazków, a flora stabilizuje się dopiero w wieku dojrzałym",
+   "E": "jama ustna płodu jest już skolonizowana, a flora stabilizuje się tuż po urodzeniu"
+  },
+  "correct": "A",
+  "explanation": "Jama ustna płodu jest wolna od zarazków i ulega zakażeniu w trakcie porodu florą dróg rodnych, a w wieku 5 lat flora jamy ustnej stabilizuje się i jest taka jak u dorosłych.",
+  "core": true
+ },
+ {
+  "id": "mj-c126-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    300,
+    302
+   ]
+  },
+  "question": "Jaki typ flory dominuje w jamie ustnej dzieci przed wyrżnięciem zębów?",
+  "options": {
+   "A": "flora tlenowa, gdyż brak jest obszarów sprzyjających beztlenowcom",
+   "B": "flora mieszana, tlenowa i beztlenowa w równych proporcjach",
+   "C": "flora grzybicza, głównie z rodzaju Candida",
+   "D": "wyłącznie pierwotniaki i wirusy, bez stałej flory bakteryjnej",
+   "E": "flora beztlenowa, ze względu na liczne zachyłki błony śluzowej"
+  },
+  "correct": "A",
+  "explanation": "W jamie ustnej dzieci bezzębnych dominują drobnoustroje tlenowe, ponieważ brak jest obszarów sprzyjających rozwojowi beztlenowców; te pojawiają się po wyrżnięciu zębów w kieszonkach dziąsłowych i bruzdach."
+ },
+ {
+  "id": "mj-c126-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    300,
+    302
+   ]
+  },
+  "question": "Który z wymienionych mechanizmów należy do czynników samoregulujących i obronnych utrzymujących równowagę biocenotyczną jamy ustnej?",
+  "options": {
+   "A": "stałe przyjmowanie węglowodanów podlegających fermentacji",
+   "B": "powstawanie miejsc zmniejszonej odporności tkankowej po urazach",
+   "C": "gradient pH powstający w płytce nazębnej pod płytą protezy",
+   "D": "bakteriolityczna aktywność śliny i bakteriocydyny wytwarzane przez niektóre szczepy",
+   "E": "obecność zachyłków pod przęsłami mostów i płytami protez"
+  },
+  "correct": "D",
+  "explanation": "Do mechanizmów obronnych i samoregulujących zalicza się funkcje wewnątrzwydzielnicze ślinianek, bakteriolityczną aktywność śliny, reakcje immunologiczne oraz bakteriocydyny bakteryjne."
+ },
+ {
+  "id": "mj-c127-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    303,
+    304
+   ]
+  },
+  "question": "Jak utrata wszystkich zębów (bez uzupełnienia protetycznego) wpływa na mikroflorę jamy ustnej?",
+  "options": {
+   "A": "powoduje natychmiastowy, gwałtowny wzrost liczby grzybów drożdżopodobnych",
+   "B": "zmniejsza liczbę bakterii, z zaburzeniem proporcji na korzyść tlenowców",
+   "C": "całkowicie eliminuje bakterie beztlenowe z jamy ustnej",
+   "D": "zwiększa liczbę bakterii z wyraźną przewagą beztlenowców",
+   "E": "nie zmienia ani liczby, ani składu jakościowego mikroflory"
+  },
+  "correct": "B",
+  "explanation": "Utrata zębów zmniejsza liczbę bakterii w porównaniu z pełnym uzębieniem, a zmiany jakościowe polegają na zaburzeniu proporcji beztlenowców i tlenowców z przewagą tych ostatnich, co wiąże się z lepszym oczyszczaniem i brakiem kieszonek.",
+  "core": true
+ },
+ {
+  "id": "mj-c127-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    303,
+    304
+   ]
+  },
+  "question": "Które miejsce stanowi obszar najsilniejszego wzrostu grzybów drożdżopodobnych u użytkowników protez płytowych?",
+  "options": {
+   "A": "błona śluzowa podłoża protetycznego i dośluzowa powierzchnia płyty protezy",
+   "B": "grzbietowa powierzchnia języka i migdałki podniebienne",
+   "C": "błona śluzowa policzków i kąty ust",
+   "D": "przewody wyprowadzające ślinianek przyusznych",
+   "E": "powierzchnia zewnętrzna (policzkowa) płyty protezy"
+  },
+  "correct": "A",
+  "explanation": "Miejscem wzmożonego wzrostu grzybów jest błona śluzowa podłoża protetycznego oraz dośluzowa powierzchnia płyty protezy, gdzie panują dogodne warunki: stała temperatura, wilgoć, resztki pokarmowe i brak samooczyszczania śliną."
+ },
+ {
+  "id": "mj-c127-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    303,
+    304
+   ]
+  },
+  "question": "Bakterie których rodzajów pojawiają się dodatkowo u pacjentów użytkujących protezy w porównaniu z pacjentami ich nieużytkującymi?",
+  "options": {
+   "A": "Leptothrix oraz sporadycznie Corynebacterium i Clostridium",
+   "B": "Staphylococcus epidermidis oraz Micrococcus i Bacillus",
+   "C": "Helicobacter pylori oraz Fusobacterium i Borrelia",
+   "D": "Streptococcus mutans oraz Enterococcus i Neisseria",
+   "E": "Actinomyces oraz Haemophilus i Veillonella"
+  },
+  "correct": "A",
+  "explanation": "W badaniach własnych autora u pacjentów użytkujących protezy stwierdzono dodatkowo bakterie rodzaju Leptothrix oraz sporadycznie występujące Corynebacterium i Clostridium."
+ },
+ {
+  "id": "mj-c128-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    305,
+    306
+   ]
+  },
+  "question": "W materiale badań własnych autora stomatitis prothetica stwierdzono u około 40% użytkowników protez akrylowych. Jaki był rozkład postaci klinicznych?",
+  "options": {
+   "A": "postać nieżytowa 35%, postać rozrostowa 5%",
+   "B": "postać nieżytowa 20%, postać rozrostowa 20%",
+   "C": "postać nieżytowa 5%, postać rozrostowa 35%",
+   "D": "postać nieżytowa 10%, postać rozrostowa 30%",
+   "E": "postać nieżytowa 30%, postać rozrostowa 10%"
+  },
+  "correct": "E",
+  "explanation": "Wśród 40% użytkowników płytowych protez akrylowych rozpoznano przewlekłe zapalenie błony śluzowej podłoża protetycznego, najczęściej o charakterze nieżytowym (30%), rzadziej rozrostowym (10%).",
+  "core": true
+ },
+ {
+  "id": "mj-c128-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    305,
+    306
+   ]
+  },
+  "question": "Na czym — według hipotezy autora — polega patomechanizm procesu zapalnego w stomatitis prothetica mycotica?",
+  "options": {
+   "A": "na wtórnym zakażeniu bakteriami beztlenowymi przenikającymi z kieszonek dziąsłowych",
+   "B": "na niedokrwieniu błony śluzowej wskutek stałego ucisku płyty protezy",
+   "C": "na toksycznym działaniu jonów metali uwalnianych z konstrukcji protezy",
+   "D": "na wytworzeniu stanu nadwrażliwości na antygen Candida albicans i produkty jego przemiany materii",
+   "E": "na bezpośrednim, mechanicznym starciu nabłonka przez płytę protezy"
+  },
+  "correct": "D",
+  "explanation": "Charakter nacieku zapalnego i pozytywna reakcja immunologiczna pozwalają wnioskować, że patomechanizm polega na wytworzeniu stanu nadwrażliwości na antygen Candida albicans i produkty jego przemiany materii."
+ },
+ {
+  "id": "mj-c128-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    305,
+    306
+   ]
+  },
+  "question": "W jakich preparatach należy odkażać wyciski alginatowe oraz wyciski silikonowe i tlenkowo-cynkowo-eugenolowe?",
+  "options": {
+   "A": "obydwa rodzaje wyłącznie w alkoholu etylowym 70%",
+   "B": "obydwa rodzaje wyłącznie w roztworze podchlorynu sodu o wysokim stężeniu",
+   "C": "alginatowe w aldehydzie glutarowym, silikonowe w nadtlenku chloru",
+   "D": "alginatowe w nadtlenku chloru, silikonowe w aldehydzie glutarowym",
+   "E": "alginatowe w wodzie utlenionej, silikonowe w soli fizjologicznej"
+  },
+  "correct": "D",
+  "explanation": "Wyciski alginatowe odkaża się w preparatach na bazie nadtlenku chloru, a silikonowe i tlenkowo-cynkowo-eugenolowe w preparatach na bazie aldehydu glutarowego, po uprzednim wypłukaniu wodą."
+ },
+ {
+  "id": "mj-c129-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    307,
+    312
+   ]
+  },
+  "question": "Czym różnią się stomatopatie protetyczne pierwotne od wtórnych (objawowych)?",
+  "options": {
+   "A": "pierwotne wywołują czynniki miejscowe, wtórne powstają na podłożu chorób ogólnoustrojowych",
+   "B": "pierwotne dotyczą protez stałych, wtórne wyłącznie protez ruchomych",
+   "C": "pierwotne występują u osób młodych, wtórne wyłącznie u osób po 65. roku życia",
+   "D": "pierwotne powstają na podłożu chorób ogólnoustrojowych, wtórne wywołuje uraz protezy",
+   "E": "pierwotne mają charakter rozrostowy, wtórne wyłącznie nieżytowy"
+  },
+  "correct": "A",
+  "explanation": "Stomatopatie pierwotne wywołują czynniki miejscowe (uraz mechaniczny, infekcja, uszkodzenia chemiczno-toksyczne i elektrogalwaniczne, odczyny alergiczne), a wtórne powstają na podłożu chorób ogólnoustrojowych, gdy proteza jest czynnikiem wyzwalającym.",
+  "core": true
+ },
+ {
+  "id": "mj-c129-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    307,
+    312
+   ]
+  },
+  "question": "Jak często występują stomatopatie protetyczne na tle alergicznym?",
+  "options": {
+   "A": "z częstością określaną na 2-3 promile",
+   "B": "praktycznie nie występują i nigdy ich nie opisano",
+   "C": "u około połowy użytkowników protez akrylowych",
+   "D": "u około 5% użytkowników protez akrylowych",
+   "E": "u około 20% użytkowników protez akrylowych"
+  },
+  "correct": "A",
+  "explanation": "Mimo pozornie sprzyjających warunków stomatopatie na tle alergicznym należą do rzadkości, a ich częstość określa się na 2-3 promile; rozpoznanie alergii bez prób uczuleniowych nie jest wiarygodne."
+ },
+ {
+  "id": "mj-c129-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    307,
+    312
+   ]
+  },
+  "question": "Który składnik protezy akrylowej podejrzewa się o toksyczne działanie na błonę śluzową podłoża protetycznego?",
+  "options": {
+   "A": "stabilizatory zapobiegające starzeniu tworzywa",
+   "B": "wolny (resztkowy) monomer pozostający po polimeryzacji",
+   "C": "katalizatory dodawane do proszku polimeru",
+   "D": "wypełniacze mineralne zwiększające twardość płyty",
+   "E": "barwniki nadające tworzywu odcień dziąsła"
+  },
+  "correct": "B",
+  "explanation": "Katalizatory, stabilizatory i barwniki są biologicznie neutralne i występują w znikomym procencie, dlatego podejrzenia o toksyczność kierują się w stronę wolnego monomeru resztkowego, który rozpuszcza tłuszcze i uszkadza cytoplazmę komórkową."
+ },
+ {
+  "id": "mj-c130-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    313,
+    314
+   ]
+  },
+  "question": "W jakich granicach utrzymuje się podwyższona temperatura pod płytą protezy akrylowej i jakie ma to znaczenie?",
+  "options": {
+   "A": "34,0-35,0°C, co ogranicza wydzielanie śliny na podniebieniu",
+   "B": "41,0-42,0°C, co powoduje termiczne oparzenie błony śluzowej",
+   "C": "37,0-37,5°C, co hamuje rozwój grzybów drożdżopodobnych",
+   "D": "36,0-36,6°C, co nie wpływa na warunki mikrobiologiczne podłoża",
+   "E": "39,7-40,6°C, co sprzyja zwiększonemu rozwojowi flory bakteryjnej i grzybiczej"
+  },
+  "correct": "E",
+  "explanation": "Ze względu na słabe przewodnictwo cieplne żywic akrylowych temperatura pod płytą protezy utrzymuje się w granicach 39,7-40,6°C, co ma szczególny wpływ na zwiększony rozwój flory bakteryjnej i grzybiczej."
+ },
+ {
+  "id": "mj-c130-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    313,
+    314
+   ]
+  },
+  "question": "Jak nazywa się uszypułowany twór łącznotkankowy, zwisający do przedsionka lub od podniebienia w postaci ziarninowego płata, powstały u użytkownika protezy?",
+  "options": {
+   "A": "stomatitis hyperplastica papillaris palati",
+   "B": "ruchomy wyrostek zębodołowy",
+   "C": "granuloma fissuratum (nadziąślak szczelinowaty)",
+   "D": "leukokeratoza błony śluzowej podniebienia",
+   "E": "decubitus (odleżyna)"
+  },
+  "correct": "C",
+  "explanation": "Uszypułowany twór łącznotkankowy zwisający do przedsionka lub od podniebienia w postaci ziarninowego płata określa się jako ziarniniak, czyli nadziąślak szczelinowaty (granuloma fissuratum)."
+ },
+ {
+  "id": "mj-c130-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    313,
+    314
+   ]
+  },
+  "question": "Starsza pacjentka od kilku lat użytkuje te same protezy całkowite. Zgłasza niegojące się, bolesne zmiany zapalne w obu kątach ust. Jaka jest najbardziej prawdopodobna przyczyna tych zmian?",
+  "options": {
+   "A": "rozrost włóknisty grzbietu wyrostka zębodołowego",
+   "B": "nadmiernie wysokie zwarcie ustalone w protezach",
+   "C": "nadmierne rogowacenie nabłonka typu leukokeratozy",
+   "D": "obniżona wysokość zwarcia użytkowanych protez",
+   "E": "reakcja alergiczna na barwniki tworzywa protezy"
+  },
+  "correct": "D",
+  "type": "clinical",
+  "explanation": "Zajady w kątach ust (cheilitis vel stomatitis angularis) obserwuje się przy użytkowaniu protez o obniżonej wysokości zwarcia, gdy stałe zaleganie śliny i bakterii w fałdach między wargami podtrzymuje stan zapalny.",
+  "core": true
+ },
+ {
+  "id": "mj-c131-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    315,
+    316
+   ]
+  },
+  "question": "Jaki przebieg dolegliwości jest typowy dla stomatopatii protetycznej wywołanej wyłącznie urazem mechanicznym, bez powikłań infekcyjnych?",
+  "options": {
+   "A": "Objawy występują napadowo co kilka miesięcy i nie mają związku z użytkowaniem uzupełnień protetycznych",
+   "B": "Dolegliwości narastają tygodniami niezależnie od posiłków i ustępują dopiero po antybiotykoterapii",
+   "C": "Pieczenie zaczyna się po założeniu protez rano, narasta w ciągu dnia, a wyjęcie protez przynosi wyraźną ulgę",
+   "D": "Pieczenie pojawia się dopiero w nocy, po wyjęciu protez, a ich ponowne założenie znosi dolegliwości",
+   "E": "Ból ma charakter rozlany, obejmuje całą twarz i nie zmienia się po usunięciu protez z jamy ustnej"
+  },
+  "correct": "C",
+  "explanation": "Przy urazie mechanicznym ból ma ścisłą lokalizację, rozpoczyna się po założeniu protez rano i nasila w ciągu dnia, a usunięcie protez przynosi wyraźną ulgę.",
+  "core": true
+ },
+ {
+  "id": "mj-c131-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    315,
+    316
+   ]
+  },
+  "question": "Który zespół objawów jest charakterystyczny dla tzw. zapalenia elektrogalwanicznego u użytkownika uzupełnień metalowych?",
+  "options": {
+   "A": "Białe, niedające się zetrzeć plamy na policzkach z towarzyszącym całkowitym zanikiem brodawek",
+   "B": "Bolesne owrzodzenia dna jamy ustnej ograniczone wyłącznie do okolicy podjęzykowej",
+   "C": "Pęcherze podnabłonkowe na wargach ustępujące samoistnie po kilku dniach bez leczenia",
+   "D": "Rumień błony śluzowej, obrzęk języka oraz metaliczny smak, pieczenie i objawy ogólne",
+   "E": "Rozrost brodawkowaty podniebienia z obfitym nalotem grzybiczym na płycie protezy"
+  },
+  "correct": "D",
+  "explanation": "Zmiany elektrogalwaniczne występują jako rumień, często z obrzękiem języka, a na pierwszy plan wysuwają się objawy podmiotowe: smak metaliczny, pieczenie, złe samopoczucie i dolegliwości ogólne."
+ },
+ {
+  "id": "mj-c131-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    315,
+    316
+   ]
+  },
+  "question": "Jakie postępowanie zaleca się w stomatopatii protetycznej o podłożu alergicznym?",
+  "options": {
+   "A": "Naświetlanie powierzchni dośluzowej promieniami ultrafioletowymi jako leczenie w pełni przyczynowe",
+   "B": "Pozostawienie dotychczasowej protezy i wdrożenie ogólnej antybiotykoterapii o szerokim spektrum",
+   "C": "Chirurgiczne usunięcie zmienionej błony śluzowej podłoża wraz z wygładzeniem wyrostka zębodołowego",
+   "D": "Zmiana materiału protezy oraz leczenie objawowe preparatami wapnia i środkami przeciwhistaminowymi",
+   "E": "Podścielenie protezy materiałem elastycznym i kontrola dopiero po upływie jednego roku"
+  },
+  "correct": "D",
+  "explanation": "W razie stwierdzenia alergii należy zmienić materiał protezy, a leczenie objawowe polega na stosowaniu preparatów wapnia i środków przeciwhistaminowych."
+ },
+ {
+  "id": "mj-c132-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    317,
+    318
+   ]
+  },
+  "question": "Który gatunek grzybów drożdżopodobnych dominował w badaniach własnych autora u pacjentów z klinicznymi objawami stomatitis prothetica?",
+  "options": {
+   "A": "Candida parapsilosis, stanowiąca około 45% izolatów",
+   "B": "Candida tropicalis, stanowiąca około 89% izolatów",
+   "C": "Candida pseudotropicalis, stanowiąca około 30% izolatów",
+   "D": "Candida albicans, stanowiąca około 89% izolatów",
+   "E": "Candida glabrata, stanowiąca około 60% izolatów"
+  },
+  "correct": "D",
+  "explanation": "W badaniach własnych udział procentowy grzybów rodzaju Candida wynosił: C. albicans 89%, C. tropicalis 6%, C. pseudotropicalis 2%, C. glabrata 2%, C. parapsilosis 1%."
+ },
+ {
+  "id": "mj-c132-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    317,
+    318
+   ]
+  },
+  "question": "Jak — niezależnie od postaci klinicznej stomatitis prothetica — należy pouczyć pacjenta o dezynfekcji protez?",
+  "options": {
+   "A": "Raz w tygodniu przecierać protezę spirytusem salicylowym i osuszać ją ligniną",
+   "B": "Raz w miesiącu zanurzać protezę na 5 minut w 2% roztworze chlorheksydyny",
+   "C": "Raz w tygodniu zanurzać protezę na 30 minut w 0,2% roztworze chlorheksydyny",
+   "D": "Codziennie zanurzać protezę na całą noc w nasyconym roztworze soli kuchennej",
+   "E": "Codziennie wygotowywać protezę we wrzącej wodzie przez kwadrans"
+  },
+  "correct": "C",
+  "explanation": "Zaleca się zdejmowanie protez na noc, przechowywanie ich w suchym pojemniku oraz cotygodniową dezynfekcję przez 30-minutowe zanurzenie w 0,2% roztworze chlorheksydyny lub gotowym preparacie."
+ },
+ {
+  "id": "mj-c132-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    317,
+    318
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące stomatitis prothetica mycotica:\n1. Rozpoznanie można postawić wyłącznie na podstawie wyniku badania mykologicznego.\n2. Grzybica związana z użytkowaniem protez z reguły wymaga leczenia ogólnego, a nie miejscowego.\n3. Obecność pojedynczych blastosporów bez zmian klinicznych i czynników predysponujących nie wymaga leczenia przeciwgrzybiczego.\n4. Preparat przeciwgrzybiczy należy deponować jednocześnie na błonę śluzową i na płytę protezy.",
+  "options": {
+   "A": "tylko 1, 3 i 4",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 1 i 2",
+   "D": "tylko 3 i 4",
+   "E": "tylko 2 i 3"
+  },
+  "correct": "A",
+  "explanation": "Rozpoznanie opiera się wyłącznie na badaniu mykologicznym, pojedyncze blastospory bez zmian klinicznych nie wymagają leczenia, a lek trzeba nakładać także na płytę protezy, w której porowatościach przetrwają blastospory. Nieprawdziwe jest stwierdzenie 2 — grzybica ta zwykle wymaga wyłącznie leczenia miejscowego.",
+  "type": "combined",
+  "core": true
+ },
+ {
+  "id": "mj-c133-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    319,
+    320
+   ]
+  },
+  "question": "Według instrukcji przekazywanej pacjentowi, jak stosuje się zawiesinę nystatyny w leczeniu stomatopatii powikłanej infekcją Candida?",
+  "options": {
+   "A": "Raz dziennie przed snem na powierzchnię zewnętrzną płyty protezy, przez pięć dni",
+   "B": "Trzy razy dziennie po jedzeniu na oczyszczoną powierzchnię dośluzową płyty protezy, przez trzy tygodnie",
+   "C": "Trzy razy dziennie przed jedzeniem, po uprzednim wysuszeniu protezy, przez dwa miesiące",
+   "D": "Dwa razy dziennie przed posiłkiem, wyłącznie na błonę śluzową podniebienia, przez sześć tygodni",
+   "E": "Co drugi dzień na całą protezę zanurzoną w zawiesinie na noc, przez cztery tygodnie"
+  },
+  "correct": "B",
+  "explanation": "Instrukcja nakazuje stosowanie leku trzy razy dziennie po jedzeniu: po umyciu protezy pokrywa się jej powierzchnię dośluzową około 2,0 ml zawiesiny, a kurację prowadzi się przez trzy tygodnie."
+ },
+ {
+  "id": "mj-c133-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    319,
+    320
+   ]
+  },
+  "question": "Jak dobiera się parametry lasera CO2 przy usuwaniu zmian rozrostowych błony śluzowej u użytkowników protez?",
+  "options": {
+   "A": "Wiązka zogniskowana o mocy 4 W tnie zmiany uszypułowane, a niezogniskowana o mocy 10 W usuwa małe rozrosty",
+   "B": "Moc dobiera się wyłącznie do grubości błony śluzowej, bez znaczenia dla zogniskowania wiązki lasera",
+   "C": "Zmiany uszypułowane odparowuje się wiązką rozproszoną, a rozrosty płaskie wycina wiązką o mocy 1 W",
+   "D": "Zawsze stosuje się wiązkę niezogniskowaną o mocy 20 W, niezależnie od charakteru zmiany rozrostowej",
+   "E": "Wiązka zogniskowana o mocy 10 W tnie zmiany uszypułowane, a niezogniskowana o mocy 4 W usuwa małe nieregularne rozrosty"
+  },
+  "correct": "E",
+  "explanation": "Przy wysokiej mocy 10 W zogniskowana wiązka służy jako instrument tnący do usuwania zmian uszypułowanych, a przy niskiej mocy 4 W bez zogniskowania niszczy się małe, nieregularne rozrosty z koagulacją naczyń."
+ },
+ {
+  "id": "mj-c133-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    319,
+    320
+   ]
+  },
+  "question": "U pacjentki użytkującej protezy płytowe rozpoznano stomatitis prothetica hyperplastica z potwierdzoną badaniem mykologicznym infekcją Candida. Jakie postępowanie względem zmian rozrostowych jest zgodne z opisanym protokołem?",
+  "options": {
+   "A": "Wyłącznie podścielenie protezy materiałem elastycznym, które trwale doprowadza do zaniku zmian rozrostowych",
+   "B": "Odstąpienie od zabiegu i wyłączne stosowanie płukanek ściągających aż do samoistnego ustąpienia rozrostów",
+   "C": "Chirurgiczne usunięcie zmian (najlepiej laserem) po pierwszym tygodniu kuracji przeciwgrzybiczej, z badaniem histopatologicznym wyciętej tkanki",
+   "D": "Usunięcie zmian dopiero po zakończeniu całej trzytygodniowej kuracji i po oddaniu nowych protez pacjentce",
+   "E": "Natychmiastowe wycięcie zmian przed rozpoczęciem jakiegokolwiek leczenia farmakologicznego, bez badania histopatologicznego"
+  },
+  "correct": "C",
+  "explanation": "W przypadkach stanów rozrostowych zabieg usunięcia zmian, najlepiej techniką laserową, wykonuje się po pierwszym tygodniu kuracji, a wycięty fragment tkanki wysyła się do badania histopatologicznego.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "mj-c134-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    321,
+    323
+   ]
+  },
+  "question": "Która definicja klinicznej postaci patologicznego starcia zębów jest prawidłowa?",
+  "options": {
+   "A": "Atrycja to mikrozłamania szkliwa i zębiny w okolicy szyjek zębowych",
+   "B": "Erozja to wynik mechanicznego tarcia zębów przeciwstawnych w kontakcie okluzyjnym",
+   "C": "Abfrakcja to wynik tarcia zębów przeciwstawnych na powierzchniach żujących",
+   "D": "Atrycja to wynik działania czynników chemicznych i elektrochemicznych",
+   "E": "Abrazja to wynik tarcia pomiędzy powierzchnią zębów a ciałem obcym"
+  },
+  "correct": "E",
+  "explanation": "Abrazja jest następstwem tarcia pomiędzy powierzchnią zębów a ciałem obcym, atrycja wynika z tarcia zębów przeciwstawnych, erozja z działania czynników chemicznych, a abfrakcja z nacisku w okolicy szyjek.",
+  "core": true
+ },
+ {
+  "id": "mj-c134-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    321,
+    323
+   ]
+  },
+  "question": "Jak schematycznie przedstawia się zależność fizjologicznego starcia brzegów siecznych od wieku?",
+  "options": {
+   "A": "Do 30. roku życia starciu ulega zębina, a dopiero po 40. roku życia obejmuje ono szkliwo",
+   "B": "Starcie obejmuje szkliwo i zębinę jednocześnie od chwili wyrznięcia zębów stałych",
+   "C": "Starcie szkliwa rozpoczyna się dopiero po 60. roku życia i nigdy nie sięga zębiny",
+   "D": "Do 50. roku życia starcie nie występuje wcale, a po tym wieku obejmuje od razu cementum",
+   "E": "Do 30. roku życia starcie dotyczy wyłącznie szkliwa, a po 40. roku życia powolnemu starciu ulega zębina"
+  },
+  "correct": "E",
+  "explanation": "Przyjęto, że do 30. roku życia starcie dotyczy wyłącznie szkliwa, a po 40. roku życia powolnemu starciu ulega zębina, czego objawem jest zmiana barwy powierzchni startych."
+ },
+ {
+  "id": "mj-c134-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    321,
+    323
+   ]
+  },
+  "question": "W jaki sposób refluks żołądkowo-przełykowy sprzyja patologicznemu starciu zębów o typie erozji?",
+  "options": {
+   "A": "Kwas żołądkowy drastycznie obniża pH śliny i osłabia jej ochronne działanie wobec tkanek zęba",
+   "B": "Wywołuje zapalenie ozębnej, które wtórnie prowadzi do mikrozłamań w okolicy szyjek",
+   "C": "Nasila wydzielanie śliny i podnosi jej pH, przez co przyspiesza remineralizację szkliwa",
+   "D": "Powoduje bezpośrednie ścieranie mechaniczne powierzchni żujących zębów bocznych",
+   "E": "Zwiększa stężenie wapnia i fosforanów w ślinie, co prowadzi do kruchości szkliwa"
+  },
+  "correct": "A",
+  "explanation": "Ochronna rola śliny zależy od jej pH oraz zawartości wapnia i fosforanów; w refluksie żołądkowo-przełykowym pH śliny ulega drastycznemu obniżeniu przez obecność kwasu żołądkowego, co sprzyja erozji."
+ },
+ {
+  "id": "mj-c135-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    324,
+    325
+   ]
+  },
+  "question": "Co oznacza 2. stopień wskaźnika starcia TWI według Smitha i Knighta?",
+  "options": {
+   "A": "Utratę szkliwa i zębiny obejmującą do 50% powierzchni",
+   "B": "Nieznaczną utratę wyłącznie powierzchniowej warstwy szkliwa",
+   "C": "Całkowitą utratę korony klinicznej z obnażeniem kanału korzeniowego",
+   "D": "Brak jakichkolwiek zmian na powierzchniach zębów przeciwstawnych",
+   "E": "Utratę tkanek twardych powyżej 50% powierzchni korony zęba"
+  },
+  "correct": "A",
+  "explanation": "TWI jest czterostopniową skalą, w której 1 oznacza nieznaczną utratę szkliwa, 2 — utratę szkliwa i zębiny do 50% powierzchni, a 3 — utratę tkanek twardych powyżej 50% powierzchni korony.",
+  "core": true
+ },
+ {
+  "id": "mj-c135-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    324,
+    325
+   ]
+  },
+  "question": "Która cecha zębów dotkniętych wrodzonym niedorozwojem szkliwa ma istotne znaczenie dla planowania rekonstrukcji protetycznej?",
+  "options": {
+   "A": "Zawsze towarzyszy im całkowity zanik wyrostka zębodołowego wykluczający leczenie protetyczne",
+   "B": "Wykazują bardzo dużą podatność na próchnicę i z reguły mają szczątkowe, zdeformowane korzenie",
+   "C": "Mimo deformacji i przebarwień nie wykazują skłonności do próchnicy i zwykle mają prawidłowo ukształtowane korzenie",
+   "D": "Choroba dotyczy wyłącznie mężczyzn i ujawnia się dopiero w uzębieniu stałym po 40. roku życia",
+   "E": "Zęby te są odporne na starcie, dlatego nie wymagają odbudowy powierzchni okluzyjnych"
+  },
+  "correct": "C",
+  "explanation": "Zęby z wrodzonym niedorozwojem szkliwa są zdeformowane i przebarwione, ale bez skłonności do próchnicy i zwykle z normalnie ukształtowanymi korzeniami, co jest ważne przy ich protetycznej rekonstrukcji."
+ },
+ {
+  "id": "mj-c135-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    324,
+    325
+   ]
+  },
+  "question": "Jakie zmiany rysów twarzy stwierdza się w starciu uogólnionym przebiegającym z obniżeniem wysokości zwarciowej?",
+  "options": {
+   "A": "Zapadnięcie okolicy jarzmowej z jednoczesnym uwypukleniem czoła i wygładzeniem bruzd",
+   "B": "Poszerzenie środkowego piętra twarzy z uniesieniem skrzydełek nosa i cofnięciem warg",
+   "C": "Symetryczne uniesienie kącików ust z zanikiem bruzdy wargowo-bródkowej",
+   "D": "Wydłużony dolny odcinek twarzy, wygładzone fałdy nosowo-bródkowe i spłaszczone wargi",
+   "E": "Skrócony dolny odcinek twarzy, pogłębione fałdy nosowo-bródkowe i pozorny nadmiar warg"
+  },
+  "correct": "E",
+  "explanation": "Obniżeniu wysokości zwarciowej towarzyszy skrócenie dolnego odcinka twarzy, pogłębienie fałdów nosowo-bródkowych i wrażenie nadmiaru wargi górnej oraz dolnej wskutek przemieszczenia żuchwy ku szczęce."
+ },
+ {
+  "id": "mj-c136-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    326,
+    327
+   ]
+  },
+  "question": "Która cecha jest charakterystyczna dla zębów objętych procesem patologicznego starcia?",
+  "options": {
+   "A": "Całkowity brak reakcji na bodźce termiczne od początku procesu ścierania tkanek",
+   "B": "Wybitna podatność na próchnicę i częste ostre zapalenia miazgi już we wczesnym okresie starcia",
+   "C": "Bardzo wczesne rozchwianie zębów wynikające z pogorszenia proporcji korzenia do korony",
+   "D": "Znaczna odporność na próchnicę i rzadkie zapalenia miazgi dzięki wytwarzaniu zębiny wtórnej i reparacyjnej",
+   "E": "Szybka martwica miazgi poprzedzona zanikiem zębiny wtórnej w obrębie komory zęba"
+  },
+  "correct": "D",
+  "explanation": "Wskutek odkładania zębiny wtórnej („cofania miazgi”) i reparacyjnej zęby starte rzadko ulegają zapaleniu miazgi i cechują się znaczną odpornością na próchnicę, a ich przyzębie długo pozostaje w dobrym stanie.",
+  "core": true
+ },
+ {
+  "id": "mj-c136-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    326,
+    327
+   ]
+  },
+  "question": "Jak obniżenie wysokości zwarcia wpływa na położenie głów żuchwy w stawach skroniowo-żuchwowych?",
+  "options": {
+   "A": "Powoduje ich przemieszczenie ku przodowi i dołowi, co odciąża chrząstkę śródstawową",
+   "B": "Powoduje ich przemieszczenie ku tyłowi i górze, co może prowadzić do resorpcji i degeneracji powierzchni stawowych",
+   "C": "Nie zmienia położenia głów żuchwy, ponieważ jest kompensowane wyłącznie napięciem mięśni",
+   "D": "Powoduje trwałe zwichnięcie głów żuchwy poza guzek stawowy po obu stronach",
+   "E": "Powoduje ich boczne przemieszczenie z jednoczesnym poszerzeniem szpary stawowej"
+  },
+  "correct": "B",
+  "explanation": "Obniżenie wysokości zwarcia przemieszcza głowy żuchwy ku tyłowi i górze; głębokie dotylne ułożenie głowy może wywołać resorpcję, zniekształcenie i degenerację powierzchni stawowych."
+ },
+ {
+  "id": "mj-c136-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    326,
+    327
+   ]
+  },
+  "question": "Na czym polega zjawisko kompensacji zębowo-wyrostkowej w przebiegu starcia patologicznego?",
+  "options": {
+   "A": "Zęby przemieszczają się poziomo, co samoistnie likwiduje przeszkody zwarciowe i objawy dysfunkcji",
+   "B": "Korony pozostają niezmienione, a wysokość zwarcia obniża się wskutek zaniku wyrostka zębodołowego",
+   "C": "Korony ulegają skróceniu, ale wysokość zwarcia zostaje zachowana, co utrudnia rekonstrukcję protetyczną",
+   "D": "Wyrostek zębodołowy ulega zanikowi proporcjonalnie do stopnia starcia, powiększając szparę spoczynkową",
+   "E": "Dochodzi do samoistnej odbudowy zniszczonych powierzchni żujących przez zębinę reparacyjną"
+  },
+  "correct": "C",
+  "explanation": "Kompensacja zębowo-wyrostkowa daje skrócenie koron bez utraty wysokości zwarcia; odbudowa koron oznacza wtedy podniesienie zwarcia i zblokowanie szpary spoczynkowej, co grozi jatrogenną dysfunkcją US."
+ },
+ {
+  "id": "mj-c137-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    328,
+    329
+   ]
+  },
+  "question": "Przy jakiej relacji wysokości zwarciowej do wysokości spoczynkowej kęs pokarmowy jest rozdrabniany z maksymalną siłą?",
+  "options": {
+   "A": "Gdy wysokość zwarciowa jest mniejsza od spoczynkowej o 8–10 mm",
+   "B": "Gdy wysokość zwarciowa jest mniejsza od spoczynkowej o 2–4 mm",
+   "C": "Gdy wysokość zwarciowa jest większa od spoczynkowej o 2–4 mm",
+   "D": "Gdy wysokość zwarciowa jest dokładnie równa wysokości spoczynkowej",
+   "E": "Gdy wysokość zwarciowa jest większa od spoczynkowej o 6–8 mm"
+  },
+  "correct": "B",
+  "explanation": "Maksymalną siłę rozdrabniania kęsa uzyskuje się, gdy wysokość zwarciowa jest mniejsza od spoczynkowej o 2–4 mm; jej zmniejszenie upośledza wydolność żucia, bo mięśnie nie rozwijają największej siły.",
+  "core": true
+ },
+ {
+  "id": "mj-c137-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    328,
+    329
+   ]
+  },
+  "question": "Od czego należy rozpocząć rekonstrukcyjne leczenie protetyczne zaawansowanego starcia patologicznego zębów?",
+  "options": {
+   "A": "Od natychmiastowego oszlifowania wszystkich zębów pod korony ceramiczne i mosty stałe",
+   "B": "Od jednorazowego, znacznego podniesienia wysokości zwarciowej na koronach ostatecznych",
+   "C": "Od nadbudowy kompozytowej lub konstrukcji ruchomych, niewymagających preparacji zębów naturalnych",
+   "D": "Od wykonania wkładów koronowo-korzeniowych we wszystkich zębach po leczeniu endodontycznym",
+   "E": "Od ekstrakcji zębów startych i zaopatrzenia pacjenta protezami całkowitymi natychmiastowymi"
+  },
+  "correct": "C",
+  "explanation": "Przed metodami inwazyjnymi i nieodwracalnymi należy rozważyć nadbudowę kompozytową z użyciem systemów łączących lub konstrukcje ruchome (protezy z nakładami); korony, mosty i wkłady stosuje się dopiero, gdy te metody zawiodą."
+ },
+ {
+  "id": "mj-c137-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    328,
+    329
+   ]
+  },
+  "question": "Jakie środki zaleca się w nadwrażliwości startej zębiny u pacjenta ze starciem patologicznym?",
+  "options": {
+   "A": "Preparaty zawierające potas oraz fluorki sodu i cyny",
+   "B": "Maści z hydrokortyzonem nakładane na powierzchnie żujące zębów",
+   "C": "Preparaty zawierające wyłącznie chlorheksydynę w wysokim stężeniu",
+   "D": "Płukanki z taniną stosowane przez okres trzech tygodni",
+   "E": "Doustne antybiotyki polienowe w postaci zawiesiny wodnej"
+  },
+  "correct": "A",
+  "explanation": "W nadwrażliwości zębiny zaleca się stosowanie środków zawierających potas oraz fluorki sodu i cyny, a przy zapaleniu miazgi — leczenie endodontyczne."
+ },
+ {
+  "id": "mj-c138-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    330,
+    331
+   ]
+  },
+  "question": "Kiedy w leczeniu patologicznego starcia zębów wystarcza postępowanie jednoetapowe?",
+  "options": {
+   "A": "Wyłącznie wtedy, gdy planuje się odbudowę koronami ceramicznymi i mostami na wkładach",
+   "B": "Przy obniżeniu wysokości zwarciowej przekraczającym 4,0 mm i towarzyszących bólowych objawach dysfunkcyjnych",
+   "C": "Zawsze w przypadkach uogólnionego starcia obejmującego kompletne łuki zębowe obu szczęk",
+   "D": "Przy nieznacznym obniżeniu wysokości zwarciowej w granicach 2,0 mm i braku objawów zaburzeń mięśniowo-stawowych",
+   "E": "Wyłącznie u pacjentów z rozpoznanym bruksizmem i utrwalonymi nawykami parafunkcjonalnymi"
+  },
+  "correct": "D",
+  "explanation": "Przy nieznacznym obniżeniu wysokości zwarciowej (w granicach 2,0 mm) i braku objawów mięśniowo-stawowych wystarcza postępowanie jednoetapowe; przekroczenie 4,0 mm z dolegliwościami bólowymi nakazuje postępowanie etapowe.",
+  "core": true
+ },
+ {
+  "id": "mj-c138-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    330,
+    331
+   ]
+  },
+  "question": "Jak długo trwa przeciętnie okres adaptacyjny pierwszego etapu leczenia uogólnionego starcia patologicznego?",
+  "options": {
+   "A": "2–3 lata, przy stałym użytkowaniu szyny wyłącznie w porze nocnej",
+   "B": "24–48 godzin, po czym od razu wykonuje się uzupełnienia docelowe",
+   "C": "7–10 dni, niezależnie od stopnia podniesienia wysokości zwarciowej",
+   "D": "6–8 tygodni, ale wyłącznie u pacjentów z pełnymi łukami zębowymi",
+   "E": "1–3 miesiące, a w razie konieczności okres ten bywa dłuższy"
+  },
+  "correct": "E",
+  "explanation": "Po trwającym przeciętnie 1–3 miesiące okresie adaptacyjnym, gdy nowe warunki okluzyjne zostały zaakceptowane i ustąpiły dolegliwości stawowo-mięśniowe, przystępuje się do realizacji planu docelowego."
+ },
+ {
+  "id": "mj-c138-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    330,
+    331
+   ]
+  },
+  "question": "Jak kształtuje się powierzchnie nakładów, gdy stosuje się translacyjne podwyższenie wysokości zwarciowej?",
+  "options": {
+   "A": "Z zagłębieniami i ogranicznikami w kształcie równi, które blokują poziome ruchy żuchwy",
+   "B": "Z wysokimi, ostrymi guzkami odwzorowującymi pełną morfologię zębów naturalnych",
+   "C": "Bez kontaktu w odcinku bocznym, z podparciem wyłącznie na zębach przednich",
+   "D": "Całkowicie płasko, aby umożliwić żuchwie swobodne przemieszczenia we wszystkich kierunkach",
+   "E": "Ze skośnymi stokami skierowanymi dopoliczkowo, wymuszającymi zbaczanie żuchwy"
+  },
+  "correct": "A",
+  "explanation": "Przy translacyjnym podwyższeniu wysokości zwarciowej powierzchnie żujące nakładów modeluje się z zagłębieniami blokującymi ruchy poziome, a dla utrwalenia nowej pozycji żuchwy wykonuje się ograniczniki w kształcie równi."
+ },
+ {
+  "id": "mj-c139-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    332,
+    333
+   ]
+  },
+  "question": "Co — zgodnie z definicją przytoczoną za Van Steenberghem — określa się jako wtórny uraz zgryzowy?",
+  "options": {
+   "A": "Przystosowawczą przebudowę tkanek przyzębia pod wpływem sił minimalnych",
+   "B": "Działanie nadmiernych sił zgryzowych na zęby z całkowicie zdrowym przyzębiem",
+   "C": "Zwiększoną ruchomość zębów wynikającą z fizjologicznego starcia powierzchni żujących",
+   "D": "Nieodwracalne zniszczenie ozębnej wywołane wyłącznie czynnikami jatrogennymi",
+   "E": "Działanie sił fizjologicznych na ząb z utratą podparcia kostnego i przyczepu łącznotkankowego"
+  },
+  "correct": "E",
+  "explanation": "Uraz zgryzowy pierwotny powstaje wskutek nadmiernych sił działających na zęby ze zdrowym przyzębiem, a wtórny — wskutek działania sił fizjologicznych na ząb z utratą podparcia kostnego i przyczepu łącznotkankowego.",
+  "core": true
+ },
+ {
+  "id": "mj-c139-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    332,
+    333
+   ]
+  },
+  "question": "Jak określa się nieznaczne zaburzenia okluzyjne, które dzięki możliwościom kompensacyjnym układu stomatognatycznego nie wyzwalają zakłóceń czynnościowych i nie wymagają leczenia?",
+  "options": {
+   "A": "Okluzja urazowa niezaadaptowana",
+   "B": "Zgryz urazowy z węzłami urazowymi",
+   "C": "Pierwotny uraz zgryzowy ozębnej",
+   "D": "Dysfunkcja bólowa układu stomatognatycznego",
+   "E": "Okluzja nieprawidłowa zaadaptowana"
+  },
+  "correct": "E",
+  "explanation": "Stan taki określa się jako okluzję nieprawidłową zaadaptowaną, w przeciwieństwie do niezaadaptowanej, czyli okluzji urazowej wymagającej działań terapeutycznych."
+ },
+ {
+  "id": "mj-c139-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    332,
+    333
+   ]
+  },
+  "question": "Czego wymaga zastosowanie koron protetycznych w przypadkach znacznie zaawansowanego starcia patologicznego zębów?",
+  "options": {
+   "A": "Wyłącznie podniesienia wysokości zwarciowej bez jakichkolwiek zabiegów na zębach filarowych",
+   "B": "Wcześniejszego chirurgicznego skrócenia korzeni w celu zwiększenia miejsca protetycznego",
+   "C": "Wcześniejszego usunięcia wszystkich zębów startych i zaopatrzenia protezami ruchomymi",
+   "D": "Wcześniejszego leczenia endodontycznego i odbudowy filarów wkładami koronowo-korzeniowymi",
+   "E": "Rezygnacji z okresu adaptacyjnego i natychmiastowego osadzenia uzupełnień ostatecznych"
+  },
+  "correct": "D",
+  "explanation": "Przy znacznym zaawansowaniu starcia stosowanie koron wymaga wcześniejszego leczenia endodontycznego, aby zrekonstruować filary koronowe za pomocą wkładów koronowo-korzeniowych."
+ },
+ {
+  "id": "mj-c140-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    334,
+    336
+   ]
+  },
+  "question": "Co oznacza pojęcie przedwczesnego kontaktu zwarciowego?",
+  "options": {
+   "A": "Zetknięcie zębów przeciwstawnych zachodzące dopiero po pełnym zaciśnięciu mięśni żucia",
+   "B": "Utratę kontaktu zębów bocznych po stronie pracującej podczas bocznych ruchów żuchwy",
+   "C": "Wcześniejsze zetknięcie zębów przeciwstawnych uniemożliwiające bezkolizyjne przejście żuchwy do okluzji centralnej",
+   "D": "Kontakt zębów przednich powstający wyłącznie podczas wysuwania żuchwy do pozycji doprzedniej",
+   "E": "Równomierny, wielopunktowy kontakt zębów obu łuków uzyskiwany w pozycji centralnej żuchwy"
+  },
+  "correct": "C",
+  "explanation": "Przedwczesny kontakt zwarciowy to wcześniejsze zetknięcie zębów przeciwstawnych, które uniemożliwia bezkolizyjne przejście żuchwy do pozycji okluzji centralnej i równomierne kontakty pozostałych zębów.",
+  "core": true
+ },
+ {
+  "id": "mj-c140-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    334,
+    336
+   ]
+  },
+  "question": "Jaki wynik daje wprowadzenie kalki artykulacyjnej między łuki zębowe w przypadku okluzji urazowej?",
+  "options": {
+   "A": "Odbicia zaznaczają się tylko na nielicznych zębach kontaktujących przedwcześnie",
+   "B": "Kalka barwi równomiernie dziąsło brzeżne w okolicy zębów bocznych żuchwy",
+   "C": "Odbicia zaznaczają się w wielu miejscach z równomierną intensywnością na obu łukach",
+   "D": "Kalka nie pozostawia żadnego śladu, ponieważ zęby w ogóle nie stykają się ze sobą",
+   "E": "Odbicia obejmują wyłącznie powierzchnie przedsionkowe zębów przednich obu łuków"
+  },
+  "correct": "A",
+  "explanation": "W prawidłowej okluzji kalka odbija się w wielu miejscach z równomierną intensywnością, natomiast przy kontaktach przedwczesnych ślad pojawia się tylko na nielicznych zębach kontaktujących przedwcześnie."
+ },
+ {
+  "id": "mj-c140-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    334,
+    336
+   ]
+  },
+  "question": "Jakie kontakty występują podczas bocznych ruchów żuchwy w warunkach prowadzenia grupowego?",
+  "options": {
+   "A": "Brak jakiegokolwiek kontaktu zębów po stronie pracującej przy pełnym kontakcie po stronie balansującej",
+   "B": "Wyłącznie kontakt brzegów siecznych zębów przednich szczęki i żuchwy po stronie pracującej",
+   "C": "Kontakt guzków podniebiennych zębów trzonowych górnych z brzegami siecznymi siekaczy dolnych",
+   "D": "Kontakt kłów oraz guzków policzkowych dolnych przedtrzonowców ze stokami podniebiennymi guzków policzkowych górnych przedtrzonowców",
+   "E": "Wyłącznie kontakt powierzchni policzkowej kła dolnego z powierzchnią podniebienną kła górnego"
+  },
+  "correct": "D",
+  "explanation": "W prowadzeniu kłowym kontaktują się jedynie kły, natomiast w prowadzeniu grupowym dodatkowo guzki policzkowe dolnych przedtrzonowców kontaktują ze stokami podniebiennymi guzków policzkowych górnych przedtrzonowców."
+ },
+ {
+  "id": "mj-c141-001",
+  "question": "Terapia okluzyjna dzieli się na odwracalną i nieodwracalną. Która metoda jest przykładem terapii odwracalnej?",
+  "options": {
+   "A": "leczenie ortodontyczne trwale zmieniające ustawienie zębów w łuku",
+   "B": "rekonstrukcja zwarcia przy użyciu uzupełnień stałych (koron i mostów)",
+   "C": "stosowanie szyn okluzyjnych czasowo zmieniających stosunki zwarciowe",
+   "D": "nadbudowa kompozytowa przedłużająca korony zębów startych",
+   "E": "selektywne szlifowanie powierzchni żujących zębów naturalnych"
+  },
+  "correct": "C",
+  "explanation": "Terapia odwracalna polega na czasowej zmianie stosunków zwarciowych, np. przez szyny okluzyjne, natomiast szlifowanie, ortodoncja i uzupełnienia stałe dają trwałą zmianę zwarcia bez możliwości powrotu do stanu wyjściowego.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    337,
+    338
+   ]
+  },
+  "core": true
+ },
+ {
+  "id": "mj-c141-002",
+  "question": "Zgodnie z zasadami Jankelsona, jak należy postąpić przy przedwczesnym kontakcie między językowymi stokami guzków policzkowych zębów dolnych a policzkowymi stokami guzków podniebiennych zębów górnych?",
+  "options": {
+   "A": "zeszlifować powierzchnie wargowe dolnych zębów siecznych",
+   "B": "skrócić guzki policzkowe zębów dolnych na całej ich wysokości",
+   "C": "zeszlifować stok policzkowy guzków podniebiennych zębów górnych",
+   "D": "pogłębić bruzdę międzyguzkową w dolnych zębach antagonistycznych",
+   "E": "pogłębić bruzdy na powierzchniach podniebiennych zębów górnych"
+  },
+  "correct": "C",
+  "explanation": "Rozdział wskazuje, że przy kolizji językowych stoków guzków policzkowych dolnych z policzkowymi stokami guzków podniebiennych górnych szlifuje się guzki podniebienne zębów górnych od strony policzkowej.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    337,
+    338
+   ]
+  }
+ },
+ {
+  "id": "mj-c141-003",
+  "question": "W jakiej sytuacji klinicznej wskazana jest protetyczna nadbudowa rekonstrukcyjna powierzchni okluzyjnej?",
+  "options": {
+   "A": "gdy zęby nie dochodzą do powierzchni okluzyjnej z powodu starcia, próchnicy lub złamania korony",
+   "B": "gdy w badaniu stwierdza się prawidłowy, równomierny kontakt wszystkich zębów",
+   "C": "gdy występuje wyłącznie nawykowe jednostronne żucie bez zmian w uzębieniu",
+   "D": "gdy jedynym stwierdzonym zaburzeniem są przedwczesne kontakty w zwarciu centralnym",
+   "E": "gdy pacjent zgłasza wyłącznie bolesność mięśni żwaczowych po przebudzeniu"
+  },
+  "correct": "A",
+  "explanation": "Nadbudowę rekonstrukcyjną stosuje się, gdy zęby nie dochodzą do powierzchni okluzyjnej wskutek uszkodzenia koron (próchnica, starcie, uraz) lub gdy planowane jest terapeutyczne podwyższenie wysokości zwarciowej.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    337,
+    338
+   ]
+  }
+ },
+ {
+  "id": "mj-c142-001",
+  "question": "Które miejsca zajmują dysfunkcje układu stomatognatycznego pod względem częstości występowania wśród schorzeń stomatologicznych według raportów WHO przytoczonych w tekście?",
+  "options": {
+   "A": "trzecie - po próchnicy zębów i periodontopatiach",
+   "B": "drugie - zaraz po periodontopatiach",
+   "C": "czwarte - po próchnicy, periodontopatiach i nowotworach",
+   "D": "pierwsze - przed próchnicą i periodontopatiami",
+   "E": "piąte - po chorobach błony śluzowej jamy ustnej"
+  },
+  "correct": "A",
+  "explanation": "Autor podaje, że według ostatnich raportów WHO dysfunkcje US zajmują trzecie miejsce co do częstości występowania, po próchnicy zębów i periodontopatii, co czyni je problemem społecznym.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    339,
+    341
+   ]
+  },
+  "core": true
+ },
+ {
+  "id": "mj-c142-002",
+  "question": "Które stwierdzenie dotyczące zależności między zaburzeniami zwarcia a dysfunkcją US jest zgodne z poglądem Okesona przytoczonym w tekście?",
+  "options": {
+   "A": "dolegliwości mięśniowe pojawiają się dopiero po trwałym uszkodzeniu krążka stawowego",
+   "B": "ostre zaburzenia zwarcia są zawsze pierwotną i główną przyczyną dysfunkcji mięśniowych",
+   "C": "ostre zaburzenia zwarcia są częściej skutkiem dysfunkcji mięśniowych niż ich przyczyną",
+   "D": "zaburzenia zwarcia nie mają żadnego związku z dolegliwościami mięśni żucia",
+   "E": "leczenie należy zawsze rozpoczynać od inwazyjnej przebudowy warunków zwarciowych"
+  },
+  "correct": "C",
+  "explanation": "Okeson zwraca uwagę, że ostre zaburzenia zwarcia częściej są skutkiem dysfunkcji mięśniowych niż ich przyczyną, dlatego leczenia nie należy rozpoczynać od inwazyjnej przebudowy zwarcia.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    339,
+    341
+   ]
+  }
+ },
+ {
+  "id": "mj-c142-003",
+  "question": "Które z wymienionych czynników zaliczane są w tekście do miejscowych przyczyn dysfunkcji układu stomatognatycznego?",
+  "options": {
+   "A": "nieuzupełnione braki uzębienia w strefach podparcia zwarciowego i parafunkcje okluzyjne",
+   "B": "przewlekły stres cywilizacyjny oraz zaburzenia równowagi psychicznej pacjenta",
+   "C": "zaburzenia hormonalne okresu dojrzewania i menopauzy oraz schorzenia tarczycy",
+   "D": "wrodzona skłonność ustroju do schorzeń mięśniowo-stawowych o podłożu metabolicznym",
+   "E": "obciążenia psychospołeczne przekraczające zdolności adaptacyjne organizmu"
+  },
+  "correct": "A",
+  "explanation": "Wśród przyczyn miejscowych wymienia się wady zgryzu, nieuzupełnione braki uzębienia (zwłaszcza w strefach podparcia), parafunkcje okluzyjne jak bruksizm oraz przebyte urazy twarzy i głowy; stres należy do czynników ogólnych.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    339,
+    341
+   ]
+  }
+ },
+ {
+  "id": "mj-c143-001",
+  "question": "Który z wymienionych nawyków jest przykładem parafunkcji nieokluzyjnej?",
+  "options": {
+   "A": "nagryzanie warg i błony śluzowej policzków",
+   "B": "pozafunkcjonalne ruchy żujące z kontaktem zębów",
+   "C": "zgrzytanie zębami w czasie snu",
+   "D": "zaciskanie zębów w sytuacjach stresowych",
+   "E": "odruchowe zwieranie łuków zębowych przy złości"
+  },
+  "correct": "A",
+  "explanation": "Parafunkcje okluzyjne przebiegają z kontaktem zębów przeciwstawnych (zgrzytanie, zaciskanie), natomiast nieokluzyjne dotyczą języka, warg, błony śluzowej lub przedmiotów zewnętrznych.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    342,
+    343
+   ]
+  },
+  "core": true
+ },
+ {
+  "id": "mj-c143-002",
+  "question": "Jaki mechanizm biochemiczny odpowiada za bóle mięśni żucia promieniujące do szyi, skroni, ucha i oka przy długotrwałej nadaktywności mięśniowej?",
+  "options": {
+   "A": "zanik włókien mięśniowych wskutek trwałego odnerwienia gałązek nerwu trójdzielnego",
+   "B": "nadmierne wydzielanie acetylocholiny blokujące przewodnictwo w płytce nerwowo-mięśniowej",
+   "C": "niedotlenienie mięśni z nagromadzeniem kwasu mlekowego oraz mediatorów zapalenia",
+   "D": "odkładanie się złogów wapnia w przyczepach mięśni żwaczowych do żuchwy",
+   "E": "bezpośrednie uszkodzenie powierzchni stawowych przez przemieszczony krążek stawowy"
+  },
+  "correct": "C",
+  "explanation": "Zwiększona aktywność mięśni zwiększa zapotrzebowanie na tlen; niedotlenienie tkanki mięśniowej oraz nagromadzenie kwasu mlekowego i mediatorów zapalenia (bradykinin i prostaglandyn) daje bóle twarzy promieniujące do szyi, skroni, ucha i oka.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    342,
+    343
+   ]
+  }
+ },
+ {
+  "id": "mj-c143-003",
+  "question": "Które zjawisko określane jest w tekście jako główna przyczyna wzrostu napięcia mięśni w układzie stomatognatycznym?",
+  "options": {
+   "A": "prawidłowe połykanie śliny powtarzane w ciągu doby",
+   "B": "czynność mowy wymagająca szybkich ruchów żuchwy",
+   "C": "oddychanie torem ustnym w czasie snu nocnego",
+   "D": "parafunkcje, czyli patologiczne nawyki ruchowe narządu żucia",
+   "E": "fizjologiczne żucie pokarmów o twardej konsystencji"
+  },
+  "correct": "D",
+  "explanation": "Tekst wskazuje wprost, że główną przyczyną wzrostu napięcia mięśni w US są parafunkcje - patologiczne nawyki ruchowe niesłużące funkcjom fizjologicznym narządu żucia.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    342,
+    343
+   ]
+  }
+ },
+ {
+  "id": "mj-c144-001",
+  "question": "Zgodnie z klasycznym podziałem przyczyn parafunkcji autorstwa Druma, do której grupy należy zaciskanie zębów wywołane szczękościskiem w przebiegu epilepsji, tężca lub zapalenia mózgu?",
+  "options": {
+   "A": "parafunkcje nadmiernie kompensacyjne",
+   "B": "parafunkcje uwarunkowane psychicznie",
+   "C": "parafunkcje nawykowe",
+   "D": "parafunkcje uwarunkowane stresem",
+   "E": "parafunkcje endogenne"
+  },
+  "correct": "E",
+  "explanation": "W podziale Druma parafunkcje endogenne to te manifestujące się zaciskaniem zębów powodowanym szczękościskiem w epilepsji, tężcu, zapaleniu mózgu i infekcjach.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    344,
+    345
+   ]
+  }
+ },
+ {
+  "id": "mj-c144-002",
+  "type": "combined",
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące parafunkcji układu stomatognatycznego:\n1. Przygryzanie warg i policzków należy do grupy dens-mucosa.\n2. Podstawą diagnostyki pozostają wywiad, badanie stomatologiczne i obserwacja kliniczna.\n3. Pacjent zwykle potrafi świadomie zademonstrować swoją parafunkcję podczas wizyty.\n4. Najbardziej typowym uszkodzeniem zębów w ich przebiegu jest patologiczne starcie.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 1 i 3",
+   "C": "tylko 3 i 4",
+   "D": "tylko 1, 2 i 4",
+   "E": "tylko 2 i 4"
+  },
+  "correct": "D",
+  "explanation": "Stwierdzenia 1, 2 i 4 są zgodne z tekstem; stwierdzenie 3 jest fałszywe, ponieważ parafunkcja występuje odruchowo i nieświadomie, a naleganie na jej zademonstrowanie autor uznaje za daremne i szkodliwe.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    344,
+    345
+   ]
+  },
+  "core": true
+ },
+ {
+  "id": "mj-c144-003",
+  "question": "Od czego zależy stopień uszkadzającego działania parafunkcji na układ stomatognatyczny?",
+  "options": {
+   "A": "od rodzaju stosowanych uzupełnień protetycznych i materiału, z jakiego je wykonano",
+   "B": "wyłącznie od wieku pacjenta i liczby zachowanych zębów własnych w łukach",
+   "C": "wyłącznie od rodzaju parafunkcji, niezależnie od czasu jej trwania i częstości",
+   "D": "od czasu trwania i częstości parafunkcji, siły mięśni oraz wydolności przyzębia i stawów",
+   "E": "wyłącznie od stopnia twardości tkanek zębów, bez znaczenia sił mięśniowych"
+  },
+  "correct": "D",
+  "explanation": "Tekst wymienia jako czynniki decydujące: czas trwania i częstość parafunkcji, siłę i kierunek działania mięśni żucia, twardość tkanek zębów, wydolność przyzębia oraz odporność tkanek stawów s-ż na przeciążenie.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    344,
+    345
+   ]
+  }
+ },
+ {
+  "id": "mj-c145-001",
+  "question": "Jak w tekście szacuje się częstość występowania bruksizmu w stanie czuwania oraz epizodów bruksizmu w czasie snu w populacji ogólnej?",
+  "options": {
+   "A": "około 50% w stanie czuwania i 40% w czasie snu",
+   "B": "około 1% w stanie czuwania i 2-3% w czasie snu",
+   "C": "około 5% w stanie czuwania i 20-30% w czasie snu",
+   "D": "około 35% w stanie czuwania i 35% w czasie snu",
+   "E": "około 20% w stanie czuwania i 5-10% w czasie snu"
+  },
+  "correct": "E",
+  "explanation": "Autor podaje, że bruksizm w stanie czuwania szacuje się w populacji ogólnej na 20%, a epizody bruksizmu w czasie snu na 5-10%, zależnie od przyjętej metodyki badania.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    346,
+    347
+   ]
+  },
+  "core": true
+ },
+ {
+  "id": "mj-c145-002",
+  "question": "Kiedy - zgodnie z proponowanym stopniowaniem - rozpoznanie bruksizmu można określić jako „definitywne\"?",
+  "options": {
+   "A": "gdy badania kliniczne uzupełniono polisomnografią i elektromiografią w stanie czuwania",
+   "B": "gdy na zdjęciu pantomograficznym widoczne są zmiany w obrębie stawów s-ż",
+   "C": "gdy pacjent zgłasza poranny ból okolicy skroniowej oraz uczucie zdrętwienia mięśni",
+   "D": "gdy w badaniu klinicznym stwierdza się patologiczne starcie zębów i hipertonię żwaczy",
+   "E": "gdy wywiad i ankieta wskazują na zgrzytanie zębami zauważane przez otoczenie pacjenta"
+  },
+  "correct": "A",
+  "explanation": "Sam wywiad, ankieta i badanie kliniczne pozwalają jedynie stwierdzić, że bruksizm jest „możliwy\" lub „prawdopodobny\"; rozpoznanie „definitywne\" wymaga uzupełnienia o polisomnografię w czasie snu i elektromiografię w stanie czuwania.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    346,
+    347
+   ]
+  }
+ },
+ {
+  "id": "mj-c145-003",
+  "question": "Co należy uwzględnić w pierwszej kolejności w zapobieganiu i leczeniu parafunkcji, w tym bruksizmu?",
+  "options": {
+   "A": "eliminowanie czynników psychogennych wraz z edukacją pacjenta co do istoty choroby",
+   "B": "nieodwracalne szlifowanie korekcyjne wszystkich powierzchni żujących zębów bocznych",
+   "C": "skierowanie każdego pacjenta na zabieg chirurgiczny w obrębie stawów s-ż",
+   "D": "natychmiastowe wykonanie stałych uzupełnień protetycznych obejmujących oba łuki",
+   "E": "przewlekłe stosowanie leków uspokajających przez okres co najmniej kilku miesięcy"
+  },
+  "correct": "A",
+  "explanation": "W zapobieganiu i leczeniu parafunkcji na pierwszym miejscu stawia się eliminowanie czynników psychogennych oraz edukację pacjenta prowadzoną już podczas pierwszej wizyty.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    346,
+    347
+   ]
+  }
+ },
+ {
+  "id": "mj-c146-001",
+  "question": "W którym położeniu żuchwy zaciskanie zębów - przy pełnych łukach zębowych - powoduje najmniejsze uszkodzenia struktur układu stomatognatycznego?",
+  "options": {
+   "A": "w położeniu protruzyjnym żuchwy",
+   "B": "w położeniu retruzyjnym żuchwy",
+   "C": "w laterotruzji po stronie pracującej",
+   "D": "w lateroprotruzji z kontaktem pojedynczych zębów",
+   "E": "w centralnym położeniu żuchwy"
+  },
+  "correct": "E",
+  "explanation": "Tekst podaje, że jeśli zaciskanie odbywa się w centralnym położeniu żuchwy przy pełnych łukach zębowych, uszkodzenia są najmniejsze; zaciskanie w położeniach pozacentralnych obciąża pojedyncze zęby dużym naciskiem i jest znacznie groźniejsze.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    348,
+    349
+   ]
+  },
+  "core": true
+ },
+ {
+  "id": "mj-c146-002",
+  "question": "Czym jest tzw. odruch rozciągania (stretch-reflex) w kontekście zaburzeń okluzyjnych?",
+  "options": {
+   "A": "trwałym wydłużeniem włókien mięśniowych po podwyższeniu wysokości zwarciowej",
+   "B": "wzmożonym wydzielaniem śliny w odpowiedzi na drażnienie receptorów przyzębia",
+   "C": "zahamowaniem czynności mięśni unoszących żuchwę przy nadmiernym rozwarciu szczęk",
+   "D": "skurczem rozciąganych mięśni wyzwalanym m.in. przez poślizgi w zwarciu przy przedwczesnych kontaktach",
+   "E": "odruchowym przemieszczeniem krążka stawowego ku tyłowi w czasie otwierania ust"
+  },
+  "correct": "D",
+  "explanation": "Odruch rozciągania to skurcz rozciąganych mięśni; wywołują go m.in. przedwczesne kontakty okluzyjne powodujące niewielkie poślizgi w zwarciu, co prowadzi do hiperfunkcji mięśniowej i destrukcyjnych przeciążeń.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    348,
+    349
+   ]
+  }
+ },
+ {
+  "id": "mj-c146-003",
+  "question": "Czym różnią się przyczepy końcowe górnej i dolnej głowy mięśnia skrzydłowego bocznego?",
+  "options": {
+   "A": "obie przyczepiają się do szyjki wyrostka stawowego żuchwy na różnej wysokości",
+   "B": "górna przyczepia się do krążka stawowego, a dolna do szyjki wyrostka stawowego żuchwy",
+   "C": "górna przyczepia się do guzka stawowego, a dolna do torebki stawowej od strony bocznej",
+   "D": "górna przyczepia się do szyjki wyrostka stawowego, a dolna do krążka stawowego",
+   "E": "obie przyczepiają się do krążka stawowego, różniąc się jedynie przyczepem początkowym"
+  },
+  "correct": "B",
+  "explanation": "Obie głowy rozpoczynają się w dole skrzydłowym, ale górna po przejściu przez torebkę przyczepia się do ruchomego krążka stawowego, a dolna do szyjki wyrostka stawowego żuchwy.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    348,
+    349
+   ]
+  }
+ },
+ {
+  "id": "mj-c147-001",
+  "question": "Jaka jest przyczyna zbaczania żuchwy podczas jej opuszczania?",
+  "options": {
+   "A": "zwiększenie szerokości szpary stawowej wskutek powiększenia obu krążków",
+   "B": "nadmierne przesunięcie obu głów stawowych poza szczyt guzka stawowego",
+   "C": "niezsynchronizowana praca obu stawów s-ż - żuchwa zbacza w stronę stawu z nieprawidłowym ruchem",
+   "D": "symetryczne osłabienie napięcia mięśni żwaczowych po obu stronach twarzy",
+   "E": "równomierne obustronne przemieszczenie krążków ku tyłowi w obu stawach s-ż"
+  },
+  "correct": "C",
+  "explanation": "Zbaczanie żuchwy wynika z niezsynchronizowanej pracy obu stawów s-ż: gdy ruch w jednym stawie nie odbywa się lub jest opóźniony, żuchwa zbacza w stronę stawu nieprawidłowego.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    350,
+    351
+   ]
+  }
+ },
+ {
+  "id": "mj-c147-002",
+  "type": "clinical",
+  "question": "Pacjentka zgłasza trzask w stawie s-ż podczas otwierania ust oraz drugi, odwrotny trzask w końcowej fazie zamykania; zakres ruchów żuchwy nie jest ograniczony. Jakie zaburzenie należy rozpoznać?",
+  "options": {
+   "A": "nadwichnięcie (subluksację) stawu skroniowo-żuchwowego",
+   "B": "doprzednie przemieszczenie krążka stawowego z repozycją",
+   "C": "doprzednie przemieszczenie krążka stawowego bez repozycji",
+   "D": "zmiany zwyrodnieniowe powierzchni stawowych głowy żuchwy",
+   "E": "spastyczny przykurcz mięśni przywodzących żuchwę"
+  },
+  "correct": "B",
+  "explanation": "Przy przemieszczeniu krążka z repozycją krążek wraca gwałtownie na głowę żuchwy, dając pierwszy trzask, a trzask odwrotny występuje w ostatniej fazie przywodzenia żuchwy, przy niegraniczonym zakresie ruchów.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    350,
+    351
+   ]
+  },
+  "core": true
+ },
+ {
+  "id": "mj-c147-003",
+  "question": "Jak rozpoznaje się nadwichnięcie (subluksację) stawu skroniowo-żuchwowego?",
+  "options": {
+   "A": "jako trwałe zablokowanie krążka uniemożliwiające pełne rozwarcie szczęk",
+   "B": "jako przemieszczenie krążka ku tyłowi przy maksymalnym zaguzkowaniu zębów",
+   "C": "jako zwężenie szpary stawowej z zanikiem ruchu ślizgowego głowy żuchwy",
+   "D": "jako nadmierną ruchomość głowy stawowej poza szczyt guzka wraz z bólem i trzaskami",
+   "E": "jako obustronny przykurcz mięśni przywodzących ograniczający otwieranie ust"
+  },
+  "correct": "D",
+  "explanation": "Zwiększenie amplitudy rozwierania szczęk wynika z przesunięcia głowy stawowej poza szczyt guzka stawowego; taka nadmierna ruchomość z towarzyszącym bólem i trzaskami rozpoznawana jest jako nadwichnięcie stawu.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    350,
+    351
+   ]
+  }
+ },
+ {
+  "id": "mj-c148-001",
+  "question": "Na czym polega przewaga tomografii wolumetrycznej (CBCT) nad klasyczną tomografią komputerową w obrazowaniu struktur kostnych stawów s-ż?",
+  "options": {
+   "A": "na większej rozdzielczości przestrzennej oraz niższej dawce promieniowania",
+   "B": "na bezpośrednim wzrokowym wglądzie w wewnętrzne struktury stawu",
+   "C": "na obserwacji ruchów w stawach s-ż w czasie rzeczywistym podczas badania",
+   "D": "na całkowitym braku artefaktów przy obecności uzupełnień protetycznych",
+   "E": "na możliwości szczegółowego uwidocznienia tkanek miękkich i krążka stawowego"
+  },
+  "correct": "A",
+  "explanation": "CBCT jest metodą z wyboru dla twardych struktur tkankowych, a jej wyższość nad TK polega na większej rozdzielczości przestrzennej (ocena na cienkich przekrojach) i niższej dawce promieniowania.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    352,
+    353
+   ]
+  },
+  "core": true
+ },
+ {
+  "id": "mj-c148-002",
+  "question": "Jak należy interpretować przemieszczenie krążka stawowego uwidocznione w badaniu rezonansu magnetycznego?",
+  "options": {
+   "A": "jako pewne potwierdzenie patologii stawu wymagające leczenia operacyjnego",
+   "B": "ostrożnie, gdyż w około 40% przypadków występuje bez żadnych objawów patologii stawów",
+   "C": "jako artefakt techniczny, ponieważ MR nie obrazuje tkanek miękkich stawu",
+   "D": "jako objaw występujący wyłącznie u pacjentów z bólową postacią dysfunkcji",
+   "E": "jako wskazanie do natychmiastowej nieodwracalnej przebudowy zwarcia"
+  },
+  "correct": "B",
+  "explanation": "Widoczne na zdjęciach MR przemieszczenia krążka niekoniecznie oznaczają stan patologiczny - stwierdzono je w ok. 40% przypadków bez jakichkolwiek objawów patologii stawów i dysfunkcji US.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    352,
+    353
+   ]
+  }
+ },
+ {
+  "id": "mj-c148-003",
+  "question": "Jaka jest - według badań M. Kleinrok - szerokość szpary stawowej przy centralnym położeniu głowy żuchwy w maksymalnym zaguzkowaniu?",
+  "options": {
+   "A": "4,0-5,0 mm",
+   "B": "0,3-0,5 mm",
+   "C": "2,5-3,0 mm",
+   "D": "6,0-7,0 mm",
+   "E": "1,0-1,5 mm"
+  },
+  "correct": "C",
+  "explanation": "W warunkach prawidłowych, gdy głowa żuchwy w płaszczyźnie strzałkowej znajduje się centralnie, szerokość szpary stawowej wynosi 2,5-3,0 mm; jej zwężenie świadczy o całkowitym przemieszczeniu krążka.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    352,
+    353
+   ]
+  }
+ },
+ {
+  "id": "mj-c149-001",
+  "question": "Które zasady postępowania terapeutycznego zaleca się w dysfunkcjach US wobec trudności w ustaleniu ich głównej przyczyny?",
+  "options": {
+   "A": "rozpocząć od leczenia chirurgicznego stawów s-ż niezależnie od nasilenia objawów",
+   "B": "rozpocząć od stałych uzupełnień protetycznych obejmujących oba łuki zębowe",
+   "C": "rozpocząć od eliminacji bólu i napięć mięśniowych, stosując najpierw metody odwracalne",
+   "D": "rozpocząć od nieodwracalnej przebudowy zwarcia, a dopiero potem leczyć ból",
+   "E": "rozpocząć od szlifowania korekcyjnego wszystkich zębów bocznych w jednej wizycie"
+  },
+  "correct": "C",
+  "explanation": "Zaleca się rozpoczęcie leczenia od eliminacji dolegliwości bólowych i napięć mięśniowych oraz stosowanie w pierwszej kolejności metod minimalnie inwazyjnych (odwracalnych), gdyż ból jest przeciwwskazaniem do procedur rekonstrukcyjnych.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    354,
+    355
+   ]
+  }
+ },
+ {
+  "id": "mj-c149-002",
+  "question": "Które cechy charakteryzują szynę Michigan?",
+  "options": {
+   "A": "płytka przylegająca do językowych powierzchni zębów dolnych i sięgająca dna jamy ustnej",
+   "B": "nakład na zęby przednie blokujący całkowicie ruchy żuchwy w płaszczyźnie poziomej",
+   "C": "grubość 1,0-2,0 mm, gładka powierzchnia okluzyjna i kontakt z guzkami policzkowymi zębów bocznych żuchwy",
+   "D": "grubość 4,0-5,0 mm, powierzchnia z głębokimi zagłębieniami wymuszająca protruzję żuchwy",
+   "E": "konstrukcja stała cementowana na zębach obu łuków w zwarciu konstrukcyjnym"
+  },
+  "correct": "C",
+  "explanation": "Szyna Michigan to najpopularniejsza szyna relaksacyjna o grubości ok. 1,0-2,0 mm, umieszczana zwykle na zębach szczęki, z gładką powierzchnią okluzyjną kontaktującą się tylko z guzkami policzkowymi zębów bocznych żuchwy.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    354,
+    355
+   ]
+  }
+ },
+ {
+  "id": "mj-c149-003",
+  "type": "clinical",
+  "question": "Pacjent z brakami zębowymi w odcinkach bocznych zgłasza się z silnymi bólami mięśni żwaczowych i ograniczeniem ruchomości żuchwy. Jakie postępowanie jest właściwe?",
+  "options": {
+   "A": "odstąpienie od jakiegokolwiek leczenia do czasu samoistnego ustąpienia dolegliwości bólowych",
+   "B": "natychmiastowe wykonanie docelowych uzupełnień stałych z podniesieniem wysokości zwarciowej",
+   "C": "jednoczasowe szlifowanie korekcyjne wszystkich zębów i cementowanie mostów w jednej wizycie",
+   "D": "zastosowanie szyny repozycyjnej wymuszającej nowe położenie żuchwy już przy utrzymującym się bólu",
+   "E": "leczenie etapowe - najpierw rehabilitacja z szyną relaksacyjną, po ustąpieniu bólu odbudowa protetyczna"
+  },
+  "correct": "E",
+  "explanation": "W przypadkach powikłanych (zmiany morfologiczne z objawami dysfunkcji) obowiązuje postępowanie etapowe: najpierw rehabilitacja z szynami relaksacyjnymi, a warunkiem przejścia do etapu rekonstrukcyjnego jest ustąpienie objawów bólowych; szyny repozycyjne są w bólowej postaci dysfunkcji przeciwwskazane.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    354,
+    355
+   ]
+  },
+  "core": true
+ },
+ {
+  "id": "mj-c150-001",
+  "question": "Na czym polega mechanizm relaksacyjnego działania płytki podjęzykowej według Włocha i Łakomskiego?",
+  "options": {
+   "A": "na stałym drażnieniu receptorów przyzębia zębów bocznych podczas zaciskania zębów",
+   "B": "na odruchowym przemieszczeniu języka ku górze i przodowi z rozluźnieniem mięśni żwaczowych",
+   "C": "na trwałym zablokowaniu doprzednich ruchów żuchwy dzięki sztywnemu nakładowi akrylowemu",
+   "D": "na mechanicznym rozklinowaniu powierzchni stawowych przez podniesienie wysokości zwarcia",
+   "E": "na wymuszeniu dotylnego położenia żuchwy z jednoczesnym uciskiem na krążki stawowe"
+  },
+  "correct": "B",
+  "explanation": "Płytka zmniejsza przestrzeń dla języka, co odruchowo przemieszcza go ku górze i do przodu; towarzyszy temu nieznaczne doprzednie przesunięcie żuchwy z rozluźnieniem mięśni żwaczowych i odciążeniem stawów s-ż.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    356,
+    357
+   ]
+  },
+  "core": true
+ },
+ {
+  "id": "mj-c150-002",
+  "question": "Na czym polega mechanizm działania toksyny botulinowej typu A stosowanej domięśniowo w bólowej postaci dysfunkcji US?",
+  "options": {
+   "A": "na przyspieszeniu krążenia tkankowego i pobudzeniu układu współczulnego",
+   "B": "na pobudzeniu wydzielania endorfin w ośrodkowym układzie nerwowym",
+   "C": "na trwałym przecięciu włókien ruchowych nerwu trójdzielnego w obrębie żwacza",
+   "D": "na czasowym zablokowaniu uwalniania acetylocholiny do szczeliny synaptycznej",
+   "E": "na miejscowym hamowaniu syntezy prostaglandyn w tkance mięśniowej"
+  },
+  "correct": "D",
+  "explanation": "Toksyna botulinowa typu A czasowo blokuje uwalnianie acetylocholiny do szczeliny synaptycznej, co obniża nadmierne napięcie mięśni, likwiduje przeciążenia stawów s-ż i znosi dolegliwości bólowe.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    356,
+    357
+   ]
+  }
+ },
+ {
+  "id": "mj-c150-003",
+  "question": "Która z wymienionych metod fizjoterapeutycznych polega na dotkankowej aplikacji leków przeciwbólowych i przeciwzapalnych?",
+  "options": {
+   "A": "laseroterapia",
+   "B": "sonoforeza",
+   "C": "kinezyterapia",
+   "D": "magnetoledoterapia",
+   "E": "terapia manualna"
+  },
+  "correct": "B",
+  "explanation": "W wykazie metod fizjoterapeutycznych sonoforeza służy do dotkankowej aplikacji leków przeciwbólowych i przeciwzapalnych, podczas gdy pozostałe wymienione metody działają przez ruch, światło, pole magnetyczne lub masaż.",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    356,
+    357
+   ]
+  }
+ },
+ {
+  "id": "mj-c151-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    358,
+    360
+   ]
+  },
+  "question": "Które obciążenie zęba filarowego jest najkorzystniejsze z punktu widzenia profilaktyki periodontologicznej w protetyce?",
+  "options": {
+   "A": "siła przyłożona na brzegu powierzchni żującej, poza centrum zęba",
+   "B": "siła przyłożona do brzegu siecznego pod kątem do płaszczyzny zwarcia",
+   "C": "siła przyłożona prostopadle do długiej osi zęba, czyli obciążenie boczne",
+   "D": "siła przyłożona w centrum powierzchni żującej, biegnąca wzdłuż długiej osi zęba",
+   "E": "siła przenoszona wyłącznie przez miejsca styczne zębów sąsiadujących"
+  },
+  "correct": "D",
+  "explanation": "Układ włókien ozębnej sprawia, że najlepiej odbierane są obciążenia pionowe, zgodne z długą osią zęba - siły nacisku rozkładają się wtedy równomiernie na cały aparat zawieszeniowy.",
+  "core": true
+ },
+ {
+  "id": "mj-c151-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    358,
+    360
+   ]
+  },
+  "question": "Co dzieje się z aparatem zawieszeniowym zęba podczas działania sił obciążenia bocznego?",
+  "options": {
+   "A": "wszystkie włókna ozębnej są napinane równomiernie na całym obwodzie korzenia",
+   "B": "część włókien ozębnej ulega nadmiernemu rozciąganiu, a pozostałe zgniatającemu uciskowi",
+   "C": "nacisk rozkłada się równomiernie na cały aparat zawieszeniowy zęba",
+   "D": "włókna ozębnej ulegają wyłącznie uciskowi, bez elementów rozciągania",
+   "E": "obciążenie przejmuje w całości blaszka zbita zębodołu, omijając ozębną"
+  },
+  "correct": "B",
+  "explanation": "Przy obciążeniach bocznych część włókien ozębnej jest nadmiernie rozciągana, a pozostałe podlegają zgniatającemu uciskowi, co prowadzi do rozchwiania i ubytku kości wyrostka zębodołowego."
+ },
+ {
+  "id": "mj-c151-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    358,
+    360
+   ]
+  },
+  "question": "Na czym polega tzw. pozorne zamykanie luki po utracie zębów przy zaniechaniu leczenia protetycznego?",
+  "options": {
+   "A": "zęby przeciwstawne ulegają starciu, przez co wysokość zwarciowa wraca do normy",
+   "B": "błona śluzowa wyrostka zębodołowego przerasta i wypełnia przestrzeń po utraconym zębie",
+   "C": "zęby sąsiadujące z brakiem przesuwają się i nachylają w kierunku luki, tracąc podparcie boczne",
+   "D": "wyrostek zębodołowy odbudowuje się i stopniowo wypełnia zębodół kością zbitą",
+   "E": "brodawki międzyzębowe ulegają rozrostowi i odtwarzają utracone miejsca styczne"
+  },
+  "correct": "C",
+  "explanation": "Zęby sąsiadujące z brakiem przesuwają się i nachylają w kierunku luki, przez co tracą podparcie boczne w dotychczasowych miejscach stycznych, a zęby pozbawione antagonistów przemieszczają się pionowo."
+ },
+ {
+  "id": "mj-c152-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    361,
+    362
+   ]
+  },
+  "question": "Jaka powinna być minimalna odległość brzegu płyty protezy ruchomej od szyjek zębów naturalnych?",
+  "options": {
+   "A": "ok. 1 mm",
+   "B": "ok. 10 mm",
+   "C": "ok. 3 mm",
+   "D": "ok. 20 mm",
+   "E": "ok. 5 mm"
+  },
+  "correct": "B",
+  "explanation": "Brzeg płyty należy odsunąć od szyjek zębów na odległość nie mniejszą niż ok. 10 mm; mniejsze oddalenie doprowadza do zapalnych przerostów dziąsła, a brak oddalenia do recesji i rozchwiania zębów."
+ },
+ {
+  "id": "mj-c152-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    361,
+    362
+   ]
+  },
+  "question": "Dlaczego ważną zasadą szynowania jest obejmowanie aparatem zarówno zębów przednich, jak i bocznych?",
+  "options": {
+   "A": "ponieważ tylko zęby przednie przenoszą siły żucia, a boczne pełnią funkcję estetyczną",
+   "B": "ponieważ szynowanie krótkich odcinków łuku daje silniejszy efekt unieruchamiający zębów",
+   "C": "ponieważ zęby przednie i boczne mają identyczny kierunek ruchomości, co ułatwia ich blokowanie",
+   "D": "ponieważ zęby boczne mają przednio-tylny, a zęby przednie boczny kierunek ruchomości",
+   "E": "ponieważ kły i siekacze mają przednio-tylny, a zęby trzonowe i przedtrzonowe boczny kierunek ruchomości"
+  },
+  "correct": "E",
+  "explanation": "Kły i siekacze wykazują ruchomość w kierunku przednio-tylnym, a zęby trzonowe i przedtrzonowe w kierunku bocznym, dlatego szyna obejmująca oba odcinki tworzy z zębami zrównoważony blok funkcjonalny."
+ },
+ {
+  "id": "mj-c152-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    361,
+    362
+   ]
+  },
+  "type": "combined",
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące rozmieszczenia elementów podpierających protezy ruchomej:\n1. Podparcia lokalizuje się na powierzchniach poziomych zębów, aby pionowo ukierunkować siły zgryzowe.\n2. Podparcia powinny być połączone z trzonem protezy w sposób sprężysty i ruchomy.\n3. Należy stosować możliwie dużą liczbę podparć równomiernie rozłożonych w łuku zębowym.\n4. W zaawansowanym procesie chorobowym przyzębia wskazana jest rozległa płyta protezy.",
+  "options": {
+   "A": "tylko 1 i 2",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 1, 3 i 4",
+   "D": "tylko 3 i 4",
+   "E": "tylko 2 i 3"
+  },
+  "correct": "C",
+  "explanation": "Zasady obejmują dużą liczbę równomiernie rozłożonych podparć na powierzchniach poziomych oraz rozległą płytę w zaawansowanej periodontopatii; połączenie podparć z trzonem protezy musi być sztywne, a nie sprężyste.",
+  "core": true
+ },
+ {
+  "id": "mj-c153-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    363,
+    364
+   ]
+  },
+  "type": "clinical",
+  "question": "Pacjent z rozpoznanym zapaleniem przyzębia ma obniżoną wysokość zwarciową o ok. 3 mm oraz czynnościowe przemieszczenie żuchwy. Jakie postępowanie protetyczne jest właściwe?",
+  "options": {
+   "A": "jednoetapowe osadzenie docelowych mostów ceramicznych na zębach filarowych",
+   "B": "ograniczenie leczenia do wybiórczego szlifowania guzków zębów przeciwstawnych",
+   "C": "postępowanie etapowe z zastosowaniem w pierwszym etapie szynoprotez nakładowych",
+   "D": "wykonanie płytowej protezy osiadającej bez podparć ozębnowych na zębach własnych",
+   "E": "natychmiastowa ekstrakcja zębów rozchwianych i wykonanie protez całkowitych"
+  },
+  "correct": "C",
+  "explanation": "Przy obniżeniu wysokości zwarciowej powyżej 2,0 mm z przemieszczeniem żuchwy właściwe jest postępowanie etapowe: pierwszy etap - szynoprotezy nakładowe przemieszczające żuchwę do zwarcia konstrukcyjnego, drugi - uzupełnienia docelowe.",
+  "core": true
+ },
+ {
+  "id": "mj-c153-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    363,
+    364
+   ]
+  },
+  "question": "Gdzie należy lokalizować podparcia ozębnowe protezy ruchomej na zębach przednich?",
+  "options": {
+   "A": "na skośnej powierzchni podniebiennej tuż przy brzegu dziąsłowego przyczepu",
+   "B": "w wypreparowanym łożysku w warstwie szkliwa powierzchni językowej, ponad guzkiem zębowym",
+   "C": "na powierzchni przedsionkowej, w okolicy największej wypukłości korony",
+   "D": "centralnie na powierzchni żującej, tak jak w przypadku zębów bocznych",
+   "E": "w przestrzeni międzyzębowej, na wysokości brodawki międzyzębowej"
+  },
+  "correct": "B",
+  "explanation": "Ze względów anatomicznych podparcia na powierzchniach skośnych zębów przednich powodują osiadanie protezy i rozchwianie zębów, dlatego preparuje się łożysko w szkliwie powierzchni językowej ponad guzkiem zębowym."
+ },
+ {
+  "id": "mj-c153-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    363,
+    364
+   ]
+  },
+  "question": "Czym jest tzw. szerokość biologiczna (biological width) i jaki jest jej przeciętny wymiar?",
+  "options": {
+   "A": "odległość brzegu korony protetycznej od brzegu dziąsła wolnego, ok. 0,5 mm",
+   "B": "głębokość szczeliny dziąsłowej mierzona zgłębnikiem periodontologicznym, ok. 2,0 mm",
+   "C": "wymiar tkanek miękkich łączących kość z tkankami zęba, czyli przyczep nabłonkowy i łącznotkankowy, ok. 2,0 mm",
+   "D": "grubość blaszki zbitej wyrostka zębodołowego od strony przedsionkowej, ok. 2,0 mm",
+   "E": "szerokość pasma dziąsła zrogowaciałego przylegającego do zęba filarowego, ok. 3,0 mm"
+  },
+  "correct": "C",
+  "explanation": "Szerokość biologiczna to wymiar tkanek miękkich w obrębie brzegu wyrostka łączących kość z tkankami zęba, tj. przyczep nabłonkowy i łącznotkankowy, o przeciętnym wymiarze ok. 2,0 mm."
+ },
+ {
+  "id": "mj-c154-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    365,
+    366
+   ]
+  },
+  "question": "Jakie ukształtowanie przęsła mostu jest najkorzystniejsze ze względów higienicznych i gdzie może być stosowane?",
+  "options": {
+   "A": "przęsło o poszerzonym wymiarze poprzecznym - w bocznych odcinkach szczęki",
+   "B": "przęsło oddalone od szczytu wyrostka, umożliwiające przepływ śliny - tylko w bocznych odcinkach żuchwy",
+   "C": "przęsło szerokie, płaszczyznowo przylegające do błony śluzowej - w całym łuku zębowym",
+   "D": "przęsło zagłębione w błonę śluzową wyrostka - zwłaszcza w odcinku przednim szczęki",
+   "E": "przęsło oddalone od wyrostka - wyłącznie w przednim odcinku szczęki i żuchwy"
+  },
+  "correct": "B",
+  "explanation": "Najkorzystniejsze higienicznie są przęsła oddalone od szczytu wyrostka, pozwalające na swobodny przepływ śliny, jednak z powodu wymogów estetyki i fonetyki ich zastosowanie ogranicza się do bocznych odcinków żuchwy.",
+  "core": true
+ },
+ {
+  "id": "mj-c154-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    365,
+    366
+   ]
+  },
+  "question": "Które materiały stosowane do wykonywania protez stałych działają najmniej drażniąco na błonę śluzową?",
+  "options": {
+   "A": "niepolerowane stopy chromowo-kobaltowe i akryl",
+   "B": "nieszlachetne stopy lutowane oraz kompozyty",
+   "C": "tworzywa akrylanowe i cementy tymczasowe",
+   "D": "glazurowana porcelana i stopy złota",
+   "E": "stopy chromowo-niklowe i materiały złożone"
+  },
+  "correct": "D",
+  "explanation": "Spośród materiałów do protez stałych najmniej drażniąco na błonę śluzową działają glazurowana porcelana i stopy złota; niedostateczna gładkość każdej powierzchni sprzyja zapaleniom przyzębia."
+ },
+ {
+  "id": "mj-c154-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    365,
+    366
+   ]
+  },
+  "question": "W mostach i koronach licowanych tworzywami sztucznymi kontakt z błoną śluzową powinien obejmować:",
+  "options": {
+   "A": "tylko metalowe części przęsła, bez przylegania tworzywa i miejsc jego łączenia z metalem",
+   "B": "przede wszystkim miejsca łączenia metalu z tworzywem, jako najgładsze",
+   "C": "całą płaszczyznę przęsła, aby maksymalnie rozłożyć nacisk na błonę śluzową",
+   "D": "równomiernie zarówno tworzywo, jak i metal na całej dośluzowej powierzchni",
+   "E": "wyłącznie warstwę tworzywa sztucznego, bez kontaktu odsłoniętego metalu"
+  },
+  "correct": "A",
+  "explanation": "W uzupełnieniach licowanych tworzywami sztucznymi z błoną śluzową powinny kontaktować się tylko części metalowe przęsła; zastrzeżenie to nie dotyczy mostów licowanych napalaną porcelaną ani koron porcelanowych."
+ },
+ {
+  "id": "mj-c155-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    367,
+    368
+   ]
+  },
+  "question": "Jakie są następstwa nawet nieznacznego podwyższenia guzków na powierzchni żującej korony protetycznej?",
+  "options": {
+   "A": "trwałe obniżenie wysokości zwarciowej i przemieszczenie żuchwy dotylnie",
+   "B": "zanik brodawek międzyzębowych przy zębach sąsiadujących z koroną protetyczną",
+   "C": "przyspieszone starcie fizjologiczne zębów przeciwstawnych bez objawów klinicznych",
+   "D": "skupienie siły żucia na tym zębie, jego przeciążenie i uraz ozębnej z tkliwością opukową",
+   "E": "równomierne rozłożenie sił żucia na cały łuk zębowy i wzmocnienie ozębnej filaru"
+  },
+  "correct": "D",
+  "explanation": "Podwyższone guzki skupiają siłę żucia na zębie pokrytym koroną, powodując jego przeciążenie i uraz ozębnej; wkrótce po osadzeniu pojawia się tkliwość opukowa, ból przy kontakcie zębów i rozchwianie filaru.",
+  "core": true
+ },
+ {
+  "id": "mj-c155-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    367,
+    368
+   ]
+  },
+  "question": "Jaki typ prowadzenia podczas ruchów okluzyjnych autor preferuje w przypadkach zapaleń przyzębia?",
+  "options": {
+   "A": "prowadzenie wyłącznie sieczne, oparte na siekaczach przyśrodkowych",
+   "B": "prowadzenie grupowe, obejmujące kły i zęby przedtrzonowe",
+   "C": "prowadzenie na zębach trzonowych po stronie balansującej",
+   "D": "brak prowadzenia zębowego, ze stałym kontaktem tylko w zwarciu centralnym",
+   "E": "prowadzenie wyłącznie kłowe, z rozwarciem pozostałych zębów"
+  },
+  "correct": "B",
+  "explanation": "W zapaleniach przyzębia autor preferuje takie kształtowanie powierzchni żujących, które podczas ruchów okluzyjnych zapewnia prowadzenie grupowe, tj. w zakresie zarówno kłów, jak i zębów przedtrzonowych."
+ },
+ {
+  "id": "mj-c155-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    367,
+    368
+   ]
+  },
+  "question": "Jak ze względów higienicznych należy ukształtować dośluzowe powierzchnie i przestrzenie międzyzębowe przęsła mostu?",
+  "options": {
+   "A": "powierzchnie dośluzowe płaskie, a przestrzenie międzyzębowe wypełnione tworzywem",
+   "B": "powierzchnie dośluzowe wypukłe, a przestrzenie międzyzębowe szczelnie zablokowane",
+   "C": "powierzchnie dośluzowe wklęsłe, a przestrzenie międzyzębowe otwarte tylko od podniebienia",
+   "D": "powierzchnie dośluzowe wypukłe, a przestrzenie międzyzębowe wyraźnie otwarte",
+   "E": "powierzchnie dośluzowe wklęsłe, a przestrzenie międzyzębowe całkowicie zamknięte"
+  },
+  "correct": "D",
+  "explanation": "Ze względów higienicznych dośluzowe powierzchnie przęsła powinny być wypukłe, co ułatwia ich oczyszczanie, a przestrzenie międzyzębowe wyraźnie otwarte - wyjątkiem jest odcinek przedni szczęki, gdzie decydują wymogi estetyki i fonetyki."
+ },
+ {
+  "id": "mj-c156-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    369,
+    372
+   ]
+  },
+  "question": "Jaka hierarchia obowiązuje w merytorycznej współpracy zespołu lekarsko-technicznego?",
+  "options": {
+   "A": "wymagania kliniczne są podporządkowane wymaganiom techniczno-laboratoryjnym pracowni",
+   "B": "technik odpowiada wobec pacjenta za jakość protezy, a lekarz jedynie za zabiegi kliniczne",
+   "C": "lekarz odpowiada wobec pacjenta za przebieg i wynik leczenia, a technik za swoją pracę wobec lekarza",
+   "D": "za projekt konstrukcji protezy odpowiada technik, a za dobór materiału pracownia",
+   "E": "lekarz i technik odpowiadają wobec pacjenta w równym, podzielonym po połowie zakresie"
+  },
+  "correct": "C",
+  "explanation": "Lekarz jest zawsze odpowiedzialny wobec pacjenta za przebieg i wynik leczenia, a technik za swoją pracę wobec lekarza; wymagania techniczno-laboratoryjne są podporządkowane wymaganiom klinicznym.",
+  "core": true
+ },
+ {
+  "id": "mj-c156-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    369,
+    372
+   ]
+  },
+  "question": "Która forma przekazywania danych klinicznych do pracowni techniki dentystycznej jest oceniana jako najgorsza i nie powinna być praktykowana?",
+  "options": {
+   "A": "przesłanie samych wycisków wraz z ogólną nazwą oczekiwanej protezy",
+   "B": "pisemne zlecenie omówione dodatkowo w bezpośredniej rozmowie z technikiem",
+   "C": "karta zlecenia z instrukcją doboru metody i materiału podpisana przez lekarza",
+   "D": "karta zlecenia z diagramem i projektem konstrukcji uzupełnienia",
+   "E": "karta zlecenia uzupełniona rysunkiem projektu sporządzonym na modelach"
+  },
+  "correct": "A",
+  "explanation": "Najgorszą formą, która nie powinna być praktykowana, jest przesyłanie do pracowni samych wycisków i ogólnej nazwy protezy - jest to częstą przyczyną nieporozumień i pretensji wobec technika."
+ },
+ {
+  "id": "mj-c156-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    369,
+    372
+   ]
+  },
+  "question": "Dlaczego nie jest możliwe zaprojektowanie uzupełnienia protetycznego wyłącznie na podstawie modelu gipsowego?",
+  "options": {
+   "A": "przepisy nakazują, aby projekt konstrukcji sporządzał technik, a nie lekarz prowadzący",
+   "B": "na modelu nie da się określić liczby ani rozmieszczenia zachowanych zębów pacjenta",
+   "C": "model gipsowy zawsze odwzorowuje pole protetyczne w skali pomniejszonej wskutek skurczu masy",
+   "D": "na modelu wszystkie zęby są mocno osadzone, a podłoże jednakowo twarde, co nie odpowiada warunkom w jamie ustnej",
+   "E": "model nie pozwala na przeprowadzenie analizy paralelometrycznej pola protetycznego"
+  },
+  "correct": "D",
+  "explanation": "Na modelu wszystkie zęby są mocno osadzone, a podłoże jednakowo twarde, podczas gdy w jamie ustnej podatność podłoża oraz stan zębów i przyzębia są różne, co decyduje o wyborze konstrukcji protezy."
+ },
+ {
+  "id": "mj-c157-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    373,
+    374
+   ]
+  },
+  "question": "Do czego służy paralelometr (planownica stomatologiczna) w pracowni techniki dentystycznej?",
+  "options": {
+   "A": "do analizy paralelometrycznej pola protetycznego na modelach w celu zaprojektowania uzupełnienia",
+   "B": "do zestawiania modeli w zarejestrowanym w ustach położeniu zwarciowym",
+   "C": "do automatycznego prowadzenia procesu polimeryzacji cieplnej tworzywa akrylowego",
+   "D": "do usuwania wosku z form gipsowych za pomocą strumienia gorącej wody",
+   "E": "do obcinania i wyrównywania obrzeży modeli gipsowych tarczą ścierną"
+  },
+  "correct": "A",
+  "explanation": "Paralelometr (równoległościomierz) służy do przeprowadzenia analizy paralelometrycznej pola protetycznego na modelach, w celu najwłaściwszego zaprojektowania uzupełnień protetycznych.",
+  "core": true
+ },
+ {
+  "id": "mj-c157-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    373,
+    374
+   ]
+  },
+  "question": "Jaką funkcję pełnią artykulatory w pracowni podstawowej techniki dentystycznej?",
+  "options": {
+   "A": "zestawiają modele w zarejestrowanym położeniu zwarciowym i schematycznie odtwarzają ruchy żuchwy",
+   "B": "rejestrują bezpośrednio w jamie ustnej tor wprowadzenia protezy szkieletowej",
+   "C": "wyznaczają na modelu linię największych wypukłości zębów filarowych dla klamer",
+   "D": "utrwalają kształt modelu przez próżniowe mieszanie gipsu i mas osłaniających",
+   "E": "polerują elektrolitycznie powierzchnie odlanych szkieletów protez ruchomych"
+  },
+  "correct": "A",
+  "explanation": "Artykulatory służą do zestawiania modeli w zarejestrowanym w ustach położeniu zwarciowym i umożliwiają schematyczne odtwarzanie ruchów żuchwy."
+ },
+ {
+  "id": "mj-c157-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    373,
+    374
+   ]
+  },
+  "question": "Do czego w pracowni polimeryzacji służy aparat do wyparzania?",
+  "options": {
+   "A": "do odprowadzania pary wodnej z digestorium w trakcie polimeryzacji cieplnej",
+   "B": "do nawilżania tarczy ściernej podczas obcinania modeli gipsowych",
+   "C": "do usuwania wosku z form gipsowych za pomocą strumienia gorącej wody",
+   "D": "do wygrzewania form odlewniczych z masy ogniotrwałej przed odlaniem stopu",
+   "E": "do sterylizacji parowej gotowych protez akrylowych przed oddaniem lekarzowi"
+  },
+  "correct": "C",
+  "explanation": "W pracowni polimeryzacji znajduje się aparat do wyparzania, służący do usuwania wosku z form gipsowych za pomocą strumienia gorącej wody."
+ },
+ {
+  "id": "mj-c158-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    375,
+    379
+   ]
+  },
+  "question": "Na czym polega działanie piaskarki w pracowni odlewnictwa techniki dentystycznej?",
+  "options": {
+   "A": "ziarna materiału wydostające się pod dużym ciśnieniem przez dyszę oczyszczają powierzchnię odlewu z masy ogniotrwałej",
+   "B": "pole elektromagnetyczne rozgrzewa całą objętość stopu umieszczonego w ognioodpornym tyglu",
+   "C": "wirująca tarcza ścierna z nawilżaniem wodnym wyrównuje obrzeża odlanego szkieletu protezy",
+   "D": "odlew zanurzony w elektrolicie zostaje oczyszczony przez rozpuszczenie drobnych wyniosłości powierzchni",
+   "E": "strumień gorącej wody wypłukuje resztki wosku modelowego z wnętrza formy odlewniczej"
+  },
+  "correct": "A",
+  "explanation": "Piaskarka oczyszcza odlewy z masy ogniotrwałej: ziarenka materiału (np. piasku kwarcowego) wydostają się pod dużym ciśnieniem przez wąską dyszę, a powietrze doprowadzane jest ze sprężarki pod ciśnieniem 8-10 atmosfer.",
+  "core": true
+ },
+ {
+  "id": "mj-c158-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    375,
+    379
+   ]
+  },
+  "question": "Na czym polega polerowanie elektrolityczne odlewów protetycznych?",
+  "options": {
+   "A": "na wytrącaniu na powierzchni odlewu warstwy homogennego złota o czystości 99,99%",
+   "B": "na obtapianiu powierzchni odlewu łukiem świetlnym w osłonie gazu szlachetnego",
+   "C": "na wypalaniu warstwy tlenków metalu w piecu próżniowym przy obniżonym ciśnieniu",
+   "D": "na rozpuszczeniu drobnych wyniosłości powierzchni odlewu zanurzonego w elektrolicie i podłączonego anodowo do źródła prądu",
+   "E": "na mechanicznym ścieraniu powierzchni odlewu filcowymi tarczami z pastą polerską w polerce"
+  },
+  "correct": "D",
+  "explanation": "Polerowanie elektrolityczne polega na rozpuszczeniu drobnych wyniosłości powierzchni odlewu po jego zanurzeniu w odpowiednim elektrolicie i anodowym podłączeniu do źródła prądu."
+ },
+ {
+  "id": "mj-c158-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    375,
+    379
+   ]
+  },
+  "question": "Automaty odlewnicze z piecem indukcyjnym (np. Castomat, Fornax) umożliwiają topienie:",
+  "options": {
+   "A": "każdego stopu dentystycznego łącznie z tytanem, bez dodatkowej aparatury",
+   "B": "wyłącznie stopów nieszlachetnych chromowo-kobaltowych i chromowo-niklowych",
+   "C": "wyłącznie stopów szlachetnych średniotopliwych, bez stopów nieszlachetnych",
+   "D": "każdego rodzaju stopu dentystycznego z wyjątkiem tytanu, który wymaga specjalnego urządzenia",
+   "E": "wyłącznie stopów wysokotopliwych oraz tytanu, bez stopów szlachetnych"
+  },
+  "correct": "D",
+  "explanation": "Piece indukcyjne zastosowane w urządzeniach typu Castomat czy Fornax są automatami do topienia każdego rodzaju stopu dentystycznego - szlachetnego i nieszlachetnego, średnio- i wysokotopliwego - z wyjątkiem tytanu."
+ },
+ {
+  "id": "mj-c159-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    380,
+    381
+   ]
+  },
+  "question": "Co charakteryzuje technologię ceramiki infiltrowanej, której przedstawicielem jest system In Ceram?",
+  "options": {
+   "A": "ceramikę szklaną wzmacnianą kryształami leucytu tłoczy się pod ciśnieniem do formy ogniotrwałej",
+   "B": "podbudowę z tlenku glinu spieka się (synteryzacja), a jej porowatą strukturę infiltruje płynnym szkłem w temp. 1100°C",
+   "C": "wielokrystaliczny materiał szklano-ceramiczny odlewa się z półfabrykatów w urządzeniu z piecem do ceramizacji",
+   "D": "warstwę złota wytrąca się elektrolitycznie na modelu, a następnie licuje ceramiką",
+   "E": "bloczek ceramiczny frezuje się z pełnego spieku bez jakiegokolwiek dalszego wypalania"
+  },
+  "correct": "B",
+  "explanation": "W systemie In Ceram podbudowę wykonuje się z tlenku glinu zagęszczanego dwustopniowym wypalaniem (synteryzacją), a porowatą strukturę aluminy infiltruje się płynnym szkłem w temp. 1100°C, po czym licuje porcelaną.",
+  "core": true
+ },
+ {
+  "id": "mj-c159-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    380,
+    381
+   ]
+  },
+  "question": "Klasycznym przedstawicielem technologii ceramiki tłoczonej (prasowanej) jest:",
+  "options": {
+   "A": "In Ceram - ceramika infiltrowana płynnym szkłem",
+   "B": "Dicor Glass - ceramika odlewana wychodząca już z użycia",
+   "C": "IPS Empress - ceramika szklana wzmacniana kryształami leucytu",
+   "D": "Cerec 3D - system wycisku wirtualnego dla gabinetu",
+   "E": "Procera - system komputerowego frezowania podbudów"
+  },
+  "correct": "C",
+  "explanation": "Klasycznym przedstawicielem ceramiki tłoczonej (prasowanej) jest ceramika szklana wzmacniana kryształami leucytu o nazwie IPS Empress, której najnowszą odmianą jest system E-max."
+ },
+ {
+  "id": "mj-c159-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    380,
+    381
+   ]
+  },
+  "question": "Które właściwości tytanu sprawiają, że nie może być on przetwarzany według zwykłych procedur odlewnictwa dentystycznego?",
+  "options": {
+   "A": "duża rozszerzalność termiczna i skłonność do tworzenia jam skurczowych w odlewie",
+   "B": "wysoki ciężar właściwy, niska temperatura topnienia i całkowita obojętność chemiczna",
+   "C": "niska biozgodność tkankowa oraz silne właściwości alergizujące w jamie ustnej",
+   "D": "niski ciężar właściwy, wysoka temperatura topnienia (1688°C) i duże powinowactwo do tlenu",
+   "E": "wysoka temperatura topnienia połączona z brakiem powinowactwa do gazów"
+  },
+  "correct": "D",
+  "explanation": "Tytan ma niski ciężar właściwy (4,5 g/cm3), wysoką temperaturę topnienia (1688°C) i duże powinowactwo do tlenu, azotu, węgla, wodoru i krzemu, zwłaszcza w wyższych temperaturach, dlatego wymaga specjalnych technologii."
+ },
+ {
+  "id": "mj-c160-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    382,
+    383
+   ]
+  },
+  "question": "Na czym polega technologia galwanoformingu w technice dentystycznej?",
+  "options": {
+   "A": "na tłoczeniu pod ciśnieniem ceramiki szklanej wzmacnianej kryształami leucytu",
+   "B": "na spiekaniu tlenku glinu i późniejszej infiltracji porowatej struktury szkłem",
+   "C": "na elektrolitycznym wytrąceniu na modelu cienkiej warstwy homogennego złota stanowiącej podbudowę uzupełnienia",
+   "D": "na frezowaniu podbudowy z tytanowego półfabrykatu sterowanym komputerowo",
+   "E": "na odlewaniu stopu złota w wirówce napędzanej sprężyną w aparacie Degussa"
+  },
+  "correct": "C",
+  "explanation": "Galwanoforming polega na elektrolitycznym uzyskiwaniu samonośnej struktury na powierzchni modelu będącego katodą, gdzie wytrąca się homogenne złoto o czystości 99,99%, tworząc cienkościenną (0,2 mm) podbudowę.",
+  "core": true
+ },
+ {
+  "id": "mj-c160-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    382,
+    383
+   ]
+  },
+  "question": "Dlaczego metody galwanoformingu nie poleca się w wykonawstwie mostów protetycznych?",
+  "options": {
+   "A": "ze względu na złą szczelność brzeżną, gorszą niż w tradycyjnej metodzie lanej",
+   "B": "ze względu na powstawanie tlenków metali uwalniających jony do tkanek miękkich",
+   "C": "ze względu na obecność jam skurczowych i zanieczyszczeń w strukturze wewnętrznej",
+   "D": "ze względów ekonomicznych i trudności w uzyskaniu trwałego połączenia koron z przęsłem",
+   "E": "ze względu na wysokie ryzyko reakcji alergicznych na uzyskane tą metodą złoto"
+  },
+  "correct": "D",
+  "explanation": "Metody galwanicznej nie poleca się do mostów ze względów ekonomicznych oraz z powodu trudności w uzyskaniu trwałego połączenia koron z przęsłem (laser, klej ceramiczny)."
+ },
+ {
+  "id": "mj-c160-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    382,
+    383
+   ]
+  },
+  "question": "Jakie obroty stosuje się podczas frezowania protetycznego modelu woskowego, a jakie podczas frezowania metalu?",
+  "options": {
+   "A": "ok. 20 000 obr./min dla wosku i ok. 5000 obr./min dla metalu",
+   "B": "ok. 5000 obr./min dla wosku i ok. 20 000 obr./min dla metalu",
+   "C": "ok. 5000 obr./min zarówno dla wosku, jak i dla metalu",
+   "D": "ok. 40 000 obr./min dla wosku i ok. 20 000 obr./min dla metalu",
+   "E": "ok. 1000 obr./min dla wosku i ok. 40 000 obr./min dla metalu"
+  },
+  "correct": "B",
+  "explanation": "Podczas opracowywania modelu woskowego stosuje się ok. 5000 obr./min, a podczas frezowania metalu ok. 20 000 obr./min; mikrosilnik frezarki pozwala osiągnąć do 40 000 obr./min."
+ },
+ {
+  "id": "mj-c161-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    384,
+    385
+   ]
+  },
+  "question": "Zgodnie z przyjętym w podręczniku podziałem materiałów protetycznych, materiały pomocnicze to takie, które:",
+  "options": {
+   "A": "wchodzą w skład protez, ale nie mają kontaktu z błoną śluzową pola protetycznego",
+   "B": "stanowią właściwy budulec protez i muszą być biologicznie obojętne dla organizmu",
+   "C": "służą wyłącznie do licowania metalowych podbudów protez stałych i wkładów",
+   "D": "są używane w procesie wykonawczym protez, lecz nie wchodzą w skład gotowego uzupełnienia",
+   "E": "są stosowane wyłącznie przez lekarza podczas zabiegów klinicznych w jamie ustnej"
+  },
+  "correct": "D",
+  "explanation": "Materiały pomocnicze są używane w technologicznym procesie wykonywania uzupełnień, ale nie wchodzą w skład gotowych protez; budulcem protez są materiały podstawowe, od których wymaga się biozgodności.",
+  "core": true
+ },
+ {
+  "id": "mj-c161-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    384,
+    385
+   ]
+  },
+  "question": "Rozszerzalność higroskopijna masy osłaniającej jest pobudzana przez:",
+  "options": {
+   "A": "wyścielenie pierścienia odlewniczego zwilżoną wkładką z wstęgi włókninowej",
+   "B": "przekroczenie temperatury 573°C, w której zmienia się struktura krystaliczna kwarcu",
+   "C": "podgrzanie pierścienia z masą do temperatury 450°C w piecu przez około 30 minut",
+   "D": "samorzutne zestalanie masy osłaniającej bezpośrednio po jej zarobieniu wodą",
+   "E": "zanurzenie pierścienia z masą w wodzie o temperaturze około 38°C na około 30 minut"
+  },
+  "correct": "E",
+  "explanation": "Rozszerzalność higroskopijna powstaje po zanurzeniu pierścienia odlewniczego wypełnionego masą osłaniającą w wodzie o temperaturze około 38°C na około 30 minut."
+ },
+ {
+  "id": "mj-c161-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    384,
+    385
+   ]
+  },
+  "question": "Do jakiej temperatury należy podgrzać pierścień odlewniczy wypełniony masą osłaniającą zawierającą kwarc, aby w momencie odlewu uzyskać właściwą rozszerzalność inwersyjną?",
+  "options": {
+   "A": "do 450-500°C",
+   "B": "do 700-750°C",
+   "C": "do 1400-1800°C",
+   "D": "do 350-400°C",
+   "E": "do 150-200°C"
+  },
+  "correct": "B",
+  "explanation": "Masa z kwarcem w momencie odlewu musi mieć temperaturę powyżej 650°C, dlatego pierścień podgrzewa się do 700-750°C; masy na bazie krystobalitu wymagają tylko około 450-500°C."
+ },
+ {
+  "id": "mj-c162-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    386,
+    387
+   ]
+  },
+  "question": "Głównym składnikiem wosku odlewowego, nadającym mu twardość i podnoszącym temperaturę topnienia do 85°C, jest:",
+  "options": {
+   "A": "parafina",
+   "B": "wosk Karnauba",
+   "C": "wosk pszczeli",
+   "D": "olbrot",
+   "E": "ozokeryt"
+  },
+  "correct": "B",
+  "explanation": "W wosku odlewowym głównym składnikiem jest wosk Karnauba, który nadaje twardość i podnosi temperaturę topnienia do 85°C; wosk ten spala się całkowicie, bez pozostawiania popiołu."
+ },
+ {
+  "id": "mj-c162-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    386,
+    387
+   ]
+  },
+  "question": "Dlaczego model z wycisku pobranego masą alginianową należy odlać niezwłocznie po jego wyjęciu z jamy ustnej?",
+  "options": {
+   "A": "ponieważ dłuższy kontakt masy z gipsem uniemożliwia potem oddzielenie modelu od wycisku",
+   "B": "ponieważ niezabezpieczony wycisk może w ciągu godziny zmienić wymiar objętościowy o 10%",
+   "C": "ponieważ masa alginianowa po godzinie traci elastyczność i staje się nieodwracalnie krucha",
+   "D": "ponieważ po godzinie ziemia okrzemkowa oddziela się od masy i psuje gładkość powierzchni",
+   "E": "ponieważ alginian wapnia po godzinie ponownie przechodzi w postać rozpuszczalnego zolu"
+  },
+  "correct": "B",
+  "explanation": "Wyciski alginianowe są dokładne, ale podatne na zmiany objętościowe zarówno w powietrzu, jak i w wodzie - pozostawiony bez zabezpieczenia wycisk może w ciągu godziny zmienić wymiar objętościowy o 10%."
+ },
+ {
+  "id": "mj-c162-003",
+  "type": "clinical",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    386,
+    387
+   ]
+  },
+  "question": "U bezzębnego pacjenta z wyraźnie kolbowatymi wyrostkami zębodołowymi planowane jest pobranie wycisku czynnościowego na łyżce indywidualnej. Której masy wyciskowej należy w tym przypadku unikać?",
+  "options": {
+   "A": "wosku wyciskowego, ze względu na uplastycznianie się w temperaturze jamy ustnej",
+   "B": "masy silikonowej płynnej, ze względu na jej dużą zdolność penetracji tkanek",
+   "C": "masy agarowej, ze względu na jej dużą wytrzymałość mechaniczną po zżelowaniu",
+   "D": "masy tlenkowo-cynkowo-eugenolowej, ze względu na jej kruchość po związaniu",
+   "E": "masy alginianowej, ze względu na jej nieodwracalne przechodzenie w żel"
+  },
+  "correct": "D",
+  "explanation": "Masy tlenkowo-cynkowo-eugenolowe po związaniu są kruche, dlatego nie są wskazane przy kolbowatych wyrostkach ani przy obecności zębów własnych pacjenta.",
+  "core": true
+ },
+ {
+  "id": "mj-c163-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    388,
+    389
+   ]
+  },
+  "question": "Która grupa elastycznych mas wyciskowych wykazuje najmniejszą kurczliwość, sięgającą zaledwie 0,1%?",
+  "options": {
+   "A": "masy polieterowe chemoutwardzalne",
+   "B": "masy hydrokoloidowe agarowe",
+   "C": "masy hydrokoloidowe alginianowe",
+   "D": "masy polisulfidowe (tiokolowe)",
+   "E": "masy silikonowe kondensacyjne"
+  },
+  "correct": "A",
+  "explanation": "Masy polieterowe chemoutwardzalne mają najmniejszą kurczliwość (do 0,1%) spośród mas elastycznych i pozwalają na wielokrotne odlewanie modelu z jednego wycisku.",
+  "core": true
+ },
+ {
+  "id": "mj-c163-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    388,
+    389
+   ]
+  },
+  "question": "Czym masy silikonowe o addycyjnym sposobie wiązania różnią się od silikonów kondensacyjnych?",
+  "options": {
+   "A": "wiążą wyłącznie w temperaturze jamy ustnej i tylko na łyżce indywidualnej",
+   "B": "nie wymagają katalizatora, ponieważ polimeryzują pod wpływem wilgoci śliny",
+   "C": "polimeryzacja przebiega z wydzieleniem metanolu, co stabilizuje objętość wycisku",
+   "D": "nie zawierają wypełniaczy, dzięki czemu występują tylko w konsystencji płynnej",
+   "E": "polimeryzacja przebiega bez powstawania produktów ubocznych, np. metanolu"
+  },
+  "correct": "E",
+  "explanation": "W masach addycyjnych polimeryzacja przebiega na zasadzie dopełniania i nie pozostawia związków ubocznych, takich jak metanol powstający przy polimeryzacji kondensacyjnej, dzięki czemu wycisk jest odporny na zmiany objętościowe."
+ },
+ {
+  "id": "mj-c163-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    388,
+    389
+   ]
+  },
+  "question": "Który materiał ścierny stosowany do szlifowania ma twardość 10 w skali Mohsa i nie powinien być używany do obróbki akrylu ani amalgamatu?",
+  "options": {
+   "A": "szmergiel",
+   "B": "kwarc",
+   "C": "diament",
+   "D": "korund",
+   "E": "pumeks"
+  },
+  "correct": "C",
+  "explanation": "Diament ma twardość 10 w skali Mohsa, ale miękkie materiały, jak akryl czy amalgamat, pokrywają mikroostrza nasypu diamentowego i pozbawiają go właściwości tnących."
+ },
+ {
+  "id": "mj-c164-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    390,
+    391
+   ]
+  },
+  "question": "W trakcie polerowania elektrolitycznego elementu protezy metalowej polerowany przedmiot pełni rolę:",
+  "options": {
+   "A": "katody, a rolę anody pełni sam elektrolit o wysokiej oporności",
+   "B": "izolatora oddzielającego anodę od katody zanurzonych w kąpieli",
+   "C": "elektrolitu, przez który przepływa prąd między dwiema płytkami",
+   "D": "katody, a anodą jest płytka ze stali nierdzewnej lub z ołowiu",
+   "E": "anody, a katodą jest płytka ze stali nierdzewnej lub z ołowiu"
+  },
+  "correct": "E",
+  "explanation": "Podczas elektropolerowania przedmiot zanurzony w elektrolicie podłącza się do prądu stałego jako anodę, a katodą jest płytka ze stali nierdzewnej lub z ołowiu; większe natężenie prądu na wzniesieniach wygładza powierzchnię."
+ },
+ {
+  "id": "mj-c164-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    390,
+    391
+   ]
+  },
+  "question": "Który cement, mimo swojej uniwersalności w stomatologii, nie powinien być stosowany do osadzania stałych uzupełnień protetycznych?",
+  "options": {
+   "A": "cement szklano-jonomerowy, z powodu zbyt dużej wytrzymałości mechanicznej",
+   "B": "cement tlenkowo-cynkowo-eugenolowy, z powodu hamowania tworzenia zębiny wtórnej",
+   "C": "cement polialkenowy, z powodu braku przylegania do powierzchni stopu metalu",
+   "D": "cement fosforanowy, z powodu kruchości, porowatości i łatwego wypłukiwania się",
+   "E": "cement polikarboksylowy, z powodu braku połączenia chemicznego z zębiną"
+  },
+  "correct": "D",
+  "explanation": "Cement fosforanowy ma liczne wady kliniczne: kruchość, porowatość, łatwe wypłukiwanie się, wrażliwość na wilgoć i małą wytrzymałość na ucisk, dlatego nie poleca się go do osadzania protez stałych."
+ },
+ {
+  "id": "mj-c164-003",
+  "type": "combined",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    390,
+    391
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące cementów szklano-jonomerowych w protetyce stomatologicznej:\n1. Służą m.in. do osadzania koron i mostów.\n2. Czas mieszania materiału nie powinien przekraczać 20 sekund.\n3. Nie wykazują żadnego niekorzystnego oddziaływania na miazgę zębową.\n4. Przeciwwskazaniem jest bardzo cienka warstwa zębiny ochraniającej miazgę.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 2 i 3",
+   "C": "tylko 3 i 4",
+   "D": "tylko 1, 2 i 4",
+   "E": "tylko 1 i 3"
+  },
+  "correct": "D",
+  "explanation": "Glasjonomery pierwszej grupy służą do osadzania koron i mostów, czas ich mieszania nie może przekroczyć 20 s, a przeciwwskazaniem jest m.in. bardzo cienka warstwa zębiny nad miazgą; doświadczenia kliniczne wykazały ich niekorzystny wpływ na miazgę.",
+  "core": true
+ },
+ {
+  "id": "mj-c165-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    392,
+    393
+   ]
+  },
+  "question": "Jaką rolę pełnią substancje redukujące, takie jak hydrochinon i pirogallol, zawarte w płynie monomerowym tworzyw akrylanowych?",
+  "options": {
+   "A": "są plastyfikatorami obniżającymi temperaturę graniczną gotowego akrylu",
+   "B": "są barwnikami nadającymi tworzywu odcień zbliżony do błony śluzowej",
+   "C": "są katalizatorami przyspieszającymi polimeryzację po zmieszaniu z proszkiem",
+   "D": "są inhibitorami zapobiegającymi samorzutnej polimeryzacji monomeru",
+   "E": "są wypełniaczami zwiększającymi wytrzymałość mechaniczną płyty protezy"
+  },
+  "correct": "D",
+  "explanation": "Hydrochinon i pirogallol są inhibitorami (stabilizatorami) zapobiegającymi samorzutnej polimeryzacji monomeru; przy dłuższej ekspozycji mogą działać alergizująco.",
+  "core": true
+ },
+ {
+  "id": "mj-c165-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    392,
+    393
+   ]
+  },
+  "question": "Który związek pełni w proszku polimerowym rolę katalizatora inicjującego reakcję polimeryzacji akrylu?",
+  "options": {
+   "A": "tlenek cynku",
+   "B": "ftalan dibutylowy",
+   "C": "metakrylan etylu",
+   "D": "nadtlenek benzoilu",
+   "E": "chlorek winylu"
+  },
+  "correct": "D",
+  "explanation": "W proszku polimerowym znajdują się katalizatory, najczęściej nadtlenek benzoilu, które jako środki utleniające neutralizują reduktory zawarte w płynie i zapoczątkowują polimeryzację."
+ },
+ {
+  "id": "mj-c165-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    392,
+    393
+   ]
+  },
+  "question": "Czym charakteryzują się nowsze tworzywa akrylanowe określane jako polimery usieciowane?",
+  "options": {
+   "A": "mają wyłącznie budowę łańcuchową i większą zdolność absorpcji cieczy",
+   "B": "polimeryzują wyłącznie w temperaturze pokojowej, bez udziału inicjatorów",
+   "C": "nie zawierają metakrylanu metylu, dlatego nie wymagają płynu monomerowego",
+   "D": "mają przestrzenną strukturę sieciową i mniejszą zdolność absorpcji cieczy",
+   "E": "wiążą w reakcji endotermicznej, co zapobiega odkształceniom płyty protezy"
+  },
+  "correct": "D",
+  "explanation": "Polimery usieciowane mają przestrzenną strukturę sieciową z wiązaniami poprzecznymi, dzięki czemu tworzą duże cząsteczki o mniejszej zdolności absorpcji cieczy i lepszych walorach użytkowych."
+ },
+ {
+  "id": "mj-c166-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    394,
+    395
+   ]
+  },
+  "question": "Dlaczego akrylowe materiały do podścielania oparte na polimetakrylanie etylu wymagają mniejszej ilości plastyfikatora niż oparte na polimetakrylanie metylu?",
+  "options": {
+   "A": "ponieważ polimetakrylan etylu ma niższą temperaturę graniczną, wynoszącą 66°C",
+   "B": "ponieważ polimetakrylan etylu ma wyższą temperaturę graniczną, wynoszącą 105°C",
+   "C": "ponieważ polimetakrylan etylu nie zawiera inicjatora polimeryzacji w proszku",
+   "D": "ponieważ polimetakrylan etylu wiąże trwale z płytą protezy przez łącznik silanowy",
+   "E": "ponieważ polimetakrylan etylu jest elastyczny dzięki swej budowie wewnętrznej"
+  },
+  "correct": "A",
+  "explanation": "Polimetakrylan metylu ma temperaturę graniczną 105°C, a polimetakrylan etylu tylko 66°C, dlatego materiały oparte na tym drugim związku wymagają mniej plastyfikatora.",
+  "core": true
+ },
+ {
+  "id": "mj-c166-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    394,
+    395
+   ]
+  },
+  "question": "Który składnik ceramiki dentystycznej obniża temperaturę topnienia, nadaje przezroczystość i skleja pozostałe składniki?",
+  "options": {
+   "A": "skaleń",
+   "B": "pigmenty",
+   "C": "tlenek glinu",
+   "D": "kaolin",
+   "E": "kwarc"
+  },
+  "correct": "A",
+  "explanation": "Skaleń (np. ortoklaz) obniża temperaturę topnienia masy, nadaje jej przezroczystość i spaja pozostałe składniki; kwarc nadaje twardość, a kaolin tworzy ogniotrwałe podłoże porcelany."
+ },
+ {
+  "id": "mj-c166-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    394,
+    395
+   ]
+  },
+  "question": "Co decyduje o trwałym połączeniu porcelany z metalową podbudową w konstrukcjach metalowo-ceramicznych?",
+  "options": {
+   "A": "glazurowanie powierzchniowe wykonywane na zakończenie procesu napalania porcelany",
+   "B": "mechaniczna retencja uzyskana przez piaskowanie i nacięcia wykonane na odlewie",
+   "C": "warstwa nieprzezroczystego opakera, który chemicznie wiąże metal z masą szkliwną",
+   "D": "warstwa tlenków powstająca podczas wyżarzania, dyfundująca do topiącej się porcelany",
+   "E": "znaczna różnica współczynników rozszerzalności termicznej stopu i masy ceramicznej"
+  },
+  "correct": "D",
+  "explanation": "Przed napalaniem ceramiki podbudowa metalowa jest wyżarzana, a powstająca warstwa tlenków dyfunduje do topiących się mas porcelany, zapewniając trwałe połączenie w reakcji termochemicznej."
+ },
+ {
+  "id": "mj-c167-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    396,
+    397
+   ]
+  },
+  "question": "Na czym polega proces homogenizacji (ujednolicania) stopu dentystycznego?",
+  "options": {
+   "A": "na przetrzymywaniu stopu w temperaturze o 100°C niższej niż ta, w której przechodzi on całkowicie w stan stały",
+   "B": "na możliwie szybkim chłodzeniu odlewu bezpośrednio po jego uwolnieniu z formy odlewniczej",
+   "C": "na długotrwałym wyżarzaniu stopu w temperaturze znacznie przekraczającej jego temperaturę topnienia",
+   "D": "na dodaniu do płynnego stopu metalu szlachetnego o wyższym potencjale elektrochemicznym",
+   "E": "na mechanicznym zgniataniu odlewu w celu trwałej deformacji kryształów stopu"
+  },
+  "correct": "A",
+  "explanation": "Homogenizacja przywraca prawidłową strukturę wewnętrzną stopu i polega na przetrzymywaniu go w temperaturze o 100°C niższej od tej, w której przy ochładzaniu przechodzi całkowicie w stan stały.",
+  "core": true
+ },
+ {
+  "id": "mj-c167-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    396,
+    397
+   ]
+  },
+  "question": "W przypadku korozji elektrochemicznej w jamie ustnej rozpuszczaniu ulega stop, który:",
+  "options": {
+   "A": "ma wyższy potencjał elektrochemiczny i stanowi anodę powstałego ogniwa",
+   "B": "wykazuje najbardziej drobnokrystaliczną i jednorodną strukturę wewnętrzną",
+   "C": "jest oddzielony od śliny warstwą tlenków i nie tworzy ogniwa galwanicznego",
+   "D": "ma niższy potencjał elektrochemiczny i stanowi anodę powstałego ogniwa",
+   "E": "ma wyższy potencjał elektrochemiczny i stanowi katodę powstałego ogniwa"
+  },
+  "correct": "D",
+  "explanation": "Stopy szlachetniejsze mają wyższy potencjał i stanowią katodę, a stopy o niższym potencjale - anodę; prąd płynący od anody do katody powoduje korodowanie stopu mniej szlachetnego."
+ },
+ {
+  "id": "mj-c167-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    396,
+    397
+   ]
+  },
+  "question": "Który pierwiastek stabilizuje austenityczną strukturę stali chromoniklowej stosowanej w technice dentystycznej?",
+  "options": {
+   "A": "węgiel",
+   "B": "chrom",
+   "C": "kobalt",
+   "D": "nikiel",
+   "E": "molibden"
+  },
+  "correct": "D",
+  "explanation": "Austenityczną strukturę stopu stabilizuje nikiel, natomiast dodatek chromu decyduje o kwasoodporności i odporności na korozję."
+ },
+ {
+  "id": "mj-c168-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    398,
+    399
+   ]
+  },
+  "question": "Jaka jest najniższa dopuszczalna karatowość dentystycznego stopu złota przeznaczonego do stosowania w jamie ustnej?",
+  "options": {
+   "A": "14 karatów, co odpowiada próbie 585",
+   "B": "20 karatów, co odpowiada próbie 833",
+   "C": "16 karatów, co odpowiada próbie 666",
+   "D": "18 karatów, co odpowiada próbie 750",
+   "E": "22 karaty, co odpowiada próbie 916"
+  },
+  "correct": "D",
+  "explanation": "Dodatki stopowe nie mogą przekraczać 25% masy stopu, czyli najniższa dopuszczalna karatowość to 18 karatów (próba 750); stopy poniżej 16 karatów zachowują się w elektrolicie jak metal nieszlachetny.",
+  "core": true
+ },
+ {
+  "id": "mj-c168-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    398,
+    399
+   ]
+  },
+  "question": "Podstawowym zastosowaniem stopów chromokobaltowych w protetyce stomatologicznej jest odlewnictwo:",
+  "options": {
+   "A": "drutów klamrowych oraz łuków wykorzystywanych w aparatach ortodontycznych",
+   "B": "lutowi służących do łączenia elementów protez ze stopów metali szlachetnych",
+   "C": "konstrukcji protez szkieletowych i metalowych elementów protez częściowych",
+   "D": "wszczepów śródkostnych oraz łączników w konstrukcjach implantoprotetycznych",
+   "E": "cienkościennych koron ciągnionych oraz tłoczonych płyt podniebiennych"
+  },
+  "correct": "C",
+  "explanation": "Głównym zastosowaniem stopów chromokobaltowych jest odlewnictwo metalowych elementów protez częściowych, w tym całych konstrukcji protez szkieletowych, którym zapewniają korzystną sprężystość."
+ },
+ {
+  "id": "mj-c168-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    398,
+    399
+   ]
+  },
+  "question": "Która cecha tytanu umożliwia bezpieczne wykonywanie u pacjentów po implantacji badania rezonansem magnetycznym?",
+  "options": {
+   "A": "niskie przewodnictwo cieplne",
+   "B": "brak właściwości magnetycznych",
+   "C": "moduł Younga zbliżony do tkanki kostnej",
+   "D": "samorzutne tworzenie warstwy tlenków",
+   "E": "niski ciężar właściwy 4,5 g/cm sześcienny"
+  },
+  "correct": "B",
+  "explanation": "Brak właściwości magnetycznych tytanu umożliwia u pacjentów po implantacji całkowicie bezpieczne stosowanie diagnostyki opartej na polu magnetycznym, w tym rezonansu magnetycznego."
+ },
+ {
+  "id": "mj-c169-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    400,
+    401
+   ]
+  },
+  "question": "Jakiego preparatu i przez jaki czas używa się najczęściej do wytrawiania szkliwa przed założeniem materiału kompozytowego?",
+  "options": {
+   "A": "około 20% kwasu metakrylowego przez około 15 sekund",
+   "B": "około 10% kwasu poliakrylowego przez około 60 sekund",
+   "C": "około 37% kwasu fosforowego przez około 15 sekund",
+   "D": "około 37% kwasu fluorowodorowego przez około 40 sekund",
+   "E": "około 50% kwasu ortofosforowego przez około 3 minuty"
+  },
+  "correct": "C",
+  "explanation": "Do wytrawiania szkliwa stosuje się najczęściej około 37% kwas fosforowy przez około 15 s, co kształtuje warstwę wierzchnią i umożliwia trwałe połączenie adhezyjne.",
+  "core": true
+ },
+ {
+  "id": "mj-c169-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    400,
+    401
+   ]
+  },
+  "question": "Jak długo należy przeciętnie naświetlać warstwę światłoutwardzalnego materiału kompozytowego o grubości 2,0 mm?",
+  "options": {
+   "A": "około 3 minuty",
+   "B": "około 40 sekund",
+   "C": "około 5 sekund",
+   "D": "około 10 sekund",
+   "E": "około 90 sekund"
+  },
+  "correct": "B",
+  "explanation": "Czas naświetlania podaje producent, ale przeciętnie wynosi on 40 s dla warstwy materiału o grubości 2,0 mm."
+ },
+ {
+  "id": "mj-c169-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    400,
+    401
+   ]
+  },
+  "question": "Dlaczego syntetycznych materiałów kościozastępczych (poza trójfosforanem wapnia) nie zaleca się stosować w miejscach przewidzianych do implantacji?",
+  "options": {
+   "A": "ponieważ nie ulegają biodegradacji i nie są zastępowane przez nową tkankę kostną",
+   "B": "ponieważ stwarzają istotne zagrożenie biologiczne i zakaźne dla pacjenta",
+   "C": "ponieważ mają silne właściwości osteoindukcyjne, prowadzące do przerostu kości",
+   "D": "ponieważ zbyt szybko ulegają biodegradacji, zanim wrośnie w nie tkanka kostna",
+   "E": "ponieważ wymagają zawsze pokrycia nieresorbowalną błoną zaporową"
+  },
+  "correct": "A",
+  "explanation": "Preparaty syntetyczne, z wyjątkiem trójfosforanu wapnia, nie ulegają biodegradacji i nie są zastępowane nową kością, ulegając jedynie strukturalnemu przerastaniu, co nie jest trwałą regeneracją kości."
+ },
+ {
+  "id": "mj-c170-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    402,
+    403
+   ]
+  },
+  "question": "Zmiany patologiczne wywołane prądami galwanicznymi i procesami korozji metalowych elementów protez określa się mianem:",
+  "options": {
+   "A": "elektrometaloz, będących jedną z postaci stomatopatii protetycznych",
+   "B": "ogniw lokalnych, powstających w obrębie jednego stopu heterogennego",
+   "C": "potencjału korozyjnego, mierzonego w ślinie wobec elektrody wodorowej",
+   "D": "leukoplakii protetycznej, będącej wynikiem drażnienia mechanicznego",
+   "E": "reakcji nadwrażliwości kontaktowej na metaliczne składniki stopów"
+  },
+  "correct": "A",
+  "explanation": "Prądy galwaniczne związane z korozją stopów zaburzają fizjologiczne warunki funkcjonowania tkanek i mogą wywołać zmiany patologiczne zwane elektrometalozami, będące jedną z postaci stomatopatii protetycznych.",
+  "core": true
+ },
+ {
+  "id": "mj-c170-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    402,
+    403
+   ]
+  },
+  "question": "Jaki wniosek praktyczny wynika z opisanych zjawisk elektrochemicznych zachodzących w jamie ustnej?",
+  "options": {
+   "A": "u danego pacjenta należy stosować jeden rodzaj stopu i przestrzegać zasad jego obróbki",
+   "B": "wszystkie metalowe elementy protez należy pokrywać warstwą cementu izolacyjnego",
+   "C": "wystarczy dobrać stop szlachetny, a sposób obróbki laboratoryjnej nie ma znaczenia",
+   "D": "metalowe elementy protez należy pozostawiać matowe, bez końcowego polerowania",
+   "E": "u danego pacjenta należy celowo łączyć stopy o różnych potencjałach elektrochemicznych"
+  },
+  "correct": "A",
+  "explanation": "Autor zaleca stosowanie u danego pacjenta jednego rodzaju stopu oraz przestrzeganie zasad obróbki cieplnej, mechanicznej i chemicznej podczas laboratoryjnego wykonywania metalowych elementów protez."
+ },
+ {
+  "id": "mj-c170-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    402,
+    403
+   ]
+  },
+  "question": "Jaką różnicę potencjałów rejestrowano przy jednoczesnej obecności w jamie ustnej wypełnień złotych i amalgamatowych?",
+  "options": {
+   "A": "100-120 mV",
+   "B": "800-1000 mV",
+   "C": "150-180 mV",
+   "D": "370-600 mV",
+   "E": "10-40 mV"
+  },
+  "correct": "D",
+  "explanation": "Przy równoczesnej obecności wypełnień złotych i amalgamatowych rejestrowano różnicę potencjałów rzędu 370-600 mV, podczas gdy między samymi wypełnieniami amalgamatowymi do 120 mV."
+ },
+ {
+  "id": "mj-c171-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    404,
+    405
+   ]
+  },
+  "question": "W badaniach nabłonka podniebienia twardego u osób długotrwale (5-10 lat) użytkujących płytowe protezy zębowe stwierdzono w warstwie rozrodczej charakterystyczną zmianę w porównaniu z grupą kontrolną. Na czym ona polegała?",
+  "options": {
+   "A": "zastąpieniu komórek wielokształtnych komórkami walcowatymi z rąbkiem szczoteczkowym",
+   "B": "pojawieniu się licznych melanocytów gromadzących ziarnistości barwnika w cytoplazmie",
+   "C": "znacznym zwężeniu przestrzeni międzykomórkowych z zanikiem wypustek komórkowych",
+   "D": "znacząco większej liczbie komórek posiadających migawki, przechodzące niekiedy poza błonę podstawową",
+   "E": "całkowitym zaniku desmosomów łączących komórki wielokształtne warstwy rozrodczej"
+  },
+  "correct": "D",
+  "explanation": "W nabłonku poddanym długotrwałemu uciskowi płytą protezy stwierdzono znacząco więcej komórek z migawkami niż w grupie kontrolnej, a migawki przekraczały błonę podstawową, przechodząc w obręb tkanki łącznej.",
+  "core": true
+ },
+ {
+  "id": "mj-c171-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    404,
+    405
+   ]
+  },
+  "question": "Jaką rolę autor przypisuje pojedynczym migawkom stwierdzanym w komórkach nabłonka błony śluzowej podłoża protetycznego?",
+  "options": {
+   "A": "regeneracyjną - są miejscem podziałów komórek warstwy podstawowej",
+   "B": "gruczołową - są miejscem wydzielania śluzu na powierzchnię nabłonka",
+   "C": "transportową - przesuwają zalegającą warstwę śliny w kierunku gardła",
+   "D": "sensoryczną - stanowią urządzenie odbierające bodźce mechaniczne (ucisk protezy)",
+   "E": "obronną immunologicznie - prezentują antygeny komórkom limfoidalnym"
+  },
+  "correct": "D",
+  "explanation": "Migawkom występującym pojedynczo przypisuje się funkcje sensoryczne (fotosensory, chemosensory, mechanosensory); w błonie śluzowej pod płytą protezy odbierają one bodźce długotrwałego ucisku."
+ },
+ {
+  "id": "mj-c171-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    404,
+    405
+   ]
+  },
+  "question": "Które dwie grupy materiałów protetycznych i związane z nimi główne zagrożenia biologiczne uwzględniono w omawianych badaniach własnych?",
+  "options": {
+   "A": "tworzywa silikonowe (odkształcenia) i stopy tytanu (osteointegracja)",
+   "B": "amalgamaty (uwalnianie rtęci) i kompozyty (uwalnianie wolnego monomeru)",
+   "C": "ceramikę (ścieranie zębów przeciwstawnych) i akryl (uciskowe drażnienie tkanek)",
+   "D": "masy wyciskowe (reakcje alergiczne) i cementy (drażnienie miazgi zęba)",
+   "E": "tworzywo akrylowe (uciskowe, traumatyzujące działanie) i stopy metali (elektroliza i korozja)"
+  },
+  "correct": "E",
+  "explanation": "W badaniach uwzględniono dwie najpowszechniejsze grupy materiałów: tworzywa akrylowe, których problemem jest uciskowe i traumatyzujące działanie na tkanki podłoża, oraz stopy metali, narażone na elektrolizę i korozję."
+ },
+ {
+  "id": "mj-c172-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    406,
+    407
+   ]
+  },
+  "question": "Jaki obraz histopatologiczny stwierdzono we wszystkich przypadkach klinicznie rozpoznanego rozrostu zapalnego brodawkowatego podniebienia (hyperplasia inflammatoria papillaris)?",
+  "options": {
+   "A": "wyraźny rozrost brodawkowaty z proliferacją akantotyczną i podnabłonkowym naciekiem zapalnym",
+   "B": "atrofię nabłonka z zanikiem warstwy rozrodczej i włóknieniem podścieliska",
+   "C": "typowe utkanie brodawczaka z osią łącznotkankową każdej brodawki",
+   "D": "przewagę tkanki ziarninowej z nielicznymi elementami nabłonkowymi",
+   "E": "ogniska dysplazji dużego stopnia z licznymi figurami podziału patologicznego"
+  },
+  "correct": "A",
+  "explanation": "We wszystkich przypadkach stwierdzono rozrost brodawkowaty z proliferacją akantotyczną i podnabłonkowym naciekiem zapalnym, jednak w żadnym nie wykazano typowego utkania brodawczaka.",
+  "core": true
+ },
+ {
+  "id": "mj-c172-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    406,
+    407
+   ]
+  },
+  "question": "Z badań epidemiologicznych autora wśród 1000 użytkowników akrylowych protez płytowych wynika, że najczęstszą kliniczną postacią stomatopatii protetycznej jest:",
+  "options": {
+   "A": "rozrost zapalny brodawkowaty błony śluzowej podniebienia",
+   "B": "leukoplakia błony śluzowej objętej płytą protezy",
+   "C": "owrzodzenie odleżynowe na szczycie wyrostka zębodołowego",
+   "D": "przewlekłe zapalenie nieżytowe błony śluzowej pod płytą protezy",
+   "E": "ziarniniak szczelinowaty brzegów przedsionka jamy ustnej"
+  },
+  "correct": "D",
+  "explanation": "Wśród 1000 użytkowników protez akrylowych najczęstszą (30%) postacią stomatopatii był przewlekły proces zapalny o charakterze nieżytowym błony śluzowej podniebienia i wyrostków w zakresie objętym płytą protezy."
+ },
+ {
+  "id": "mj-c172-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    406,
+    407
+   ]
+  },
+  "question": "Czym różni się mikroskopowo ziarniniak szczelinowaty (granuloma fissuratum) od rozrostu zapalnego brodawkowatego podniebienia?",
+  "options": {
+   "A": "stałym współistnieniem hodowlanie potwierdzonej infekcji grzybiczej",
+   "B": "obecnością ognisk rogowacenia z ziarnistościami keratohialiny w nabłonku",
+   "C": "przewagą tkanki ziarninowej w utkaniu i typową lokalizacją w przedsionku jamy ustnej",
+   "D": "brakiem jakiegokolwiek nacieku zapalnego w podścielisku łącznotkankowym",
+   "E": "obecnością licznych komórek olbrzymich wielojądrowych typu ciała obcego"
+  },
+  "correct": "C",
+  "explanation": "Ziarniniaki szczelinowate charakteryzują się przewagą tkanki ziarninowej w obrazie drobnowidowym i powstają najczęściej w przedsionku jamy ustnej wskutek przewlekłego urazu brzegów płyty protezy."
+ },
+ {
+  "id": "mj-c173-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    408,
+    409
+   ]
+  },
+  "question": "Jakie zmiany w nabłonku były typowe dla przypadków stomatitis catarrhalis prothetica w badaniu histopatologicznym wycinków błony śluzowej podłoża protetycznego?",
+  "options": {
+   "A": "rozrost brodawkowaty z soplowatym wrastaniem nabłonka w głąb podścieliska",
+   "B": "metaplazja płaskonabłonkowa z pojawieniem się komórek kubkowych i migawkowych",
+   "C": "zmiany proliferacyjne z ogniskami rogowacenia, ale bez wyraźnego rozrostu brodawkowatego",
+   "D": "całkowite owrzodzenie nabłonka z odsłonięciem blaszki właściwej na dużym obszarze",
+   "E": "przerost warstwy podstawnej z tworzeniem czopów rogowych w kryptach nabłonka"
+  },
+  "correct": "C",
+  "explanation": "W stomatitis catarrhalis zmiany w nabłonku miały charakter proliferacyjny z ogniskami rogowacenia, lecz bez cech rozrostu brodawkowatego, z wzmożonym złuszczaniem, ścieńczeniem i zwyrodnieniem wodniczkowym komórek."
+ },
+ {
+  "id": "mj-c173-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    408,
+    409
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące porównania obrazu histopatologicznego stomatitis catarrhalis i hyperplasia inflammatoria papillaris:\n1. Cechą wspólną jest naciek zapalny z podnabłonkową i okołonaczyniową infiltracją komórek limfocytopodobnych.\n2. Nasilona proliferacja akantotyczna z soplowatym wrastaniem nabłonka charakteryzuje postać rozrostową.\n3. Intensywność zmian histopatologicznych wyraźnie zależy od okresu użytkowania protez i wieku badanych.\n4. W stomatitis catarrhalis zmiany nabłonka ograniczają się do uszkodzenia ciągłości, rogowacenia i zwyrodnień cytoplazmy.",
+  "options": {
+   "A": "tylko 3 i 4",
+   "B": "tylko 2 i 3",
+   "C": "tylko 1 i 3",
+   "D": "tylko 1, 2 i 4",
+   "E": "wszystkie prawidłowe"
+  },
+  "correct": "D",
+  "explanation": "Wspólny jest naciek zapalny, a różni je rozrost brodawkowaty w postaci rozrostowej i ograniczone zmiany nabłonka w postaci nieżytowej; stwierdzono natomiast brak wyraźnego związku zmian z okresem użytkowania protez i wiekiem pacjentów.",
+  "type": "combined",
+  "core": true
+ },
+ {
+  "id": "mj-c173-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    408,
+    409
+   ]
+  },
+  "question": "Co stwierdzono histopatologicznie w grupie kontrolnej, czyli u użytkowników protez bez klinicznych zmian zapalnych błony śluzowej?",
+  "options": {
+   "A": "obraz w pełni zgodny z histopatologiczną normą błony śluzowej podniebienia",
+   "B": "rogowacenie nabłonka z licznymi skupiskami keratohialiny bez nacieków zapalnych",
+   "C": "ogniska zaniku nabłonka z poszerzeniem naczyń blaszki właściwej",
+   "D": "rozrost brodawkowaty niewielkiego stopnia bez odczynu podnabłonkowego",
+   "E": "dyskretne nacieki zapalne złożone głównie z granulocytów obojętnochłonnych"
+  },
+  "correct": "B",
+  "explanation": "U pacjentów bez klinicznych zmian zapalnych nie wykazano nacieków zapalnych, ale stwierdzono wyraźne rogowacenie nabłonka ze skupiskami keratohialiny, uznane za mechanizm obronny przed urazowym działaniem protezy."
+ },
+ {
+  "id": "mj-c174-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    410,
+    411
+   ]
+  },
+  "question": "Jak przebiegała miejscowa reakcja tkankowa na dotkankowo implantowane szczurom tworzywa metakrylanowe w badaniach własnych?",
+  "options": {
+   "A": "naciek zapalny był widoczny do drugiego tygodnia, po czym malał, a wokół wszczepu tworzyła się pseudotorebka",
+   "B": "naciek zapalny narastał przez cały siedmiotygodniowy okres obserwacji",
+   "C": "wokół wszczepu tworzyły się ziarniniaki z komórek olbrzymich typu ciała obcego",
+   "D": "od pierwszego tygodnia dominowała martwica tkanek z ropnym wysiękiem wokół próbki",
+   "E": "reakcja polegała na bezpośrednim zroście tkanki kostnej z powierzchnią wszczepu"
+  },
+  "correct": "A",
+  "explanation": "Naciek zapalny jako reakcja na tworzywo metakrylanowe był widoczny do drugiego tygodnia, następnie stopniowo się zmniejszał, a wokół wszczepu powstawała pseudotorebka łącznotkankowa - jak przy materiałach biologicznie obojętnych.",
+  "core": true
+ },
+ {
+  "id": "mj-c174-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    410,
+    411
+   ]
+  },
+  "question": "Jaki wynik dały testy hematologiczne i immunologiczne oceniające ogólną reakcję szczurów na implantowany akryl dentystyczny?",
+  "options": {
+   "A": "wykazano znaczny wzrost stężenia a2-makroglobuliny w grupie doświadczalnej",
+   "B": "nie stwierdzono reakcji ostrej fazy ani istotnych różnic w obrazie krwi wobec grupy kontrolnej",
+   "C": "stwierdzono wyraźne zmiany profilu esteraz osoczowych wobec grupy kontrolnej",
+   "D": "zaobserwowano istotne przesunięcie odsetkowego obrazu krwinek białych w stronę eozynofilii",
+   "E": "stwierdzono utrzymującą się leukocytozę powyżej normy przez cały okres obserwacji"
+  },
+  "correct": "B",
+  "explanation": "Implantowane tworzywa nie wywołały reakcji ostrej fazy: liczba i odsetkowy obraz leukocytów, a2-makroglobulina i profil esteraz osoczowych nie różniły się istotnie od grupy kontrolnej."
+ },
+ {
+  "id": "mj-c174-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    410,
+    411
+   ]
+  },
+  "question": "Które stopy autor wymienia jako najlepsze pod względem technologicznym i biologicznym materiały podstawowe dla konwencjonalnych protez zębowych?",
+  "options": {
+   "A": "stopy miedziano-aluminiowe i stopy cynowo-ołowiowe o niskiej temperaturze topnienia",
+   "B": "stopy żelaza z domieszką manganu oraz stopy magnezowo-cynkowe",
+   "C": "wyłącznie czyste metale, takie jak srebro, złoto i platyna, bez domieszek stopowych",
+   "D": "stopy niklowo-miedziane oraz stopy o zawartości złota poniżej 10 karatów",
+   "E": "stopy chromo-kobaltowe, chromo-niklowe i tytanu oraz stopy 18-22-karatowego złota i srebro-palladowe"
+  },
+  "correct": "E",
+  "explanation": "Wśród stopów wysoko topliwych za najlepsze uznano chromo-kobaltowe, chromo-niklowe i tytanu, a wśród średnio topliwych stopy 18-22-karatowego złota i srebro-palladowe."
+ },
+ {
+  "id": "mj-c175-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    412,
+    413
+   ]
+  },
+  "question": "Jaki był podstawowy wniosek z histochemicznych badań tkanek otaczających dotkankowe wszczepy stopów metali szlachetnych?",
+  "options": {
+   "A": "cząstki metalu gromadziły się głównie w komórkach nabłonka pokrywającego bliznę",
+   "B": "uwolnione cząstki metalu odkładały się przede wszystkim w tkance kostnej odległej od wszczepu",
+   "C": "żaden z badanych stopów nie uwalniał wykrywalnych cząstek metalu do tkanek",
+   "D": "stop srebro-palladowy ulegał całkowitemu rozpuszczeniu w ciągu 90 dni obserwacji",
+   "E": "wszystkie badane stopy uwalniały śladowe ilości cząstek metalu, częściowo fagocytowanych przez makrofagi"
+  },
+  "correct": "E",
+  "explanation": "Badania wykazały, że wszystkie rodzaje badanych stopów w warunkach wszczepów dotkankowych ulegają nieznacznemu uwalnianiu śladowych ilości cząstek metalu, częściowo fagocytowanych przez makrofagi w obrębie torebki łącznotkankowej.",
+  "core": true
+ },
+ {
+  "id": "mj-c175-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    412,
+    413
+   ]
+  },
+  "question": "Dlaczego tytan zajmuje szczególną pozycję wśród metali stosowanych na wszczepy śródkostne?",
+  "options": {
+   "A": "na jego powierzchni spontanicznie tworzy się ochronna warstwa tlenku umożliwiająca integrację z kością",
+   "B": "jest jedynym metalem całkowicie odpornym na działanie płynów ustrojowych dzięki dużej gęstości",
+   "C": "jego cząstki są natychmiast usuwane przez układ chłonny, zanim wywołają odczyn tkankowy",
+   "D": "wykazuje najniższy potencjał normalny spośród wszystkich metali dentystycznych",
+   "E": "tworzy z hydroksyapatytem wiązania chemiczne dzięki wysokiej temperaturze topnienia"
+  },
+  "correct": "A",
+  "explanation": "Na powierzchni tytanu spontanicznie tworzy się ochronna warstwa tlenku, dzięki której implant tytanowy po pewnym czasie integruje się z tkanką kostną."
+ },
+ {
+  "id": "mj-c175-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    412,
+    413
+   ]
+  },
+  "question": "Jaki obraz stwierdzano w tkankach otaczających krążek stopu srebro-palladowego w 90. dniu po implantacji?",
+  "options": {
+   "A": "gruba torebka łącznotkankowa z przewagą włókien kolagenowych, bez cech nacieku zapalnego",
+   "B": "rozległy naciek zapalny z ropnym wysiękiem prowadzący do odrzucenia wszczepu",
+   "C": "cienka, luźna torebka dopiero rozpoczynająca formowanie włókien kolagenowych",
+   "D": "młoda tkanka ziarninowa z licznymi granulocytami obojętnochłonnymi",
+   "E": "całkowity brak odgraniczenia wszczepu od otaczającej tkanki tłuszczowej"
+  },
+  "correct": "A",
+  "explanation": "Po 90 dniach próbka stopu srebro-palladowego była otoczona grubą torebką łącznotkankową bez żadnych cech nacieku zapalnego, z dominacją włókien kolagenowych."
+ },
+ {
+  "id": "mj-c176-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    414,
+    415
+   ]
+  },
+  "question": "W jakim czasie po dotkankowej implantacji krążków badanych stopów można było makroskopowo obserwować dobrze wykształconą torebkę łącznotkankową ściśle przylegającą do wszczepu?",
+  "options": {
+   "A": "po 60 dniach",
+   "B": "po 24 godzinach",
+   "C": "po 90 dniach",
+   "D": "po 7 dniach",
+   "E": "po 30 dniach"
+  },
+  "correct": "E",
+  "explanation": "Zaczątek torebki łącznotkankowej zauważano już w 14. dniu, natomiast dobrze wykształconą torebkę ściśle przylegającą do implantowanych krążków obserwowano makroskopowo po 30 dniach.",
+  "core": true
+ },
+ {
+  "id": "mj-c176-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    414,
+    415
+   ]
+  },
+  "question": "Jakie wartości pH przyjęto w omawianych badaniach dla śliny ludzkiej i dla płynu tkankowego okolicy okołowszczepowej?",
+  "options": {
+   "A": "ślina 5,5-8,5, a średnie pH płynu tkankowego 6,2",
+   "B": "ślina 7,8-9,5, a średnie pH płynu tkankowego 8,4",
+   "C": "ślina 2,5-4,5, a średnie pH płynu tkankowego 3,8",
+   "D": "ślina 5,5-8,5, a średnie pH płynu tkankowego 8,9",
+   "E": "ślina 4,0-5,0, a średnie pH płynu tkankowego 4,6"
+  },
+  "correct": "A",
+  "explanation": "pH śliny ludzkiej mieści się w granicach 5,5-8,5, natomiast pomiary pH płynu tkankowego okolicy okołowszczepowej wykazywały średnią wartość 6,2."
+ },
+ {
+  "id": "mj-c176-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    414,
+    415
+   ]
+  },
+  "question": "Jaki wniosek praktyczny sformułowano na podstawie porównania reakcji tkankowej na stopy srebro-palladowe i stop 22-karatowego złota?",
+  "options": {
+   "A": "stopy srebro-palladowe powodowały odrzucanie wszczepów i nie powinny być stosowane",
+   "B": "oba stopy wywoływały przewlekły odczyn zapalny wymagający usunięcia wszczepu po 30 dniach",
+   "C": "nie stwierdzono wyraźnych różnic reakcji tkankowej i nie ma przeciwwskazań do ich stosowania",
+   "D": "stop złota wywoływał wyraźnie słabszy odczyn tkankowy, dlatego tylko on jest zalecany",
+   "E": "różnice były tak duże, że test biologiczny uznano za nieprzydatny w ocenie tych materiałów"
+  },
+  "correct": "C",
+  "explanation": "Nie stwierdzono wyraźnych różnic miejscowej reakcji tkankowej między stopami srebro-palladowymi a stopem 22-karatowego złota, co oznacza brak biologicznych przeciwwskazań do ich stosowania, także na suprastruktury nadkostne."
+ },
+ {
+  "id": "mj-c177-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    416,
+    417
+   ]
+  },
+  "question": "W jakim kierunku przebiega nierównomierny zanik wyrostków zębodołowych po utracie zębów?",
+  "options": {
+   "A": "w obu łukach wyłącznie od strony językowo-podniebiennej",
+   "B": "w szczęce od strony przedsionka, a w żuchwie od strony językowej",
+   "C": "w szczęce od strony podniebiennej, a w żuchwie od strony przedsionkowej",
+   "D": "w szczęce równomiernie na całym obwodzie, a w żuchwie tylko w odcinku przednim",
+   "E": "w obu łukach wyłącznie od strony przedsionkowej"
+  },
+  "correct": "B",
+  "explanation": "Zanik stoku przedsionkowego w szczęce i stoku językowego w żuchwie prowadzi do dysproporcji wzajemnego przestrzennego ułożenia bezzębnych wyrostków, co trzeba uwzględnić w planowaniu konstrukcji protez.",
+  "core": true
+ },
+ {
+  "id": "mj-c177-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    416,
+    417
+   ]
+  },
+  "question": "Czym jest przestrzeń neutralna wykorzystywana do lokalizacji protez całkowitych?",
+  "options": {
+   "A": "obszarem wyłącznie podniebienia twardego objętym płytą protezy górnej",
+   "B": "przestrzenią między błoną śluzową a okostną wyrostka zębodołowego",
+   "C": "obszarem przylegania płyty protezy ograniczonym linią wędzidełka wargi górnej",
+   "D": "przestrzenią zawartą między policzkami, językiem, dnem jamy ustnej i wyrostkami zębodołowymi",
+   "E": "szczeliną między powierzchniami zwarciowymi zębów górnych i dolnych w spoczynku"
+  },
+  "correct": "D",
+  "explanation": "Przestrzeń neutralna to obszar w jamie ustnej po utracie uzębienia zawarty między policzkami, językiem, dnem jamy ustnej i wyrostkami zębodołowymi, wykorzystywany w praktyce do lokalizacji protez."
+ },
+ {
+  "id": "mj-c177-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    416,
+    417
+   ]
+  },
+  "question": "Jak powinno być ukształtowane i umiejscowione pobrzeże płyty protezy całkowitej dolnej wobec mięśni dna jamy ustnej?",
+  "options": {
+   "A": "powinno sięgać do kości gnykowej, co zapewnia stabilizację podczas połykania",
+   "B": "powinno kończyć się na szczycie wyrostka zębodołowego, unikając kontaktu z dnem jamy ustnej",
+   "C": "powinno być maksymalnie wypukłe od strony językowej, aby ograniczyć ruchomość języka",
+   "D": "powinno być umieszczone ponad przebiegiem mięśni dna jamy ustnej, by napięcie tkanek nie podnosiło płyty",
+   "E": "powinno wnikać pod przyczep mięśnia żuchwowo-gnykowego, aby zwiększyć retencję"
+  },
+  "correct": "D",
+  "explanation": "Napięcie tkanek dna jamy ustnej nie może podnosić płyty protezy, dlatego jej pobrzeże lokalizuje się ponad przebiegiem mięśni dna jamy ustnej."
+ },
+ {
+  "id": "mj-c178-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    418,
+    419
+   ]
+  },
+  "question": "Na czym polega stan równowagi sił panujący w przestrzeni neutralnej, wykorzystywany dla stabilizacji protez całkowitych?",
+  "options": {
+   "A": "siły adhezji są równoważone przez siły kohezji warstwy śliny pod płytą protezy",
+   "B": "siły oddziaływania języka są równoważone przez siły wyzwalane w mięśniach warg i policzków",
+   "C": "siły grawitacji są równoważone przez ciśnienie atmosferyczne działające na płytę protezy",
+   "D": "siły podniebienia miękkiego są równoważone przez napięcie mięśnia żuchwowo-gnykowego",
+   "E": "siły żucia są równoważone przez podatność błony śluzowej podłoża protetycznego"
+  },
+  "correct": "B",
+  "explanation": "W przestrzeni neutralnej siły oddziaływania języka są równoważone zewnętrznym kierunkiem sił mięśni warg i policzków, dzięki czemu nie dochodzi do przemieszczania protez.",
+  "core": true
+ },
+ {
+  "id": "mj-c178-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    418,
+    419
+   ]
+  },
+  "question": "Jak - według zaleceń autora - powinna być modelowana dojęzykowa powierzchnia płyty protezy całkowitej dolnej?",
+  "options": {
+   "A": "wklęśle, jako łożysko dostosowane do wypukłości języka, który działa podtrzymująco",
+   "B": "z ostro zakończonym pobrzeżem sięgającym poniżej wędzidełka języka",
+   "C": "z wyraźnym uskokiem w odcinku przednim, oddzielającym ją od dna jamy ustnej",
+   "D": "wypukło, aby zmniejszyć przestrzeń dla języka i zwiększyć przyleganie płyty",
+   "E": "płasko, bez jakiegokolwiek ukształtowania łożyska dla nasady języka"
+  },
+  "correct": "A",
+  "explanation": "Prawidłowo modelowana dojęzykowa powierzchnia płyty dolnej jest wklęsła i dostosowana do wypukłości języka, który wtedy działa podtrzymująco; płyta wypukła pomniejsza miejsce dla języka i działa wyważająco."
+ },
+ {
+  "id": "mj-c178-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    418,
+    419
+   ]
+  },
+  "question": "Które czynniki utrzymujące protezę dolną na podłożu przewyższają swoim znaczeniem pozostałe?",
+  "options": {
+   "A": "ciśnienie atmosferyczne w komorach ssących wykonanych w płycie protezy",
+   "B": "adhezja i przyssanie do podłoża, przewyższające działanie sił mięśniowych",
+   "C": "ciężar własny protezy, przewyższający działanie sił mięśniowych i adhezji",
+   "D": "napięcie powierzchniowe śliny między zębami sztucznymi a błoną śluzową policzka",
+   "E": "siły mięśniowe okolicznych tkanek, przewyższające ciężar protezy, adhezję i przyssanie"
+  },
+  "correct": "E",
+  "explanation": "W przypadku protezy dolnej siły mięśniowe okolicznych tkanek przekraczają działanie innych czynników utrzymujących, takich jak ciężar protezy, adhezja i przyssanie do podłoża."
+ },
+ {
+  "id": "mj-c179-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    420,
+    421
+   ]
+  },
+  "question": "Jak definiuje się stabilizację i retencję protezy całkowitej?",
+  "options": {
+   "A": "stabilizacja to opór przeciw siłom poziomym i rotacyjnym, retencja - opór przeciw odpadaniu protezy",
+   "B": "stabilizacja to szczelność brzeżna płyty, retencja - równomierny rozkład sił żucia",
+   "C": "stabilizacja to zdolność do odtworzenia estetyki, retencja - zdolność do odtworzenia funkcji żucia",
+   "D": "stabilizacja to opór podłoża na ucisk, retencja - podatność błony śluzowej na odkształcenie",
+   "E": "stabilizacja to opór przeciw odpadaniu protezy, retencja - opór przeciw siłom poziomym"
+  },
+  "correct": "A",
+  "explanation": "Stabilizacja to opór chroniący protezę przed siłami poziomymi i rotacyjnymi, przesuwającymi ją względem podłoża, a retencja (fiksacja) to opór przeciwdziałający odpadaniu protezy od podłoża."
+ },
+ {
+  "id": "mj-c179-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    420,
+    421
+   ]
+  },
+  "question": "Jaki jest prawidłowy zasięg pobrzeża płyty protezy całkowitej górnej w stosunku do strefy neutralnej i granicy podniebienia twardego?",
+  "options": {
+   "A": "ok. 2,0 mm przed strefą neutralną w przedsionku i ok. 3,0 mm przed granicą podniebienia twardego",
+   "B": "ok. 1,0-2,0 mm poza strefą neutralną w przedsionku i ok. 3,0 mm poza granicą podniebienia twardego",
+   "C": "ok. 3,0 mm poza strefą neutralną w przedsionku i dokładnie na granicy podniebienia twardego",
+   "D": "dokładnie na linii strefy neutralnej i dokładnie na granicy podniebienia twardego",
+   "E": "ok. 5,0 mm poza strefą neutralną w przedsionku i ok. 8,0 mm poza granicą podniebienia twardego"
+  },
+  "correct": "B",
+  "explanation": "Prawidłowy przebieg pobrzeża protezy górnej to ok. 1,0-2,0 mm poza strefą neutralną w przedsionku i ok. 3,0 mm poza granicą podniebienia twardego w strefie A-H."
+ },
+ {
+  "id": "mj-c179-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    420,
+    421
+   ]
+  },
+  "question": "Bezpośrednio po pobraniu wycisku czynnościowego łyżką indywidualną stwierdzono, że masa wyciskowa odwarstwiła się od łyżki. Jakie postępowanie jest właściwe i co najczęściej jest przyczyną tego błędu?",
+  "options": {
+   "A": "skleić masę z łyżką klejem i przekazać wycisk do pracowni; przyczyną jest zbyt gęsta masa",
+   "B": "powtórzyć wycisk; przyczyną jest błędna technika zdejmowania, tj. pociąganie łyżki za uchwyt",
+   "C": "skrócić pobrzeża łyżki i odlać model; przyczyną jest nadmierne rozprzestrzenienie płyty",
+   "D": "odlać model mimo odwarstwienia; przyczyną jest zbyt długi czas wiązania masy wyciskowej",
+   "E": "wykonać wycisk anatomiczny masą alginatową; przyczyną jest nadmierna podatność podłoża"
+  },
+  "correct": "B",
+  "explanation": "Odwarstwienie masy od łyżki całkowicie dyskwalifikuje wycisk, który należy powtórzyć; częstą przyczyną jest błędna technika zdejmowania - zamiast pociągania łyżki za uchwyt należy uciskać masę palcem w przedsionku ruchem półobrotowym.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "mj-c180-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    422,
+    423
+   ]
+  },
+  "question": "Które określenie prawidłowo opisuje adhezję i kohezję jako siły utrzymujące protezę na podłożu?",
+  "options": {
+   "A": "adhezja to przyciąganie molekuł różnych ciał, kohezja - molekuł tego samego ciała",
+   "B": "adhezja zależy od ciśnienia atmosferycznego, a kohezja od ciężaru własnego protezy",
+   "C": "adhezja to opór przeciw siłom poziomym, a kohezja - opór przeciw siłom pionowym",
+   "D": "adhezja i kohezja to synonimy oznaczające przyciąganie międzycząsteczkowe w śliny",
+   "E": "adhezja to przyciąganie molekuł tego samego ciała, kohezja - molekuł różnych ciał"
+  },
+  "correct": "A",
+  "explanation": "Adhezja jest siłą fizycznego przyciągania między molekułami różnych ciał, a kohezja (spójność międzycząsteczkowa) - między molekułami tego samego ciała; obie są wprost proporcjonalne do powierzchni kontaktowych."
+ },
+ {
+  "id": "mj-c180-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    422,
+    423
+   ]
+  },
+  "question": "Do gabinetu zgłasza się pacjent bezzębny, u którego nowa proteza całkowita górna wykonuje ruchy kołyszące wokół wyraźnie wygórowanego wału podniebiennego. Jakie postępowanie laboratoryjne jest w tym przypadku właściwe?",
+  "options": {
+   "A": "pogrubienie płyty protezy w okolicy wału w celu zwiększenia jej wytrzymałości",
+   "B": "skrócenie pobrzeża protezy w przedsionku o ok. 3 mm na całym jego przebiegu",
+   "C": "wykonanie odciążenia wału przez naklejenie płatka folii na model przed puszkowaniem",
+   "D": "wykonanie komory ssącej w płycie protezy w miejscu największego wygórowania",
+   "E": "przestawienie zębów bocznych na typ ostroguzkowy zwiększający interkuspidację"
+  },
+  "correct": "C",
+  "explanation": "Wygórowany wał podniebienny staje się osią obrotu i powoduje ruchy kołyszące protezy; najpopularniejszą metodą odciążenia jest naklejenie płatka folii na model roboczy przed puszkowaniem.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "mj-c180-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    422,
+    423
+   ]
+  },
+  "question": "Jaki jest mechanizm powstawania porowatości płyty protezy akrylowej podczas polimeryzacji?",
+  "options": {
+   "A": "gwałtowne ogrzewanie, przy którym wrzący w 100,3°C monomer zamienia się w parę w głębi tworzywa",
+   "B": "zbyt wolne podgrzewanie puszki, powodujące krystalizację polimeru w warstwach zewnętrznych",
+   "C": "nadmierne ciśnienie prasowania, wtłaczające powietrze w warstwy dośluzowe płyty",
+   "D": "nadmierna ilość izolacji na modelu, wnikającej między warstwy ciasta akrylowego",
+   "E": "zbyt niska temperatura wody w puszce, uniemożliwiająca związanie monomeru z polimerem"
+  },
+  "correct": "A",
+  "explanation": "Przy gwałtownym dostarczaniu ciepła powierzchnia protezy szybko polimeryzuje, a wolny monomer pozostały w głębszych warstwach po osiągnięciu temperatury wrzenia 100,3°C zamienia się w parę, dając wewnętrzną i zewnętrzną porowatość tworzywa."
+ },
+ {
+  "id": "mj-c181-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    424,
+    425
+   ]
+  },
+  "question": "Jakie jest zadanie materiałów elastycznych wyścielających dośluzową powierzchnię płyty protezy całkowitej u pacjenta ze znacznie zanikłym podłożem?",
+  "options": {
+   "A": "trwałe odbudowanie zanikłego wyrostka zębodołowego pacjenta",
+   "B": "zwiększenie twardości płyty protezy i jej odporności na złamania",
+   "C": "zapobieganie osadzaniu się płytki nazębnej na powierzchni protezy",
+   "D": "przyspieszenie procesu polimeryzacji tworzywa akrylowego protezy",
+   "E": "amortyzowanie urazów zgryzowych przekazywanych na podłoże śluzówkowo-kostne"
+  },
+  "correct": "E",
+  "explanation": "Według tekstu w trudnych przypadkach bezzębia z zanikłym podłożem stosuje się materiały elastyczne wyścielające płytę, których zadaniem jest amortyzowanie urazów zgryzowych przekazywanych na podłoże śluzówkowo-kostne.",
+  "core": true
+ },
+ {
+  "id": "mj-c181-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    424,
+    425
+   ]
+  },
+  "question": "Które następstwo jest typowe dla obniżonej wysokości zwarciowej u pacjenta użytkującego protezy całkowite?",
+  "options": {
+   "A": "zwiotczenie mięśni, zwiększona ruchomość protezy i zapalenie kątów ust",
+   "B": "wzrost napięcia mięśni i nadmierny ucisk płyty na podłoże",
+   "C": "perforacja podniebienia twardego w następstwie drażnienia tkanek",
+   "D": "nadmierna interkuspidacja zębów bocznych i blokowanie ruchów ślizgowych",
+   "E": "całkowite zniesienie przesuwalności protezy na podłożu śluzówkowym"
+  },
+  "correct": "A",
+  "explanation": "Tekst wskazuje, że w warunkach obniżonej wysokości zwarciowej dochodzi do zwiotczenia mięśni, zwiększenia ruchomości protezy i niekiedy zapalenia kątów ust (cheilitis angularis)."
+ },
+ {
+  "id": "mj-c181-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    424,
+    425
+   ]
+  },
+  "question": "Na czym polega patomechanizm uszkadzającego działania wolnego (resztkowego) monomeru na błonę śluzową?",
+  "options": {
+   "A": "na wiązaniu jonów wapnia i odwapnieniu podłoża kostnego wyrostka",
+   "B": "na obniżaniu pH śliny i sprzyjaniu rozwojowi próchnicy zębów",
+   "C": "na blokowaniu wydzielania śliny przez gruczoły podniebienne",
+   "D": "na mechanicznym ścieraniu nabłonka przez twarde cząstki tworzywa",
+   "E": "na rozpuszczaniu lipidów tkankowych, wnikaniu do komórek i uszkadzaniu ich cytoplazmy"
+  },
+  "correct": "E",
+  "explanation": "Zgodnie z tekstem wolny monomer rozpuszcza lipidy tkankowe, wnika w głąb komórek i uszkadza ich cytoplazmę, a nasilenie objawów zależy od ilości i szybkości jego uwalniania."
+ },
+ {
+  "id": "mj-c182-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    426,
+    427
+   ]
+  },
+  "question": "Jakie jest zalecane oddalenie brzegu płyty protezy częściowej od szyjek zębów własnych pacjenta?",
+  "options": {
+   "A": "brzeg płyty powinien ściśle przylegać do szyjek zębów",
+   "B": "nie mniej niż 20,0 mm w szczęce i w żuchwie",
+   "C": "około 4,0 mm wyłącznie w odcinku przednim szczęki",
+   "D": "przynajmniej 10,0 mm tam, gdzie jest to możliwe",
+   "E": "dokładnie 2,0 mm na całym przebiegu brzegu płyty"
+  },
+  "correct": "D",
+  "explanation": "Tekst zaleca wyraźne odsunięcie brzegów płyty od szyjek zębowych, wynoszące tam, gdzie to możliwe, przynajmniej 10,0 mm."
+ },
+ {
+  "id": "mj-c182-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    426,
+    427
+   ]
+  },
+  "question": "Jakie powikłanie grozi przy zbyt małym (poniżej 6,0 mm) oddaleniu brzegu płyty protezy od szyjek zębów?",
+  "options": {
+   "A": "złamanie zmęczeniowe łuku podjęzykowego protezy",
+   "B": "zapalenie dziąsła brzeżnego przechodzące w ziarniniak szczelinowaty",
+   "C": "wzrost stężenia wolnego monomeru w tworzywie protezy",
+   "D": "całkowita utrata podparcia ozębnowego na zębach filarowych",
+   "E": "trwałe przemieszczenie krążka stawu skroniowo-żuchwowego"
+  },
+  "correct": "B",
+  "explanation": "Według tekstu przy oddaleniu poniżej 6,0 mm powstaje stan zapalny dziąsła brzeżnego, przechodzący w zapalenie rozrostowe błony śluzowej wpuklającej się w szczelinę, klinicznie określane jako ziarniniak szczelinowaty (granuloma fissuratum)."
+ },
+ {
+  "id": "mj-c182-003",
+  "type": "combined",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    426,
+    427
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące elementów konstrukcyjnych protez częściowych:\n1. Elementy podpierające należy lokalizować na poziomych powierzchniach zębów, aby obciążenia biegły wzdłuż długich osi zębów.\n2. Połączenia podparć z trzonem protezy powinny być sprężyste i podatne.\n3. W przypadkach braków międzyzębowych najkorzystniejsze jest bliskie podparcie czteropunktowe.\n4. Łuk podjęzykowy powinien mieć przekrój owalny o grubości 2,0-3,0 mm.",
+  "options": {
+   "A": "tylko 1, 3 i 4",
+   "B": "żadna z powyższych",
+   "C": "wszystkie prawidłowe",
+   "D": "tylko 2 i 3",
+   "E": "tylko 1 i 2"
+  },
+  "correct": "A",
+  "explanation": "Tekst wymaga sztywnych, a nie sprężystych połączeń podparć z trzonem protezy, więc stwierdzenie 2 jest fałszywe; pozostałe trzy odpowiadają podanym wytycznym.",
+  "core": true
+ },
+ {
+  "id": "mj-c183-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    428,
+    430
+   ]
+  },
+  "question": "Czym blokuje się podcienie na modelach roboczych przygotowanych do powielania?",
+  "options": {
+   "A": "gipsem twardym nakładanym bez kontroli przyrządu",
+   "B": "masą wyciskową silikonową o dużej gęstości",
+   "C": "specjalnym cementem utwardzanym światłem",
+   "D": "woskiem, pod kontrolą noża paralelometru",
+   "E": "materiałem elastycznym typu wyścielającego protezy"
+  },
+  "correct": "D",
+  "explanation": "Tekst rozróżnia: na modelach nieprzeznaczonych do powielania podcienie blokuje się gipsem lub specjalnym cementem, a na modelach do powielania – woskiem pod kontrolą noża paralelometru.",
+  "core": true
+ },
+ {
+  "id": "mj-c183-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    428,
+    430
+   ]
+  },
+  "question": "Jakiego kontaktu powierzchni stycznych sąsiadujących koron protetycznych wymagają względy higieniczne?",
+  "options": {
+   "A": "kontaktu punktowego w okolicy brzegu przydziąsłowego",
+   "B": "całkowitego zniesienia kontaktu między koronami",
+   "C": "kontaktu płaszczyznowego z uciskiem na brodawkę dziąsłową",
+   "D": "kontaktu płaszczyznowego na całej wysokości korony",
+   "E": "kontaktu liniowego, z otwartymi przestrzeniami międzyzębowymi"
+  },
+  "correct": "E",
+  "explanation": "Według tekstu ze względów higienicznych zaleca się przestrzenie otwarte i styk liniowy, bo styk płaszczyznowy uciska brodawkę dziąsłową i tworzy powierzchnię niedostępną dla zabiegów higienicznych."
+ },
+ {
+  "id": "mj-c183-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    428,
+    430
+   ]
+  },
+  "question": "Które guzki są guzkami utrzymującymi zwarcie i modeluje się je jako pierwsze, z wosku czerwonego?",
+  "options": {
+   "A": "policzkowe w żuchwie i językowe w szczęce",
+   "B": "językowe w szczęce i w żuchwie",
+   "C": "językowe w żuchwie i policzkowe w szczęce",
+   "D": "wyłącznie guzki zębów przedtrzonowych obu łuków",
+   "E": "policzkowe w szczęce i w żuchwie"
+  },
+  "correct": "A",
+  "explanation": "Tekst podaje, że guzki utrzymujące zwarcie, tj. policzkowe w żuchwie i językowe w szczęce, modeluje się jako pierwsze z wosku czerwonego, a pozostałe z wosku granatowego."
+ },
+ {
+  "id": "mj-c184-001",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    431,
+    433
+   ]
+  },
+  "question": "Dlaczego wymiar policzkowo-językowy przęsła w odcinku bocznym może być zredukowany w stosunku do zastępowanych zębów?",
+  "options": {
+   "A": "aby umożliwić rezygnację z licowania powierzchni żującej przęsła",
+   "B": "ze względu na biomechaniczną wytrzymałość zębów filarowych i skuteczność higieny",
+   "C": "aby zwiększyć siłę żucia przenoszoną przez zęby przeciwstawne",
+   "D": "ze względu na wymogi fonetyczne, ważniejsze w odcinku bocznym niż przednim",
+   "E": "aby uzyskać płaszczyznowy kontakt przęsła z błoną śluzową wyrostka"
+  },
+  "correct": "B",
+  "explanation": "Tekst uzasadnia redukcję wymiaru policzkowo-językowego przęsła bocznego względami biomechanicznej wytrzymałości zębów filarowych oraz ułatwieniem skuteczności zabiegów higienicznych.",
+  "core": true
+ },
+ {
+  "id": "mj-c184-002",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    431,
+    433
+   ]
+  },
+  "question": "Jak według tekstu należy kształtować części dowyrostkowe mostów w bocznym odcinku żuchwy?",
+  "options": {
+   "A": "jako jednolitą, płaską kładkę przylegającą do wyrostka zębodołowego",
+   "B": "indywidualnie, na kształt obłych szyjek zębowych oddalonych od wyrostka",
+   "C": "jako wklęsłe siodła obejmujące szczyt wyrostka zębodołowego",
+   "D": "z płaszczyznowym kontaktem z błoną śluzową na całej długości przęsła",
+   "E": "jako blok o pełnym wymiarze policzkowo-językowym zastępowanych zębów"
+  },
+  "correct": "B",
+  "explanation": "Tekst zaleca indywidualne kształtowanie części dowyrostkowych na kształt szyjek zębów o obłym kształcie dodziąsłowym, oddalonych od wyrostka, co umożliwia przepływ śliny i ułatwia oczyszczanie."
+ },
+ {
+  "id": "mj-c184-003",
+  "source": {
+   "book": "Majewski",
+   "pages": [
+    431,
+    433
+   ]
+  },
+  "question": "Co jest charakterystyczne dla technologii CAD/CAM wprowadzanych w ostatnim okresie w wykonawstwie protez stałych?",
+  "options": {
+   "A": "odstąpienie od kształtowania okluzji według danych indywidualnych pacjenta",
+   "B": "ograniczenie zastosowania wyłącznie do protez ruchomych częściowych",
+   "C": "coraz częstsze wykonawstwo bez udziału metalu, z lepszym efektem estetycznym",
+   "D": "rezygnacja z wymogów wytrzymałościowych na rzecz samej estetyki",
+   "E": "konieczność stosowania podbudowy ze stopów chromokobaltowych"
+  },
+  "correct": "C",
+  "explanation": "Tekst wskazuje, że technologie CAD/CAM wykorzystują materiały spełniające wymogi biologiczne i wytrzymałościowe, coraz częściej bez udziału metalu, dając lepsze efekty estetyczne przy zachowaniu parametrów mechanicznych."
+ },
+ {
   "id": "pd-c003-001",
   "source": {
    "book": "Gorska",

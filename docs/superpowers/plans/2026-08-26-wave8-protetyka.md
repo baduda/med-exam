@@ -37,15 +37,15 @@ New identifiers (fixed, stable forever):
 
 ## Phase 1 — ingestion (mechanical)
 
-- [ ] `pipeline/books.py`: register both PDFs. `mj` is an ordinary `text` book;
+- [x] `pipeline/books.py`: register both PDFs. `mj` is an ordinary `text` book;
       `dj` is `"mode": "spread"` (see phase 2).
-- [ ] `pipeline/extract.py`: `dehyphenate()` must drop the **soft hyphen** (U+00AD).
+- [x] `pipeline/extract.py`: `dehyphenate()` must drop the **soft hyphen** (U+00AD).
       Majewski's OCR marks every line-break hyphenation with `\xad` instead of `-`,
       which reads as 5.1% garbled tokens until joined; the real rate is 0.09%. No
       existing book contains a single U+00AD, so the change is a no-op for them.
-- [ ] `pipeline/tests/test_extract.py`: cover `\xad` joining and the spread paging.
-- [ ] `docs/app.js`: one `BOOKS` row per book.
-- [ ] `python pipeline/extract.py && python pipeline/chunk.py`.
+- [x] `pipeline/tests/test_extract.py`: cover `\xad` joining and the spread paging.
+- [x] `docs/app.js`: one `BOOKS` row per book.
+- [x] `python pipeline/extract.py && python pipeline/chunk.py`.
 
 ## Phase 2 — Dejak is a spread PDF (decided, not deferred)
 
@@ -110,3 +110,32 @@ Bank 3534 -> **~4180**.
 - [x] `docs/app.js` rows added
 - [x] `extract.py`: Majewski 430/438 pages with text; Dejak 197 spreads -> printed 1-393
 - [x] `chunk.py`: 1514 chunks total, `mj-c001..c187`, `dj-c001..c084`, no page drift
+
+## Wave 8 result (done 2026-08-26)
+
+Three batches of parallel agents, ten chunks each; both books are complete.
+
+| Book | chunks | skipped | questions | Q/chunk |
+|---|---|---|---|---|
+| Majewski | 187/187 | 9 | **534** | 2.86 |
+| Dejak | 84/84 | 3 | **241** | 2.87 |
+
+Skips were exactly the shapes the plan named: Majewski front matter
+(mj-c001..c005 — title, spis treści, the author's own monograph list, preface),
+a blank "Historia choroby" consent form (mj-c061), and the Skorowidz
+(mj-c185..c187); Dejak spis treści (dj-c001) and the Piśmiennictwo + index tail
+(dj-c083, dj-c084). A few chunks yielded 2 instead of 3 where the rest of the
+chunk was a bibliography block.
+
+Types across the two books: 716 standard, 31 clinical, 28 combined.
+Majewski citations span PDF pages 17-433; Dejak printed pages 8-390.
+
+Every question was cross-checked against its own chunk after each batch — no id,
+page or book mismatch in 271 per-chunk files.
+
+Estimate vs actual: 445 predicted for Majewski, 534 actual (+20%); 200 predicted
+for Dejak, 241 actual (+20%). The 2.7 Q/chunk baseline was low — both books ran
+at 2.86, near the protocol ceiling of 3, because almost every chunk is dense
+prose rather than the mixed matter of the earlier scans.
+
+Bank 3534 -> **4309** (1742 core).
