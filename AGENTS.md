@@ -9,7 +9,7 @@ doctors for the Polish medical verification exam (nostryfikacja / LDEW). Two par
 a build pipeline that turns PDFs into `data/questions.json`, and a static web app
 that serves the quiz.
 
-Seven source books across three domains, declared in `pipeline/books.py`:
+Nine source books across four domains, declared in `pipeline/books.py`:
 
 | book_id | `source.book` | Title | Domain |
 |---|---|---|---|
@@ -18,6 +18,8 @@ Seven source books across three domains, declared in `pipeline/books.py`:
 | `ae` | `Arabska` | Arabska-Przedpełska, Pawlicka, *Współczesna endodoncja w praktyce* | zachowawcza |
 | `pd` | `Gorska` | Górska, Konopka, *Periodontologia współczesna* (2013) | periodontologia |
 | `pl` | `GorskaLDEK` | Górska (red.), *Periodontologia. Podręcznik dla studentów i do LDEK* (2022) | periodontologia |
+| `mj` | `Majewski` | Majewski, *Współczesna protetyka stomatologiczna* | protetyka |
+| `dj` | `Dejak` | Dejak, *Vademecum wykonywania protez stałych i ruchomych* | protetyka |
 
 The web app lets the user practise any combination of books.
 
@@ -102,6 +104,15 @@ Two inputs:
 It reads the per-chunk sources under `data/questions/`, not the built bank, so it
 can run before or after `assemble.py`. It exits non-zero if a book ends up with
 no core questions at all. Re-run after every generation wave.
+
+### Books typeset as spreads
+
+The Dejak vademecum has a text layer, but one PDF page holds two facing printed
+pages. Unlike the Górska LDEK scan the numbering is a formula — `left = 2 * pdf - 2`
+— so no hand-read pagemap is needed. Such a book is declared `"mode": "spread"` and
+`extract.py` emits each spread whole, numbered with its left printed page. It is not
+split geometrically: the gutter is off-centre and the page is rotated 90 degrees, so
+a midpoint clip cuts words in half (`powierzchnia` -> `owierzchnia`).
 
 ### Books without a text layer
 
