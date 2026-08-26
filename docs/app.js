@@ -14,6 +14,8 @@ const BOOKS = [
   ["Arabska", "Arabska — endodoncja"],
   ["Gorska", "Górska — periodontologia"],
   ["GorskaLDEK", "Górska — periodontologia (LDEK 2022)"],
+  ["Majewski", "Majewski — protetyka"],
+  ["Dejak", "Dejak — vademecum protetyczne"],
 ];
 
 let questions = [];

@@ -12,14 +12,17 @@ explicit mapping, so every source PDF is declared here instead of guessed.
 - `domain`   — broad exam area, used to group books in the UI.
 - `mode`     — how `extract.py` gets the text out. See below.
 
-Three ingestion modes
----------------------
+Four ingestion modes
+--------------------
 - "text" (the default) — the PDF has a usable text layer, so `extract.py` reads
   it straight out.
 - "scan" — no text layer, but a flat, sharp scan that Tesseract handles well.
   The Perio Górska 2022 source is photographed as two-page *spreads*, so each
   PDF page is cut in half and OCR'd separately; printed page numbers come from
   data/pagemap/. See scan.py.
+- "spread" — a text layer is present, but one PDF page holds two facing printed
+  pages (the Dejak vademecum). The text is read whole and the record is numbered
+  with the spread's *left* printed page; see extract.py for why it is not split.
 - "image" — no text layer and OCR is hopeless. The Periodontologia 2013 source
   is phone photos at ~96 dpi with curved lines and a finger in frame, where
   Tesseract returns ~20% garbled tokens against a <2% gate. Those pages are
@@ -45,6 +48,11 @@ BOOKS = (
     {"pattern": "Perio Górska*.pdf", "book_id": "pl", "book": "GorskaLDEK",
      "label": "Górska — periodontologia (LDEK 2022)", "domain": "periodontologia",
      "mode": "scan"},
+    {"pattern": "OCR Majewski*.pdf", "book_id": "mj", "book": "Majewski",
+     "label": "Majewski — protetyka stomatologiczna", "domain": "protetyka"},
+    {"pattern": "Vademecum_wykonywania_protez*.pdf", "book_id": "dj", "book": "Dejak",
+     "label": "Dejak — vademecum protetyczne", "domain": "protetyka",
+     "mode": "spread"},
 )
 
 # Files in books/ that are deliberately not sources. The original Arabska PDF is

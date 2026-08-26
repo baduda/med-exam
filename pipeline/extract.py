@@ -4,8 +4,9 @@ No chapter/section detection — the books are dense and irregularly structured,
 so downstream chunking uses simple word windows over consecutive pages
 (see chunk.py). Each page keeps its 1-based page number for source references.
 
-Books without a text layer take one of two other routes (see books.py). A
-`mode: "scan"` book is OCR'd here via scan.py. A `mode: "image"` book cannot be
+Books that do not fit the plain one-page-one-record shape take another route
+(see books.py). A `mode: "spread"` book has a text layer but two printed pages
+per PDF page. A `mode: "scan"` book is OCR'd here via scan.py. A `mode: "image"` book cannot be
 OCR'd at all, so its pages are rendered to JPEG under data/images/<book_id>/ and
 the per-page record carries an image path instead of text; an agent reads the
 images (see transcribe.py). Rendering those uses the images' native resolution —
@@ -31,7 +32,13 @@ JPEG_QUALITY = 80
 
 
 def dehyphenate(text: str) -> str:
-    """Join line-break hyphenation and collapse whitespace to single spaces."""
+    """Join line-break hyphenation and collapse whitespace to single spaces.
+
+    Majewski's OCR marks hyphenation with a SOFT HYPHEN (U+00AD) rather than "-",
+    both at line breaks and mid-line; left in, it reads as 5% garbled tokens
+    ("kształ\xadtowanie") against a <2% gate. No other source book contains one.
+    """
+    text = text.replace("\u00ad\n", "").replace("\u00ad", "")
     text = re.sub(r"-[ \t]*\n", "", text)    # join hyphenated line breaks
     text = re.sub(r"\n+", " ", text)          # remaining newlines -> spaces
     return re.sub(r"[ \t]+", " ", text).strip()
@@ -41,6 +48,26 @@ def extract_book(pdf_path: Path, book: str) -> dict:
     """Return {"book": "Tom2", "pages": [{"page": 1, "text": "..."}, ...]}."""
     doc = fitz.open(pdf_path)
     pages = [{"page": i + 1, "text": dehyphenate(doc[i].get_text())}
+             for i in range(doc.page_count)]
+    return {"book": book, "pages": pages}
+
+
+def extract_spread_book(pdf_path: Path, book: str) -> dict:
+    """Like extract_book(), but one PDF page carries two facing printed pages.
+
+    The Dejak vademecum is typeset as spreads, rotated 90 degrees, with the
+    printed numbering `left = 2 * pdf_page - 2` (verified at pdf 4->6, 11->20,
+    51->100, 151->300, 197->392). The spread is NOT split geometrically: the
+    gutter is off-centre, so a midpoint clip cuts words in half
+    ("powierzchnia" -> "owierzchnia"), and clustering blocks back into two
+    columns buys only +/-1 page of precision. Each spread is emitted whole and
+    numbered with its left printed page, so a citation names the spread that
+    carries the text. The text layer is the publisher's own, so reading order
+    across the spread is already correct.
+    """
+    doc = fitz.open(pdf_path)
+    pages = [{"page": max(1, 2 * (i + 1) - 2),
+              "text": dehyphenate(doc[i].get_text())}
              for i in range(doc.page_count)]
     return {"book": book, "pages": pages}
 
@@ -85,6 +112,10 @@ def main() -> None:
         if mode(entry) == "image":
             data = render_book(pdf, entry["book"], entry["book_id"])
             kind = f"{len(data['pages'])} page images"
+        elif mode(entry) == "spread":
+            data = extract_spread_book(pdf, entry["book"])
+            kind = f"{len(data['pages'])} spreads -> printed pages " \
+                   f"{data['pages'][0]['page']}-{data['pages'][-1]['page'] + 1}"
         elif mode(entry) == "scan":
             data = scan_book(pdf, entry["book"], entry["book_id"], dehyphenate)
             kind = f"{len(data['pages'])} pages OCR'd from spreads"

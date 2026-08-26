@@ -1323,6 +1323,762 @@
    "words": 763,
    "generated": true
   },
+  "dj-c001": {
+   "book": "Dejak",
+   "pages": [
+    1,
+    6
+   ],
+   "words": 876,
+   "generated": false
+  },
+  "dj-c002": {
+   "book": "Dejak",
+   "pages": [
+    8,
+    12
+   ],
+   "words": 1014,
+   "generated": false
+  },
+  "dj-c003": {
+   "book": "Dejak",
+   "pages": [
+    14,
+    16
+   ],
+   "words": 707,
+   "generated": false
+  },
+  "dj-c004": {
+   "book": "Dejak",
+   "pages": [
+    18,
+    22
+   ],
+   "words": 1140,
+   "generated": false
+  },
+  "dj-c005": {
+   "book": "Dejak",
+   "pages": [
+    24,
+    30
+   ],
+   "words": 1040,
+   "generated": false
+  },
+  "dj-c006": {
+   "book": "Dejak",
+   "pages": [
+    32,
+    34
+   ],
+   "words": 1054,
+   "generated": false
+  },
+  "dj-c007": {
+   "book": "Dejak",
+   "pages": [
+    36,
+    38
+   ],
+   "words": 857,
+   "generated": false
+  },
+  "dj-c008": {
+   "book": "Dejak",
+   "pages": [
+    40,
+    42
+   ],
+   "words": 951,
+   "generated": false
+  },
+  "dj-c009": {
+   "book": "Dejak",
+   "pages": [
+    44,
+    46
+   ],
+   "words": 1131,
+   "generated": false
+  },
+  "dj-c010": {
+   "book": "Dejak",
+   "pages": [
+    48,
+    52
+   ],
+   "words": 906,
+   "generated": false
+  },
+  "dj-c011": {
+   "book": "Dejak",
+   "pages": [
+    54,
+    56
+   ],
+   "words": 921,
+   "generated": false
+  },
+  "dj-c012": {
+   "book": "Dejak",
+   "pages": [
+    58,
+    60
+   ],
+   "words": 919,
+   "generated": false
+  },
+  "dj-c013": {
+   "book": "Dejak",
+   "pages": [
+    62,
+    64
+   ],
+   "words": 908,
+   "generated": false
+  },
+  "dj-c014": {
+   "book": "Dejak",
+   "pages": [
+    66,
+    68
+   ],
+   "words": 887,
+   "generated": false
+  },
+  "dj-c015": {
+   "book": "Dejak",
+   "pages": [
+    70,
+    72
+   ],
+   "words": 794,
+   "generated": false
+  },
+  "dj-c016": {
+   "book": "Dejak",
+   "pages": [
+    74,
+    76
+   ],
+   "words": 1084,
+   "generated": false
+  },
+  "dj-c017": {
+   "book": "Dejak",
+   "pages": [
+    78,
+    80
+   ],
+   "words": 722,
+   "generated": false
+  },
+  "dj-c018": {
+   "book": "Dejak",
+   "pages": [
+    82,
+    84
+   ],
+   "words": 896,
+   "generated": false
+  },
+  "dj-c019": {
+   "book": "Dejak",
+   "pages": [
+    86,
+    90
+   ],
+   "words": 1025,
+   "generated": false
+  },
+  "dj-c020": {
+   "book": "Dejak",
+   "pages": [
+    92,
+    94
+   ],
+   "words": 824,
+   "generated": false
+  },
+  "dj-c021": {
+   "book": "Dejak",
+   "pages": [
+    96,
+    100
+   ],
+   "words": 888,
+   "generated": false
+  },
+  "dj-c022": {
+   "book": "Dejak",
+   "pages": [
+    102,
+    104
+   ],
+   "words": 746,
+   "generated": false
+  },
+  "dj-c023": {
+   "book": "Dejak",
+   "pages": [
+    106,
+    108
+   ],
+   "words": 709,
+   "generated": false
+  },
+  "dj-c024": {
+   "book": "Dejak",
+   "pages": [
+    110,
+    112
+   ],
+   "words": 856,
+   "generated": false
+  },
+  "dj-c025": {
+   "book": "Dejak",
+   "pages": [
+    114,
+    116
+   ],
+   "words": 1108,
+   "generated": false
+  },
+  "dj-c026": {
+   "book": "Dejak",
+   "pages": [
+    118,
+    122
+   ],
+   "words": 1219,
+   "generated": false
+  },
+  "dj-c027": {
+   "book": "Dejak",
+   "pages": [
+    124,
+    126
+   ],
+   "words": 1029,
+   "generated": false
+  },
+  "dj-c028": {
+   "book": "Dejak",
+   "pages": [
+    128,
+    132
+   ],
+   "words": 754,
+   "generated": false
+  },
+  "dj-c029": {
+   "book": "Dejak",
+   "pages": [
+    134,
+    136
+   ],
+   "words": 862,
+   "generated": false
+  },
+  "dj-c030": {
+   "book": "Dejak",
+   "pages": [
+    138,
+    140
+   ],
+   "words": 1061,
+   "generated": false
+  },
+  "dj-c031": {
+   "book": "Dejak",
+   "pages": [
+    142,
+    146
+   ],
+   "words": 905,
+   "generated": false
+  },
+  "dj-c032": {
+   "book": "Dejak",
+   "pages": [
+    148,
+    150
+   ],
+   "words": 974,
+   "generated": false
+  },
+  "dj-c033": {
+   "book": "Dejak",
+   "pages": [
+    152,
+    154
+   ],
+   "words": 810,
+   "generated": false
+  },
+  "dj-c034": {
+   "book": "Dejak",
+   "pages": [
+    156,
+    158
+   ],
+   "words": 800,
+   "generated": false
+  },
+  "dj-c035": {
+   "book": "Dejak",
+   "pages": [
+    160,
+    162
+   ],
+   "words": 928,
+   "generated": false
+  },
+  "dj-c036": {
+   "book": "Dejak",
+   "pages": [
+    164,
+    166
+   ],
+   "words": 841,
+   "generated": false
+  },
+  "dj-c037": {
+   "book": "Dejak",
+   "pages": [
+    168,
+    170
+   ],
+   "words": 720,
+   "generated": false
+  },
+  "dj-c038": {
+   "book": "Dejak",
+   "pages": [
+    172,
+    176
+   ],
+   "words": 967,
+   "generated": false
+  },
+  "dj-c039": {
+   "book": "Dejak",
+   "pages": [
+    178,
+    182
+   ],
+   "words": 802,
+   "generated": false
+  },
+  "dj-c040": {
+   "book": "Dejak",
+   "pages": [
+    184,
+    188
+   ],
+   "words": 884,
+   "generated": false
+  },
+  "dj-c041": {
+   "book": "Dejak",
+   "pages": [
+    190,
+    192
+   ],
+   "words": 819,
+   "generated": false
+  },
+  "dj-c042": {
+   "book": "Dejak",
+   "pages": [
+    194,
+    196
+   ],
+   "words": 1232,
+   "generated": false
+  },
+  "dj-c043": {
+   "book": "Dejak",
+   "pages": [
+    198,
+    200
+   ],
+   "words": 995,
+   "generated": false
+  },
+  "dj-c044": {
+   "book": "Dejak",
+   "pages": [
+    202,
+    204
+   ],
+   "words": 720,
+   "generated": false
+  },
+  "dj-c045": {
+   "book": "Dejak",
+   "pages": [
+    206,
+    208
+   ],
+   "words": 728,
+   "generated": false
+  },
+  "dj-c046": {
+   "book": "Dejak",
+   "pages": [
+    210,
+    216
+   ],
+   "words": 1169,
+   "generated": false
+  },
+  "dj-c047": {
+   "book": "Dejak",
+   "pages": [
+    218,
+    220
+   ],
+   "words": 872,
+   "generated": false
+  },
+  "dj-c048": {
+   "book": "Dejak",
+   "pages": [
+    222,
+    226
+   ],
+   "words": 963,
+   "generated": false
+  },
+  "dj-c049": {
+   "book": "Dejak",
+   "pages": [
+    228,
+    230
+   ],
+   "words": 807,
+   "generated": false
+  },
+  "dj-c050": {
+   "book": "Dejak",
+   "pages": [
+    232,
+    234
+   ],
+   "words": 775,
+   "generated": false
+  },
+  "dj-c051": {
+   "book": "Dejak",
+   "pages": [
+    236,
+    238
+   ],
+   "words": 971,
+   "generated": false
+  },
+  "dj-c052": {
+   "book": "Dejak",
+   "pages": [
+    240,
+    242
+   ],
+   "words": 911,
+   "generated": false
+  },
+  "dj-c053": {
+   "book": "Dejak",
+   "pages": [
+    244,
+    248
+   ],
+   "words": 993,
+   "generated": false
+  },
+  "dj-c054": {
+   "book": "Dejak",
+   "pages": [
+    250,
+    254
+   ],
+   "words": 764,
+   "generated": false
+  },
+  "dj-c055": {
+   "book": "Dejak",
+   "pages": [
+    256,
+    260
+   ],
+   "words": 1068,
+   "generated": false
+  },
+  "dj-c056": {
+   "book": "Dejak",
+   "pages": [
+    262,
+    264
+   ],
+   "words": 796,
+   "generated": false
+  },
+  "dj-c057": {
+   "book": "Dejak",
+   "pages": [
+    266,
+    268
+   ],
+   "words": 1158,
+   "generated": false
+  },
+  "dj-c058": {
+   "book": "Dejak",
+   "pages": [
+    270,
+    274
+   ],
+   "words": 1055,
+   "generated": false
+  },
+  "dj-c059": {
+   "book": "Dejak",
+   "pages": [
+    276,
+    278
+   ],
+   "words": 1007,
+   "generated": false
+  },
+  "dj-c060": {
+   "book": "Dejak",
+   "pages": [
+    280,
+    284
+   ],
+   "words": 1084,
+   "generated": false
+  },
+  "dj-c061": {
+   "book": "Dejak",
+   "pages": [
+    286,
+    288
+   ],
+   "words": 969,
+   "generated": false
+  },
+  "dj-c062": {
+   "book": "Dejak",
+   "pages": [
+    290,
+    294
+   ],
+   "words": 1044,
+   "generated": false
+  },
+  "dj-c063": {
+   "book": "Dejak",
+   "pages": [
+    296,
+    298
+   ],
+   "words": 844,
+   "generated": false
+  },
+  "dj-c064": {
+   "book": "Dejak",
+   "pages": [
+    300,
+    304
+   ],
+   "words": 981,
+   "generated": false
+  },
+  "dj-c065": {
+   "book": "Dejak",
+   "pages": [
+    306,
+    312
+   ],
+   "words": 893,
+   "generated": false
+  },
+  "dj-c066": {
+   "book": "Dejak",
+   "pages": [
+    314,
+    316
+   ],
+   "words": 787,
+   "generated": false
+  },
+  "dj-c067": {
+   "book": "Dejak",
+   "pages": [
+    318,
+    320
+   ],
+   "words": 1051,
+   "generated": false
+  },
+  "dj-c068": {
+   "book": "Dejak",
+   "pages": [
+    322,
+    324
+   ],
+   "words": 814,
+   "generated": false
+  },
+  "dj-c069": {
+   "book": "Dejak",
+   "pages": [
+    326,
+    328
+   ],
+   "words": 727,
+   "generated": false
+  },
+  "dj-c070": {
+   "book": "Dejak",
+   "pages": [
+    330,
+    332
+   ],
+   "words": 814,
+   "generated": false
+  },
+  "dj-c071": {
+   "book": "Dejak",
+   "pages": [
+    334,
+    338
+   ],
+   "words": 1025,
+   "generated": false
+  },
+  "dj-c072": {
+   "book": "Dejak",
+   "pages": [
+    340,
+    342
+   ],
+   "words": 959,
+   "generated": false
+  },
+  "dj-c073": {
+   "book": "Dejak",
+   "pages": [
+    344,
+    346
+   ],
+   "words": 1006,
+   "generated": false
+  },
+  "dj-c074": {
+   "book": "Dejak",
+   "pages": [
+    348,
+    350
+   ],
+   "words": 860,
+   "generated": false
+  },
+  "dj-c075": {
+   "book": "Dejak",
+   "pages": [
+    352,
+    354
+   ],
+   "words": 950,
+   "generated": false
+  },
+  "dj-c076": {
+   "book": "Dejak",
+   "pages": [
+    356,
+    358
+   ],
+   "words": 1000,
+   "generated": false
+  },
+  "dj-c077": {
+   "book": "Dejak",
+   "pages": [
+    360,
+    362
+   ],
+   "words": 913,
+   "generated": false
+  },
+  "dj-c078": {
+   "book": "Dejak",
+   "pages": [
+    364,
+    366
+   ],
+   "words": 1168,
+   "generated": false
+  },
+  "dj-c079": {
+   "book": "Dejak",
+   "pages": [
+    368,
+    372
+   ],
+   "words": 886,
+   "generated": false
+  },
+  "dj-c080": {
+   "book": "Dejak",
+   "pages": [
+    374,
+    378
+   ],
+   "words": 1118,
+   "generated": false
+  },
+  "dj-c081": {
+   "book": "Dejak",
+   "pages": [
+    380,
+    382
+   ],
+   "words": 888,
+   "generated": false
+  },
+  "dj-c082": {
+   "book": "Dejak",
+   "pages": [
+    384,
+    386
+   ],
+   "words": 1179,
+   "generated": false
+  },
+  "dj-c083": {
+   "book": "Dejak",
+   "pages": [
+    388,
+    390
+   ],
+   "words": 1243,
+   "generated": false
+  },
+  "dj-c084": {
+   "book": "Dejak",
+   "pages": [
+    392,
+    392
+   ],
+   "words": 432,
+   "generated": false
+  },
   "pd-c001": {
    "book": "Gorska",
    "pages": [
@@ -5444,6 +6200,1689 @@
    ],
    "words": 582,
    "generated": true
+  },
+  "mj-c001": {
+   "book": "Majewski",
+   "pages": [
+    1,
+    4
+   ],
+   "words": 942,
+   "generated": false
+  },
+  "mj-c002": {
+   "book": "Majewski",
+   "pages": [
+    5,
+    6
+   ],
+   "words": 752,
+   "generated": false
+  },
+  "mj-c003": {
+   "book": "Majewski",
+   "pages": [
+    7,
+    11
+   ],
+   "words": 1185,
+   "generated": false
+  },
+  "mj-c004": {
+   "book": "Majewski",
+   "pages": [
+    12,
+    13
+   ],
+   "words": 787,
+   "generated": false
+  },
+  "mj-c005": {
+   "book": "Majewski",
+   "pages": [
+    14,
+    15
+   ],
+   "words": 922,
+   "generated": false
+  },
+  "mj-c006": {
+   "book": "Majewski",
+   "pages": [
+    17,
+    21
+   ],
+   "words": 756,
+   "generated": false
+  },
+  "mj-c007": {
+   "book": "Majewski",
+   "pages": [
+    22,
+    23
+   ],
+   "words": 894,
+   "generated": false
+  },
+  "mj-c008": {
+   "book": "Majewski",
+   "pages": [
+    24,
+    26
+   ],
+   "words": 960,
+   "generated": false
+  },
+  "mj-c009": {
+   "book": "Majewski",
+   "pages": [
+    27,
+    28
+   ],
+   "words": 1016,
+   "generated": false
+  },
+  "mj-c010": {
+   "book": "Majewski",
+   "pages": [
+    29,
+    30
+   ],
+   "words": 881,
+   "generated": false
+  },
+  "mj-c011": {
+   "book": "Majewski",
+   "pages": [
+    31,
+    32
+   ],
+   "words": 1136,
+   "generated": false
+  },
+  "mj-c012": {
+   "book": "Majewski",
+   "pages": [
+    33,
+    34
+   ],
+   "words": 856,
+   "generated": false
+  },
+  "mj-c013": {
+   "book": "Majewski",
+   "pages": [
+    35,
+    37
+   ],
+   "words": 862,
+   "generated": false
+  },
+  "mj-c014": {
+   "book": "Majewski",
+   "pages": [
+    38,
+    40
+   ],
+   "words": 1203,
+   "generated": false
+  },
+  "mj-c015": {
+   "book": "Majewski",
+   "pages": [
+    41,
+    43
+   ],
+   "words": 1085,
+   "generated": false
+  },
+  "mj-c016": {
+   "book": "Majewski",
+   "pages": [
+    44,
+    46
+   ],
+   "words": 1279,
+   "generated": false
+  },
+  "mj-c017": {
+   "book": "Majewski",
+   "pages": [
+    47,
+    48
+   ],
+   "words": 730,
+   "generated": false
+  },
+  "mj-c018": {
+   "book": "Majewski",
+   "pages": [
+    49,
+    50
+   ],
+   "words": 869,
+   "generated": false
+  },
+  "mj-c019": {
+   "book": "Majewski",
+   "pages": [
+    51,
+    53
+   ],
+   "words": 1055,
+   "generated": false
+  },
+  "mj-c020": {
+   "book": "Majewski",
+   "pages": [
+    54,
+    56
+   ],
+   "words": 874,
+   "generated": false
+  },
+  "mj-c021": {
+   "book": "Majewski",
+   "pages": [
+    57,
+    58
+   ],
+   "words": 1074,
+   "generated": false
+  },
+  "mj-c022": {
+   "book": "Majewski",
+   "pages": [
+    59,
+    60
+   ],
+   "words": 947,
+   "generated": false
+  },
+  "mj-c023": {
+   "book": "Majewski",
+   "pages": [
+    61,
+    62
+   ],
+   "words": 785,
+   "generated": false
+  },
+  "mj-c024": {
+   "book": "Majewski",
+   "pages": [
+    63,
+    64
+   ],
+   "words": 1351,
+   "generated": false
+  },
+  "mj-c025": {
+   "book": "Majewski",
+   "pages": [
+    65,
+    66
+   ],
+   "words": 1209,
+   "generated": false
+  },
+  "mj-c026": {
+   "book": "Majewski",
+   "pages": [
+    67,
+    68
+   ],
+   "words": 1339,
+   "generated": false
+  },
+  "mj-c027": {
+   "book": "Majewski",
+   "pages": [
+    69,
+    70
+   ],
+   "words": 923,
+   "generated": false
+  },
+  "mj-c028": {
+   "book": "Majewski",
+   "pages": [
+    71,
+    72
+   ],
+   "words": 844,
+   "generated": false
+  },
+  "mj-c029": {
+   "book": "Majewski",
+   "pages": [
+    73,
+    74
+   ],
+   "words": 1287,
+   "generated": false
+  },
+  "mj-c030": {
+   "book": "Majewski",
+   "pages": [
+    75,
+    76
+   ],
+   "words": 1012,
+   "generated": false
+  },
+  "mj-c031": {
+   "book": "Majewski",
+   "pages": [
+    77,
+    78
+   ],
+   "words": 1106,
+   "generated": false
+  },
+  "mj-c032": {
+   "book": "Majewski",
+   "pages": [
+    79,
+    80
+   ],
+   "words": 1107,
+   "generated": false
+  },
+  "mj-c033": {
+   "book": "Majewski",
+   "pages": [
+    81,
+    82
+   ],
+   "words": 1215,
+   "generated": false
+  },
+  "mj-c034": {
+   "book": "Majewski",
+   "pages": [
+    83,
+    84
+   ],
+   "words": 1341,
+   "generated": false
+  },
+  "mj-c035": {
+   "book": "Majewski",
+   "pages": [
+    85,
+    86
+   ],
+   "words": 864,
+   "generated": false
+  },
+  "mj-c036": {
+   "book": "Majewski",
+   "pages": [
+    87,
+    88
+   ],
+   "words": 783,
+   "generated": false
+  },
+  "mj-c037": {
+   "book": "Majewski",
+   "pages": [
+    89,
+    90
+   ],
+   "words": 1130,
+   "generated": false
+  },
+  "mj-c038": {
+   "book": "Majewski",
+   "pages": [
+    91,
+    93
+   ],
+   "words": 1320,
+   "generated": false
+  },
+  "mj-c039": {
+   "book": "Majewski",
+   "pages": [
+    94,
+    95
+   ],
+   "words": 1125,
+   "generated": false
+  },
+  "mj-c040": {
+   "book": "Majewski",
+   "pages": [
+    96,
+    97
+   ],
+   "words": 1044,
+   "generated": false
+  },
+  "mj-c041": {
+   "book": "Majewski",
+   "pages": [
+    98,
+    99
+   ],
+   "words": 844,
+   "generated": false
+  },
+  "mj-c042": {
+   "book": "Majewski",
+   "pages": [
+    100,
+    102
+   ],
+   "words": 929,
+   "generated": false
+  },
+  "mj-c043": {
+   "book": "Majewski",
+   "pages": [
+    103,
+    104
+   ],
+   "words": 984,
+   "generated": false
+  },
+  "mj-c044": {
+   "book": "Majewski",
+   "pages": [
+    105,
+    106
+   ],
+   "words": 930,
+   "generated": false
+  },
+  "mj-c045": {
+   "book": "Majewski",
+   "pages": [
+    107,
+    108
+   ],
+   "words": 1241,
+   "generated": false
+  },
+  "mj-c046": {
+   "book": "Majewski",
+   "pages": [
+    109,
+    110
+   ],
+   "words": 1270,
+   "generated": false
+  },
+  "mj-c047": {
+   "book": "Majewski",
+   "pages": [
+    111,
+    112
+   ],
+   "words": 960,
+   "generated": false
+  },
+  "mj-c048": {
+   "book": "Majewski",
+   "pages": [
+    113,
+    115
+   ],
+   "words": 782,
+   "generated": false
+  },
+  "mj-c049": {
+   "book": "Majewski",
+   "pages": [
+    116,
+    117
+   ],
+   "words": 1180,
+   "generated": false
+  },
+  "mj-c050": {
+   "book": "Majewski",
+   "pages": [
+    118,
+    119
+   ],
+   "words": 1020,
+   "generated": false
+  },
+  "mj-c051": {
+   "book": "Majewski",
+   "pages": [
+    120,
+    121
+   ],
+   "words": 1317,
+   "generated": false
+  },
+  "mj-c052": {
+   "book": "Majewski",
+   "pages": [
+    122,
+    123
+   ],
+   "words": 1248,
+   "generated": false
+  },
+  "mj-c053": {
+   "book": "Majewski",
+   "pages": [
+    124,
+    125
+   ],
+   "words": 852,
+   "generated": false
+  },
+  "mj-c054": {
+   "book": "Majewski",
+   "pages": [
+    126,
+    131
+   ],
+   "words": 910,
+   "generated": false
+  },
+  "mj-c055": {
+   "book": "Majewski",
+   "pages": [
+    132,
+    135
+   ],
+   "words": 834,
+   "generated": false
+  },
+  "mj-c056": {
+   "book": "Majewski",
+   "pages": [
+    136,
+    137
+   ],
+   "words": 818,
+   "generated": false
+  },
+  "mj-c057": {
+   "book": "Majewski",
+   "pages": [
+    138,
+    139
+   ],
+   "words": 847,
+   "generated": false
+  },
+  "mj-c058": {
+   "book": "Majewski",
+   "pages": [
+    140,
+    142
+   ],
+   "words": 1274,
+   "generated": false
+  },
+  "mj-c059": {
+   "book": "Majewski",
+   "pages": [
+    143,
+    144
+   ],
+   "words": 846,
+   "generated": false
+  },
+  "mj-c060": {
+   "book": "Majewski",
+   "pages": [
+    145,
+    146
+   ],
+   "words": 742,
+   "generated": false
+  },
+  "mj-c061": {
+   "book": "Majewski",
+   "pages": [
+    147,
+    154
+   ],
+   "words": 1086,
+   "generated": false
+  },
+  "mj-c062": {
+   "book": "Majewski",
+   "pages": [
+    155,
+    156
+   ],
+   "words": 793,
+   "generated": false
+  },
+  "mj-c063": {
+   "book": "Majewski",
+   "pages": [
+    157,
+    158
+   ],
+   "words": 1222,
+   "generated": false
+  },
+  "mj-c064": {
+   "book": "Majewski",
+   "pages": [
+    159,
+    160
+   ],
+   "words": 756,
+   "generated": false
+  },
+  "mj-c065": {
+   "book": "Majewski",
+   "pages": [
+    161,
+    162
+   ],
+   "words": 1138,
+   "generated": false
+  },
+  "mj-c066": {
+   "book": "Majewski",
+   "pages": [
+    163,
+    164
+   ],
+   "words": 1190,
+   "generated": false
+  },
+  "mj-c067": {
+   "book": "Majewski",
+   "pages": [
+    165,
+    167
+   ],
+   "words": 746,
+   "generated": false
+  },
+  "mj-c068": {
+   "book": "Majewski",
+   "pages": [
+    168,
+    171
+   ],
+   "words": 893,
+   "generated": false
+  },
+  "mj-c069": {
+   "book": "Majewski",
+   "pages": [
+    172,
+    175
+   ],
+   "words": 886,
+   "generated": false
+  },
+  "mj-c070": {
+   "book": "Majewski",
+   "pages": [
+    176,
+    177
+   ],
+   "words": 1255,
+   "generated": false
+  },
+  "mj-c071": {
+   "book": "Majewski",
+   "pages": [
+    178,
+    179
+   ],
+   "words": 1325,
+   "generated": false
+  },
+  "mj-c072": {
+   "book": "Majewski",
+   "pages": [
+    180,
+    181
+   ],
+   "words": 1298,
+   "generated": false
+  },
+  "mj-c073": {
+   "book": "Majewski",
+   "pages": [
+    182,
+    183
+   ],
+   "words": 1321,
+   "generated": false
+  },
+  "mj-c074": {
+   "book": "Majewski",
+   "pages": [
+    184,
+    185
+   ],
+   "words": 940,
+   "generated": false
+  },
+  "mj-c075": {
+   "book": "Majewski",
+   "pages": [
+    186,
+    188
+   ],
+   "words": 1143,
+   "generated": false
+  },
+  "mj-c076": {
+   "book": "Majewski",
+   "pages": [
+    189,
+    190
+   ],
+   "words": 743,
+   "generated": false
+  },
+  "mj-c077": {
+   "book": "Majewski",
+   "pages": [
+    191,
+    192
+   ],
+   "words": 793,
+   "generated": false
+  },
+  "mj-c078": {
+   "book": "Majewski",
+   "pages": [
+    193,
+    195
+   ],
+   "words": 970,
+   "generated": false
+  },
+  "mj-c079": {
+   "book": "Majewski",
+   "pages": [
+    196,
+    197
+   ],
+   "words": 950,
+   "generated": false
+  },
+  "mj-c080": {
+   "book": "Majewski",
+   "pages": [
+    198,
+    199
+   ],
+   "words": 959,
+   "generated": false
+  },
+  "mj-c081": {
+   "book": "Majewski",
+   "pages": [
+    200,
+    201
+   ],
+   "words": 1225,
+   "generated": false
+  },
+  "mj-c082": {
+   "book": "Majewski",
+   "pages": [
+    202,
+    203
+   ],
+   "words": 748,
+   "generated": false
+  },
+  "mj-c083": {
+   "book": "Majewski",
+   "pages": [
+    204,
+    205
+   ],
+   "words": 1245,
+   "generated": false
+  },
+  "mj-c084": {
+   "book": "Majewski",
+   "pages": [
+    206,
+    207
+   ],
+   "words": 1027,
+   "generated": false
+  },
+  "mj-c085": {
+   "book": "Majewski",
+   "pages": [
+    208,
+    209
+   ],
+   "words": 864,
+   "generated": false
+  },
+  "mj-c086": {
+   "book": "Majewski",
+   "pages": [
+    210,
+    212
+   ],
+   "words": 1280,
+   "generated": false
+  },
+  "mj-c087": {
+   "book": "Majewski",
+   "pages": [
+    213,
+    214
+   ],
+   "words": 791,
+   "generated": false
+  },
+  "mj-c088": {
+   "book": "Majewski",
+   "pages": [
+    215,
+    216
+   ],
+   "words": 1225,
+   "generated": false
+  },
+  "mj-c089": {
+   "book": "Majewski",
+   "pages": [
+    217,
+    219
+   ],
+   "words": 1097,
+   "generated": false
+  },
+  "mj-c090": {
+   "book": "Majewski",
+   "pages": [
+    220,
+    221
+   ],
+   "words": 1241,
+   "generated": false
+  },
+  "mj-c091": {
+   "book": "Majewski",
+   "pages": [
+    222,
+    223
+   ],
+   "words": 760,
+   "generated": false
+  },
+  "mj-c092": {
+   "book": "Majewski",
+   "pages": [
+    224,
+    225
+   ],
+   "words": 1311,
+   "generated": false
+  },
+  "mj-c093": {
+   "book": "Majewski",
+   "pages": [
+    226,
+    227
+   ],
+   "words": 810,
+   "generated": false
+  },
+  "mj-c094": {
+   "book": "Majewski",
+   "pages": [
+    228,
+    229
+   ],
+   "words": 1232,
+   "generated": false
+  },
+  "mj-c095": {
+   "book": "Majewski",
+   "pages": [
+    230,
+    231
+   ],
+   "words": 959,
+   "generated": false
+  },
+  "mj-c096": {
+   "book": "Majewski",
+   "pages": [
+    232,
+    233
+   ],
+   "words": 1223,
+   "generated": false
+  },
+  "mj-c097": {
+   "book": "Majewski",
+   "pages": [
+    234,
+    235
+   ],
+   "words": 1094,
+   "generated": false
+  },
+  "mj-c098": {
+   "book": "Majewski",
+   "pages": [
+    236,
+    237
+   ],
+   "words": 787,
+   "generated": false
+  },
+  "mj-c099": {
+   "book": "Majewski",
+   "pages": [
+    238,
+    239
+   ],
+   "words": 765,
+   "generated": false
+  },
+  "mj-c100": {
+   "book": "Majewski",
+   "pages": [
+    240,
+    241
+   ],
+   "words": 925,
+   "generated": false
+  },
+  "mj-c101": {
+   "book": "Majewski",
+   "pages": [
+    242,
+    243
+   ],
+   "words": 1209,
+   "generated": false
+  },
+  "mj-c102": {
+   "book": "Majewski",
+   "pages": [
+    244,
+    245
+   ],
+   "words": 1240,
+   "generated": false
+  },
+  "mj-c103": {
+   "book": "Majewski",
+   "pages": [
+    246,
+    247
+   ],
+   "words": 1243,
+   "generated": false
+  },
+  "mj-c104": {
+   "book": "Majewski",
+   "pages": [
+    248,
+    249
+   ],
+   "words": 922,
+   "generated": false
+  },
+  "mj-c105": {
+   "book": "Majewski",
+   "pages": [
+    250,
+    251
+   ],
+   "words": 1002,
+   "generated": false
+  },
+  "mj-c106": {
+   "book": "Majewski",
+   "pages": [
+    252,
+    253
+   ],
+   "words": 735,
+   "generated": false
+  },
+  "mj-c107": {
+   "book": "Majewski",
+   "pages": [
+    254,
+    255
+   ],
+   "words": 906,
+   "generated": false
+  },
+  "mj-c108": {
+   "book": "Majewski",
+   "pages": [
+    256,
+    257
+   ],
+   "words": 1265,
+   "generated": false
+  },
+  "mj-c109": {
+   "book": "Majewski",
+   "pages": [
+    258,
+    260
+   ],
+   "words": 1191,
+   "generated": false
+  },
+  "mj-c110": {
+   "book": "Majewski",
+   "pages": [
+    261,
+    262
+   ],
+   "words": 1215,
+   "generated": false
+  },
+  "mj-c111": {
+   "book": "Majewski",
+   "pages": [
+    263,
+    265
+   ],
+   "words": 974,
+   "generated": false
+  },
+  "mj-c112": {
+   "book": "Majewski",
+   "pages": [
+    266,
+    267
+   ],
+   "words": 1039,
+   "generated": false
+  },
+  "mj-c113": {
+   "book": "Majewski",
+   "pages": [
+    268,
+    269
+   ],
+   "words": 1258,
+   "generated": false
+  },
+  "mj-c114": {
+   "book": "Majewski",
+   "pages": [
+    270,
+    271
+   ],
+   "words": 1215,
+   "generated": false
+  },
+  "mj-c115": {
+   "book": "Majewski",
+   "pages": [
+    272,
+    274
+   ],
+   "words": 944,
+   "generated": false
+  },
+  "mj-c116": {
+   "book": "Majewski",
+   "pages": [
+    275,
+    277
+   ],
+   "words": 835,
+   "generated": false
+  },
+  "mj-c117": {
+   "book": "Majewski",
+   "pages": [
+    278,
+    281
+   ],
+   "words": 1155,
+   "generated": false
+  },
+  "mj-c118": {
+   "book": "Majewski",
+   "pages": [
+    282,
+    284
+   ],
+   "words": 722,
+   "generated": false
+  },
+  "mj-c119": {
+   "book": "Majewski",
+   "pages": [
+    285,
+    287
+   ],
+   "words": 1257,
+   "generated": false
+  },
+  "mj-c120": {
+   "book": "Majewski",
+   "pages": [
+    288,
+    289
+   ],
+   "words": 1167,
+   "generated": false
+  },
+  "mj-c121": {
+   "book": "Majewski",
+   "pages": [
+    290,
+    291
+   ],
+   "words": 1047,
+   "generated": false
+  },
+  "mj-c122": {
+   "book": "Majewski",
+   "pages": [
+    292,
+    293
+   ],
+   "words": 1225,
+   "generated": false
+  },
+  "mj-c123": {
+   "book": "Majewski",
+   "pages": [
+    294,
+    295
+   ],
+   "words": 1296,
+   "generated": false
+  },
+  "mj-c124": {
+   "book": "Majewski",
+   "pages": [
+    296,
+    297
+   ],
+   "words": 1239,
+   "generated": false
+  },
+  "mj-c125": {
+   "book": "Majewski",
+   "pages": [
+    298,
+    299
+   ],
+   "words": 1197,
+   "generated": false
+  },
+  "mj-c126": {
+   "book": "Majewski",
+   "pages": [
+    300,
+    302
+   ],
+   "words": 1198,
+   "generated": false
+  },
+  "mj-c127": {
+   "book": "Majewski",
+   "pages": [
+    303,
+    304
+   ],
+   "words": 1194,
+   "generated": false
+  },
+  "mj-c128": {
+   "book": "Majewski",
+   "pages": [
+    305,
+    306
+   ],
+   "words": 1182,
+   "generated": false
+  },
+  "mj-c129": {
+   "book": "Majewski",
+   "pages": [
+    307,
+    312
+   ],
+   "words": 1201,
+   "generated": false
+  },
+  "mj-c130": {
+   "book": "Majewski",
+   "pages": [
+    313,
+    314
+   ],
+   "words": 924,
+   "generated": false
+  },
+  "mj-c131": {
+   "book": "Majewski",
+   "pages": [
+    315,
+    316
+   ],
+   "words": 1167,
+   "generated": false
+  },
+  "mj-c132": {
+   "book": "Majewski",
+   "pages": [
+    317,
+    318
+   ],
+   "words": 1187,
+   "generated": false
+  },
+  "mj-c133": {
+   "book": "Majewski",
+   "pages": [
+    319,
+    320
+   ],
+   "words": 1117,
+   "generated": false
+  },
+  "mj-c134": {
+   "book": "Majewski",
+   "pages": [
+    321,
+    323
+   ],
+   "words": 1296,
+   "generated": false
+  },
+  "mj-c135": {
+   "book": "Majewski",
+   "pages": [
+    324,
+    325
+   ],
+   "words": 1265,
+   "generated": false
+  },
+  "mj-c136": {
+   "book": "Majewski",
+   "pages": [
+    326,
+    327
+   ],
+   "words": 955,
+   "generated": false
+  },
+  "mj-c137": {
+   "book": "Majewski",
+   "pages": [
+    328,
+    329
+   ],
+   "words": 1232,
+   "generated": false
+  },
+  "mj-c138": {
+   "book": "Majewski",
+   "pages": [
+    330,
+    331
+   ],
+   "words": 970,
+   "generated": false
+  },
+  "mj-c139": {
+   "book": "Majewski",
+   "pages": [
+    332,
+    333
+   ],
+   "words": 789,
+   "generated": false
+  },
+  "mj-c140": {
+   "book": "Majewski",
+   "pages": [
+    334,
+    336
+   ],
+   "words": 1157,
+   "generated": false
+  },
+  "mj-c141": {
+   "book": "Majewski",
+   "pages": [
+    337,
+    338
+   ],
+   "words": 1198,
+   "generated": false
+  },
+  "mj-c142": {
+   "book": "Majewski",
+   "pages": [
+    339,
+    341
+   ],
+   "words": 1163,
+   "generated": false
+  },
+  "mj-c143": {
+   "book": "Majewski",
+   "pages": [
+    342,
+    343
+   ],
+   "words": 765,
+   "generated": false
+  },
+  "mj-c144": {
+   "book": "Majewski",
+   "pages": [
+    344,
+    345
+   ],
+   "words": 1190,
+   "generated": false
+  },
+  "mj-c145": {
+   "book": "Majewski",
+   "pages": [
+    346,
+    347
+   ],
+   "words": 1200,
+   "generated": false
+  },
+  "mj-c146": {
+   "book": "Majewski",
+   "pages": [
+    348,
+    349
+   ],
+   "words": 1242,
+   "generated": false
+  },
+  "mj-c147": {
+   "book": "Majewski",
+   "pages": [
+    350,
+    351
+   ],
+   "words": 1246,
+   "generated": false
+  },
+  "mj-c148": {
+   "book": "Majewski",
+   "pages": [
+    352,
+    353
+   ],
+   "words": 1179,
+   "generated": false
+  },
+  "mj-c149": {
+   "book": "Majewski",
+   "pages": [
+    354,
+    355
+   ],
+   "words": 1146,
+   "generated": false
+  },
+  "mj-c150": {
+   "book": "Majewski",
+   "pages": [
+    356,
+    357
+   ],
+   "words": 1111,
+   "generated": false
+  },
+  "mj-c151": {
+   "book": "Majewski",
+   "pages": [
+    358,
+    360
+   ],
+   "words": 837,
+   "generated": false
+  },
+  "mj-c152": {
+   "book": "Majewski",
+   "pages": [
+    361,
+    362
+   ],
+   "words": 1045,
+   "generated": false
+  },
+  "mj-c153": {
+   "book": "Majewski",
+   "pages": [
+    363,
+    364
+   ],
+   "words": 1217,
+   "generated": false
+  },
+  "mj-c154": {
+   "book": "Majewski",
+   "pages": [
+    365,
+    366
+   ],
+   "words": 869,
+   "generated": false
+  },
+  "mj-c155": {
+   "book": "Majewski",
+   "pages": [
+    367,
+    368
+   ],
+   "words": 953,
+   "generated": false
+  },
+  "mj-c156": {
+   "book": "Majewski",
+   "pages": [
+    369,
+    372
+   ],
+   "words": 1125,
+   "generated": false
+  },
+  "mj-c157": {
+   "book": "Majewski",
+   "pages": [
+    373,
+    374
+   ],
+   "words": 777,
+   "generated": false
+  },
+  "mj-c158": {
+   "book": "Majewski",
+   "pages": [
+    375,
+    379
+   ],
+   "words": 891,
+   "generated": false
+  },
+  "mj-c159": {
+   "book": "Majewski",
+   "pages": [
+    380,
+    381
+   ],
+   "words": 1218,
+   "generated": false
+  },
+  "mj-c160": {
+   "book": "Majewski",
+   "pages": [
+    382,
+    383
+   ],
+   "words": 892,
+   "generated": false
+  },
+  "mj-c161": {
+   "book": "Majewski",
+   "pages": [
+    384,
+    385
+   ],
+   "words": 867,
+   "generated": false
+  },
+  "mj-c162": {
+   "book": "Majewski",
+   "pages": [
+    386,
+    387
+   ],
+   "words": 1185,
+   "generated": false
+  },
+  "mj-c163": {
+   "book": "Majewski",
+   "pages": [
+    388,
+    389
+   ],
+   "words": 1316,
+   "generated": false
+  },
+  "mj-c164": {
+   "book": "Majewski",
+   "pages": [
+    390,
+    391
+   ],
+   "words": 1236,
+   "generated": false
+  },
+  "mj-c165": {
+   "book": "Majewski",
+   "pages": [
+    392,
+    393
+   ],
+   "words": 1070,
+   "generated": false
+  },
+  "mj-c166": {
+   "book": "Majewski",
+   "pages": [
+    394,
+    395
+   ],
+   "words": 1210,
+   "generated": false
+  },
+  "mj-c167": {
+   "book": "Majewski",
+   "pages": [
+    396,
+    397
+   ],
+   "words": 1117,
+   "generated": false
+  },
+  "mj-c168": {
+   "book": "Majewski",
+   "pages": [
+    398,
+    399
+   ],
+   "words": 1284,
+   "generated": false
+  },
+  "mj-c169": {
+   "book": "Majewski",
+   "pages": [
+    400,
+    401
+   ],
+   "words": 1194,
+   "generated": false
+  },
+  "mj-c170": {
+   "book": "Majewski",
+   "pages": [
+    402,
+    403
+   ],
+   "words": 1042,
+   "generated": false
+  },
+  "mj-c171": {
+   "book": "Majewski",
+   "pages": [
+    404,
+    405
+   ],
+   "words": 980,
+   "generated": false
+  },
+  "mj-c172": {
+   "book": "Majewski",
+   "pages": [
+    406,
+    407
+   ],
+   "words": 1097,
+   "generated": false
+  },
+  "mj-c173": {
+   "book": "Majewski",
+   "pages": [
+    408,
+    409
+   ],
+   "words": 1190,
+   "generated": false
+  },
+  "mj-c174": {
+   "book": "Majewski",
+   "pages": [
+    410,
+    411
+   ],
+   "words": 1228,
+   "generated": false
+  },
+  "mj-c175": {
+   "book": "Majewski",
+   "pages": [
+    412,
+    413
+   ],
+   "words": 1182,
+   "generated": false
+  },
+  "mj-c176": {
+   "book": "Majewski",
+   "pages": [
+    414,
+    415
+   ],
+   "words": 793,
+   "generated": false
+  },
+  "mj-c177": {
+   "book": "Majewski",
+   "pages": [
+    416,
+    417
+   ],
+   "words": 790,
+   "generated": false
+  },
+  "mj-c178": {
+   "book": "Majewski",
+   "pages": [
+    418,
+    419
+   ],
+   "words": 772,
+   "generated": false
+  },
+  "mj-c179": {
+   "book": "Majewski",
+   "pages": [
+    420,
+    421
+   ],
+   "words": 760,
+   "generated": false
+  },
+  "mj-c180": {
+   "book": "Majewski",
+   "pages": [
+    422,
+    423
+   ],
+   "words": 1213,
+   "generated": false
+  },
+  "mj-c181": {
+   "book": "Majewski",
+   "pages": [
+    424,
+    425
+   ],
+   "words": 1169,
+   "generated": false
+  },
+  "mj-c182": {
+   "book": "Majewski",
+   "pages": [
+    426,
+    427
+   ],
+   "words": 999,
+   "generated": false
+  },
+  "mj-c183": {
+   "book": "Majewski",
+   "pages": [
+    428,
+    430
+   ],
+   "words": 1271,
+   "generated": false
+  },
+  "mj-c184": {
+   "book": "Majewski",
+   "pages": [
+    431,
+    433
+   ],
+   "words": 803,
+   "generated": false
+  },
+  "mj-c185": {
+   "book": "Majewski",
+   "pages": [
+    434,
+    435
+   ],
+   "words": 871,
+   "generated": false
+  },
+  "mj-c186": {
+   "book": "Majewski",
+   "pages": [
+    436,
+    437
+   ],
+   "words": 976,
+   "generated": false
+  },
+  "mj-c187": {
+   "book": "Majewski",
+   "pages": [
+    438,
+    438
+   ],
+   "words": 174,
+   "generated": false
   },
   "t1-c001": {
    "book": "Tom1",
