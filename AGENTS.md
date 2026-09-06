@@ -9,7 +9,7 @@ doctors for the Polish medical verification exam (nostryfikacja / LDEW). Two par
 a build pipeline that turns PDFs into `data/questions.json`, and a static web app
 that serves the quiz.
 
-Thirteen source books across seven domains, declared in `pipeline/books.py`:
+Fourteen source books across seven domains, declared in `pipeline/books.py`:
 
 | book_id | `source.book` | Title | Domain |
 |---|---|---|---|
@@ -24,6 +24,7 @@ Thirteen source books across seven domains, declared in `pipeline/books.py`:
 | `bs` | `GorskaBlony` | Górska (red.), *Choroby błony śluzowej jamy ustnej* | błona śluzowa |
 | `or` | `Ortodoncja` | Karłowska (red.), *Zarys współczesnej ortodoncji* | ortodoncja |
 | `pk` | `PedoKompendium` | Olczak-Kowalczyk (red.), *Kompendium stomatologii wieku rozwojowego* | pedodoncja |
+| `pf` | `Proffit` | Proffit, Fields, Sarver, *Ortodoncja współczesna*, tom 1 (rozdz. 3-6) | ortodoncja |
 
 The web app lets the user practise any combination of books.
 
@@ -108,6 +109,30 @@ Two inputs:
 It reads the per-chunk sources under `data/questions/`, not the built bank, so it
 can run before or after `assemble.py`. It exits non-zero if a book ends up with
 no core questions at all. Re-run after every generation wave.
+
+### Books ingested in part, or with a numbering that drifts
+
+Proffit tom 1 has a usable OCR text layer, so it is an ordinary `text` book — but
+two things about it are not ordinary, and both are handled by one registry flag,
+`page_map: true`, which makes `extract.py` take its page numbers from
+`data/pagemap/<book_id>.json` and ingest **only** the PDF pages listed there.
+
+- Only chapters 3-6 were wanted (część II rozdz. 3-5 and część III rozdz. 6), so
+  the map covers pdf 78-232 and nothing else.
+- Its pdf→printed offset is not constant: -7 through pdf 164 and -5 from pdf 169,
+  because the scan drops pages around the część III opener.
+
+Recovering the numbering needed a third trick. Proffit prints its page number
+**white on a coloured badge** in the top outer corner, and white-on-colour is
+invisible to OCR — the number is absent from the text layer and from a plain
+Tesseract pass over the page. Cropping the badge alone, thresholding it and
+reading it as a single word (`--psm 8`) recovers it. That confirmed the offset on
+29 pages in the -7 run (pdf 80-159) and 25 in the -5 run (pdf 173-232), with no
+page contradicting it; the four-page seam between them was read off the badges by
+eye. Printed pages 158-159 and 162-163 are not in the scan.
+
+Do not trust this book's text layer for page numbers: it repeats a stale "161" in
+the header of many pages in chapter 6.
 
 ### Books typeset as spreads
 

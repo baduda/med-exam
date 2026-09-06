@@ -59016,6 +59016,4438 @@
   "explanation": "Wieloośrodkowe badanie wykazało, że leczenie SRP nie zmniejszyło częstości samoistnych porodów przedwczesnych, a metaanaliza Polyzosa i wsp. z 2000 roku potwierdza, że leczenie zapalenia przyzębia nie zmniejsza ryzyka porodu przedwczesnego."
  },
  {
+  "id": "pf-c001-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    71,
+    73
+   ]
+  },
+  "question": "Większość tkanek okolicy twarzy i szyi, w tym tkanka kostna i mięśniowa, rozwija się z:",
+  "options": {
+   "A": "entodermy wyściełającej pierwotną zatokę gębową",
+   "B": "komórek grzebienia nerwowego wywodzących się z ektodermy",
+   "C": "mezodermy przyosiowej okolicy potylicznej",
+   "D": "komórek pierwotnej smugi zarodkowej okolicy ogonowej",
+   "E": "mezodermy bocznej wspólnej z tkankami tułowia"
+  },
+  "correct": "B",
+  "explanation": "W okolicy twarzy i szyi niemal wszystkie tkanki, także kostna i mięśniowa (gdzie indziej pochodzenia mezodermalnego), powstają z ektodermy — głównie z komórek grzebienia nerwowego migrujących pod powierzchnię ektodermy."
+ },
+ {
+  "id": "pf-c001-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    71,
+    73
+   ]
+  },
+  "question": "Rozszczep wargi górnej powstaje wskutek braku zespolenia:",
+  "options": {
+   "A": "obu wyrostków żuchwowych w okolicy guzowatości bródkowej",
+   "B": "obu listewek podniebiennych w linii pośrodkowej podniebienia",
+   "C": "wyrostka nosowego środkowego, bocznego i wyrostka szczękowego",
+   "D": "wyrostka czołowo-nosowego z łukiem gnykowym zarodka",
+   "E": "wyrostka szczękowego z wyrostkiem żuchwowym po stronie wady"
+  },
+  "correct": "C",
+  "explanation": "Rozszczep wargi wynika z braku zespolenia wyrostka nosowego środkowego i bocznego z wyrostkiem szczękowym, które prawidłowo zachodzi w 6. tygodniu rozwoju; dlatego rozszczep leży bocznie od linii pośrodkowej."
+ },
+ {
+  "id": "pf-c001-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    71,
+    73
+   ]
+  },
+  "question": "U noworodka stwierdzono jednostronny niedorozwój gałęzi żuchwy z deformacją ucha zewnętrznego po tej samej stronie oraz wadę wielkich naczyń (tetralogia Fallota). Jaka jest podstawowa przyczyna tego zespołu wad?",
+  "options": {
+   "A": "zaburzenie formowania warstwy zarodkowej w 17. dniu po zapłodnieniu",
+   "B": "przedwczesne zlanie szwów pomiędzy kośćmi twarzo- i mózgoczaszki",
+   "C": "brak uniesienia i zespolenia listewek podniebiennych w okresie płodowym",
+   "D": "wczesna utrata komórek grzebienia nerwowego wędrujących drogą okrężną",
+   "E": "narażenie płodu na wysokie stężenie alkoholu etylowego we krwi matki"
+  },
+  "correct": "D",
+  "explanation": "Opisany obraz odpowiada połowiczemu niedorozwojowi twarzy; jego podstawową przyczyną jest wczesna utrata komórek grzebienia nerwowego, które do bocznych i dolnych okolic twarzy wędrują dłuższą, okrężną drogą — stąd też częste wady wielkich naczyń.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c002-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    74,
+    75
+   ]
+  },
+  "question": "Zespół Crouzona powstaje na skutek:",
+  "options": {
+   "A": "krwawienia z tętnicy strzemiączkowej ok. 6 tygodnia po poczęciu",
+   "B": "braku tkanki mezenchymalnej w bocznych odcinkach twarzy",
+   "C": "zaburzenia wędrówki komórek grzebienia nerwowego w 3. tygodniu",
+   "D": "niezamknięcia podniebienia wtórnego w okresie płodowym",
+   "E": "przedwczesnego zlania szwów szczęki wzdłuż ścian oczodołu"
+  },
+  "correct": "E",
+  "explanation": "Zespół Crouzona należy do kraniosynostoz — powstaje przez przedwczesne, prenatalne zlanie górnych i tylnych szwów szczęki wzdłuż ścian oczodołu, co uniemożliwia wzrost szczęki do przodu i do dołu."
+ },
+ {
+  "id": "pf-c002-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    74,
+    75
+   ]
+  },
+  "question": "Wytrzeszcz gałek ocznych w zespole Crouzona jest przeważnie:",
+  "options": {
+   "A": "złudzeniem wynikającym z niedorozwoju podłoża kostnego oczodołu",
+   "B": "skutkiem przerostu tkanki tłuszczowej pozagałkowej oczodołu",
+   "C": "następstwem porażenia mięśni zewnętrznych gałki ocznej",
+   "D": "objawem współistniejącej nadczynności tarczycy u dziecka",
+   "E": "wynikiem obrzęku tkanek miękkich powiek i spojówek"
+  },
+  "correct": "A",
+  "explanation": "Gałki oczne wydają się wypchnięte, ponieważ niedostatecznie rozwinięte jest podłoże kostne, na którym są usytuowane; prawdziwy wytrzeszcz ze wzrostu ciśnienia śródczaszkowego może wystąpić, ale jest rzadszy."
+ },
+ {
+  "id": "pf-c002-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    74,
+    75
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące późnego okresu płodowego i narodzin:\n1. Rozwój wszystkich zębów mlecznych i pierwszego trzonowca stałego rozpoczyna się przed urodzeniem.\n2. Zmiana kształtu głowy podczas porodu jest możliwa dzięki ciemiączkom między płaskimi kośćmi czaszki.\n3. Względnie duży wzrost żuchwy w okresie prenatalnym ułatwia przejście przez kanał rodny.\n4. Podczas porodu długość sklepienia czaszki może się zwiększyć, a szerokość zmniejszyć.",
+  "options": {
+   "A": "tylko 2 i 3",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 1 i 3",
+   "D": "tylko 3 i 4",
+   "E": "tylko 1, 2 i 4"
+  },
+  "correct": "E",
+  "explanation": "Stwierdzenie 3 jest fałszywe — to właśnie stosunkowo niewielki wzrost żuchwy w okresie prenatalnym ułatwia poród; pozostałe trzy są zgodne z tekstem.",
+  "type": "combined",
+  "core": true
+ },
+ {
+  "id": "pf-c003-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    76,
+    77
+   ]
+  },
+  "question": "Linia neonatalna widoczna na powierzchni zębów mlecznych powstaje wskutek:",
+  "options": {
+   "A": "zaburzenia kolejności wapnienia towarzyszącego zahamowaniu wzrostu po urodzeniu",
+   "B": "mechanicznego urazu zawiązków zębowych podczas przechodzenia przez kanał rodny",
+   "C": "przedwczesnego zlania szwów czaszkowych w pierwszym tygodniu życia",
+   "D": "remodelowania powierzchni szkliwa zachodzącego w okresie noworodkowym",
+   "E": "wchłaniania barwników z pokarmu w pierwszych dniach karmienia noworodka"
+  },
+  "correct": "A",
+  "explanation": "Krótkotrwałe ustanie wzrostu po urodzeniu zaburza kolejność wapnienia, co pozostawia linię przechodzącą w poprzek kości i zębów; na nieremodelującym się szkliwie jest ona trwale widoczna.",
+  "core": true
+ },
+ {
+  "id": "pf-c003-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    76,
+    77
+   ]
+  },
+  "question": "Dlaczego zaburzenia wzrostu z okresu okołoporodowego łatwiej rozpoznać w zębach niż w kościach?",
+  "options": {
+   "A": "kości nie reagują na krótkotrwałe zahamowanie wzrostu organizmu",
+   "B": "powierzchnia szkliwa nie podlega remodelowaniu, a zęby są widoczne",
+   "C": "tkanka kostna wapnieje jednorazowo i nie tworzy linii przyrostowych",
+   "D": "szkliwo wapnieje później niż kości, więc rejestruje więcej zaburzeń",
+   "E": "zęby mleczne rozwijają się wyłącznie po urodzeniu dziecka"
+  },
+  "correct": "B",
+  "explanation": "Kości nie są widoczne, a ich powierzchnia remoduluje się przez całe życie, więc ślad zaburzenia zanika; szkliwo nie podlega remodelowaniu, a zęby są dostępne oglądaniu."
+ },
+ {
+  "id": "pf-c003-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    76,
+    77
+   ]
+  },
+  "question": "Który parametr jest lepszą podstawą prognozowania rozwoju noworodka niż prawdopodobny czas trwania ciąży?",
+  "options": {
+   "A": "stopień wapnienia zębów mlecznych",
+   "B": "wiek kostny nadgarstka",
+   "C": "długość ciemieniowo-siedzeniowa",
+   "D": "urodzeniowa masa ciała",
+   "E": "obwód głowy przy urodzeniu"
+  },
+  "correct": "D",
+  "explanation": "Ponieważ niska urodzeniowa masa ciała świadczy o przedwczesnym porodzie, w prognozowaniu lepiej opierać się na urodzeniowej masie ciała niż na prawdopodobnym czasie trwania ciąży."
+ },
+ {
+  "id": "pf-c004-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    78,
+    80
+   ]
+  },
+  "question": "Jaki jest wpływ chorób na wzrost dziecka?",
+  "options": {
+   "A": "choroba o ostrym przebiegu trwale upośledza wzrost bardziej niż przewlekła",
+   "B": "choroba o ostrym przebiegu powoduje jedynie przejściowe zahamowanie wzrostu",
+   "C": "wady wrodzone serca nie wpływają na tempo wzrastania dziecka",
+   "D": "czas trwania choroby nie ma znaczenia, liczy się wyłącznie jej rodzaj",
+   "E": "choroby przewlekłe zwiększają pulę energii przeznaczonej na wzrost"
+  },
+  "correct": "B",
+  "explanation": "Choroba o ostrym przebiegu daje przejściowe zahamowanie wzrostu bez długofalowych skutków, natomiast im dłużej i ciężej trwa choroba przewlekła, tym większy deficyt wzrostu.",
+  "core": true
+ },
+ {
+  "id": "pf-c004-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    78,
+    80
+   ]
+  },
+  "question": "Jaką rolę w procesie wzrastania odgrywa prawidłowe odżywianie?",
+  "options": {
+   "A": "jest bezpośrednim bodźcem inicjującym skok wzrostowy",
+   "B": "warunkuje wzrost, ale nie jest bodźcem, który go wywołuje",
+   "C": "ma znaczenie wyłącznie w okresie prenatalnym rozwoju",
+   "D": "poprawa diety zawsze uruchamia nadrobienie zaległości wzrostowych",
+   "E": "nie wpływa na rozwój układu kostnego twarzoczaszki"
+  },
+  "correct": "B",
+  "explanation": "Właściwe odżywianie i higieniczny tryb życia warunkują prawidłowy wzrost, ale nie są bodźcami, które go wywołują; poprawa nawyków żywieniowych sama w sobie nie rozpoczyna wzrostu."
+ },
+ {
+  "id": "pf-c004-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    78,
+    80
+   ]
+  },
+  "question": "Obserwowana od kilkuset lat tendencja sekularna polega na tym, że kolejne pokolenia:",
+  "options": {
+   "A": "osiągają dojrzałość płciową później mimo szybszego wzrastania",
+   "B": "wcześniej kończą wzrastanie i są niższe od pokoleń poprzednich",
+   "C": "rosną wolniej, ale osiągają większą ostateczną wysokość ciała",
+   "D": "rosną szybciej i wcześniej osiągają dojrzałość płciową",
+   "E": "nie różnią się tempem wzrastania, a jedynie proporcjami ciała"
+  },
+  "correct": "D",
+  "explanation": "W ostatnich stuleciach, zwłaszcza w XX w., zwiększa się wysokość ciała, a wiek pierwszej miesiączki — wiarygodny wyznacznik dojrzałości płciowej — obniża się."
+ },
+ {
+  "id": "pf-c005-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    81,
+    83
+   ]
+  },
+  "question": "Niemowlęcy typ połykania charakteryzuje się:",
+  "options": {
+   "A": "rozluźnieniem warg i ułożeniem języka za górnymi siekaczami",
+   "B": "dominującą aktywnością mięśni gardła i tylnej części języka",
+   "C": "skurczem mięśni warg i kontaktem koniuszka języka z wargą dolną",
+   "D": "całkowitym brakiem udziału mięśni okrężnych ust w akcie połykania",
+   "E": "zwarciem zębów trzonowych i silnym napięciem mięśni żwaczy"
+  },
+  "correct": "C",
+  "explanation": "Niemowlęcy typ połykania to skurcz mięśni warg przy niewielkim udziale tylnej części języka i pierścienia gardłowego; koniuszek języka pozostaje w kontakcie z wargą dolną nawet w spoczynku.",
+  "core": true
+ },
+ {
+  "id": "pf-c005-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    81,
+    83
+   ]
+  },
+  "question": "Aby udrożnić drogi oddechowe noworodka bezpośrednio po urodzeniu:",
+  "options": {
+   "A": "żuchwa przemieszcza się do dołu, a język do dołu i do przodu",
+   "B": "żuchwa unosi się, doprowadzając do zwarcia wałów dziąsłowych",
+   "C": "żuchwa przemieszcza się do tyłu, a język ku górze i ku tyłowi",
+   "D": "wargi obejmują brodawkę sutkową, wyzwalając odruch połykania",
+   "E": "język unosi się do podniebienia, uszczelniając jamę ustną"
+  },
+  "correct": "A",
+  "explanation": "Według badań radiologicznych Bosmy udrożnienie dróg oddechowych wymaga przesunięcia żuchwy ku dołowi oraz języka ku dołowi i przodowi, czyli odsunięcia go od tylnej ściany gardła."
+ },
+ {
+  "id": "pf-c005-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    81,
+    83
+   ]
+  },
+  "question": "Rozwój czynności jamy ustnej i mowy przebiega w kierunku:",
+  "options": {
+   "A": "od strony podniebienia w kierunku dna jamy ustnej i mięśni nadgnykowych",
+   "B": "od tyłu do przodu — najpierw gardło, potem wargi i koniuszek języka",
+   "C": "równocześnie we wszystkich odcinkach jamy ustnej od chwili urodzenia",
+   "D": "od mięśni żucia w kierunku mięśni mimicznych i mięśni warg",
+   "E": "od przodu do tyłu — najpierw wargi, potem tylna część języka i gardło"
+  },
+  "correct": "E",
+  "explanation": "Doskonalenie czynności jamy ustnej biegnie „od przodu do tyłu”: przy urodzeniu aktywne są jedynie wargi, później uaktywniają się mięśnie gardła i tylnej części języka; tak samo przebiega nabywanie mowy — od głosek dwuwargowych do „r”."
+ },
+ {
+  "id": "pf-c006-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    84,
+    85
+   ]
+  },
+  "question": "Tzw. szpary małpie w uzębieniu mlecznym znajdują się:",
+  "options": {
+   "A": "między pierwszym a drugim trzonowcem mlecznym w obu łukach zębowych",
+   "B": "między obydwoma siekaczami przyśrodkowymi w szczęce i w żuchwie",
+   "C": "między kłem a pierwszym trzonowcem w łuku górnym i między siekaczami przyśrodkowymi w dolnym",
+   "D": "wyłącznie w odcinku bocznym łuku dolnego, za drugim trzonowcem mlecznym",
+   "E": "między siekaczem bocznym a kłem w łuku górnym i między kłem a pierwszym trzonowcem w dolnym"
+  },
+  "correct": "E",
+  "explanation": "„Szpary małpie” to przestrzenie między siekaczem bocznym a kłem w łuku górnym oraz między kłem a pierwszym trzonowcem mlecznym w łuku dolnym; obecne są od chwili wyrżnięcia zębów mlecznych."
+ },
+ {
+  "id": "pf-c006-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    84,
+    85
+   ]
+  },
+  "question": "Które stwierdzenie dotyczące wyrzynania zębów mlecznych jest prawdziwe?",
+  "options": {
+   "A": "jako pierwsze wyrzynają się górne siekacze przyśrodkowe",
+   "B": "proces wyrzynania kończą pierwsze trzonowce mleczne w szczęce",
+   "C": "kolejność wyrzynania jest dowolna, istotny jest wyłącznie termin",
+   "D": "przesunięcie terminu wyrzynania o 6 miesięcy mieści się w granicach normy",
+   "E": "kły mleczne wyrzynają się przed pierwszymi trzonowcami mlecznymi"
+  },
+  "correct": "D",
+  "explanation": "Czas wyrzynania jest wartością względną — odchylenie nawet o 6 miesięcy mieści się w normie — natomiast kolejność wyrzynania powinna zostać zachowana: najpierw dolne siekacze przyśrodkowe, na końcu drugie trzonowce mleczne."
+ },
+ {
+  "id": "pf-c006-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    84,
+    85
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące dojrzewania czynności jamy ustnej:\n1. Dojrzały typ połykania cechuje rozluźnienie warg i ułożenie koniuszka języka tuż za górnymi siekaczami.\n2. Dorosły typ połykania może wykształcić się mimo utrzymującego się odruchu ssania.\n3. Przekształcenie typu żucia z dziecięcego na dorosły dokonuje się ok. 12 r.ż., wraz z pojawieniem się stałych kłów.\n4. Dorosły podczas żucia opuszcza żuchwę w linii prostej, a dopiero potem przesuwa ją w bok.",
+  "options": {
+   "A": "tylko 1 i 2",
+   "B": "tylko 1, 3 i 4",
+   "C": "tylko 3 i 4",
+   "D": "tylko 2 i 4",
+   "E": "wszystkie prawidłowe"
+  },
+  "correct": "B",
+  "explanation": "Stwierdzenie 2 jest fałszywe — dopóki nie zaniknie odruch ssania, dorosły typ połykania się nie wykształci; pozostałe są zgodne z tekstem.",
+  "type": "combined",
+  "core": true
+ },
+ {
+  "id": "pf-c007-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    86,
+    87
+   ]
+  },
+  "question": "W eksperymencie przyligaturowania zawiązka wyrzynającego się zęba do dolnego brzegu trzonu żuchwy u psa zaobserwowano, że:",
+  "options": {
+   "A": "ząb przestał się wyrzynać, ale resorpcja kości postępowała, tworząc jamę torbieli",
+   "B": "resorpcja kości ustała, mimo że ząb wyrzynał się dalej z prawidłową szybkością",
+   "C": "zarówno wyrzynanie, jak i resorpcja kości uległy natychmiastowemu zatrzymaniu",
+   "D": "zawiązek uległ całkowitej resorpcji wraz z otaczającą go kością wyrostka",
+   "E": "ząb zerwał ligaturę i wyrżnął się w prawidłowym terminie do jamy ustnej"
+  },
+  "correct": "A",
+  "explanation": "Doświadczenie to (powtórzone przypadkowo u dziecka po zespoleniu odłamów żuchwy) dowodzi, że ilość zresorbowanej kości i stopień wyrżnięcia zęba nie są kontrolowane przez te same mechanizmy."
+ },
+ {
+  "id": "pf-c007-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    86,
+    87
+   ]
+  },
+  "question": "Które stwierdzenie o zespole „pierwotnego braku wyrzynania” jest prawdziwe?",
+  "options": {
+   "A": "dotyczy głównie zębów przednich i ustępuje samoistnie w okresie pokwitania",
+   "B": "zęby tkwią w kości mimo prawidłowej resorpcji i nie reagują na siły ortodontyczne",
+   "C": "zęby wyrzynają się prawidłowo po chirurgicznym odsłonięciu ich koron",
+   "D": "resorpcja kości jest zablokowana, dlatego droga wyrzynania pozostaje zamknięta",
+   "E": "przyczyną jest wyłącznie mechaniczna przeszkoda w postaci zębów nadliczbowych"
+  },
+  "correct": "B",
+  "explanation": "W pierwotnym braku wyrzynania zęby boczne pozostają nieruchome w kości mimo prawidłowej resorpcji i wolnej drogi wyrzynania; nie reagują też na przyłożoną siłę ortodontyczną."
+ },
+ {
+  "id": "pf-c007-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    86,
+    87
+   ]
+  },
+  "question": "U 8-letniego chłopca z dysplazją obojczykowo-czaszkową zęby stałe nie wyrzynają się. Jakie czynniki są za to odpowiedzialne?",
+  "options": {
+   "A": "przedwczesne zlanie szwów czaszkowych blokujące wzrost wyrostka zębodołowego",
+   "B": "wrodzony brak zawiązków zębów stałych i całkowita ankyloza zębów mlecznych",
+   "C": "zaburzenie migracji komórek grzebienia nerwowego do łuku żuchwowego",
+   "D": "zaburzona resorpcja zębów mlecznych i kości, włókniste dziąsła oraz zęby nadliczbowe",
+   "E": "nieprawidłowe dojrzewanie włókien kolagenowych ozębnej w fazie poerupcyjnej"
+  },
+  "correct": "D",
+  "explanation": "W dysplazji obojczykowo-czaszkowej wyrzynanie blokują nieprawidłowa resorpcja zębów mlecznych i kości, grube włókniste dziąsła oraz liczne zawiązki nadliczbowe; po usunięciu przeszkód zęby mogą wyrżnąć się i wejść do okluzji.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c008-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    88,
+    90
+   ]
+  },
+  "question": "Ząb, który uległ ankylozie we wczesnym okresie rozwoju:",
+  "options": {
+   "A": "wyrzyna się szybciej niż zęby sąsiednie, przekraczając płaszczyznę zgryzu",
+   "B": "powoduje miejscowe zwiększenie wysokości wyrostka zębodołowego",
+   "C": "zachowuje prawidłową ruchomość fizjologiczną w zębodole i reaguje na siły",
+   "D": "pozornie zagłębia się w kości, podczas gdy zęby sąsiednie wyrzynają się dalej",
+   "E": "ulega samoistnej resorpcji korzenia i wypada w ciągu kilku miesięcy"
+  },
+  "correct": "D",
+  "explanation": "Ząb ankylotyczny wydaje się zagłębiać w kości, ponieważ pozostaje na tym samym poziomie, gdy zęby sąsiednie wyrzynają się dalej; przy wczesnej ankylozie może zostać przykryty błoną śluzową, a wysokość wyrostka w tym miejscu maleje.",
+  "core": true
+ },
+ {
+  "id": "pf-c008-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    88,
+    90
+   ]
+  },
+  "question": "W okresie młodzieńczej równowagi okluzyjnej wydłużanie koron zębów jest proporcjonalne do:",
+  "options": {
+   "A": "pionowego wzrostu gałęzi żuchwy",
+   "B": "poprzecznego wzrostu szwu podniebiennego",
+   "C": "tempa starcia powierzchni zgryzowych",
+   "D": "przyrostu szerokości łuku zębowego",
+   "E": "doprzedniego wzrostu podstawy czaszki"
+  },
+  "correct": "A",
+  "explanation": "W miarę pionowego wzrostu gałęzi żuchwy żuchwa oddala się od szczęki i powstaje przestrzeń, którą wypełniają dalej wyrzynające się zęby — stąd proporcjonalność obu procesów."
+ },
+ {
+  "id": "pf-c008-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    88,
+    90
+   ]
+  },
+  "question": "Które siły uznaje się za najistotniejsze w kontrolowaniu wyrzynania zęba obecnego już w jamie ustnej?",
+  "options": {
+   "A": "siły grawitacji działające na koronę zęba w pozycji leżącej",
+   "B": "siły niewielkie, ale długotrwałe, np. nacisk języka i warg podczas spoczynku",
+   "C": "ciśnienie śródkostne wywierane przez resorbujące się kości wyrostka",
+   "D": "krótkotrwałe siły żucia o dużym nasileniu działające przy każdym kęsie",
+   "E": "siły wywierane przez dojrzewające włókna kolagenowe ozębnej"
+  },
+  "correct": "B",
+  "explanation": "Po wyrżnięciu proces kontrolują siły przeciwstawne, przy czym — analogicznie do ruchu ortodontycznego — istotniejsze są siły małe i długotrwałe (nacisk tkanek miękkich, np. języka podczas snu) niż duże i krótkotrwałe siły żucia."
+ },
+ {
+  "id": "pf-c009-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    91,
+    93
+   ]
+  },
+  "question": "Wiek zębowy określa się na podstawie trzech cech. Są to:",
+  "options": {
+   "A": "termin wyrżnięcia pierwszego trzonowca, płeć pacjenta i wysokość ciała",
+   "B": "które zęby są wyrżnięte, stopień resorpcji korzeni mlecznych i stadium rozwoju zęba stałego",
+   "C": "wiek kostny nadgarstka, stopień zwarcia zębów i szerokość łuku zębowego",
+   "D": "wysokość wyrostka zębodołowego, liczba zębów mlecznych i stopień starcia zębów",
+   "E": "liczba zębów stałych, obecność szpar małpich i stopień zaawansowania próchnicy"
+  },
+  "correct": "B",
+  "explanation": "Wiek zębowy określa się ustalając, który ząb uległ wyrżnięciu, jaki jest stopień resorpcji korzenia zęba mlecznego oraz w jakim stadium rozwoju znajduje się ząb stały.",
+  "core": true
+ },
+ {
+  "id": "pf-c009-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    91,
+    93
+   ]
+  },
+  "question": "Sygnałem do rozpoczęcia procesu wyrzynania zęba stałego do jamy ustnej jest zwykle ukształtowanie korzenia w:",
+  "options": {
+   "A": "3/4 jego docelowej długości",
+   "B": "1/4 jego docelowej długości",
+   "C": "połowie długości korony zęba",
+   "D": "pełnej docelowej długości",
+   "E": "1/10 jego docelowej długości"
+  },
+  "correct": "A",
+  "explanation": "Zgodnie z tekstem zęby wyrzynają się zwykle wtedy, gdy ukształtowane są 3/4 długości ich korzenia."
+ },
+ {
+  "id": "pf-c009-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    91,
+    93
+   ]
+  },
+  "question": "Pierwsze stadium wyrzynania zębów stałych, ok. 6 r.ż., charakteryzuje się:",
+  "options": {
+   "A": "niemal równoczesnym wyrzynaniem dolnych siekaczy przyśrodkowych i pierwszych trzonowców",
+   "B": "wyrzynaniem drugich trzonowców stałych najpierw w szczęce, potem w żuchwie",
+   "C": "wyrzynaniem górnych siekaczy bocznych i pierwszych przedtrzonowców",
+   "D": "równoczesnym wyrzynaniem obu przedtrzonowców w łuku dolnym",
+   "E": "wyrzynaniem kłów stałych poprzedzonym resorpcją kłów mlecznych"
+  },
+  "correct": "A",
+  "explanation": "W wieku ok. 6 lat wyrzyna się pierwszy trzonowiec stały w żuchwie, tuż potem pierwszy trzonowiec w szczęce oraz dolny siekacz przyśrodkowy — zwykle niemal równocześnie."
+ },
+ {
+  "id": "pf-c010-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    94,
+    95
+   ]
+  },
+  "question": "Co jest bardziej wiarygodnym sygnałem zaburzeń rozwoju uzębienia?",
+  "options": {
+   "A": "obecność szpar w przednim odcinku łuku",
+   "B": "zmiana kolejności wyrzynania zębów",
+   "C": "rozbieżność wieku zębowego i kalendarzowego",
+   "D": "opóźnienie terminów wyrzynania zębów",
+   "E": "przyspieszenie terminów wyrzynania zębów"
+  },
+  "correct": "B",
+  "explanation": "Zmiany kolejności wyrzynania są bardziej wiarygodnym znakiem zaburzeń niż samo opóźnienie czy przyspieszenie; im większe odchylenie od przewidywanej kolejności, tym większe ryzyko problemów."
+ },
+ {
+  "id": "pf-c010-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    94,
+    95
+   ]
+  },
+  "question": "Wyrżnięcie drugiego trzonowca stałego w żuchwie przed drugim przedtrzonowcem grozi przede wszystkim:",
+  "options": {
+   "A": "przedwczesną resorpcją korzeni siekaczy dolnych stałych",
+   "B": "dowargowym zepchnięciem dolnego kła stałego do przedsionka jamy ustnej",
+   "C": "powstaniem diastemy w przednim odcinku łuku zębowego żuchwy",
+   "D": "ankylozą pierwszego trzonowca stałego w żuchwie",
+   "E": "zmniejszeniem miejsca i częściowym zatrzymaniem drugiego przedtrzonowca"
+  },
+  "correct": "E",
+  "explanation": "Pojawienie się drugiego trzonowca przed drugim przedtrzonowcem zdecydowanie zmniejsza miejsce przeznaczone dla przedtrzonowca i może doprowadzić do jego częściowego zatrzymania w kości."
+ },
+ {
+  "id": "pf-c010-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    94,
+    95
+   ]
+  },
+  "question": "U 13-letniej pacjentki drugi przedtrzonowiec w szczęce wyrżnął się w wieku 12 lat, natomiast górny kieł stały nadal nie pojawił się w jamie ustnej. Jak należy ocenić tę sytuację?",
+  "options": {
+   "A": "świadczy to o przyspieszonym wieku zębowym całego uzębienia stałego",
+   "B": "jest to prawidłowa kolejność wyrzynania w łuku górnym, wystarczy obserwacja",
+   "C": "opóźnienie takie jest normą do 16. r.ż. i nie wymaga żadnej diagnostyki",
+   "D": "wskazuje na ankylozę drugiego przedtrzonowca po tej samej stronie",
+   "E": "kolejność wyrzynania została zaburzona — proces wyrzynania kła jest najpewniej zakłócony"
+  },
+  "correct": "E",
+  "explanation": "Opóźnienie kła jest akceptowalne tylko wtedy, gdy drugi przedtrzonowiec też jeszcze nie wyrżnął; jeśli przedtrzonowiec wyrżnął się w 12. r.ż., a kła nadal nie ma, wyrzynanie kła zostało najprawdopodobniej zakłócone.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c011-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    96,
+    96
+   ]
+  },
+  "question": "Zawiązki stałych siekaczy w szczęce i żuchwie są położone względem korzeni siekaczy mlecznych:",
+  "options": {
+   "A": "mezjalnie od korzeni siekaczy mlecznych",
+   "B": "dystalnie od korzeni kłów mlecznych",
+   "C": "od strony wargowej, pod ich wierzchołkami",
+   "D": "dokładnie w osi długiej zębów mlecznych",
+   "E": "od strony językowej, pod ich wierzchołkami"
+  },
+  "correct": "E",
+  "explanation": "Zawiązki stałych siekaczy leżą pod wierzchołkami korzeni siekaczy mlecznych od strony językowej, dlatego dolne siekacze wyrzynają się nieco dojęzykowo i w niewielkim stłoczeniu.",
+  "core": true
+ },
+ {
+  "id": "pf-c011-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    96,
+    96
+   ]
+  },
+  "question": "Terminem „zadłużenie siekaczy” określa się:",
+  "options": {
+   "A": "utratę miejsca po przedwczesnej ekstrakcji mlecznego kła",
+   "B": "różnicę wielkości mlecznych trzonowców i stałych przedtrzonowców",
+   "C": "różnicę między miejscem potrzebnym dla siekaczy stałych a miejscem dostępnym w łuku",
+   "D": "sumę szerokości szpar małpich w łuku górnym i dolnym",
+   "E": "zmniejszenie długości łuku po doprzednim przesunięciu trzonowców"
+  },
+  "correct": "C",
+  "explanation": "„Zadłużenie siekaczy” to różnica między przestrzenią niezbędną, aby pomieścić wszystkie siekacze, a miejscem faktycznie istniejącym — w żuchwie zwykle występuje niedobór, stąd przejściowe stłoczenie."
+ },
+ {
+  "id": "pf-c011-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    96,
+    96
+   ]
+  },
+  "question": "Przejściowe stłoczenie dolnych siekaczy u dziecka w wieku 8-9 lat należy uznać za:",
+  "options": {
+   "A": "objaw wady szkieletowej klasy III wymagającej leczenia czynnościowego",
+   "B": "następstwo przetrwałego niemowlęcego typu połykania",
+   "C": "bezwzględne wskazanie do natychmiastowej ekstrakcji seryjnej",
+   "D": "zjawisko prawidłowe, ustępujące w miarę rozwoju łuków zębowych",
+   "E": "skutek zbyt szerokich szpar w uzębieniu mlecznym"
+  },
+  "correct": "D",
+  "explanation": "Nieznaczne stłoczenie siekaczy jest normalnym zjawiskiem podczas wymiany uzębienia; postępujący rozwój łuków sprawia, że do czasu wyrzynania kłów miejsca zwykle znów wystarcza."
+ },
+ {
+  "id": "pf-c012-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    97,
+    99
+   ]
+  },
+  "question": "Rezerwa boczna (leeway space) powstaje dzięki temu, że:",
+  "options": {
+   "A": "mleczne trzonowce są większe od zastępujących je stałych przedtrzonowców",
+   "B": "stałe siekacze są większe od swoich mlecznych poprzedników",
+   "C": "kły stałe cofają się w przestrzeń zapasową w łuku dolnym",
+   "D": "pierwsze trzonowce stałe przemieszczają się doprzednio po wymianie",
+   "E": "szerokość międzykłowa zwiększa się w okresie wymiany uzębienia"
+  },
+  "correct": "A",
+  "explanation": "Zęby przedtrzonowe stałe są mniejsze od mlecznych trzonowców; ta różnica wymiarów, nazwana rezerwą boczną, daje dodatkowe miejsce po każdej stronie łuku."
+ },
+ {
+  "id": "pf-c012-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    97,
+    99
+   ]
+  },
+  "question": "Jak zwykle zachowuje się diastema między górnymi siekaczami przyśrodkowymi w okresie „brzydkiego kaczątka”?",
+  "options": {
+   "A": "diastema nie zamyka się spontanicznie i zawsze wymaga leczenia aparatem",
+   "B": "każda diastema, niezależnie od szerokości, zamyka się po wyrżnięciu kłów",
+   "C": "diastema utrzymuje się tylko wtedy, gdy mleczne kły zostały zachowane",
+   "D": "diastema o szerokości do 2 mm zamyka się spontanicznie, większa zwykle nie",
+   "E": "diastema powiększa się po wyrżnięciu siekaczy bocznych i kłów stałych"
+  },
+  "correct": "D",
+  "explanation": "Szpary między siekaczami zwykle zamykają się przy wyrzynaniu siekaczy bocznych i kłów stałych; jako regułę przyjmuje się, że diastema 2 mm lub mniejsza zamyka się spontanicznie, a większa nie."
+ },
+ {
+  "id": "pf-c012-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    97,
+    99
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące uzyskiwania miejsca dla siekaczy dolnych podczas wymiany uzębienia:\n1. Szerokość międzykłowa nieznacznie się zwiększa.\n2. Stałe siekacze ustawiają się bardziej dowargowo niż mleczne poprzedniki.\n3. Kły stałe w żuchwie przesuwają się dotylnie, w przestrzeń zapasową.\n4. Dodatkowa przestrzeń powstaje dzięki wzrostowi kości w przednim odcinku żuchwy.",
+  "options": {
+   "A": "tylko 1, 2 i 3",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 2 i 3",
+   "D": "tylko 3 i 4",
+   "E": "tylko 1 i 4"
+  },
+  "correct": "A",
+  "explanation": "Stwierdzenie 4 jest fałszywe — wzrost żuchwy odbywa się głównie w odcinku tylnym i nie ma mechanizmu wydłużającego jej odcinek przedni; miejsce pochodzi z trzech pozostałych mechanizmów.",
+  "type": "combined",
+  "core": true
+ },
+ {
+  "id": "pf-c013-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    100,
+    101
+   ]
+  },
+  "question": "Odpowiednikiem klasy II Angle'a w uzębieniu mlecznym jest:",
+  "options": {
+   "A": "rezerwa boczna",
+   "B": "stopień dotylny",
+   "C": "stopień doprzedni",
+   "D": "kontakt guzkowy",
+   "E": "prosta płaszczyzna końcowa"
+  },
+  "correct": "B",
+  "explanation": "W uzębieniu mlecznym prawidłowe stosunki opisuje prosta płaszczyzna końcowa; odpowiednikiem klasy II jest stopień dotylny, a klasie I odpowiada stopień doprzedni."
+ },
+ {
+  "id": "pf-c013-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    100,
+    101
+   ]
+  },
+  "question": "U 4-letniego dziecka stwierdzono kontakt drugich trzonowców mlecznych z wytworzeniem stopnia doprzedniego. Jakie ma to znaczenie rokownicze?",
+  "options": {
+   "A": "dziecko jest w grupie ryzyka rozwoju pełnej klasy II w uzębieniu stałym",
+   "B": "świadczy o braku rezerwy bocznej w bocznych odcinkach łuków",
+   "C": "jest to sytuacja patologiczna wymagająca natychmiastowego leczenia aparatem",
+   "D": "gwarantuje to uzyskanie prawidłowej klasy I po wymianie uzębienia",
+   "E": "dziecko jest w grupie ryzyka rozwoju klasy III wraz z dalszym wzrostem żuchwy"
+  },
+  "correct": "E",
+  "explanation": "Stopień doprzedni odpowiada klasie I, ale przy dalszym intensywnym wzroście żuchwy prawdopodobne jest powstanie najpierw niepełnej, a potem pełnej klasy III; jeśli wzrost ustanie, może pozostać klasa I.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c013-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    100,
+    101
+   ]
+  },
+  "question": "Standardową i od lat najczęściej stosowaną okolicą do radiologicznej oceny wieku kostnego jest:",
+  "options": {
+   "A": "staw kolanowy",
+   "B": "obojczyk i mostek",
+   "C": "kość udowa i miednica",
+   "D": "dłoń i nadgarstek",
+   "E": "kręgosłup lędźwiowy"
+  },
+  "correct": "D",
+  "explanation": "Wiek kostny ocenia się przede wszystkim na radiogramie dłoni i nadgarstka, porównując stopień kostnienia z atlasem norm; alternatywą jest ocena dojrzałości kręgów szyjnych na zdjęciu cefalometrycznym."
+ },
+ {
+  "id": "pf-c014-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    102,
+    103
+   ]
+  },
+  "question": "Zaletą oceny wieku szkieletowego metodą dojrzałości kręgów szyjnych (CVM) jest to, że:",
+  "options": {
+   "A": "nie wymaga żadnego badania radiologicznego pacjenta",
+   "B": "umożliwia ocenę potencjału wzrostowego już w okresie uzębienia mlecznego",
+   "C": "jest znacznie dokładniejsza niż jakakolwiek inna metoda oceny wieku kostnego",
+   "D": "pozwala ocenić wiek zębowy bez konieczności badania klinicznego",
+   "E": "wykorzystuje rutynowe zdjęcie cefalometryczne, bez dodatkowej ekspozycji"
+  },
+  "correct": "E",
+  "explanation": "Metoda oparta na kręgach szyjnych korzysta ze zdjęć cefalometrycznych rutynowo wykonywanych u pacjentów ortodontycznych, więc nie trzeba dodatkowych radiogramów, a jej dokładność wydaje się porównywalna z oceną dłoni i nadgarstka.",
+  "core": true
+ },
+ {
+  "id": "pf-c014-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    102,
+    103
+   ]
+  },
+  "question": "Stadium 3 dojrzałości kręgów szyjnych (CS3) oznacza, że pacjent znajduje się:",
+  "options": {
+   "A": "w fazie całkowitego zakończenia wzrostu twarzoczaszki",
+   "B": "ponad dwa lata po szczycie młodzieńczego skoku wzrostowego",
+   "C": "mniej niż rok przed szczytem młodzieńczego skoku wzrostowego",
+   "D": "przed rozpoczęciem wymiany uzębienia mlecznego na stałe",
+   "E": "rok lub mniej po szczycie młodzieńczego skoku wzrostowego"
+  },
+  "correct": "C",
+  "explanation": "Zgodnie z opisem stadiów CS: CS2 to rok lub więcej przed szczytem, CS3 mniej niż rok przed szczytem, a CS4 rok lub mniej po szczycie skoku wzrostowego."
+ },
+ {
+  "id": "pf-c014-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    102,
+    103
+   ]
+  },
+  "question": "Który z parametrów rozwojowych najsłabiej koreluje z pozostałymi miernikami dojrzałości?",
+  "options": {
+   "A": "wiek umysłowy",
+   "B": "wysokość ciała",
+   "C": "wiek kostny",
+   "D": "wiek zębowy",
+   "E": "masa ciała"
+  },
+  "correct": "D",
+  "explanation": "Zgodność wieku zębowego z wiekiem kalendarzowym i innymi parametrami jest najsłabsza; jednocześnie korelacja wieku zębowego z wiekiem kostnym jest wyższa niż rozwoju fizycznego z wiekiem kalendarzowym."
+ },
+ {
+  "id": "pf-c015-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    104,
+    106
+   ]
+  },
+  "question": "Kaskada hormonalna zapoczątkowująca okres dojrzewania przebiega w kolejności:",
+  "options": {
+   "A": "gonadotropiny przysadkowe — czynniki uwalniające podwzgórza — hormony płciowe gonad",
+   "B": "hormony kory nadnerczy — gonadotropiny podwzgórza — czynniki uwalniające przysadki",
+   "C": "hormony płciowe gonad — czynniki uwalniające podwzgórza — gonadotropiny przysadkowe",
+   "D": "hormon wzrostu przysadki — czynniki uwalniające gonad — hormony płciowe podwzgórza",
+   "E": "czynniki uwalniające podwzgórza — gonadotropiny przysadkowe — hormony płciowe gonad i nadnerczy"
+  },
+  "correct": "E",
+  "explanation": "Komórki podwzgórza wydzielają czynniki uwalniające, które systemem wrotnym docierają do przedniego płata przysadki i pobudzają wydzielanie gonadotropin, te zaś stymulują jądra, jajniki i nadnercza do produkcji hormonów płciowych.",
+  "core": true
+ },
+ {
+  "id": "pf-c015-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    104,
+    106
+   ]
+  },
+  "question": "Które zmiany somatyczne towarzyszą wzrostowi stężenia hormonów płciowych w okresie pokwitania?",
+  "options": {
+   "A": "przyspieszenie wzrostu ciała i zanikanie tkanki limfatycznej",
+   "B": "zwolnienie wzrostu ciała i proliferacja tkanki limfatycznej",
+   "C": "przyspieszenie wzrostu ciała i intensywny rozrost tkanki nerwowej",
+   "D": "zatrzymanie wzrostu żuchwy przy dalszym wzroście szczęki",
+   "E": "zanik tkanki nerwowej i zahamowanie wzrostu kości szczęk"
+  },
+  "correct": "A",
+  "explanation": "Zwiększone stężenie hormonów płciowych przyspiesza wzrost ciała i powoduje zanikanie tkanki limfatycznej; tkanka nerwowa nie ulega zmianie, bo jej wzrost zakończył się ok. 6. r.ż."
+ },
+ {
+  "id": "pf-c015-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    104,
+    106
+   ]
+  },
+  "question": "Na tle krzywych Scammona krzywe wzrostu szczęk przebiegają:",
+  "options": {
+   "A": "dokładnie po krzywej wzrostu tkanki nerwowej, kończąc wzrost ok. 6. r.ż.",
+   "B": "pomiędzy krzywą tkanki nerwowej a krzywą ogólnego wzrostu ciała, przy czym żuchwa bliżej krzywej ogólnej",
+   "C": "po krzywej tkanki limfatycznej, z przejściowym przerostem przed pokwitaniem",
+   "D": "poniżej krzywej narządów płciowych, bez związku ze skokiem pokwitaniowym",
+   "E": "pomiędzy krzywą tkanki nerwowej a limfatycznej, przy czym szczęka bliżej limfatycznej"
+  },
+  "correct": "B",
+  "explanation": "Wzrost szczęk lokuje się między krzywą neuralną a krzywą ogólnego wzrostu ciała, a krzywa żuchwy przebiega bliżej krzywej ogólnej — dlatego żuchwa wyraźnie reaguje na pokwitaniowy skok wzrostowy."
+ },
+ {
+  "id": "pf-c016-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    107,
+    107
+   ]
+  },
+  "question": "Który czynnik decyduje o tym, że leczenie ortodontyczne wykorzystujące młodzieńczy skok wzrostowy powinno być u dziewcząt rozpoczynane wcześniej niż u chłopców?",
+  "options": {
+   "A": "u dziewcząt płytki nasadowe kości długich zamykają się później niż u chłopców",
+   "B": "okres pokwitania i skok wzrostowy zaczynają się u dziewcząt średnio 2 lata wcześniej",
+   "C": "okres pokwitania i skok wzrostowy zaczynają się u dziewcząt średnio 2 lata później",
+   "D": "u dziewcząt wiek chronologiczny pokrywa się dokładnie z wiekiem rozwojowym",
+   "E": "u dziewcząt skok wzrostowy trwa dłużej i jest bardziej intensywny niż u chłopców"
+  },
+  "correct": "B",
+  "explanation": "Okres pokwitania i młodzieńczy skok wzrostowy rozpoczynają się średnio 2 lata wcześniej u dziewcząt niż u chłopców, dlatego leczenie u dziewcząt musi być podjęte wcześniej, aby wykorzystać ten skok."
+ },
+ {
+  "id": "pf-c016-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    107,
+    107
+   ]
+  },
+  "question": "Który objaw charakteryzuje III etap dojrzewania drugorzędowych cech płciowych u dziewcząt?",
+  "options": {
+   "A": "gwałtowny rozrost tkanki tłuszczowej poprzedzający skok wzrostu na wysokość",
+   "B": "początek rozwoju gruczołów piersiowych i pojawienie się owłosienia łonowego",
+   "C": "wystąpienie pierwszej miesiączki, zbiegające się z końcem skoku wzrostowego",
+   "D": "rozpoczęcie młodzieńczego przyspieszenia wzrostu kości szczęk i żuchwy",
+   "E": "szczyt rozwoju somatycznego i pojawienie się owłosienia w dole pachowym"
+  },
+  "correct": "C",
+  "explanation": "Etap III u dziewcząt rozpoczyna się 1-1,5 roku po etapie II i charakteryzuje się pierwszą miesiączką; w tym czasie kończy się skok wzrostowy, a rozwój piersi jest zakończony."
+ },
+ {
+  "id": "pf-c016-003",
+  "type": "combined",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    107,
+    107
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące dojrzewania płciowego chłopców:\n1. Okres dojrzewania trwa u nich ok. 5 lat, a u dziewcząt ok. 3,5 roku.\n2. Pierwszym objawem dojrzewania jest rozrost tkanki tłuszczowej o rozmieszczeniu kobiecym.\n3. Etap III zbiega się ze szczytem wzrostu na wysokość.\n4. Skok wzrostu na wysokość kończy się już w etapie II.",
+  "options": {
+   "A": "tylko 1 i 4",
+   "B": "tylko 2 i 3",
+   "C": "tylko 1, 2 i 3",
+   "D": "tylko 3 i 4",
+   "E": "wszystkie prawidłowe"
+  },
+  "correct": "C",
+  "explanation": "U chłopców dojrzewanie trwa ok. 5 lat (u dziewcząt 3,5 roku), zaczyna się rozrostem tkanki tłuszczowej, a etap III zbiega się ze szczytem wzrostu na wysokość. Skok na wysokość kończy się dopiero w etapie IV, więc stwierdzenie 4 jest fałszywe.",
+  "core": true
+ },
+ {
+  "id": "pf-c017-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    108,
+    109
+   ]
+  },
+  "question": "Mianem adrenarche określa się:",
+  "options": {
+   "A": "wzrost wydzielania gonadotropin przysadkowych na początku pokwitania",
+   "B": "zamknięcie płytek nasadowych kości długich po zakończeniu dojrzewania",
+   "C": "aktywację nadnerczowego komponentu układu dojrzewania z wydzielaniem DHEA",
+   "D": "skok wzrostu żuchwy na długość wyprzedzający wzrost szwów szczękowych",
+   "E": "wystąpienie pierwszej miesiączki poprzedzone przyrostem tkanki tłuszczowej"
+  },
+  "correct": "C",
+  "explanation": "Hormony płciowe kory nadnerczy pojawiają się u obojga płci ok. 6 r.ż. w postaci słabego androgenu DHEA; aktywację tego nadnerczowego komponentu określa się jako adrenarche."
+ },
+ {
+  "id": "pf-c017-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    108,
+    109
+   ]
+  },
+  "question": "Głowowo-ogonowy kierunek zmian wzrostowych w okresie pokwitania powoduje, że:",
+  "options": {
+   "A": "żuchwa rozwija się szybciej niż szczęka, a twarz staje się mniej wypukła",
+   "B": "szczęka rozwija się szybciej niż żuchwa, a twarz staje się bardziej wypukła",
+   "C": "wzrost twarzy zatrzymuje się wcześniej niż wzrost ciała na wysokość",
+   "D": "kończyny górne rosną szybciej niż dolne, a bródka cofa się ku tyłowi",
+   "E": "wzrost szwów szczękowych wyprzedza wzrost żuchwy na długość"
+  },
+  "correct": "A",
+  "explanation": "W kierunku głowowo-ogonowym intensywniej rosną kończyny dolne niż górne, a w obrębie twarzy żuchwa szybciej niż szczęka; twarz staje się mniej wypukła, a bródka bardziej zaznaczona."
+ },
+ {
+  "id": "pf-c017-003",
+  "type": "clinical",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    108,
+    109
+   ]
+  },
+  "question": "Do gabinetu zgłasza się 9-letnia dziewczynka z wadą klasy II; rodzice pytają, czy nie należy poczekać z leczeniem do wyrżnięcia wszystkich zębów stałych. Co przemawia za wcześniejszym rozpoczęciem leczenia u dziewcząt?",
+  "options": {
+   "A": "u dziewcząt przyspieszenie wzrostu szczęk często wyprzedza końcową wymianę uzębienia",
+   "B": "u dziewcząt wzrost szczęk trwa nieprzerwanie do końca drugiej dekady życia",
+   "C": "u dziewcząt wymiana uzębienia zawsze poprzedza młodzieńczy skok wzrostowy",
+   "D": "u dziewcząt wiek chronologiczny jest pewnym wskaźnikiem dojrzałości szkieletowej",
+   "E": "u dziewcząt młodzieńcze przyspieszenie wzrostu szczęk w ogóle nie występuje"
+  },
+  "correct": "A",
+  "explanation": "U wcześnie dojrzewających dziewcząt skok wzrostowy często poprzedza końcową wymianę uzębienia, dlatego leczenie powinno być u większości z nich rozpoczęte przed wyrżnięciem wszystkich zębów stałych, by nie utracić potencjału wzrostowego.",
+  "core": true
+ },
+ {
+  "id": "pf-c018-001",
+  "type": "combined",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    110,
+    111
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące terminu zakończenia wzrostu szczęki i żuchwy:\n1. Najpierw kończy się wzrost na szerokość, potem na długość, a na końcu na wysokość.\n2. Wymiary poprzeczne często stabilizują się jeszcze przed młodzieńczym skokiem wzrostowym.\n3. Szerokość międzykłowa po 12 r.ż. raczej się zmniejsza niż zwiększa.\n4. Wzrost twarzy na wysokość kończy się u obu płci przed 15 r.ż.",
+  "options": {
+   "A": "tylko 1, 2 i 3",
+   "B": "tylko 3 i 4",
+   "C": "tylko 2 i 4",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 1 i 4"
+  },
+  "correct": "A",
+  "explanation": "Wzrost kończy się kolejno: szerokość, długość, wysokość; wymiary poprzeczne stabilizują się przed skokiem wzrostowym, a szerokość międzykłowa po 12 r.ż. maleje. Wymiar pionowy osiągany jest dopiero po 20 r.ż., więc stwierdzenie 4 jest fałszywe.",
+  "core": true
+ },
+ {
+  "id": "pf-c018-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    110,
+    111
+   ]
+  },
+  "question": "Co jest głównym czynnikiem odpowiedzialnym za uwydatnianie się wypukłości bródkowej w okresie dojrzewania?",
+  "options": {
+   "A": "wzrost chrząstki wyrostka kłykciowego przewyższający wzrost trzonu żuchwy",
+   "B": "przyrost kości na tylnym brzegu gałęzi żuchwy z jednoczesną resorpcją brzegu przedniego",
+   "C": "przemieszczenie dołu stawowego kości skroniowej ku tyłowi w stosunku do podstawy czaszki",
+   "D": "obfita apozycja kości na przedniej powierzchni guzowatości bródkowej",
+   "E": "resorpcja kości w obszarze między wypukłością bródkową a podstawą wyrostka zębodołowego"
+  },
+  "correct": "E",
+  "explanation": "Apozycja kości tylko w niewielkim stopniu zmienia kształt bródki; głównym czynnikiem modelującym jest obszar resorpcji między wypukłością bródkową a podstawą wyrostka zębodołowego, w połączeniu z doprzednią translacją bródki."
+ },
+ {
+  "id": "pf-c018-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    110,
+    111
+   ]
+  },
+  "question": "Dlaczego doprzedni ruch przedniej powierzchni szczęki jest mniejszy niż rzeczywiste przemieszczenie tej kości?",
+  "options": {
+   "A": "ponieważ bierne przemieszczenie szczęki ustaje całkowicie w chwili urodzenia",
+   "B": "ponieważ podniebienie ulega resorpcji od strony jamy ustnej, a apozycji od strony nosa",
+   "C": "ponieważ szwy szczękowe zamykają się już we wczesnym okresie uzębienia mlecznego",
+   "D": "ponieważ chrząstka przegrody nosa hamuje doprzedni ruch kompleksu szczękowego",
+   "E": "ponieważ na przedniej powierzchni szczęki równocześnie zachodzą procesy resorpcji"
+  },
+  "correct": "E",
+  "explanation": "Szczęka rośnie w dół i do przodu dzięki apozycji kości w okolicy guzów i szwów, podczas gdy na przedniej powierzchni zachodzi resorpcja; dlatego ruch tej powierzchni jest mniejszy niż stopień przemieszczenia kości."
+ },
+ {
+  "id": "pf-c019-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    112,
+    113
+   ]
+  },
+  "question": "Zgodnie z przyjętą w tekście konwencją rotację kości szczęk określa się jako doprzednią i oznacza znakiem ujemnym, gdy:",
+  "options": {
+   "A": "wzrost w odcinku tylnym jest większy niż w odcinku przednim",
+   "B": "kąt nachylenia płaszczyzny żuchwowej ulega zwiększeniu",
+   "C": "bródka kieruje się jednocześnie w dół i do tyłu",
+   "D": "wzrost w odcinku przednim jest większy niż w odcinku tylnym",
+   "E": "rotacja zewnętrzna przewyższa co do wartości rotację wewnętrzną"
+  },
+  "correct": "A",
+  "explanation": "Rotację uznaje się za doprzednią (znak ujemny), jeśli wzrost tylny przewyższa przedni; rotacja dotylna ma znak dodatni i kieruje bródkę w dół i do tyłu.",
+  "core": true
+ },
+ {
+  "id": "pf-c019-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    112,
+    113
+   ]
+  },
+  "question": "Dlaczego wewnętrzna rotacja doprzednia żuchwy rzędu 15° powoduje zmniejszenie kąta płaszczyzny żuchwowej tylko o kilka stopni?",
+  "options": {
+   "A": "ponieważ jednocześnie zachodzi rotacja wewnętrzna szczęki o tej samej wartości",
+   "B": "ponieważ rotacja wewnętrzna dotyczy wyłącznie wyrostka dziobiastego",
+   "C": "ponieważ jest maskowana przez remodelowanie zewnętrznej powierzchni kości",
+   "D": "ponieważ pomiar płaszczyzny żuchwowej nie uwzględnia trzonu żuchwy",
+   "E": "ponieważ wyrzynanie zębów bocznych całkowicie znosi rotację matrycy"
+  },
+  "correct": "C",
+  "explanation": "Rotacja wewnętrzna nie wpływa znacząco na położenie żuchwy, ponieważ jest kompensowana przez rotację zewnętrzną, czyli przebudowę powierzchni kości - m.in. resorpcję w tylnej części dolnej krawędzi żuchwy."
+ },
+ {
+  "id": "pf-c019-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    112,
+    113
+   ]
+  },
+  "question": "Która cecha odróżnia rotację szczęki od rotacji żuchwy?",
+  "options": {
+   "A": "w szczęce nie występuje rotacja zewnętrzna, możliwa jest tylko rotacja matrycy",
+   "B": "w szczęce rotacja wewnętrzna zawsze przewyższa rotację zewnętrzną kilkakrotnie",
+   "C": "w szczęce nie występuje rotacja matrycy, możliwa jest tylko rotacja wewnętrzna",
+   "D": "w szczęce rotacja przebiega wyłącznie wokół centrum w wyrostku kłykciowym",
+   "E": "w szczęce rotacja jest wykrywalna bez badań z zastosowaniem implantów"
+  },
+  "correct": "C",
+  "explanation": "Wewnętrzna rotacja szczęki jest analogiczna do rotacji wewnątrz matrycy w żuchwie, natomiast rotacja matrycy - czyli obrót wokół wyrostka kłykciowego - w szczęce nie jest możliwa."
+ },
+ {
+  "id": "pf-c020-001",
+  "type": "clinical",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    114,
+    115
+   ]
+  },
+  "question": "U 13-letniego chłopca stwierdza się zmniejszoną dolną przednią wysokość twarzy, twarz \"kwadratową\", niski kąt płaszczyzny żuchwowej i zgryz głęboki. Jaki wzorzec rotacji żuchwy leży u podłoża tego obrazu?",
+  "options": {
+   "A": "nadmierna rotacja doprzednia z przewagą rotacji wewnętrznej nad zewnętrzną",
+   "B": "rotacja matrycy skierowana ku dołowi w odcinku tylnym żuchwy",
+   "C": "nadmierna rotacja dotylna wynikająca głównie z rotacji wewnątrz matrycy",
+   "D": "całkowity brak rotacji wewnętrznej przy zachowanej rotacji zewnętrznej",
+   "E": "nadmierna rotacja dotylna z przewagą rotacji wewnętrznej nad zewnętrzną"
+  },
+  "correct": "A",
+  "explanation": "Zespół twarzy krótkiej cechuje nadmierna doprzednia rotacja żuchwy będąca skutkiem przewagi rotacji wewnętrznej nad zewnętrzną; towarzyszą jej niski kąt płaszczyzny żuchwowej, zgryz głęboki i stłoczenie siekaczy.",
+  "core": true
+ },
+ {
+  "id": "pf-c020-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    114,
+    115
+   ]
+  },
+  "question": "U osób z typem twarzy długiej dotylna rotacja żuchwy wynika przede wszystkim z:",
+  "options": {
+   "A": "poziomego ustawienia płaszczyzny podniebiennej w odcinku tylnym",
+   "B": "nasilonej rotacji zewnętrznej dolnego brzegu trzonu żuchwy",
+   "C": "rotacji wewnątrz matrycy ze środkiem obrotu w trzonie żuchwy",
+   "D": "nadmiernej doprzedniej rotacji wewnętrznej podstawy szczęki",
+   "E": "rotacji matrycy, czyli obrotu ze środkiem w wyrostku kłykciowym"
+  },
+  "correct": "E",
+  "explanation": "W typie twarzy długiej zmiany położenia żuchwy wynikają z braku prawidłowej doprzedniej rotacji wewnętrznej lub z rotacji dotylnej, która jest skutkiem głównie rotacji matrycy, a nie rotacji wewnątrz matrycy."
+ },
+ {
+  "id": "pf-c020-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    114,
+    115
+   ]
+  },
+  "question": "Dlaczego u większości osób nachylenie płaszczyzny podniebiennej pozostaje w czasie wzrostu praktycznie niezmienione?",
+  "options": {
+   "A": "ponieważ szczęka przemieszcza się wyłącznie biernie wraz z podstawą czaszki",
+   "B": "ponieważ rotacja zewnętrzna przebiega w kierunku przeciwnym i znosi rotację wewnętrzną",
+   "C": "ponieważ rotacja szczęki ujawnia się dopiero po zakończeniu okresu pokwitania",
+   "D": "ponieważ wyrzynanie zębów górnych całkowicie hamuje rotację podstawy szczęki",
+   "E": "ponieważ w szczęce nie występuje ani rotacja wewnętrzna, ani zewnętrzna"
+  },
+  "correct": "B",
+  "explanation": "U większości pacjentów rotacja zewnętrzna przebiega w odwrotnym kierunku i jest równa co do wielkości rotacji wewnętrznej, więc obie się znoszą i zmiana netto nachylenia płaszczyzny podniebiennej wynosi zero."
+ },
+ {
+  "id": "pf-c021-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    116,
+    117
+   ]
+  },
+  "question": "Zgodnie ze współczesnymi poglądami opartymi na badaniach z implantami, fizjologiczne skrócenie długości łuku zębowego tłumaczy się przede wszystkim:",
+  "options": {
+   "A": "dojęzykowym przemieszczeniem siekaczy pod wpływem rotacji kości",
+   "B": "biernym przemieszczeniem szczęki wraz ze wzrostem podstawy czaszki",
+   "C": "starciem powierzchni stycznych zębów bocznych podczas żucia",
+   "D": "doprzednią wędrówką zębów trzonowych wywołaną siłami zwarcia",
+   "E": "zwiększaniem się szerokości międzykłowej po okresie pokwitania"
+  },
+  "correct": "A",
+  "explanation": "Współczesne poglądy podkreślają znaczenie dojęzykowego przemieszczenia siekaczy wynikającego z rotacji kości; na długość łuku wpływają głównie zmiany przednio-tylnej pozycji siekaczy, a nie ruch trzonowców.",
+  "core": true
+ },
+ {
+  "id": "pf-c021-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    116,
+    117
+   ]
+  },
+  "question": "Jaki udział w całkowitym ruchu zębów szczęki względem podstawy czaszki w okresie młodzieńczym ma translokacja, czyli przemieszczanie zębów wraz z kością?",
+  "options": {
+   "A": "wyłącznie ruch w płaszczyźnie poprzecznej",
+   "B": "jedynie ruch dotylny siekaczy górnych",
+   "C": "około połowy całkowitego ruchu",
+   "D": "praktycznie żaden - decyduje sama erupcja",
+   "E": "całość ruchu - erupcja w tym okresie ustaje"
+  },
+  "correct": "C",
+  "explanation": "Ruch zębów względem podstawy czaszki jest połączeniem translokacji wraz z przemieszczającą się kością oraz erupcji; translokacja stanowi ok. połowy całkowitego ruchu zębów szczęki podczas wzrostu młodzieńczego."
+ },
+ {
+  "id": "pf-c021-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    116,
+    117
+   ]
+  },
+  "question": "Jaka zmiana tkanek miękkich twarzy związana z wiekiem ma największe znaczenie dla ortodonty?",
+  "options": {
+   "A": "pogrubienie czerwieni wargowej zwiększające podparcie zębów przednich",
+   "B": "zwiększenie ekspozycji dziąsła podczas uśmiechu po 30 r.ż.",
+   "C": "obniżanie się wargi górnej, zmniejszające ekspozycję siekaczy górnych",
+   "D": "skrócenie nosa powodujące spłycenie kąta nosowo-wargowego",
+   "E": "unoszenie się wargi górnej, zwiększające ekspozycję siekaczy górnych"
+  },
+  "correct": "C",
+  "explanation": "Najważniejszą zmianą jest obniżanie się wargi górnej i innych tkanek miękkich z wiekiem, co skutkuje mniejszym eksponowaniem siekaczy górnych, a większym dolnych - zarówno w spoczynku, jak i podczas uśmiechu."
+ },
+ {
+  "id": "pf-c022-001",
+  "type": "clinical",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    118,
+    120
+   ]
+  },
+  "question": "Kończysz leczenie ortodontyczne 15-letniej pacjentki i ustalasz docelowe pionowe relacje warg i zębów. Jak należy uwzględnić przyszłe zmiany tkanek miękkich?",
+  "options": {
+   "A": "pozostawić siekacze górne wyraźnie mniej wyeksponowane niż u osoby dorosłej",
+   "B": "pozostawić siekacze górne nieco bardziej wyeksponowane niż u osoby dorosłej",
+   "C": "dążyć do pełnego odsłonięcia siekaczy dolnych w pozycji spoczynkowej",
+   "D": "maksymalnie przechylić siekacze górne dojęzykowo dla odciążenia wargi",
+   "E": "nie uwzględniać wieku, bo relacje warg i zębów nie zmieniają się po leczeniu"
+  },
+  "correct": "B",
+  "explanation": "Wraz z wiekiem tkanki miękkie się obniżają, dlatego u osoby młodej należy pozostawić nieco bardziej wyeksponowane siekacze górne - prawidłowe dla dorosłego stosunki zostaną osiągnięte w późniejszych latach.",
+  "core": true
+ },
+ {
+  "id": "pf-c022-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    118,
+    120
+   ]
+  },
+  "question": "Dlaczego mechaniczne opracowywanie zębów u osób młodocianych wiąże się z większym ryzykiem obnażenia miazgi niż u dorosłych?",
+  "options": {
+   "A": "bo szkliwo zębów młodocianych jest cieńsze i mniej zmineralizowane",
+   "B": "bo w młodych zębach komora ulega obliteracji jeszcze przed wyrżnięciem",
+   "C": "bo przyczep nabłonkowy leży u nich poniżej połączenia szkliwno-cementowego",
+   "D": "bo w zębach niedojrzałych zębina wtórna odkłada się szybciej niż u dorosłych",
+   "E": "bo komora zęba niedojrzałego jest znacznie większa i dopiero z czasem maleje"
+  },
+  "correct": "E",
+  "explanation": "W momencie wyrzynania komora zęba stałego jest duża, a odkładanie zębiny wtórnej zmniejsza ją szybko przed 20 r.ż.; duże komory niedojrzałych zębów stałych zwiększają ryzyko obnażenia miazgi."
+ },
+ {
+  "id": "pf-c022-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    118,
+    120
+   ]
+  },
+  "question": "Jak współcześnie tłumaczy się tzw. wyrzynanie bierne, czyli pozorną dowierzchołkową wędrówkę przyczepu nabłonkowego?",
+  "options": {
+   "A": "jest to czynne wyrzynanie zębów równoważące pionowy wzrost kości szczęk",
+   "B": "jest to następstwo odkładania zębiny wtórnej wydłużającej koronę kliniczną",
+   "C": "jest to rzeczywista wędrówka przyczepu zachodząca także w zdrowym przyzębiu",
+   "D": "jest to skutek starcia powierzchni zgryzowych spowodowanego twardą dietą",
+   "E": "jest to efekt przemieszczania się połączenia szkliwno-cementowego dowierzchołkowo"
+  },
+  "correct": "A",
+  "explanation": "Przy całkowicie zdrowym przyzębiu tkanki miękkie przyczepu nie migrują; to, co uznawano za dowierzchołkową wędrówkę przyczepu nabłonkowego, jest w rzeczywistości czynnym wyrzynaniem równoważącym pionowy wzrost szczęk."
+ },
+ {
+  "id": "pf-c023-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    121,
+    122
+   ]
+  },
+  "question": "Jakie obserwacje u australijskich aborygenów podważyły teorię Begga tłumaczącą późne stłoczenia brakiem fizjologicznego starcia zębów?",
+  "options": {
+   "A": "u aborygenów wady zgryzu występowały częściej niż w krajach rozwiniętych",
+   "B": "po zmianie diety starcie zanikło, ale późne stłoczenia nadal pozostały rzadkością",
+   "C": "u aborygenów od początku nie stwierdzano starcia powierzchni stycznych",
+   "D": "u aborygenów usuwanie przedtrzonowców całkowicie zapobiegało stłoczeniom",
+   "E": "po zmianie diety starcie zanikło i natychmiast pojawiły się nasilone stłoczenia"
+  },
+  "correct": "B",
+  "explanation": "Pod koniec XX w. wraz ze zmianą diety u większości plemion aborygeńskich przestano stwierdzać starcie powierzchni zgryzowych i stycznych, mimo to późne stłoczenia pozostały u nich rzadkością."
+ },
+ {
+  "id": "pf-c023-002",
+  "type": "combined",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    121,
+    122
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące roli trzecich trzonowców w powstawaniu późnych stłoczeń siekaczy dolnych:\n1. Późne stłoczenia rozwijają się w okresie, w którym wyrzynają się trzecie trzonowce.\n2. Późne stłoczenia często występują u osób z wrodzonym brakiem dolnych zawiązków trzecich trzonowców.\n3. Ucisk trzecich trzonowców stanowi ostateczne wyjaśnienie mechanizmu późnych stłoczeń.\n4. Istnieją dane, że wczesne usunięcie drugich trzonowców łagodzi stłoczenie siekaczy.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 2 i 3",
+   "C": "tylko 1 i 3",
+   "D": "tylko 1, 2 i 4",
+   "E": "tylko 3 i 4"
+  },
+  "correct": "D",
+  "explanation": "Późne stłoczenia zbiegają się w czasie z wyrzynaniem trzecich trzonowców i bywają łagodzone wczesną ekstrakcją drugich trzonowców, ale występują też przy braku zawiązków trzecich trzonowców - dlatego ucisk tych zębów nie jest ostatecznym wyjaśnieniem.",
+  "core": true
+ },
+ {
+  "id": "pf-c023-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    121,
+    122
+   ]
+  },
+  "question": "Gdy w późnym wieku nastoletnim żuchwa rośnie doprzednio u pacjenta ze ścisłym kontaktem zgryzowym zębów przednich, najbardziej prawdopodobnym następstwem jest:",
+  "options": {
+   "A": "wychylenie siekaczy górnych z wytworzeniem szpar między zębami przednimi",
+   "B": "dotylne przemieszczenie żuchwy z przemieszczeniem krążka stawowego",
+   "C": "zahamowanie wzrostu żuchwy i samoistne pogłębienie nagryzu pionowego",
+   "D": "wychylenie siekaczy dolnych z powstaniem nadmiernego nagryzu poziomego",
+   "E": "dotylne przemieszczenie siekaczy dolnych ze stłoczeniem i zmniejszeniem szerokości międzykłowej"
+  },
+  "correct": "E",
+  "explanation": "Spośród trzech możliwych scenariuszy najbardziej prawdopodobne jest dotylne przemieszczenie siekaczy dolnych z powstaniem stłoczenia i zmniejszeniem szerokości międzykłowej; wychylenie siekaczy górnych jest najmniej powszechne."
+ },
+ {
+  "id": "pf-c024-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    123,
+    124
+   ]
+  },
+  "question": "Który czynnik ma najważniejszy wpływ na wystąpienie późnego stłoczenia siekaczy dolnych?",
+  "options": {
+   "A": "stopień starcia powierzchni stycznych zębów bocznych żuchwy",
+   "B": "liczba usuniętych wcześniej przedtrzonowców w łuku dolnym",
+   "C": "wielkość nagryzu poziomego w chwili zakończenia leczenia ortodontycznego",
+   "D": "zakres wzrostu żuchwy trwającego po zakończeniu wzrostu pozostałych kości",
+   "E": "obecność zawiązków dolnych trzecich trzonowców w łuku zębowym"
+  },
+  "correct": "D",
+  "explanation": "Choć zatrzymane trzecie trzonowce mogą być \"ostatnim ogniwem\" łańcucha zdarzeń, nie są zmienną decydującą; najważniejszy jest zakres późnego wzrostu żuchwy po zakończeniu wzrostu innych kości."
+ },
+ {
+  "id": "pf-c024-002",
+  "type": "combined",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    123,
+    124
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia wynikające z badań Behrentsa nad wzrostem twarzy u dorosłych:\n1. Wzrost twarzoczaszki trwa także w wieku dorosłym i dotyczy wszystkich jej wymiarów.\n2. Zmiany pionowe są bardziej wyraźne niż przednio-tylne, a poprzeczne najmniej zaznaczone.\n3. Roczne przyrosty u dorosłych są niewielkie, ale sumaryczny efekt po dekadach jest duży.\n4. Wzrost u dorosłych przebiega według wzorca odwrotnego niż w okresie dojrzewania.",
+  "options": {
+   "A": "tylko 1 i 4",
+   "B": "tylko 2 i 4",
+   "C": "tylko 3 i 4",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 1, 2 i 3"
+  },
+  "correct": "E",
+  "explanation": "Behrents wykazał, że wzrost twarzy trwa w dorosłości, obejmuje wszystkie wymiary z przewagą zmian pionowych, a drobne przyrosty roczne dają po dekadach duży efekt. Jest to kontynuacja, a nie odwrócenie wzorca z okresu dojrzewania.",
+  "core": true
+ },
+ {
+  "id": "pf-c024-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    123,
+    124
+   ]
+  },
+  "question": "W jaki sposób dotylna rotacja żuchwy u pacjenta ze zgryzem otwartym przednim prowadzi do późnego stłoczenia siekaczy dolnych?",
+  "options": {
+   "A": "przesuwa siekacze ku wardze, a jej stały ucisk cofa je dojęzykowo",
+   "B": "powoduje bezpośrednie dojęzykowe przechylenie siekaczy przez trzon żuchwy",
+   "C": "wywołuje mezjalizację trzonowców w wyniku utraty kontaktów zwarciowych",
+   "D": "hamuje wzrost gałęzi żuchwy, uniemożliwiając wyrżnięcie przedtrzonowców",
+   "E": "zwiększa szerokość międzykłową, co wymusza rotację zębów przednich"
+  },
+  "correct": "A",
+  "explanation": "Rotacja dotylna przesuwa zęby do przodu, wypychając je w kierunku wargi; delikatny, lecz ciągły ucisk wargi przemieszcza ustawione w protruzji siekacze dojęzykowo, skracając łuk i powodując stłoczenie."
+ },
+ {
+  "id": "pf-c025-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    125,
+    126
+   ]
+  },
+  "question": "Który wymiar twarzoczaszki najwcześniej zmniejsza swoje tempo wzrostu do poziomu obserwowanego u osób dorosłych?",
+  "options": {
+   "A": "wymiar pionowy szczęki, stabilizujący się przed 12 r.ż. u obu płci",
+   "B": "wymiar pionowy, ustalający się bezpośrednio po skoku wzrostowym",
+   "C": "wymiar przednio-tylny, stabilizujący się jeszcze przed okresem pokwitania",
+   "D": "wymiar poprzeczny, osiągający wartość podstawową na początku pokwitania",
+   "E": "wymiar przednio-tylny żuchwy, stabilizujący się przed wymiarem poprzecznym"
+  },
+  "correct": "D",
+  "explanation": "Wzrost na szerokość jako pierwszy zmniejsza się do poziomu dorosłego, osiągając wartość podstawową już na początku pokwitania; wymiary przednio-tylne stabilizują się później, a pionowe rosną umiarkowanie także w dorosłości.",
+  "core": true
+ },
+ {
+  "id": "pf-c025-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    125,
+    126
+   ]
+  },
+  "question": "Jakie zmiany tkanek miękkich twarzy obserwowano w badaniach osób dorosłych?",
+  "options": {
+   "A": "brak istotnych zmian przy wyraźnych zmianach kostnych",
+   "B": "skrócenie nosa, pogrubienie warg i spłaszczenie bródki",
+   "C": "wydłużenie nosa, pogrubienie warg i cofnięcie bródki",
+   "D": "wydłużenie nosa, spłaszczenie warg i uwydatnienie bródki",
+   "E": "skrócenie nosa, spłaszczenie warg i uwydatnienie bródki"
+  },
+  "correct": "D",
+  "explanation": "U dorosłych zmiany tkanek miękkich były większe niż zmiany kostne: obserwowano nasilające się z wiekiem wydłużenie nosa, spłaszczenie warg oraz uwydatnienie bródki."
+ },
+ {
+  "id": "pf-c025-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    125,
+    126
+   ]
+  },
+  "question": "Jak w wieku dorosłym kształtuje się rotacja kości szczęk w zależności od płci?",
+  "options": {
+   "A": "u mężczyzn przeważa rotacja doprzednia, u kobiet skłonność do rotacji dotylnej",
+   "B": "u obu płci występuje wyłącznie rotacja doprzednia o tym samym nasileniu",
+   "C": "u kobiet rotacja występuje tylko po pierwszej ciąży, u mężczyzn nie występuje",
+   "D": "u obu płci rotacja całkowicie ustaje wraz z osiągnięciem dojrzałości płciowej",
+   "E": "u mężczyzn przeważa rotacja dotylna, u kobiet skłonność do rotacji doprzedniej"
+  },
+  "correct": "A",
+  "explanation": "W wieku dorosłym rotacja szczęk utrzymuje się: u mężczyzn zwykle doprzednia z nieznacznym zmniejszeniem kąta płaszczyzny żuchwowej, u kobiet - skłonność do rotacji dotylnej ze zwiększeniem tego kąta."
+ },
+ {
+  "id": "pf-c026-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    127,
+    128
+   ]
+  },
+  "question": "Które stwierdzenie prawidłowo charakteryzuje teratogeny?",
+  "options": {
+   "A": "wywołują wady wyłącznie u zarodków obciążonych mutacją genetyczną",
+   "B": "w małych ilościach wywołują charakterystyczne wady, w większych powodują obumarcie zarodka",
+   "C": "w małych ilościach powodują obumarcie zarodka, w większych jedynie łagodne wady",
+   "D": "są to wyłącznie czynniki zakaźne, ponieważ leki nigdy nie działają teratogennie",
+   "E": "działają niezależnie od momentu podania, gdyż nie istnieje okres krytyczny"
+  },
+  "correct": "B",
+  "explanation": "Teratogeny to związki wywołujące defekty embrionalne podane w krytycznym momencie: w małych ilościach powodują charakterystyczne wady, w większych dawkach - obumarcie zarodka. Większość leków nie jest teratogenna.",
+  "core": true
+ },
+ {
+  "id": "pf-c026-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    127,
+    128
+   ]
+  },
+  "question": "Dlaczego skrajnemu niedorozwojowi żuchwy w sekwencji Pierre'a Robina towarzyszy rozszczep podniebienia?",
+  "options": {
+   "A": "bo zmniejszona objętość płynu owodniowego bezpośrednio hamuje wzrost wyrośli podniebiennych",
+   "B": "bo zahamowanie doprzedniego przemieszczenia żuchwy utrzymuje język między wyroślami podniebiennymi",
+   "C": "bo ucisk ramienia płodu na twarz uniemożliwia zespolenie wyrośli podniebiennych",
+   "D": "bo niedorozwój żuchwy jest zawsze skutkiem tej samej mutacji, co rozszczep podniebienia",
+   "E": "bo niedrożność dróg oddechowych noworodka wtórnie rozdziela połówki podniebienia"
+  },
+  "correct": "B",
+  "explanation": "Zahamowane doprzednie przemieszczenie żuchwy utrzymuje język w okolicy podniebienia, co uniemożliwia zespolenie się jego dwóch połówek; stąd rozszczep podniebienia towarzyszący mikrogenii."
+ },
+ {
+  "id": "pf-c026-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    127,
+    128
+   ]
+  },
+  "question": "Jaki odsetek dzieci leczonych ortodontycznie ma wadę, której główną przyczyną jest zaburzenie rozwoju zarodkowego?",
+  "options": {
+   "A": "około dwie trzecie",
+   "B": "około 5%",
+   "C": "około jedna trzecia",
+   "D": "około 20%",
+   "E": "mniej niż 1%"
+  },
+  "correct": "E",
+  "explanation": "Zaburzenia wynikające z defektów embrionalnych są bardzo rzadkie - według statystyk mniej niż 1% dzieci leczonych ortodontycznie ma wadę, której główną przyczyną jest zaburzenie rozwoju zarodkowego."
+ },
+ {
+  "id": "pf-c027-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    129,
+    130
+   ]
+  },
+  "question": "Jakie jest rokowanie u dziecka po złamaniu wyrostka kłykciowego żuchwy we wczesnym dzieciństwie?",
+  "options": {
+   "A": "u praktycznie wszystkich dzieci dochodzi do trwałego zahamowania wzrostu żuchwy",
+   "B": "rokowanie jest tym lepsze, im później w dzieciństwie nastąpiło złamanie",
+   "C": "regeneracja wyrostka kłykciowego nie jest możliwa w żadnym wieku",
+   "D": "u ok. 75% dzieci rozwija się asymetria żuchwy wymagająca leczenia chirurgicznego",
+   "E": "u ok. 75% dzieci wzrost żuchwy przebiega prawidłowo i wada zgryzu się nie rozwija"
+  },
+  "correct": "E",
+  "explanation": "Wyrostek kłykciowy ma dużą zdolność regeneracji po urazach we wczesnym dzieciństwie - u ok. 75% dzieci wzrost żuchwy przebiega prawidłowo, a rokowanie jest tym lepsze, im wcześniej nastąpiło złamanie."
+ },
+ {
+  "id": "pf-c027-002",
+  "type": "clinical",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    129,
+    130
+   ]
+  },
+  "question": "Do izby przyjęć trafia 6-letni chłopiec po upadku z roweru, z rozpoznanym złamaniem szyjki wyrostka kłykciowego żuchwy. Jakie postępowanie jest właściwe?",
+  "options": {
+   "A": "protetyczna rekonstrukcja wyrostka kłykciowego przeszczepem kostnym",
+   "B": "leczenie zachowawcze z wczesną mobilizacją żuchwy",
+   "C": "otwarta repozycja i zespolenie płytkowe wyrostka kłykciowego",
+   "D": "natychmiastowa osteogeneza dystrakcyjna gałęzi żuchwy po stronie urazu",
+   "E": "długotrwałe unieruchomienie międzyszczękowe do czasu zakończenia wzrostu"
+  },
+  "correct": "B",
+  "explanation": "Interwencja chirurgiczna w złamany wyrostek stawowy nie przynosi korzyści, a blizna pooperacyjna może nasilić zaburzenia wzrostu; najlepsze jest leczenie zachowawcze i wczesna mobilizacja żuchwy.",
+  "core": true
+ },
+ {
+  "id": "pf-c027-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    129,
+    130
+   ]
+  },
+  "question": "Który argument najsilniej przemawia przeciwko urazowi okołoporodowemu jako częstej przyczynie niedorozwoju żuchwy?",
+  "options": {
+   "A": "krwotok wewnętrzny w stawie skroniowo-żuchwowym nigdy nie prowadzi do ubytku tkanek",
+   "B": "kleszcze nigdy nie wywierają zwiększonego ciśnienia w okolicy stawów skroniowo-żuchwowych",
+   "C": "zespół Treachera Collinsa i zespół Crouzona powstają wskutek urazu porodowego",
+   "D": "chrząstka wyrostka kłykciowego jest uznawana za główny ośrodek wzrostu żuchwy",
+   "E": "znaczny spadek częstości porodów kleszczowych nie zmniejszył częstości wad klasy II"
+  },
+  "correct": "E",
+  "explanation": "Współcześnie chrząstce wyrostka kłykciowego nie przypisuje się krytycznego znaczenia we wzroście żuchwy, a znaczący spadek użycia kleszczy w ciągu ostatnich 50 lat nie obniżył częstości wad klasy II z niedorozwoju żuchwy."
+ },
+ {
+  "id": "pf-c028-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    131,
+    132
+   ]
+  },
+  "question": "Kręcz szyi prowadzi do asymetrii twarzy, ponieważ:",
+  "options": {
+   "A": "jednostronny zanik mięśni szyi przyspiesza wzrost po stronie zajętej",
+   "B": "skurcz mięśni żwaczy uniemożliwia wyrzynanie zębów bocznych po stronie zajętej",
+   "C": "przekrzywienie głowy zaburza symetrię wzrostu podstawy czaszki po stronie przeciwnej",
+   "D": "obustronne obniżenie napięcia mięśni powoduje bierne opadanie żuchwy",
+   "E": "jednostronny nadmierny skurcz mięśni szyi hamuje wzrost po tej samej stronie"
+  },
+  "correct": "E",
+  "explanation": "Kręcz szyi polega na przekrzywionym ustawieniu głowy wskutek jednostronnego nadmiernego tonicznego skurczu mięśni szyi, głównie mostkowo-obojczykowo-sutkowego; rozległy skurcz hamuje wzrost po stronie zajętej, podobnie jak blizna pourazowa."
+ },
+ {
+  "id": "pf-c028-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    131,
+    132
+   ]
+  },
+  "question": "Jaki obraz zębowo-twarzowy jest typowy dla pacjenta z zespołem obniżonego napięcia mięśniowego, np. w dystrofii mięśniowej?",
+  "options": {
+   "A": "asymetria żuchwy z zahamowaniem wzrostu po stronie obniżonego napięcia",
+   "B": "zmniejszona dolna wysokość twarzy, poszerzenie szczęki i zgryz głęboki",
+   "C": "niedorozwój środkowego piętra twarzy z prawidłowym wymiarem pionowym",
+   "D": "nadmierny wzrost żuchwy z III klasą szkieletową w wieku dorosłym",
+   "E": "zwiększona dolna wysokość twarzy, zwężenie szczęki i zgryz otwarty przedni"
+  },
+  "correct": "E",
+  "explanation": "Obniżone napięcie mięśni prowadzi do biernego opadania żuchwy: zwiększa się dolna wysokość twarzy, dochodzi do nadmiernego wyrżnięcia zębów tylnych, zwężenia szczęki i zgryzu otwartego przedniego."
+ },
+ {
+  "id": "pf-c028-003",
+  "type": "combined",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    131,
+    132
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące nadmiernego wzrostu żuchwy:\n1. Akromegalia jest spowodowana guzem przedniego płata przysadki wydzielającym hormon wzrostu.\n2. W akromegalii nadmierny wzrost żuchwy prowadzi do III klasy szkieletowej u dorosłego.\n3. Połowiczy przerost żuchwy występuje głównie u dziewcząt w wieku 15-20 lat.\n4. Usunięcie guza przysadki cofa już powstałe zniekształcenie kości.",
+  "options": {
+   "A": "tylko 2 i 4",
+   "B": "tylko 1 i 4",
+   "C": "tylko 1, 2 i 3",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 3 i 4"
+  },
+  "correct": "C",
+  "explanation": "Akromegalia wynika z guza przedniego płata przysadki i daje nadmierny wzrost żuchwy z III klasą szkieletową, a połowiczy przerost żuchwy dotyczy głównie dziewcząt w wieku 15-20 lat. Usunięcie guza lub radioterapia hamują wzrost, ale powstałe zniekształcenie koryguje wyłącznie chirurgiczna repozycja kości.",
+  "core": true
+ },
+ {
+  "id": "pf-c029-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    133,
+    135
+   ]
+  },
+  "question": "Zgodnie z ogólną zasadą dotyczącą hipodoncji, brakujący ząb to najczęściej:",
+  "options": {
+   "A": "pierwszy ząb z danej grupy, np. pierwszy przedtrzonowiec lub siekacz przyśrodkowy",
+   "B": "ostatni ząb z danej grupy, np. trzeci trzonowiec lub siekacz boczny",
+   "C": "pierwszy trzonowiec stały, zwłaszcza w żuchwie",
+   "D": "ząb położony bezpośrednio dystalnie od kła w danym łuku",
+   "E": "kieł, zwłaszcza w szczęce"
+  },
+  "correct": "B",
+  "explanation": "Jeśli brakuje jakiegoś zęba, jest to niemal zawsze ostatni ząb z danej grupy: trzeci trzonowiec, siekacz boczny lub drugi przedtrzonowiec. Hipodoncja kłów jest zjawiskiem niezwykle rzadkim."
+ },
+ {
+  "id": "pf-c029-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    133,
+    135
+   ]
+  },
+  "question": "Co odróżnia zęby bliźniacze od zębów zlanych?",
+  "options": {
+   "A": "zęby bliźniacze nie zaburzają zwarcia, a zlane zawsze je uniemożliwiają",
+   "B": "zęby bliźniacze zawsze występują w żuchwie, a zlane wyłącznie w szczęce",
+   "C": "zęby zlane powstają z zawiązka nadliczbowego, a bliźniacze z zawiązka mlecznego",
+   "D": "zęby bliźniacze mają wspólną komorę miazgi, a zlane oddzielne komory połączone zębiną",
+   "E": "zęby zlane mają wspólną komorę miazgi, a bliźniacze oddzielne komory połączone zębiną"
+  },
+  "correct": "D",
+  "explanation": "Zęby zlane mają oddzielne komory połączone zębiną, natomiast zęby bliźniacze - wspólną komorę miazgi; rozróżnienie ułatwia policzenie zębów w danym odcinku łuku."
+ },
+ {
+  "id": "pf-c029-003",
+  "type": "clinical",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    133,
+    135
+   ]
+  },
+  "question": "U 8-letniego chłopca na zdjęciu stwierdzasz, że pierwszy stały trzonowiec szczęki nie może się wyrżnąć, a korzeń drugiego trzonowca mlecznego uległ resorpcji. Jak nazywa się to zaburzenie i jakie ma następstwo?",
+  "options": {
+   "A": "wyrzynanie ektopowe, prowadzące do skrócenia długości łuku zębowego",
+   "B": "dilaceracja korzenia, uniemożliwiająca ustawienie korony w prawidłowej pozycji",
+   "C": "ankyloza trzonowca mlecznego, prowadząca do wydłużenia łuku zębowego",
+   "D": "hipodoncja drugiego przedtrzonowca, prowadząca do przetrwania zęba mlecznego",
+   "E": "transpozycja zębów, prowadząca do zamiany miejsc trzonowca i przedtrzonowca"
+  },
+  "correct": "A",
+  "explanation": "Skierowany zbyt mocno ku linii pośrodkowej pierwszy stały trzonowiec szczęki wyrzyna się ektopowo, uszkadzając korzeń drugiego trzonowca mlecznego; jego doprzednie ustawienie skraca łuk zębowy do czasu podjęcia leczenia.",
+  "core": true
+ },
+ {
+  "id": "pf-c030-001",
+  "type": "clinical",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    136,
+    137
+   ]
+  },
+  "question": "U 7-letniego pacjenta z powodu próchnicy usunięto drugi trzonowiec mleczny w żuchwie. Jakie postępowanie jest wskazane i dlaczego?",
+  "options": {
+   "A": "wczesne usunięcie drugiego przedtrzonowca po stronie przeciwnej dla symetrii łuku",
+   "B": "utrzymanie przestrzeni wyłącznie po to, by zapobiec dotylnej wędrówce siekaczy",
+   "C": "natychmiastowe uzupełnienie protetyczne, bo trzonowce stałe nie ulegają mezjalizacji",
+   "D": "utrzymanie przestrzeni, bo mezjalizacja pierwszego stałego trzonowca powoduje stłoczenia",
+   "E": "obserwacja, bo luka po drugim trzonowcu mlecznym nigdy się samoistnie nie zamyka"
+  },
+  "correct": "D",
+  "explanation": "Mezjalny ruch pierwszego stałego trzonowca po przedwczesnej utracie drugiego trzonowca mlecznego może w znacznym stopniu przyczynić się do stłoczenia w odcinku bocznym, dlatego wskazane jest utrzymanie przestrzeni.",
+  "core": true
+ },
+ {
+  "id": "pf-c030-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    136,
+    137
+   ]
+  },
+  "question": "Co jest głównym mechanizmem zamykania się luki po przedwczesnej utracie mlecznego kła lub pierwszego trzonowca mlecznego?",
+  "options": {
+   "A": "wydłużenie zębów przeciwstawnych wypełniające lukę w łuku zębowym",
+   "B": "doprzednia wędrówka zębów bocznych wywołana siłami zwarciowymi podczas żucia",
+   "C": "dotylna wędrówka siekaczy pod wpływem włókien międzyprzegrodowych i ucisku warg",
+   "D": "obrót zębów bocznych wokół osi długiej pod wpływem napięcia ozębnej",
+   "E": "boczne przemieszczenie kłów stałych wskutek nacisku języka na łuk zębowy"
+  },
+  "correct": "C",
+  "explanation": "Miejsce po utraconym kle lub pierwszym trzonowcu mlecznym zabierają przede wszystkim wędrujące do tyłu siekacze; źródłem ruchu dystalnego jest czynny skurcz dziąsłowych włókien międzyprzegrodowych oraz ucisk policzków i warg."
+ },
+ {
+  "id": "pf-c030-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    136,
+    137
+   ]
+  },
+  "question": "Dilaceracja korzenia zęba stałego najczęściej powstaje wskutek:",
+  "options": {
+   "A": "zbyt szybkiej resorpcji korzenia poprzedzającego zęba mlecznego",
+   "B": "urazu zęba mlecznego przemieszczającego koronę zawiązka zęba stałego",
+   "C": "nadmiernych sił ortodontycznych zastosowanych w okresie wymiany uzębienia",
+   "D": "wrodzonego zaburzenia różnicowania histologicznego listewki zębowej",
+   "E": "przewlekłego ucisku wywieranego przez zatrzymany ząb nadliczbowy"
+  },
+  "correct": "B",
+  "explanation": "Zagięcie korzenia pod kątem względem przemieszczonej korony, czyli dilaceracja, jest zwykle wywołane urazem zęba mlecznego powodującym przemieszczenie zawiązka zęba stałego, zwłaszcza siekaczy górnych."
+ },
+ {
+  "id": "pf-c031-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    138,
+    139
+   ]
+  },
+  "question": "Dlaczego wyniki eksperymentów hodowlanych Stockarda na psach uznano ostatecznie za mylące w odniesieniu do etiologii wad zgryzu u ludzi?",
+  "options": {
+   "A": "u psów wady zgryzu powstają wyłącznie na skutek dysproporcji zębowo-zębodołowej",
+   "B": "wiele ras małych psów jest nosicielami genu achondroplazji zaburzającego wzrost chrząstki",
+   "C": "krzyżowane psy karmione były wyłącznie miękkim, przetworzonym pokarmem laboratoryjnym",
+   "D": "u psów zęby wyrzynają się w innej kolejności niż u człowieka, co zmienia okluzję",
+   "E": "badane rasy psów pochodziły z jednej, ściśle izolowanej genetycznie populacji"
+  },
+  "correct": "B",
+  "explanation": "Większość nasilonych wad zgryzu u krzyżowanych psów była wynikiem ekspresji genu achondroplazji, obecnego u wielu małych ras, a nie niezależnego dziedziczenia wielkości kości szczęk.",
+  "core": true
+ },
+ {
+  "id": "pf-c031-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    138,
+    139
+   ]
+  },
+  "question": "Które stwierdzenie dotyczące achondroplazji jest prawidłowe?",
+  "options": {
+   "A": "jest cechą autosomalną dominującą o zmiennej ekspresji, z upośledzonym wzrostem chrząstki",
+   "B": "jest cechą sprzężoną z chromosomem X, prowadzącą do nadmiernego wzrostu chrząstki",
+   "C": "jest cechą autosomalną recesywną ujawniającą się dopiero w okresie dojrzewania",
+   "D": "jest cechą dominującą o stałej ekspresji, jednakowo nasiloną u wszystkich nosicieli",
+   "E": "jest zaburzeniem nabytym, wynikającym z niedoboru hormonu wzrostu w dzieciństwie"
+  },
+  "correct": "A",
+  "explanation": "Achondroplazja jest cechą autosomalną dominującą o zmiennej ekspresji; upośledzenie wzrostu chrząstki daje krótkie kończyny oraz niedorozwój środkowego piętra twarzy przez zahamowanie wzrostu w chrząstkozrostach podstawy czaszki."
+ },
+ {
+  "id": "pf-c031-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    138,
+    139
+   ]
+  },
+  "question": "Jak tłumaczy się rzadsze występowanie wad zgryzu w populacjach ludzi pierwotnych w porównaniu ze współczesnymi społecznościami miejskimi?",
+  "options": {
+   "A": "późniejszym wyrzynaniem zębów stałych, zapewniającym więcej miejsca w łuku zębowym",
+   "B": "powszechnym stosowaniem miękkiej, przetworzonej diety ułatwiającej wyrzynanie zębów",
+   "C": "częstym krzyżowaniem się osobników pochodzących z różnych, odległych populacji",
+   "D": "znacznie mniejszą liczbą zębów stałych wyrzynających się u przedstawicieli tych grup",
+   "E": "izolacją genetyczną i jednolitością cech w obrębie plemienia oraz silną selekcją naturalną"
+  },
+  "correct": "E",
+  "explanation": "Jednolitość genetyczna plemienia uniemożliwiała odziedziczenie niedopasowanych cech, a brak przetworzonego pożywienia sprzyjał selekcji cech zapewniających prawidłowy rozwój mięśni żujących."
+ },
+ {
+  "id": "pf-c032-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    140,
+    141
+   ]
+  },
+  "question": "Jaki był główny wniosek z badań Chunga i wsp. nad populacją hawajską w kontekście etiologii wad zgryzu?",
+  "options": {
+   "A": "w populacji mieszanej wady zgryzu przestały występować dzięki korzystnej selekcji cech",
+   "B": "częstość wad zgryzu wzrosła jedynie nieznacznie, co przeczy czysto genetycznej teorii ich powstawania",
+   "C": "częstość wad zgryzu uległa podwojeniu, co potwierdza niezależne dziedziczenie cech zębowych",
+   "D": "wady zgryzu w populacji mieszanej miały wyłącznie postać nasilonych zaburzeń kostnych",
+   "E": "częstość wad zgryzu okazała się mniejsza niż w pierwotnej, homogennej populacji wyspy"
+  },
+  "correct": "B",
+  "explanation": "Mimo silnego wymieszania ras częstość wad zgryzu wśród współczesnych Hawajczyków była tylko nieco większa niż w pierwotnej populacji polinezyjskiej, a efekt krzyżowania był dodany, a nie podwojony."
+ },
+ {
+  "id": "pf-c032-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    140,
+    141
+   ]
+  },
+  "question": "Co wykazały długofalowe badania rodzeństwa (Harris i Johnson) nad dziedziczeniem cech twarzoczaszki?",
+  "options": {
+   "A": "zarówno cechy zębowe, jak i kostne są w całości determinowane przez czynniki środowiskowe",
+   "B": "cechy zębowe i kostne dziedziczone są w identycznym, wysokim stopniu przez całe życie",
+   "C": "kostna budowa twarzoczaszki jest dziedziczona w znacznym stopniu, a cechy zębowe sporadycznie",
+   "D": "wskaźniki dziedziczenia cech kostnych systematycznie maleją wraz z wiekiem pacjenta",
+   "E": "cechy zębowe są dziedziczone w znacznym stopniu, a budowa kostna twarzy tylko sporadycznie"
+  },
+  "correct": "C",
+  "explanation": "Harris i Johnson ustalili, że budowa kostna twarzoczaszki jest silnie dziedziczona (a wskaźniki dziedziczenia rosną z wiekiem), podczas gdy o cechach zębowych decydują głównie czynniki środowiskowe."
+ },
+ {
+  "id": "pf-c032-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    140,
+    141
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące badań nad dziedzicznością wad zgryzu:\n1. Bliźnięta jednojajowe mają identyczne DNA chromosomalne, więc różnice między nimi wynikają ze środowiska.\n2. Podsumowanie badań bliźniąt wskazuje, że ok. 40% cech odpowiedzialnych za wadę zgryzu można przypisać dziedziczności.\n3. W grupie rodzin z wadą klasy III 1/3 dzieci z nasiloną wadą miała rodzica z tą samą wadą.\n4. Udowodniono, że prognatyzm żuchwy jest cechą warunkowaną przez pojedynczy gen recesywny.",
+  "type": "combined",
+  "options": {
+   "A": "tylko 3 i 4",
+   "B": "tylko 1, 2 i 3",
+   "C": "wszystkie prawidłowe",
+   "D": "tylko 1 i 2",
+   "E": "tylko 2 i 4"
+  },
+  "correct": "B",
+  "explanation": "Stwierdzenia 1-3 są zgodne z tekstem; prognatyzm żuchwy jest natomiast wadą uwarunkowaną wielogenowo, a ekspresja genów zależy prawdopodobnie od podtypu wady.",
+  "core": true
+ },
+ {
+  "id": "pf-c033-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    142,
+    142
+   ]
+  },
+  "question": "Jaki jest u człowieka próg czasu trwania delikatnego ucisku, powyżej którego dochodzi do przemieszczenia zębów?",
+  "options": {
+   "A": "od 30 do 60 min na dobę, średnio ok. 45 min",
+   "B": "od 1 do 2 godz. na dobę, średnio ok. 90 min",
+   "C": "od 12 do 18 godz. na dobę, średnio ok. 15 godz.",
+   "D": "od 20 do 24 godz. na dobę, praktycznie stale",
+   "E": "od 4 do 8 godz. na dobę, średnio ok. 6 godz."
+  },
+  "correct": "E",
+  "explanation": "Badania wykazały, że nawet bardzo delikatny ucisk przemieszcza zęby, jeżeli trwa dostatecznie długo; próg u ludzi wynosi 4-8 godz./dobę, ze średnią ok. 6 godz."
+ },
+ {
+  "id": "pf-c033-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    142,
+    142
+   ]
+  },
+  "question": "Dlaczego duże siły powstające podczas żucia nie powodują trwałego przemieszczenia zębów?",
+  "options": {
+   "A": "są w całości pochłaniane przez szkliwo i zębinę, które nie przenoszą obciążeń na korzeń",
+   "B": "kość wyrostka zębodołowego jest zbyt sztywna, aby ulec jakiemukolwiek ugięciu",
+   "C": "równoważy je jednoczesny, jednakowo silny ucisk warg, policzków i języka",
+   "D": "ich kierunek jest zawsze dokładnie równoległy do długiej osi zęba, co wyklucza ruch",
+   "E": "działają bardzo krótko, a zdrowe przyzębie amortyzuje je i uniemożliwia trwałe przemieszczenie"
+  },
+  "correct": "E",
+  "explanation": "O odpowiedzi biologicznej decyduje czas trwania siły, a nie jej natężenie: wypełnione płynem więzadło ozębnej działa jak amortyzator, a zdrowe przyzębie uniemożliwia siłom zwarciowym trwałe przemieszczenie zęba."
+ },
+ {
+  "id": "pf-c033-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    142,
+    142
+   ]
+  },
+  "question": "U dziecka po poparzeniu kącika ust (nagryzienie przewodu elektrycznego) powstała ściągająca blizna przylegająca do odcinka przedniego łuku zębowego. Jakiej zmiany należy się spodziewać zgodnie z teorią równowagi?",
+  "type": "clinical",
+  "options": {
+   "A": "zahamowania wyrzynania wszystkich zębów w tym kwadrancie",
+   "B": "braku jakichkolwiek zmian w ustawieniu zębów w tej okolicy",
+   "C": "nadmiernego wyrżnięcia zębów bocznych po stronie blizny",
+   "D": "dopoliczkowego wychylenia siekaczy sąsiadujących z blizną",
+   "E": "dojęzykowego przemieszczenia siekaczy sąsiadujących z blizną"
+  },
+  "correct": "E",
+  "explanation": "Ściągająca blizna zwiększa stały ucisk tkanek miękkich od strony przedsionka, co - zgodnie z teorią równowagi - przemieszcza sąsiadujące siekacze dojęzykowo.",
+  "core": true
+ },
+ {
+  "id": "pf-c034-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    143,
+    144
+   ]
+  },
+  "question": "Jaki wpływ na uzębienie przypisuje się długotrwałej grze na klarnecie?",
+  "options": {
+   "A": "nadmierne wyrżnięcie zębów bocznych i powstanie zgryzu głębokiego",
+   "B": "zmniejszenie nagryzu poziomego, sprzyjające powstawaniu wady klasy III",
+   "C": "dojęzykowe przemieszczenie siekaczy górnych ze stłoczeniem",
+   "D": "symetryczne zwężenie dolnego łuku zębowego w odcinku bocznym",
+   "E": "pogłębienie nagryzu poziomego, sprzyjające powstawaniu wady klasy II"
+  },
+  "correct": "E",
+  "explanation": "Specyficzne utrzymywanie ustnika klarnetu pomiędzy siekaczami może pogłębiać nagryz poziomy, przez co instrument uważa się za sprawcę wad klasy II i narzędzie pomocne w wadach klasy III.",
+  "core": true
+ },
+ {
+  "id": "pf-c034-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    143,
+    144
+   ]
+  },
+  "question": "Co udowodniły doświadczenia na małpach, u których po usunięciu zęba systematycznie nacinano dziąsło?",
+  "options": {
+   "A": "że o zamknięciu luki decyduje wyłącznie ucisk policzków i warg od zewnątrz",
+   "B": "że skurcz włókien międzyprzegrodowych odpowiada za zamykanie luki poekstrakcyjnej",
+   "C": "że włókna ozębnej nie biorą żadnego udziału w utrzymywaniu pozycji zębów",
+   "D": "że luka poekstrakcyjna zamyka się wyłącznie dzięki sile wyrzynania antagonisty",
+   "E": "że przecięcie włókien dziąsłowych przyspiesza zamykanie luki poekstrakcyjnej"
+  },
+  "correct": "B",
+  "explanation": "Zaburzenie sieci włókien międzyprzegrodowych przez nacinanie dziąsła uniemożliwiało zamknięcie luki poekstrakcyjnej, co dowodzi znaczenia skurczu tych włókien."
+ },
+ {
+  "id": "pf-c034-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    143,
+    144
+   ]
+  },
+  "question": "Które stwierdzenie dotyczące kości wyrostka zębodołowego i wyrostków czynnościowych jest prawidłowe?",
+  "options": {
+   "A": "kształt wyrostka zębodołowego zależy głównie od ucisku wywieranego na jego powierzchnię",
+   "B": "kość wyrostka zębodołowego rozwija się niezależnie od obecności i wyrzynania zębów",
+   "C": "kość wyrostka zębodołowego nie wykształca się, jeżeli ząb się nie wyrznie, a po utracie zęba ulega resorpcji",
+   "D": "kształt wyrostków mięśniowych zależy przede wszystkim od obciążenia mechanicznego kości",
+   "E": "po usunięciu zęba przeciwstawnego antagonista zatrzymuje wyrzynanie i ulega resorpcji"
+  },
+  "correct": "C",
+  "explanation": "Wyrostek zębodołowy jest wyrostkiem czynnościowym: powstaje wraz z wyrzynaniem zęba, a po jego utracie zanika; jego kształt zależy od pozycji zęba, nie od ucisku na powierzchnię."
+ },
+ {
+  "id": "pf-c035-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    145,
+    146
+   ]
+  },
+  "question": "Który czynnik ma - zgodnie z teorią równowagi - największy wpływ na ustalenie położenia zębów?",
+  "options": {
+   "A": "duże siły zwarciowe powstające podczas żucia twardych pokarmów",
+   "B": "delikatny, długotrwały ucisk języka, warg i policzków w pozycji spoczynkowej",
+   "C": "przerywany ucisk wywierany na zęby w trakcie artykulacji głosek",
+   "D": "krótkotrwały ucisk języka i warg w trakcie połykania i mówienia",
+   "E": "maksymalne siły nagryzania rejestrowane podczas zaciskania zębów"
+  },
+  "correct": "B",
+  "explanation": "Ani siły żucia, ani ucisk tkanek miękkich podczas połykania i mówienia nie zmieniają istotnie ustawienia zębów - decyduje o nim lekki, ale ciągły ucisk spoczynkowy warg, policzków i języka.",
+  "core": true
+ },
+ {
+  "id": "pf-c035-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    145,
+    146
+   ]
+  },
+  "question": "Do jakiej zmiany kostnej prowadzi przerost mięśni żwaczy?",
+  "options": {
+   "A": "nadmiernego odkładania kości w okolicy kątów żuchwy, w miejscach przyczepów mięśni",
+   "B": "poszerzenia podstawy kostnej szczęki bez zmian w obrębie żuchwy",
+   "C": "zahamowania wzrostu wyrostków kłykciowych i niedorozwoju żuchwy",
+   "D": "zwiększenia przedniej wysokości twarzy z dotylną rotacją żuchwy",
+   "E": "resorpcji kości w okolicy kątów żuchwy i spłaszczenia jej trzonu"
+  },
+  "correct": "A",
+  "explanation": "Wyrostki mięśniowe przebudowują się zgodnie z czynnością przyczepiających się do nich mięśni; przerost mięśni unoszących żuchwę powoduje odkładanie kości i powiększenie kątów żuchwy."
+ },
+ {
+  "id": "pf-c035-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    145,
+    146
+   ]
+  },
+  "question": "Jak współcześnie ocenia się pogląd, według którego spanie na brzuchu z opieraniem ciężaru głowy na brodzie prowadzi do wady klasy II?",
+  "options": {
+   "A": "został potwierdzony doświadczalnie jako główna przyczyna niedorozwoju żuchwy",
+   "B": "jest nieudowodniony - przerywany ucisk działa zbyt krótko, by zahamować wzrost żuchwy",
+   "C": "jest słuszny, ponieważ natężenie siły jest ważniejsze niż czas jej działania",
+   "D": "dotyczy tylko wzrostu szczęki, natomiast nie wpływa na wzrost żuchwy",
+   "E": "jest słuszny wyłącznie u dzieci z jednoczesnym powiększeniem języka"
+  },
+  "correct": "B",
+  "explanation": "Pogląd ten pochodzi z czasów Anglea i nie ma dowodów na jego poparcie: powtarzalne, przerywane siły działają zbyt krótko, a wzrost żuchwy dokonuje się przez wzrost matrycy tkanek miękkich."
+ },
+ {
+  "id": "pf-c036-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    147,
+    147
+   ]
+  },
+  "question": "Czego dowiodły doświadczenia na zwierzętach (np. świniach) karmionych miękką dietą?",
+  "options": {
+   "A": "zmiany morfologiczne pojawiają się dopiero po kilku pokoleniach karmionych miękką dietą",
+   "B": "konsystencja pożywienia nie ma żadnego wpływu na budowę kości szczęk zwierząt",
+   "C": "miękka dieta powoduje wyłącznie zmiany w uzębieniu, bez wpływu na kości szczęk",
+   "D": "miękka dieta prowadzi do poszerzenia łuków zębowych i eliminacji stłoczeń",
+   "E": "zmiana konsystencji pożywienia w jednym pokoleniu wywołuje zmiany w budowie kości szczęk i wymiarach łuków"
+  },
+  "correct": "E",
+  "explanation": "U świni hodowanej na miękkiej diecie w obrębie jednego pokolenia dochodziło do zmian w budowie kości szczęk, ich położeniu względem twarzoczaszki oraz w wymiarach łuków zębowych."
+ },
+ {
+  "id": "pf-c036-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    147,
+    147
+   ]
+  },
+  "question": "Jak interpretuje się mniejsze siły zwarciowe stwierdzane u dorosłych z zespołem długiej twarzy?",
+  "options": {
+   "A": "jako pierwotną przyczynę wady, ponieważ różnice widoczne są już u małych dzieci",
+   "B": "jako skutek wady, gdyż u dzieci z długą twarzą i zdrowych nie ma jeszcze różnic w sile zwarcia",
+   "C": "jako wynik dystrofii mięśniowej występującej u większości takich pacjentów",
+   "D": "jako dowód, że siła żucia jest głównym czynnikiem kontrolującym wyrzynanie zębów",
+   "E": "jako artefakt pomiarowy, gdyż różnice te nie były istotne statystycznie"
+  },
+  "correct": "B",
+  "explanation": "Zespół długiej twarzy można rozpoznać zanim pojawią się różnice w sile żucia: różnice te powstają dopiero w okresie dojrzewania, gdy u osób z prawidłową budową twarzy siła mięśniowa wzrasta, a u osób z długą twarzą nie."
+ },
+ {
+  "id": "pf-c036-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    147,
+    147
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące skutków nawyku ssania utrzymującego się do okresu wyrzynania zębów stałych:\n1. Siekacze górne ulegają wychyleniu, ze szparowatościami.\n2. Siekacze dolne układają się dojęzykowo.\n3. Powstaje zgryz otwarty przedni.\n4. Dochodzi do zwężenia górnego łuku zębowego.",
+  "type": "combined",
+  "options": {
+   "A": "żadna z powyższych",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 2 i 4",
+   "D": "tylko 1 i 3",
+   "E": "tylko 1, 2 i 3"
+  },
+  "correct": "B",
+  "explanation": "Przedłużony nawyk ssania obejmujący okres wyrzynania zębów stałych daje wychylone siekacze górne ze szparowatościami, dojęzykowo ułożone siekacze dolne, zgryz otwarty przedni i zwężony łuk górny.",
+  "core": true
+ },
+ {
+  "id": "pf-c037-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    148,
+    149
+   ]
+  },
+  "question": "Co jest bezpośrednią przyczyną zwężenia górnego łuku zębowego u dziecka ssącego palec?",
+  "options": {
+   "A": "ujemne ciśnienie wytwarzane w jamie ustnej w trakcie aktu ssania",
+   "B": "nadmierne wyrżnięcie zębów bocznych zwężające podstawę kostną szczęki",
+   "C": "zahamowanie wzrostu szwu podniebiennego przez dotylną pozycję żuchwy",
+   "D": "zachwianie równowagi między obniżonym językiem a uciskiem rozciągniętych policzków",
+   "E": "bezpośredni ucisk kciuka na podniebienne powierzchnie zębów bocznych"
+  },
+  "correct": "D",
+  "explanation": "Podciśnienie nie odpowiada za zwężenie łuku: po włożeniu palca język obniża się i przestaje uciskać podniebienne powierzchnie zębów bocznych, na które od zewnątrz działa rozciągnięty mięsień policzkowy."
+ },
+ {
+  "id": "pf-c037-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    148,
+    149
+   ]
+  },
+  "question": "Jak - ze względu na geometrię kości szczęk - wydłużenie odcinków bocznych łuku wpływa na odcinek przedni?",
+  "options": {
+   "A": "wydłużenie odcinków bocznych o 1 mm pogłębia nagryz pionowy o ok. 4 mm",
+   "B": "wydłużenie odcinków bocznych o 1 mm otwiera zgryz w odcinku przednim o ok. 0,5 mm",
+   "C": "wydłużenie odcinków bocznych o 1 mm pogłębia nagryz pionowy o ok. 2 mm",
+   "D": "wydłużenie odcinków bocznych o 1 mm nie zmienia stosunków w odcinku przednim",
+   "E": "wydłużenie odcinków bocznych o 1 mm otwiera zgryz w odcinku przednim o ok. 2 mm"
+  },
+  "correct": "E",
+  "explanation": "Ze względu na geometrię kości szczęk wydłużenie odcinków bocznych o 1 mm powoduje otwarcie zgryzu w odcinku przednim o 2 mm, co sprzyja powstaniu zgryzu otwartego przedniego."
+ },
+ {
+  "id": "pf-c037-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    148,
+    149
+   ]
+  },
+  "question": "Do gabinetu zgłasza się 4-letnie dziecko ssące kciuk, u którego stwierdzono niewielkie przemieszczenie siekaczy mlecznych. Jakiego przebiegu należy się spodziewać?",
+  "type": "clinical",
+  "options": {
+   "A": "po wyeliminowaniu nawyku zęby powrócą do prawidłowej pozycji dzięki uciskowi warg i policzków",
+   "B": "zmiany są utrwalone i wymagają natychmiastowego leczenia aparatem stałym",
+   "C": "niezależnie od eliminacji nawyku konieczna będzie ekstrakcja siekaczy mlecznych",
+   "D": "przemieszczenie będzie narastać nawet po całkowitym zaprzestaniu ssania kciuka",
+   "E": "spontanicznej korekcie ulegnie wyłącznie zwężenie górnego łuku zębowego"
+  },
+  "correct": "A",
+  "explanation": "U 3-4-latka przemieszczenie siekaczy mlecznych jest niewielkie i ustępuje samoistnie pod wpływem ucisku warg i policzków po zaprzestaniu nawyku; leczenia wymaga dopiero nawyk utrwalony w okresie wyrzynania siekaczy stałych.",
+  "core": true
+ },
+ {
+  "id": "pf-c038-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    150,
+    150
+   ]
+  },
+  "question": "Jak współcześnie ocenia się rolę tłoczenia języka podczas połykania u pacjenta ze zgryzem otwartym przednim?",
+  "options": {
+   "A": "jest fizjologiczną adaptacją do istniejącej wady, a nie przyczyną jej powstania",
+   "B": "stanowi bezwzględne przeciwwskazanie do rozpoczęcia leczenia ortodontycznego",
+   "C": "jest zjawiskiem obojętnym, niewystępującym u pacjentów z prawidłowym zwarciem siekaczy",
+   "D": "świadczy o przetrwałym dziecięcym typie połykania wymagającym diagnostyki neurologicznej",
+   "E": "jest podstawową przyczyną zgryzu otwartego i wymaga reedukacji przed leczeniem"
+  },
+  "correct": "A",
+  "explanation": "Umieszczenie języka między oddalonymi zębami przednimi zapewnia uszczelnienie przednie w trakcie połykania; tłoczenie języka jest zatem skutkiem wady, a korekta położenia siekaczy zwykle zmienia wzorzec połykania.",
+  "core": true
+ },
+ {
+  "id": "pf-c038-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    150,
+    150
+   ]
+  },
+  "question": "Dlaczego ucisk języka w trakcie połykania nie wystarcza do zmiany położenia zębów?",
+  "options": {
+   "A": "działa wyłącznie na zęby boczne, które są unieruchomione kontaktem zwarciowym",
+   "B": "jest w całości równoważony przez jednoczesny skurcz mięśnia okrężnego ust",
+   "C": "trwa ok. 1 s przy ok. 1000 przełknięciach na dobę, co daje łącznie zaledwie kilka minut",
+   "D": "występuje tylko u dzieci, u których nie doszło do dojrzewania czynności połykania",
+   "E": "jest zbyt słaby, ponieważ język nigdy nie dotyka powierzchni podniebiennych siekaczy"
+  },
+  "correct": "C",
+  "explanation": "Przeciętnie człowiek przełyka ok. 1000 razy na dobę, a pojedynczy ucisk trwa ok. 1 s; łączny czas rzędu kilku minut jest zbyt krótki, by zaburzyć równowagę sił działających na zęby."
+ },
+ {
+  "id": "pf-c038-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    150,
+    150
+   ]
+  },
+  "question": "Które stwierdzenie dotyczące dojrzewania czynności połykania jest prawidłowe?",
+  "options": {
+   "A": "prawdziwie przetrwały dziecięcy typ połykania występuje u połowy dzieci ssących palec",
+   "B": "dorosły typ połykania pojawia się u wszystkich dzieci przed ukończeniem 3. r.ż.",
+   "C": "dojrzały typ połykania wykształca się dopiero po zakończeniu wyrzynania zębów stałych",
+   "D": "tłoczenie języka u młodszych dzieci jest zawsze objawem uszkodzenia mózgu",
+   "E": "u 10-15% populacji dorosły typ połykania nie rozwija się w ogóle"
+  },
+  "correct": "E",
+  "explanation": "Dojrzały typ połykania pojawia się u niektórych dzieci już w 3. r.ż., u większości ok. 6. r.ż., a u 10-15% populacji nie rozwija się w ogóle; prawdziwie przetrwały dziecięcy typ połykania dotyczy tylko dzieci z trwałym uszkodzeniem mózgu."
+ },
+ {
+  "id": "pf-c039-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    151,
+    152
+   ]
+  },
+  "question": "Dlaczego wygląd tzw. twarzy adenoidalnej nie może służyć jako narzędzie diagnostyczne w określaniu sposobu oddychania?",
+  "options": {
+   "A": "ponieważ u dzieci oddychających przez usta wargi są zawsze szczelnie zwarte",
+   "B": "ponieważ cechy te ujawniają się dopiero po zakończeniu wzrostu twarzoczaszki",
+   "C": "ponieważ zespół tych cech występuje wyłącznie u pacjentów po adenoidektomii",
+   "D": "ponieważ przy rozchylonych wargach można oddychać przez nos dzięki uszczelnieniu tylnemu",
+   "E": "ponieważ zwężenie szczęki i wychylenie zębów nigdy nie towarzyszą tej wadzie"
+  },
+  "correct": "D",
+  "explanation": "Oddychanie przez nos jest możliwe przy rozchylonych wargach dzięki wytworzeniu uszczelnienia tylnego na podniebieniu miękkim; po zbadaniu pacjentów o takim wyglądzie okazywało się, że wielu z nich nie oddycha nawykowo przez usta.",
+  "core": true
+ },
+ {
+  "id": "pf-c039-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    151,
+    152
+   ]
+  },
+  "question": "Jaka natychmiastowa reakcja postawy występuje u człowieka po całkowitym zablokowaniu nozdrzy?",
+  "options": {
+   "A": "pochylenie głowy do przodu o ok. 5°, z uniesieniem żuchwy, utrzymujące się trwale",
+   "B": "odchylenie głowy do tyłu o ok. 5°, z opuszczeniem żuchwy, ustępujące po udrożnieniu nosa",
+   "C": "trwała rotacja doprzednia żuchwy z jednoczesnym uniesieniem języka do podniebienia",
+   "D": "brak jakiejkolwiek zmiany postawy, gdyż reakcja pojawia się dopiero po kilku tygodniach",
+   "E": "boczne przemieszczenie żuchwy z asymetrycznym ustawieniem głowy i szyi"
+  },
+  "correct": "B",
+  "explanation": "Przy zablokowanym nosie następuje natychmiastowa zmiana kąta czaszkowo-kręgowego o 5°, kości szczęk oddalają się od siebie, a po udrożnieniu nosa postawa natychmiast wraca do stanu wyjściowego."
+ },
+ {
+  "id": "pf-c039-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    151,
+    152
+   ]
+  },
+  "question": "Jak należy interpretować doświadczenia Harvolda nad blokowaniem oddychania przez nos u rosnących małp?",
+  "options": {
+   "A": "powstałe wady różniły się od obserwowanych u ludzi i dominował wśród nich prognatyzm żuchwy",
+   "B": "u wszystkich zwierząt powstał typowy zespół długiej twarzy identyczny jak u ludzi",
+   "C": "powstałe wady wynikały wyłącznie z niedoboru pokarmu, a nie ze zmiany postawy",
+   "D": "nozdrza blokowano nagle, co dowodzi natychmiastowej adaptacji zwierząt do oddychania ustami",
+   "E": "u małp nie stwierdzono żadnych zmian w budowie twarzoczaszki ani w zwarciu"
+  },
+  "correct": "A",
+  "explanation": "U małp długotrwałe całkowite zablokowanie nosa dawało wady inne niż u ludzi nawykowo oddychających ustami - dominował prognatyzm żuchwy o różnym nasileniu, a przewody nosowe trzeba było blokować stopniowo."
+ },
+ {
+  "id": "pf-c040-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    153,
+    154
+   ]
+  },
+  "question": "Która metoda pozwala wiarygodnie określić ilościowo udział oddychania przez usta?",
+  "options": {
+   "A": "ocena wyglądu twarzy i stopnia rozchylenia warg w pozycji spoczynkowej",
+   "B": "równoczesny pomiar przepływu powietrza przez nos i usta (wskaźnik nosowo-ustny)",
+   "C": "kliniczna ocena drożności każdego nozdrza przy zamkniętych ustach pacjenta",
+   "D": "pomiar przedniej wysokości twarzy na bocznym zdjęciu cefalometrycznym",
+   "E": "badanie wielkości migdałka gardłowego na zdjęciu rentgenowskim nosogardła"
+  },
+  "correct": "B",
+  "explanation": "Ze względu na naprzemienne cykle napełniania błony śluzowej nosa proste testy kliniczne są mylące; jedyną wiarygodną metodą jest równoczesny pomiar przepływu powietrza przez nos i usta.",
+  "core": true
+ },
+ {
+  "id": "pf-c040-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    153,
+    154
+   ]
+  },
+  "question": "Jaki wniosek płynie ze współczesnych badań nad związkiem oddychania przez usta z wadami zgryzu?",
+  "options": {
+   "A": "występuje u wszystkich pacjentów z zespołem długiej twarzy badanych laboratoryjnie",
+   "B": "jest udowodnioną, najczęstszą przyczyną zespołu długiej twarzy u dzieci i dorosłych",
+   "C": "nie ma żadnego związku z budową twarzoczaszki nawet przy całkowitej niedrożności nosa",
+   "D": "prowadzi do skrócenia przedniej wysokości twarzy i powstania zgryzu głębokiego",
+   "E": "może ono przyczyniać się do rozwoju wady, ale rzadko jest jej głównym czynnikiem etiologicznym"
+  },
+  "correct": "E",
+  "explanation": "U większości osób z zaburzonym pionowym wzorcem wzrostu twarzy nie stwierdza się niedrożności nosa, co oznacza, że działa inny główny czynnik etiologiczny; oddychanie przez usta może jedynie współuczestniczyć w powstaniu wady."
+ },
+ {
+  "id": "pf-c040-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    153,
+    154
+   ]
+  },
+  "question": "Które czynniki mają największe znaczenie w etiologii bezdechu sennego według przytoczonych badań?",
+  "options": {
+   "A": "pomiary cefalometryczne, następnie otyłość, a dopiero potem wiek i płeć",
+   "B": "wielkość migdałków podniebiennych, następnie masa ciała i wzrost pacjenta",
+   "C": "otyłość, następnie wiek i płeć, a dopiero potem pomiary cefalometryczne",
+   "D": "wyłącznie morfologia jamy ustnej i wielkość języka pacjenta",
+   "E": "wyłącznie stopień niedorozwoju żuchwy oceniany na modelach diagnostycznych"
+  },
+  "correct": "C",
+  "explanation": "Choć niedorozwój żuchwy sprzyja bezdechowi sennemu, etiologii nie można sprowadzać do morfologii jamy ustnej - w kolejności istotności liczą się otyłość, wiek/płeć oraz wartości cefalometryczne."
+ },
+ {
+  "id": "pf-c041-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    155,
+    155
+   ]
+  },
+  "question": "U jakiego odsetka współczesnej populacji amerykańskiej i północnoeuropejskiej występuje wada zgryzu klasy II z dziedziczoną tendencją do profilu retrognatycznego?",
+  "options": {
+   "A": "35-40%",
+   "B": "1-2%",
+   "C": "55-60%",
+   "D": "5-7%",
+   "E": "15-20%"
+  },
+  "correct": "E",
+  "explanation": "Według tekstu wada klasy II z dziedziczoną tendencją do profilu retrognatycznego dotyczy 15-20% współczesnej populacji amerykańskiej i północnoeuropejskiej.",
+  "core": true
+ },
+ {
+  "id": "pf-c041-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    155,
+    155
+   ]
+  },
+  "question": "Jakie znaczenie praktyczne dla planowania leczenia ma pogląd, że małe wymiary kości szczęk w stosunku do wymiarów zębów są cechą dziedziczoną?",
+  "options": {
+   "A": "leczenie stłoczeń powinno się opierać wyłącznie na eliminacji nawyków oddechowych",
+   "B": "leczenie ortodontyczne stłoczeń należy odroczyć do zakończenia wzrostu twarzoczaszki",
+   "C": "stłoczenia można wyeliminować, zalecając twardą dietę i intensywniejsze żucie",
+   "D": "znaczna część pacjentów będzie wymagała ekstrakcji, a rozbudowa kości rokuje niepowodzeniem",
+   "E": "u wszystkich pacjentów ze stłoczeniami należy stosować wyłącznie rozbudowę łuków zębowych"
+  },
+  "correct": "D",
+  "explanation": "Skoro wymiary kości pozostają pod ścisłą kontrolą genetyczną, u znacznej części pacjentów uszeregowanie zębów wymaga ekstrakcji, a leczenie rozbudowujące kości jest alternatywą nierokującą powodzenia."
+ },
+ {
+  "id": "pf-c041-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    155,
+    155
+   ]
+  },
+  "question": "Jak tłumaczy się powstawanie niewielkich, nieszkieletowych wad klasy I, takich jak zgryzy krzyżowe pojedynczych zębów?",
+  "options": {
+   "A": "nadmiernym wzrostem chrząstki przegrody nosa w okresie pokwitaniowego skoku wzrostowego",
+   "B": "wzajemnym oddziaływaniem pozycji zawiązków i ciśnienia sterującego wyrzynaniem, czyli zmianami czynnościowymi",
+   "C": "zaburzeniami rozwoju embrionalnego łuków skrzelowych w pierwszym trymestrze ciąży",
+   "D": "wyłącznie przebytymi urazami w okresie formowania się korzeni zębów stałych",
+   "E": "wyłącznie dziedziczeniem nieprawidłowych proporcji podstaw kostnych szczęki i żuchwy"
+  },
+  "correct": "B",
+  "explanation": "Wady te wynikają z interakcji między początkową pozycją zawiązków zębów a siłami warg, policzków, języka czy palców; ciężkie postaci mają dodatkowo komponent genetyczny lub rozwojowy."
+ },
+ {
+  "id": "pf-c042-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    156,
+    156
+   ]
+  },
+  "question": "U 6-letniego dziecka stwierdzono umiarkowanie nasilony zgryz otwarty przedni. Jaką przyczynę należy podejrzewać w pierwszej kolejności, jeżeli nie rozpoznano innej?",
+  "type": "clinical",
+  "options": {
+   "A": "przebyte złamanie szczęki",
+   "B": "nawyk ssania palca",
+   "C": "wzorzec połykania z tłoczeniem języka",
+   "D": "wrodzony brak zawiązków siekaczy",
+   "E": "dziedziczny prognatyzm żuchwy"
+  },
+  "correct": "B",
+  "explanation": "Dziecko z umiarkowanie nasilonym zgryzem otwartym przednim należy podejrzewać o ssanie palca, dopóki nie zdiagnozuje się innej przyczyny; rolę może odgrywać doprzednia spoczynkowa pozycja języka, ale nie jego położenie w trakcie połykania.",
+  "core": true
+ },
+ {
+  "id": "pf-c042-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    156,
+    156
+   ]
+  },
+  "question": "Co dzieje się z wadą zgryzu i czynnikami etiologicznymi po zakończeniu wzrostu?",
+  "options": {
+   "A": "wada staje się stabilna, a czynniki etiologiczne przestają mieć znaczenie",
+   "B": "czynniki dziedziczne zaczynają dominować nad wcześniejszymi wpływami środowiska",
+   "C": "wada nadal się pogłębia, ponieważ czynniki etiologiczne nasilają swoje działanie",
+   "D": "wada ulega samoistnej korekcie dzięki adaptacji tkanek miękkich",
+   "E": "wada staje się niestabilna, co uniemożliwia trwałe wyniki leczenia u dorosłych"
+  },
+  "correct": "A",
+  "explanation": "Wada zgryzu jest problemem rozwojowym: po zakończeniu wzrostu staje się stabilna, czynniki etiologiczne tracą znaczenie, a wyniki leczenia prowadzonego u dorosłych są w dużej mierze stabilne."
+ },
+ {
+  "id": "pf-c042-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    156,
+    156
+   ]
+  },
+  "question": "Jak interpretuje się częstsze występowanie zgryzu otwartego przedniego u przedstawicieli rasy czarnej, a zgryzu głębokiego u przedstawicieli rasy białej?",
+  "options": {
+   "A": "jako artefakt badań epidemiologicznych, niepotwierdzony w pomiarach cefalometrycznych",
+   "B": "jako następstwo różnic w częstości nawyku ssania palca w okresie niemowlęcym",
+   "C": "jako wynik odmiennej częstości występowania niedrożności nosa i alergii wziewnych",
+   "D": "jako skutek odmiennych nawyków żywieniowych i konsystencji diety w obu grupach",
+   "E": "jako odzwierciedlenie dziedziczenia różnych morfologii twarzy, a nie działania czynników środowiskowych"
+  },
+  "correct": "E",
+  "explanation": "Pionowe proporcje kości szczęk są dziedziczone tak samo jak przednio-tylne, więc różnice rasowe w częstości zgryzu otwartego i głębokiego odzwierciedlają dziedziczoną morfologię twarzy."
+ },
+ {
+  "id": "pf-c043-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    157,
+    160
+   ]
+  },
+  "question": "Dlaczego leczenie ortodontyczne prowadzone we wczesnym okresie młodzieńczym uznaje się za „złoty standard\", z którym porównuje się inne metody?",
+  "options": {
+   "A": "leczenie w tym wieku pozwala uniknąć konieczności zbierania dokumentacji diagnostycznej",
+   "B": "pacjenci w tym wieku nie wymagają retencji ani współpracy przy noszeniu aparatu",
+   "C": "leczenie dwuetapowe, wczesne i późne, zawsze daje wyniki gorsze od braku leczenia",
+   "D": "pozostaje potencjał wzrostowy, można kontrolować wszystkie zęby stałe, a motywacja pacjenta jest lepsza",
+   "E": "jest to jedyny okres, w którym możliwa jest ortodontyczna korekta ustawienia zębów"
+  },
+  "correct": "D",
+  "explanation": "We wczesnym okresie młodzieńczym pozostaje wystarczający potencjał wzrostowy do korekty położenia kości szczęk, wszystkie zęby stałe łącznie z drugimi trzonowcami można doprowadzić do ostatecznej pozycji, a pacjent osiąga własną motywację do leczenia.",
+  "core": true
+ },
+ {
+  "id": "pf-c043-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    157,
+    160
+   ]
+  },
+  "question": "Które stwierdzenie dotyczące planowania leczenia ortodontycznego jest prawidłowe?",
+  "options": {
+   "A": "planowanie musi być procesem interaktywnym, z udziałem pacjenta i jego świadomą zgodą",
+   "B": "akceptacja metody przez pacjenta nie ma wpływu na powodzenie leczenia",
+   "C": "wybór metody powinien opierać się na doniesieniach zwolenników jednej techniki",
+   "D": "pacjenta włącza się w podejmowanie decyzji dopiero po zakończeniu leczenia aktywnego",
+   "E": "o wyborze metody decyduje autorytarnie lekarz, gdyż to on ponosi odpowiedzialność"
+  },
+  "correct": "A",
+  "explanation": "Leczenie przeprowadza się dla pacjentów, a nie na pacjentach: ze względów etycznych i praktycznych (współpraca decyduje o sukcesie) pacjent musi uczestniczyć w planowaniu i wyrazić świadomą zgodę."
+ },
+ {
+  "id": "pf-c043-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    157,
+    160
+   ]
+  },
+  "question": "Od czego rozpoczyna się proponowana kolejność czynności związanych z planowaniem leczenia ortodontycznego?",
+  "options": {
+   "A": "od przedstawienia pacjentowi kosztów i ryzyka alternatywnych metod",
+   "B": "od określenia priorytetów na liście problemów ortodontycznych",
+   "C": "od oceny interakcji pomiędzy możliwymi rozwiązaniami poszczególnych zaburzeń",
+   "D": "od wyboru rodzaju aparatu i szczegółów mechanoterapii",
+   "E": "od uzyskania pisemnej świadomej zgody pacjenta i jego rodziców"
+  },
+  "correct": "B",
+  "explanation": "Pierwszym krokiem jest uszeregowanie problemów według priorytetów, tak aby najważniejszy problem uzyskał najwyższy priorytet w leczeniu; dopiero potem rozważa się rozwiązania i ich interakcje."
+ },
+ {
+  "id": "pf-c044-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    161,
+    164
+   ]
+  },
+  "question": "Jaka jest najbardziej prawdopodobna przyczyna asymetrii twarzy stwierdzanej u pacjenta ortodontycznego?",
+  "options": {
+   "A": "jednostronny nawyk ssania kciuka utrzymujący się w uzębieniu mlecznym",
+   "B": "wrodzony brak zawiązka jednego z drugich przedtrzonowców dolnych",
+   "C": "przewlekłe jednostronne oddychanie przez usta w okresie uzębienia mieszanego",
+   "D": "przewlekłe przyjmowanie leków hamujących resorpcję tkanki kostnej",
+   "E": "przebyte we wczesnym dzieciństwie złamanie wyrostka kłykciowego żuchwy"
+  },
+  "correct": "E",
+  "explanation": "Stare urazy okolicy wyrostka kłykciowego są najbardziej prawdopodobną przyczyną asymetrii twarzy, a wczesne złamania szyjki wyrostka kłykciowego u dzieci są często przeoczane."
+ },
+ {
+  "id": "pf-c044-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    161,
+    164
+   ]
+  },
+  "question": "Do ortodonty zgłasza się dorosła pacjentka leczona przewlekle z powodu osteoporozy dużymi dawkami leków hamujących resorpcję kości. Jakiego problemu należy się spodziewać?",
+  "type": "clinical",
+  "options": {
+   "A": "całkowitego braku odpowiedzi tkanek miękkich na leczenie",
+   "B": "gwałtownej resorpcji wyrostka zębodołowego pod wpływem sił",
+   "C": "przyspieszonego wyrzynania zębów przeciwstawnych",
+   "D": "utrudnionego ortodontycznego ruchu zęba",
+   "E": "nadmiernej ruchomości zębów uniemożliwiającej retencję"
+  },
+  "correct": "D",
+  "explanation": "U dorosłych leczonych z powodu zapalenia stawów lub osteoporozy wysokie dawki inhibitorów prostaglandyn lub czynników hamujących resorpcję kości mogą utrudniać ortodontyczny ruch zęba.",
+  "core": true
+ },
+ {
+  "id": "pf-c044-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    161,
+    164
+   ]
+  },
+  "question": "W jakich trzech głównych obszarach należy zbierać informacje podczas wywiadu ortodontycznego, po ustaleniu głównej dolegliwości pacjenta?",
+  "options": {
+   "A": "proporcje twarzy, uszeregowanie zębów oraz stosunki poprzeczne w łukach zębowych",
+   "B": "przebyte choroby ogólne i jamy ustnej, ocena wzrostu oraz motywacja i czynniki społeczne",
+   "C": "wiek kostny, wiek zębowy oraz kolejność wyrzynania zębów stałych u rodzeństwa",
+   "D": "koszty leczenia, dostępność aparatów oraz preferencje estetyczne rodziców pacjenta",
+   "E": "stan przyzębia, higiena jamy ustnej oraz częstość dotychczasowych wizyt kontrolnych"
+  },
+  "correct": "B",
+  "explanation": "Po ustaleniu głównej dolegliwości dalszych informacji szuka się w trzech obszarach: przebytych chorób ogólnych i chorób jamy ustnej, oceny wzrostu oraz motywacji, oczekiwań i innych czynników społecznych."
+ },
+ {
+  "id": "pf-c045-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    165,
+    166
+   ]
+  },
+  "question": "Jak należy standaryzować pomiary wysokości ciała u rosnącego pacjenta ortodontycznego?",
+  "options": {
+   "A": "stosować przytwierdzony do ściany wysokościomierz, a nie wagę z podziałką, przy stałej pozycji dziecka",
+   "B": "wyliczać wysokość z pomiarów cefalometrycznych wykonanych przed leczeniem",
+   "C": "przyjmować wartości podawane przez rodziców, zapisane w książeczce zdrowia dziecka",
+   "D": "każdorazowo korzystać z wagi z podziałką, zmieniając pozycję dziecka dla uśrednienia wyniku",
+   "E": "mierzyć dziecko w pozycji leżącej, co eliminuje wpływ obciążenia kręgosłupa"
+  },
+  "correct": "A",
+  "explanation": "Standaryzacja wymaga, aby pozycja dziecka i podłoże były zawsze takie same; służy do tego przytwierdzone do ściany urządzenie pomiarowe, a nie waga z podziałką.",
+  "core": true
+ },
+ {
+  "id": "pf-c045-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    165,
+    166
+   ]
+  },
+  "question": "Która metoda pozwala precyzyjnie ocenić moment młodzieńczego skoku wzrostowego?",
+  "options": {
+   "A": "analiza nagryzu poziomego i pionowego w kolejnych badaniach klinicznych",
+   "B": "ocena kolejności wyrzynania drugich stałych trzonowców na zdjęciu pantomograficznym",
+   "C": "ustalenie wieku kostnego na podstawie analizy kręgów szyjnych na cefalogramie",
+   "D": "porównanie masy ciała pacjenta ze średnią masą ciała jego rodzeństwa",
+   "E": "pomiar szerokości międzykłowej na modelach diagnostycznych obu łuków"
+  },
+  "correct": "C",
+  "explanation": "Precyzyjną ocenę skoku wzrostowego uzyskuje się, ustalając wiek kostny za pomocą analizy kręgów szyjnych na cefalogramie; głównym wskazaniem jest dziecko z kostną klasą II."
+ },
+ {
+  "id": "pf-c045-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    165,
+    166
+   ]
+  },
+  "question": "Jakiemu celowi służy formularz wypełniany przez pacjenta lub rodziców przed pierwszą wizytą ortodontyczną?",
+  "options": {
+   "A": "zastąpieniu badania klinicznego i analizy dokumentacji diagnostycznej",
+   "B": "ustaleniu rzeczywistych oczekiwań i powodu zgłoszenia się na konsultację",
+   "C": "ustaleniu wieku kostnego pacjenta bez konieczności wykonywania zdjęć",
+   "D": "wyliczeniu ostatecznego kosztu leczenia przed jego rozpoczęciem",
+   "E": "udokumentowaniu świadomej zgody na proponowany plan leczenia"
+  },
+  "correct": "B",
+  "explanation": "Pytania „Dlaczego tu jesteś?\" i „Dlaczego teraz?\" rozpoczynają wywiad, a formularz wypełniany przed wizytą pomaga ustalić prawdziwe oczekiwania pacjenta i rodziców, zwłaszcza dotyczące estetyki twarzy."
+ },
+ {
+  "id": "pf-c046-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    167,
+    168
+   ]
+  },
+  "question": "Który sposób oceny pozwala najdokładniej stwierdzić, czy wzrost szczęk został już zakończony, czy nadal trwa?",
+  "options": {
+   "A": "Analiza stopnia dojrzałości kręgów szyjnych na cefalogramie bocznym",
+   "B": "Seryjne zdjęcia cefalometryczne wykonywane w odstępach czasowych",
+   "C": "Ocena drugorzędowych cech płciowych podczas badania klinicznego",
+   "D": "Porównanie wieku chronologicznego pacjenta z wiekiem zębowym",
+   "E": "Zdjęcie rentgenowskie nadgarstka oceniane według atlasu wieku kostnego"
+  },
+  "correct": "B",
+  "explanation": "Zarówno ocena kręgów szyjnych, jak i zdjęcie nadgarstka są niewystarczająco dokładne w określaniu zakończenia wzrostu; najdokładniejszą metodą jest wykonywanie zdjęć cefalometrycznych w odstępach czasowych."
+ },
+ {
+  "id": "pf-c046-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    167,
+    168
+   ]
+  },
+  "question": "Nastolatek zgłasza się do ortodonty, ponieważ jego dziewczyna chce, aby miał ładniejsze zęby. Jak należy zakwalifikować taką motywację i czego się po niej spodziewać?",
+  "options": {
+   "A": "Motywacja mieszana, typowa wyłącznie dla pacjentów dorosłych",
+   "B": "Motywacja zewnętrzna, wynikająca z presji innej osoby na pacjenta",
+   "C": "Motywacja wewnętrzna, wynikająca z własnej oceny sytuacji przez pacjenta",
+   "D": "Brak motywacji, co stanowi bezwzględne przeciwwskazanie do leczenia",
+   "E": "Motywacja wewnętrzna, zwykle zapowiadająca bardzo dobrą współpracę"
+  },
+  "correct": "B",
+  "explanation": "Motywację zewnętrzną dostarcza presja drugiego człowieka, np. rodzica lub partnera; motywacja wewnętrzna ma źródło w samym pacjencie i w jego własnej ocenie sytuacji.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c046-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    167,
+    168
+   ]
+  },
+  "question": "W wywiadzie u kandydata do leczenia aparatem stałym odnotowano przebyty w dzieciństwie uraz zębów siecznych. Jakie znaczenie ma ta informacja dla planowania leczenia?",
+  "options": {
+   "A": "Świadczy o genetycznym podłożu istniejącej wady zgryzu",
+   "B": "Wskazuje na konieczność osłony antybiotykowej przy cementowaniu",
+   "C": "Uniemożliwia zastosowanie leczenia modyfikującego wzrost szczęk",
+   "D": "Zapowiada nawrót wady zgryzu niezależnie od rodzaju retencji",
+   "E": "Zwiększa ryzyko resorpcji korzeni podczas przesuwania zębów"
+  },
+  "correct": "E",
+  "explanation": "W przypisach do wywiadu dentystycznego podkreślono, że przebyty uraz zębów może zwiększać ryzyko resorpcji korzeni podczas ortodontycznego przesuwania zębów."
+ },
+ {
+  "id": "pf-c047-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    169,
+    170
+   ]
+  },
+  "question": "Jaki jest podstawowy cel delikatnego sondowania rowków dziąsłowych podczas każdego ortodontycznego badania klinicznego?",
+  "options": {
+   "A": "Wykrycie miejsc krwawiących, wskazujących na aktywną chorobę przyzębia",
+   "B": "Zmierzenie głębokości kieszonek przyzębnych w każdym kwadrancie",
+   "C": "Ocena ilości dziąsła związanego wokół dolnych siekaczy",
+   "D": "Ustalenie wskazań do wykonania przeszczepu dziąsła przed leczeniem",
+   "E": "Określenie stopnia utraty kości wyrostka zębodołowego"
+  },
+  "correct": "A",
+  "explanation": "Sondowanie wykonuje się nie po to, aby mierzyć głębokość kieszonek, lecz aby wykryć krwawienie, które wskazuje na aktywną chorobę przyzębia wymagającą opanowania przed leczeniem ortodontycznym."
+ },
+ {
+  "id": "pf-c047-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    169,
+    170
+   ]
+  },
+  "question": "Które stwierdzenie dotyczące analizy czynnościowej u pacjenta ortodontycznego jest prawidłowe?",
+  "options": {
+   "A": "Prawidłowa mowa jest niemożliwa przy ciężkich wadach anatomicznych",
+   "B": "Zaburzenia snu należy diagnozować i leczyć w gabinecie dentystycznym",
+   "C": "Istnieją dobre testy diagnostyczne oceniające wydajność żucia",
+   "D": "Wada zgryzu praktycznie nigdy nie upośledza czynności połykania",
+   "E": "Pomiar siły warg jest podstawowym badaniem diagnostycznym w ortodoncji"
+  },
+  "correct": "D",
+  "explanation": "Według Proffita wada zgryzu prawie nigdy nie upośledza połykania, a przypuszczenia o roli osłabionej siły warg i języka nie znajdują potwierdzenia w dowodach."
+ },
+ {
+  "id": "pf-c047-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    169,
+    170
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące analizy czynnościowej u pacjenta ortodontycznego:\n1. Wada zgryzu prawie nigdy nie upośledza czynności połykania.\n2. Leczenie ortodontyczne zazwyczaj usuwa wadę wymowy u dziecka.\n3. Zaburzenia snu mogą się wiązać z ciężkim niedorozwojem żuchwy.\n4. Brakuje należytych testów diagnostycznych oceniających wydajność żucia.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 1 i 2",
+   "C": "tylko 2 i 3",
+   "D": "tylko 1, 3 i 4",
+   "E": "tylko 3 i 4"
+  },
+  "correct": "D",
+  "explanation": "Fałszywe jest wyłącznie stwierdzenie 2 - leczenie ortodontyczne raczej nie usunie nieprawidłowości w wymowie u dziecka, a pomocna bywa dopiero terapia logopedyczna.",
+  "type": "combined",
+  "core": true
+ },
+ {
+  "id": "pf-c048-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    171,
+    172
+   ]
+  },
+  "question": "Który parametr uznaje się za najważniejszy pojedynczy wskaźnik czynności stawu skroniowo-żuchwowego?",
+  "options": {
+   "A": "Obecność trzasków przy ruchu zamykania",
+   "B": "Wielkość bocznego poślizgu żuchwy",
+   "C": "Zakres ruchu wysuwania żuchwy do przodu",
+   "D": "Wrażliwość mięśni żwaczy na palpację",
+   "E": "Zakres maksymalnego otwierania ust"
+  },
+  "correct": "E",
+  "explanation": "Prawidłowy ruch żuchwy wskazuje na brak poważnych zaburzeń czynnościowych, dlatego najważniejszym pojedynczym wskaźnikiem czynności stawu jest zakres maksymalnego otwierania ust."
+ },
+ {
+  "id": "pf-c048-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    171,
+    172
+   ]
+  },
+  "question": "U 5-letniego dziecka stwierdzono zgryz krzyżowy przedni; pierwszy kontakt zębów następuje na siekaczach tete-a-tete, po czym żuchwa ślizga się do przodu do pełnego zwarcia. Jak nazywa się ta sytuacja?",
+  "options": {
+   "A": "Przodozgryz rzekomy, czyli pseudoklasa III",
+   "B": "Prawdziwa kostna klasa III z prognatyzmem żuchwy",
+   "C": "Jednostronny zgryz krzyżowy z bocznym poślizgiem żuchwy",
+   "D": "Zgryz niedzielny wynikający z doprzedniej pozycji szczęki",
+   "E": "Kostna klasa II z komponentem niedorozwoju żuchwy"
+  },
+  "correct": "A",
+  "explanation": "Doprzedni poślizg żuchwy podejmowany dla uniknięcia urazowego kontaktu tete-a-tete na siekaczach daje obraz klasy III, który nie odzwierciedla prawdziwych stosunków szczękowych - to przodozgryz rzekomy.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c048-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    171,
+    172
+   ]
+  },
+  "question": "Do którego etapu systemowego badania wyglądu twarzy i zębów należy ocena nadmiernej ekspozycji dziąseł i obecności czarnych korytarzy policzkowych?",
+  "options": {
+   "A": "Miniestetyki, czyli oceny uśmiechu w ramach warg",
+   "B": "Makroestetyki, czyli oceny twarzy w trzech płaszczyznach",
+   "C": "Analizy czynnościowej stawów skroniowo-żuchwowych",
+   "D": "Oceny wieku rozwojowego na podstawie wyglądu twarzy",
+   "E": "Mikroestetyki, czyli oceny proporcji i kształtu zębów"
+  },
+  "correct": "A",
+  "explanation": "Uśmiech, ograniczony ramami górnej i dolnej wargi, stanowi poziom miniestetyki; ocenia się w nim m.in. ekspozycję dziąseł, wysokość brzegu dziąsłowego i czarne korytarze."
+ },
+ {
+  "id": "pf-c049-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    173,
+    174
+   ]
+  },
+  "question": "Jak należy ustawić pacjenta do analizy profilu twarzy, aby ocena stosunków przednio-tylnych szczęk była wiarygodna?",
+  "options": {
+   "A": "Z głową opartą o zagłówek fotela, w płaszczyźnie frankfurckiej",
+   "B": "Z głową unieruchomioną w cefalostacie, z wargami napiętymi",
+   "C": "W pozycji leżącej, z żuchwą ustawioną w relacji centralnej",
+   "D": "W naturalnym, fizjologicznym ustawieniu głowy, ze wzrokiem na horyzoncie",
+   "E": "W maksymalnym zaguzkowaniu, z głową odchyloną lekko ku tyłowi"
+  },
+  "correct": "D",
+  "explanation": "Ocena wypukłości lub wklęsłości profilu wymaga naturalnego ustawienia głowy - pacjent siedzi prosto lub stoi, nie opiera się o fotel i patrzy na horyzont lub odległy przedmiot.",
+  "core": true
+ },
+ {
+  "id": "pf-c049-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    173,
+    174
+   ]
+  },
+  "question": "Co wykazały badania Farkasa dotyczące pionowych proporcji twarzy w porównaniu z kanonem artystów renesansu?",
+  "options": {
+   "A": "Górna 1/3 wysokości twarzy jest największym z trzech odcinków",
+   "B": "Dolna 1/3 wysokości twarzy jest nieznacznie większa od pozostałych",
+   "C": "Wszystkie trzy piętra twarzy są dokładnie sobie równe",
+   "D": "Środkowa 1/3 wysokości twarzy jest wyraźnie większa od pozostałych",
+   "E": "Proporcje pięter twarzy nie dają się w ogóle wystandaryzować"
+  },
+  "correct": "B",
+  "explanation": "Artyści renesansu przyjmowali trzy równe odcinki, natomiast badania Farkasa wykazały, że u współczesnych osób rasy kaukaskiej pochodzenia europejskiego dolna 1/3 twarzy jest nieznacznie większa."
+ },
+ {
+  "id": "pf-c049-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    173,
+    174
+   ]
+  },
+  "question": "Które stwierdzenie dotyczące etapów dojrzewania i drugorzędowych cech płciowych jest prawidłowe?",
+  "options": {
+   "A": "U chłopców szczyt szybkości wzrostu poprzedza pojawienie się włosów łonowych",
+   "B": "U chłopców pierwszym objawem pokwitania jest zarost na brodzie i wargach",
+   "C": "U dziewcząt pokwitaniowy skok wzrostowy trwa dłużej niż u chłopców",
+   "D": "U dziewcząt miesiączkowanie odpowiada zakończeniu skoku wzrostowego",
+   "E": "U dziewcząt szczyt szybkości wzrostu wyprzedza pojawienie się zawiązków piersi"
+  },
+  "correct": "D",
+  "explanation": "W zestawieniu etapów rozwojowych młodzieży wystąpienie miesiączki wraz z poszerzeniem bioder i zakończeniem rozwoju piersi odpowiada etapowi zakończenia pokwitaniowego skoku wzrostowego."
+ },
+ {
+  "id": "pf-c050-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    175,
+    177
+   ]
+  },
+  "question": "Na jakie stosunki międzyszczękowe wskazuje wklęsły profil twarzy stwierdzony w analizie profilu?",
+  "options": {
+   "A": "Na kostną klasę III, spowodowaną pozycją szczęki lub żuchwy",
+   "B": "Na kostną klasę II wynikającą z doprzedniej pozycji szczęki",
+   "C": "Na skośność twarzy do przodu, uwarunkowaną etnicznie",
+   "D": "Na kostną klasę I z prawidłowymi proporcjami szczęk",
+   "E": "Na obuszczękową protruzję zębowo-wyrostkową"
+  },
+  "correct": "A",
+  "explanation": "Profil wypukły oznacza kostną klasę II, a wklęsły kostną klasę III, przy czym sama wklęsłość nie rozstrzyga, czy przyczyną jest dotylna pozycja szczęki, czy doprzednia żuchwy."
+ },
+ {
+  "id": "pf-c050-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    175,
+    177
+   ]
+  },
+  "question": "Jakie dwa warunki muszą być spełnione łącznie, aby rozpoznać nadmierne wychylenie siekaczy?",
+  "options": {
+   "A": "Profil wypukły oraz nachylenie siekaczy przekraczające normę cefalometryczną",
+   "B": "Wargi wydatne i wywinięte oraz szpara między nimi w spoczynku ponad 3-4 mm",
+   "C": "Stłoczenie siekaczy oraz stroma płaszczyzna żuchwy w badaniu klinicznym",
+   "D": "Wargi cienkie i zapadnięte oraz brak kontaktu warg podczas mówienia",
+   "E": "Nadmierna ekspozycja dziąseł oraz krótka warga górna w spoczynku"
+  },
+  "correct": "B",
+  "explanation": "Zęby są wychylone za bardzo wtedy i tylko wtedy, gdy wargi są wydatne i wywinięte oraz nie stykają się w spoczynku, a szpara między nimi przekracza 3-4 mm (niekompetencja warg)."
+ },
+ {
+  "id": "pf-c050-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    175,
+    177
+   ]
+  },
+  "question": "Podczas badania klinicznego, przykładając rękojeść lusterka wzdłuż dolnej krawędzi żuchwy, stwierdzono wyraźnie stromą płaszczyznę żuchwy. Czego należy się spodziewać u tego pacjenta?",
+  "options": {
+   "A": "Obuszczękowej protruzji zębowo-wyrostkowej i niekompetencji warg",
+   "B": "Skośności profilu do przodu, typowej dla pochodzenia azjatyckiego",
+   "C": "Małej przedniej wysokości twarzy i tendencji do zgryzu głębokiego",
+   "D": "Nadmiernej długości podbródka i prawidłowego kąta bródkowo-podbródkowego",
+   "E": "Dużej przedniej wysokości twarzy i tendencji do kostnego zgryzu otwartego"
+  },
+  "correct": "E",
+  "explanation": "Stroma płaszczyzna żuchwy oznacza dużą przednią wysokość twarzy i tendencję do kostnego zgryzu otwartego, podczas gdy płaszczyzna pozioma współistnieje z małą przednią wysokością twarzy i zgryzem głębokim.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c051-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    178,
+    179
+   ]
+  },
+  "question": "Dlaczego oceny zgodności linii pośrodkowych łuków zębowych z linią pośrodkową twarzy nie można oprzeć na modelach diagnostycznych?",
+  "options": {
+   "A": "Modele wymagają uprzedniego osadzenia w artykulatorze",
+   "B": "Modele zniekształcają szerokość łuku w odcinku przednim",
+   "C": "Modele ukazują tylko wzajemny stosunek linii pośrodkowych obu łuków",
+   "D": "Modele nie odwzorowują dokładnie brzegów siecznych zębów przednich",
+   "E": "Modele nie pozwalają na ocenę inklinacji koron zębów przednich"
+  },
+  "correct": "C",
+  "explanation": "Modele diagnostyczne, nawet w artykulatorze, pokazują wyłącznie stosunek górnej i dolnej linii pośrodkowej łuków; odniesienia do linii pośrodkowej twarzy dostarcza tylko badanie kliniczne.",
+  "core": true
+ },
+ {
+  "id": "pf-c051-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    178,
+    179
+   ]
+  },
+  "question": "Przy jakim nasileniu przechyłu (roll) estetycznej linii uzębienia zjawisko to zauważają laicy i staje się ono problemem estetycznym?",
+  "options": {
+   "A": "Dopiero przy odchyleniu przekraczającym 6 mm",
+   "B": "Laicy nie dostrzegają przechyłu przy żadnym nasileniu",
+   "C": "Dopiero przy około 3 mm odchylenia od poziomu",
+   "D": "Już przy 1 mm, podobnie jak dostrzegają je dentyści",
+   "E": "Wyłącznie wtedy, gdy towarzyszy mu zgryz krzyżowy"
+  },
+  "correct": "C",
+  "explanation": "Dentyści dostrzegają przechył estetycznej linii uzębienia już przy 1 mm, natomiast laicy są bardziej tolerancyjni i zauważają go dopiero przy 3 mm, kiedy staje się on problemem."
+ },
+ {
+  "id": "pf-c051-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    178,
+    179
+   ]
+  },
+  "question": "Który rodzaj uśmiechu jest przedmiotem analizy w diagnostyce ortodontycznej i dlaczego?",
+  "options": {
+   "A": "Uśmiech pozowany, ponieważ maksymalnie unosi wargę górną",
+   "B": "Uśmiech pozowany (społeczny), ponieważ jest powtarzalny",
+   "C": "Uśmiech emocjonalny, ponieważ jest niezależny od nastroju",
+   "D": "Oba rodzaje uśmiechu w równym stopniu, bo się nie różnią",
+   "E": "Uśmiech emocjonalny, ponieważ najpełniej ukazuje zęby boczne"
+  },
+  "correct": "B",
+  "explanation": "Uśmiech pozowany, inaczej społeczny, jest powtarzalny i prezentowany na co dzień, dlatego to on stanowi przedmiot ortodontycznej analizy uśmiechu."
+ },
+ {
+  "id": "pf-c052-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    180,
+    182
+   ]
+  },
+  "question": "Które stwierdzenie dotyczące rozpoznawania obuszczękowej protruzji zębowo-wyrostkowej jest prawidłowe?",
+  "options": {
+   "A": "Wydatność warg jest jednakowa we wszystkich grupach rasowych",
+   "B": "Rozpoznanie wymaga stwierdzenia klinicznie wszystkich cech tkanek miękkich",
+   "C": "Rozpoznanie opiera się przede wszystkim na bocznym cefalogramie",
+   "D": "Szpara między wargami w spoczynku powinna przekraczać 10 mm",
+   "E": "Do rozpoznania wystarczy stwierdzone wychylenie siekaczy na modelach"
+  },
+  "correct": "B",
+  "explanation": "Aby rozpoznać protruzję zębową, muszą wystąpić wszystkie cechy tkanek miękkich stwierdzone klinicznie; samo wychylenie zębów widoczne na cefalogramie nie jest wystarczające."
+ },
+ {
+  "id": "pf-c052-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    180,
+    182
+   ]
+  },
+  "question": "Jaki zakres ukazywania koron górnych siekaczy podczas uśmiechu zapewnia najlepszą estetykę?",
+  "options": {
+   "A": "Ekspozycja wyłącznie brzegów siecznych, bez ekspozycji dziąsła",
+   "B": "Ekspozycja koron wraz z rąbkiem dziąsła szerszym niż 5 mm",
+   "C": "Ekspozycja minimum 75% korony, dopuszczalny wąski rąbek dziąsła",
+   "D": "Ekspozycja około 60% korony wraz z szerokim rąbkiem dziąsła",
+   "E": "Ekspozycja poniżej 50% korony, bez widocznego rąbka dziąsła"
+  },
+  "correct": "C",
+  "explanation": "Warga górna w uśmiechu powinna sięgać brzegu dziąsłowego; wspaniałą estetykę zapewnia ukazywanie co najmniej 75% koron siekaczy, a niewielki rąbek dziąsła jest cechą młodzieńczą."
+ },
+ {
+  "id": "pf-c052-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    180,
+    182
+   ]
+  },
+  "question": "U dziewczyny z wadą klasy II i wyraźnie dużym nosem rozważa się cofnięcie górnych siekaczy. Jakie jest ryzyko takiego postępowania?",
+  "options": {
+   "A": "Spłaszczy łuk uśmiechu i pogorszy proporcje szerokości zębów",
+   "B": "Spowoduje rotację żuchwy do przodu i zgryz krzyżowy przedni",
+   "C": "Doprowadzi do niekompetencji warg i ich rozchylenia w spoczynku",
+   "D": "Zwiększy przednią wysokość twarzy i pogłębi zgryz otwarty",
+   "E": "Pogorszy wygląd twarzy przez wizualne powiększenie dużego nosa"
+  },
+  "correct": "E",
+  "explanation": "W ocenie pozycji siekaczy i wydatności warg trzeba uwzględniać wielkość nosa - cofnięcie siekaczy u pacjentki z dużym nosem wizualnie go powiększa i psuje wygląd twarzy.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c053-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    183,
+    185
+   ]
+  },
+  "question": "Jak zdefiniowany jest łuk uśmiechu i jaki jego przebieg uznaje się za najkorzystniejszy?",
+  "options": {
+   "A": "Stosunek brzegów siecznych zębów żuchwy do krzywizny wargi górnej; krzywizny przeciwstawne",
+   "B": "Stosunek szerokości łuku zębowego do szerokości twarzy; wartości równe",
+   "C": "Stosunek zarysu dziąsła do brzegu wargi górnej; krzywizny spłaszczone",
+   "D": "Stosunek korytarzy policzkowych do szerokości uśmiechu; wartości minimalne",
+   "E": "Stosunek brzegów siecznych zębów szczęki do krzywizny wargi dolnej; krzywizny równoległe"
+  },
+  "correct": "E",
+  "explanation": "Łuk uśmiechu to stosunek zarysu brzegów siecznych przednich zębów szczęki do krzywizny wargi dolnej w uśmiechu społecznym; najładniejszy jest łuk, w którym obie krzywizny są równoległe.",
+  "core": true
+ },
+ {
+  "id": "pf-c053-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    183,
+    185
+   ]
+  },
+  "question": "Jaką wartość przyjmuje tzw. złota proporcja opisująca widoczne en face szerokości przednich zębów szczęki?",
+  "options": {
+   "A": "Każdy kolejny ząb ku tyłowi ma 62% szerokości poprzedniego",
+   "B": "Każdy kolejny ząb ku tyłowi ma 80% szerokości poprzedniego",
+   "C": "Każdy kolejny ząb ku tyłowi ma 50% szerokości poprzedniego",
+   "D": "Każdy kolejny ząb ku tyłowi ma 38% szerokości poprzedniego",
+   "E": "Każdy kolejny ząb ku tyłowi ma 24% szerokości poprzedniego"
+  },
+  "correct": "A",
+  "explanation": "Widoczna szerokość siekacza bocznego powinna wynosić 62% szerokości siekacza przyśrodkowego, kła 62% szerokości siekacza bocznego, a pierwszego przedtrzonowca 62% szerokości kła."
+ },
+ {
+  "id": "pf-c053-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    183,
+    185
+   ]
+  },
+  "question": "Jaki powinien być prawidłowy stosunek szerokości do wysokości korony górnego siekacza przyśrodkowego?",
+  "options": {
+   "A": "Szerokość powinna stanowić około 62% wysokości korony",
+   "B": "Szerokość powinna stanowić około 70% wysokości korony",
+   "C": "Szerokość powinna być równa wysokości korony zęba",
+   "D": "Szerokość powinna stanowić około 90% wysokości korony",
+   "E": "Szerokość powinna stanowić około 80% wysokości korony"
+  },
+  "correct": "E",
+  "explanation": "Szerokość korony górnego siekacza przyśrodkowego powinna stanowić ok. 80% jej wysokości; ząb niemal kwadratowy oznacza najczęściej zbyt małą wysokość korony."
+ },
+ {
+  "id": "pf-c054-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    186,
+    187
+   ]
+  },
+  "question": "Dlaczego po ortodontycznym uszeregowaniu silnie stłoczonych i zrotowanych górnych siekaczy pojawiają się czarne trójkąty?",
+  "options": {
+   "A": "Ponieważ płaszczyzny styczne przesuwają się w kierunku brzegu siecznego",
+   "B": "Ponieważ wysokość dziąsła przy siekaczu bocznym ulega obniżeniu",
+   "C": "Ponieważ brodawka międzyzębowa ulega przerostowi ponad linię styku",
+   "D": "Ponieważ korony zębów ulegają skróceniu wskutek starcia brzegów",
+   "E": "Ponieważ dochodzi do resorpcji korzeni zębów sąsiednich"
+  },
+  "correct": "A",
+  "explanation": "Po wyprostowaniu stłoczonych i zrotowanych siekaczy płaszczyzny styczne przemieszczają się dosiecznie, przez co przydziąsłowa przestrzeń międzyzębowa nie jest już wypełniona brodawką i powstaje czarny trójkąt.",
+  "core": true
+ },
+ {
+  "id": "pf-c054-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    186,
+    187
+   ]
+  },
+  "question": "Co jest przyczyną fizjologicznego ciemnienia i matowienia zębów wraz z wiekiem?",
+  "options": {
+   "A": "Zwiększona mineralizacja szkliwa i wzrost jego przezierności",
+   "B": "Powiększanie się komór miazgi i pogrubienie warstwy szkliwa",
+   "C": "Przyrost kostniwa w okolicy przyszyjkowej i recesja dziąsła",
+   "D": "Odkładanie zębiny wtórnej i ścieńczenie szkliwa zmniejszające przezierność",
+   "E": "Utrata brodawek międzyzębowych i powstawanie czarnych trójkątów"
+  },
+  "correct": "D",
+  "explanation": "Zęby ciemnieją z wiekiem wskutek odkładania zębiny wtórnej przy zmniejszaniu się komór miazgi oraz ścieńczenia szkliwa, które traci przezierność i silniej odsłania ciemną zębinę."
+ },
+ {
+  "id": "pf-c054-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    186,
+    187
+   ]
+  },
+  "question": "Jaki powinien być idealny zarys dziąsła przy górnym siekaczu bocznym?",
+  "options": {
+   "A": "Półokrąg z wierzchołkiem przesuniętym dystalnie od osi zęba",
+   "B": "Półelipsa z wierzchołkiem przesuniętym mezjalnie od osi zęba",
+   "C": "Półokrąg z wierzchołkiem położonym na osi długiej zęba",
+   "D": "Zarys prosty, przebiegający równolegle do brzegu siecznego",
+   "E": "Półelipsa z wierzchołkiem przesuniętym dystalnie od osi zęba"
+  },
+  "correct": "C",
+  "explanation": "Przy siekaczu bocznym zarys dziąsła ma kształt symetrycznego półokręgu z wierzchołkiem na osi zęba, natomiast przy siekaczu przyśrodkowym i kle jest bardziej eliptyczny, z wierzchołkiem przesuniętym dystalnie."
+ },
+ {
+  "id": "pf-c055-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    188,
+    188
+   ]
+  },
+  "question": "Jakie przewagi ma zdjęcie pantomograficzne nad serią zdjęć zębowych w ocenie ortodontycznej?",
+  "options": {
+   "A": "Możliwość lokalizacji zatrzymanego kła metodą paralaksy poziomej",
+   "B": "Większa szczegółowość obrazu przyzębia brzeżnego i mniejsze zniekształcenia",
+   "C": "Lepsze uwidocznienie wewnętrznej patologii stawu skroniowo-żuchwowego",
+   "D": "Dokładniejsze odwzorowanie szerokości koron i możliwość pomiaru zębów",
+   "E": "Szerszy obraz, większa szansa wykrycia zmian i mniejsza dawka promieniowania"
+  },
+  "correct": "E",
+  "explanation": "Pantomogram daje szerszy obraz, a więc większą szansę ukazania zmian patologicznych, zębów nadliczbowych i zatrzymanych, przy istotnie mniejszej ekspozycji na promieniowanie niż seria zdjęć zębowych."
+ },
+ {
+  "id": "pf-c055-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    188,
+    188
+   ]
+  },
+  "question": "U 12-letniego pacjenta górny kieł nie jest wyczuwalny palpacyjnie w przedsionku jamy ustnej i podejrzewa się jego podniebienne zatrzymanie. Które badanie najlepiej określi jego położenie?",
+  "options": {
+   "A": "Sam pantomogram oceniany zasadą paralaksy pionowej",
+   "B": "Zdjęcie zgryzowe i zębowe oceniane zasadą paralaksy poziomej",
+   "C": "Rezonans magnetyczny stawów skroniowo-żuchwowych",
+   "D": "Cefalogram czołowy PA uzupełniony zdjęciem skrzydłowo-zgryzowym",
+   "E": "Zdjęcie cefalometryczne boczne z nałożeniem obrysów"
+  },
+  "correct": "B",
+  "explanation": "Zdjęcie zębowe z pantomogramem pozwala na lokalizację metodą paralaksy pionowej, ale położenie kła zatrzymanego podniebiennie lepiej określa się zdjęciem zgryzowym i zębowym z wykorzystaniem paralaksy poziomej.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c055-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    188,
+    188
+   ]
+  },
+  "question": "Jakie jest właściwe podejście do wykonywania zdjęć rentgenowskich stawu skroniowo-żuchwowego u pacjentów ortodontycznych?",
+  "options": {
+   "A": "Należy je zastąpić zdjęciami skrzydłowo-zgryzowymi obu stron",
+   "B": "Należy je wykonywać rutynowo u każdego pacjenta przed leczeniem",
+   "C": "Należy je wykonywać wyłącznie u pacjentów przed skokiem wzrostowym",
+   "D": "Należy je zarezerwować dla pacjentów z objawami dysfunkcji stawu",
+   "E": "Należy je wykonywać u każdego pacjenta z wadą klasy II podgrupy 1"
+  },
+  "correct": "D",
+  "explanation": "Zdjęcia SSŻ powinny być zarezerwowane dla pacjentów z objawami dysfunkcji mogącej mieć związek z patologią wewnątrzstawową; rutynowe ich wykonywanie jest niewskazane, a przydatniejsze bywają TK lub MR."
+ },
+ {
+  "id": "pf-c056-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    189,
+    190
+   ]
+  },
+  "question": "Dlaczego u pacjentów w wieku przedpokwitaniowym i wczesnym młodzieńczym umieszczanie modeli w artykulatorze uznaje się za pozbawione sensu?",
+  "options": {
+   "A": "Ponieważ u dzieci nie da się zarejestrować maksymalnego zaguzkowania",
+   "B": "Ponieważ staw skroniowo-żuchwowy nie jest jeszcze w pełni rozwinięty",
+   "C": "Ponieważ modele gipsowe u dzieci są zbyt małe do zamontowania",
+   "D": "Ponieważ wyrostki kłykciowe u dzieci są ustawione bardziej dotylnie",
+   "E": "Ponieważ prowadzenie kłowe u dzieci jest silniejsze niż u dorosłych"
+  },
+  "correct": "B",
+  "explanation": "U dzieci przed zakończeniem skoku wzrostowego SSŻ nie jest w pełni rozwinięty, prowadzenie stawowe nie ma takiego znaczenia jak u dorosłych, a zarejestrowane relacje szybko zmieniają się wraz ze wzrostem.",
+  "core": true
+ },
+ {
+  "id": "pf-c056-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    189,
+    190
+   ]
+  },
+  "question": "Jakie jest główne wskazanie do wykonania cefalogramu czołowego (PA)?",
+  "options": {
+   "A": "Kontrola przebiegu leczenia metodą superimpozycji obrysów",
+   "B": "Ocena stopnia dojrzałości kręgów szyjnych u nastolatka",
+   "C": "Rutynowa dokumentacja każdego pacjenta ortodontycznego",
+   "D": "Asymetria twarzy stwierdzona w badaniu klinicznym",
+   "E": "Ocena pozycji siekaczy przed leczeniem modyfikującym wzrost"
+  },
+  "correct": "D",
+  "explanation": "Głównym wskazaniem do cefalogramu czołowego PA jest asymetria twarzy; rutynowe wykonywanie takich zdjęć u pacjentów ortodontycznych nie jest zalecane."
+ },
+ {
+  "id": "pf-c056-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    189,
+    190
+   ]
+  },
+  "question": "Co stanowi minimalną dokumentację diagnostyczną pacjenta gabinetu ortodontycznego?",
+  "options": {
+   "A": "Modele obcięte tak, aby ukazywały zgryz, pantomogram i dane analizy twarzy",
+   "B": "Cefalogram boczny, cefalogram PA oraz komplet zdjęć zewnątrzustnych",
+   "C": "Modele w artykulatorze, zdjęcia SSŻ oraz film wideo uśmiechu pacjenta",
+   "D": "Pantomogram, zdjęcie nadgarstka oraz pięć zdjęć wewnątrzustnych",
+   "E": "Seria zdjęć zębowych, zdjęcia skrzydłowo-zgryzowe i modele w artykulatorze"
+  },
+  "correct": "A",
+  "explanation": "Minimalna dokumentacja to modele (lub ich elektroniczny ekwiwalent) ukazujące stosunki zgryzowe, pantomogram uzupełniony w razie potrzeby zdjęciami zębowymi oraz dane z analizy twarzy."
+ },
+ {
+  "id": "pf-c057-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    191,
+    192
+   ]
+  },
+  "question": "Wskaż prawdziwe założenia, na których opiera się klasyczna analiza ilości miejsca w łuku zębowym:\n1. Przednio-tylna pozycja siekaczy jest prawidłowa.\n2. Ilość dostępnego miejsca nie zmieni się wskutek wzrostu.\n3. Wszystkie zęby są obecne i mają prawidłowe wymiary.\n4. Siekacze pacjenta są ustawione w wyraźnej protruzji.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 3 i 4",
+   "C": "tylko 1, 2 i 3",
+   "D": "tylko 1 i 2",
+   "E": "tylko 2 i 4"
+  },
+  "correct": "C",
+  "explanation": "Analiza miejsca opiera się na trzech założeniach: prawidłowej przednio-tylnej pozycji siekaczy, stałości dostępnego miejsca mimo wzrostu oraz obecności wszystkich zębów o prawidłowych wymiarach.",
+  "type": "combined",
+  "core": true
+ },
+ {
+  "id": "pf-c057-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    191,
+    192
+   ]
+  },
+  "question": "Dlaczego w tabelach Moyersa do przewidywania wielkości niewyrzniętych kłów i przedtrzonowców wykorzystuje się szerokość siekaczy dolnych, a nie górnych?",
+  "options": {
+   "A": "Ponieważ siekacze górne są zwykle stłoczone i zrotowane w tym wieku",
+   "B": "Ponieważ siekacze dolne nie ulegają starciu brzegów siecznych",
+   "C": "Ponieważ górne siekacze boczne cechuje wybitna różnorodność wymiarów",
+   "D": "Ponieważ siekacze dolne są łatwiejsze do zmierzenia na zdjęciu zębowym",
+   "E": "Ponieważ siekacze dolne wyrzynają się jako ostatnie w uzębieniu mieszanym"
+  },
+  "correct": "C",
+  "explanation": "Wymiar dolnych siekaczy lepiej koreluje z wielkością kłów i przedtrzonowców obu łuków, ponieważ górne siekacze boczne wykazują bardzo dużą zmienność wymiarów."
+ },
+ {
+  "id": "pf-c057-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    191,
+    192
+   ]
+  },
+  "question": "U której grupy pacjentów analiza ilości miejsca jest najmniej dokładna i najmniej przydatna?",
+  "options": {
+   "A": "U dzieci z prawidłowymi proporcjami twarzy i uzębieniem stałym",
+   "B": "U pacjentów z dysproporcją wielkości zębów w odcinku bocznym",
+   "C": "U dzieci z wadami kostnymi klasy II, klasy III, długą lub krótką twarzą",
+   "D": "U dzieci z uzębieniem mlecznym bez szpar w odcinku przednim",
+   "E": "U dorosłych z niewielkim stłoczeniem w odcinku przednim żuchwy"
+  },
+  "correct": "C",
+  "explanation": "Przy dysproporcjach szczęk zęby wyraźnie przesuwają się do przodu lub do tyłu podczas wzrostu, dlatego analiza miejsca jest mniej dokładna u dzieci z wadami kostnymi niż u dzieci z prawidłowymi proporcjami twarzy."
+ },
+ {
+  "id": "pf-c058-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    193,
+    194
+   ]
+  },
+  "question": "Na czym polega metoda Tanaki i Johnstona przewidywania szerokości niewyrzniętych kłów i przedtrzonowców?",
+  "options": {
+   "A": "Sumę szerokości siekaczy mnoży się przez współczynnik powiększenia zdjęcia",
+   "B": "Od połowy sumy szerokości czterech górnych siekaczy odejmuje się 10,5 mm",
+   "C": "Do połowy sumy szerokości czterech dolnych siekaczy dodaje się 10,5 lub 11,0 mm",
+   "D": "Sumę szerokości siekaczy odczytuje się z wykresu Staleya i Kerbera",
+   "E": "Do sumy szerokości czterech dolnych siekaczy dodaje się 10,5 lub 11,0 mm"
+  },
+  "correct": "C",
+  "explanation": "Połowa mezjodystalnej szerokości czterech dolnych siekaczy powiększona o 10,5 mm daje szacowaną szerokość kła i przedtrzonowców w kwadrancie żuchwy, a powiększona o 11,0 mm - w kwadrancie szczęki."
+ },
+ {
+  "id": "pf-c058-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    193,
+    194
+   ]
+  },
+  "question": "Które stwierdzenie dotyczące dysproporcji wielkości zębów (analiza Boltona) jest prawidłowe?",
+  "options": {
+   "A": "Dotyczy około 5% populacji, ale nie ma znaczenia dla planowania leczenia",
+   "B": "Dotyczy około połowy populacji i wynika najczęściej z anomalii kłów",
+   "C": "Dotyczy wyłącznie pacjentów z hipodoncją drugich przedtrzonowców",
+   "D": "Dotyczy około 5% populacji, a najczęstszą przyczyną są górne siekacze boczne",
+   "E": "Dotyczy około 20% populacji i zawsze obejmuje wszystkie zęby jednego łuku"
+  },
+  "correct": "D",
+  "explanation": "Blisko 5% populacji ma pewien stopień dysproporcji wielkości zębów, a najczęstszą przyczyną są anomalie wielkości górnych siekaczy bocznych; różnice powyżej 1,5 mm utrudniają leczenie."
+ },
+ {
+  "id": "pf-c058-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    193,
+    194
+   ]
+  },
+  "question": "U 9-letniego pacjenta pochodzenia azjatyckiego, z uzębieniem mieszanym, planowana jest analiza miejsca. Który sposób oszacowania wielkości niewyrzniętych zębów będzie najwłaściwszy?",
+  "options": {
+   "A": "Komputerowa analiza miejsca oparta na korelacjach wielkości zębów",
+   "B": "Wykres Staleya i Kerbera, jako najdokładniejszy z metod korelacyjnych",
+   "C": "Metoda Tanaki i Johnstona, jako najwygodniejsza w obliczeniach ręcznych",
+   "D": "Pomiar zębów na zdjęciach rentgenowskich z korektą powiększenia",
+   "E": "Tabele Moyersa, ponieważ są podstawą większości algorytmów komputerowych"
+  },
+  "correct": "D",
+  "explanation": "Metody korelacyjne opracowano dla białych dzieci pochodzenia północnoeuropejskiego; u dzieci azjatyckich lub afrykańskich najlepszym rozwiązaniem są obliczenia na zdjęciach rentgenowskich.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c059-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    195,
+    196
+   ]
+  },
+  "question": "Które zastosowanie zdjęcia cefalometrycznego uznaje się za najważniejsze klinicznie?",
+  "options": {
+   "A": "Ocena szerokości łuku zębowego i symetrii między łukami zębowymi",
+   "B": "Pomiar mezjodystalnych szerokości niewyrzniętych kłów i przedtrzonowców",
+   "C": "Wykrywanie zmian chorobowych w obrębie czaszki i kręgosłupa szyjnego",
+   "D": "Rozpoznawanie i ocena zmian wprowadzonych przez leczenie ortodontyczne",
+   "E": "Dokumentowanie stanu zdrowia tkanek miękkich i twardych jamy ustnej"
+  },
+  "correct": "D",
+  "explanation": "Superimpozycja zdjęć wykonanych przed leczeniem, w jego trakcie i po nim pozwala ocenić zmiany pozycji szczęk i zębów, czego nie da się ustalić inaczej u pacjenta rosnącego.",
+  "core": true
+ },
+ {
+  "id": "pf-c059-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    195,
+    196
+   ]
+  },
+  "question": "Które stwierdzenie dotyczące wykrywania patologii na zdjęciach cefalometrycznych jest prawidłowe?",
+  "options": {
+   "A": "Cefalogramy nie służą wykrywaniu patologii, ale mogą ją ujawnić przypadkowo",
+   "B": "Cefalogramy wykonuje się przede wszystkim w celu wykrycia zmian chorobowych",
+   "C": "Cefalogramy nie pozwalają uwidocznić struktur kręgosłupa szyjnego",
+   "D": "Wykrycie patologii na cefalogramie wyklucza leczenie ortodontyczne",
+   "E": "Zmiany degeneracyjne kręgów są na cefalogramie zawsze niewidoczne"
+  },
+  "correct": "A",
+  "explanation": "Cefalogramy nie są wykonywane w celu wykrycia zmian chorobowych, ale nie należy lekceważyć możliwości odnalezienia na nich anomalii kręgosłupa szyjnego, zmian degeneracyjnych czy patologii czaszki i szczęk."
+ },
+ {
+  "id": "pf-c059-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    195,
+    196
+   ]
+  },
+  "question": "Dlaczego analizę cefalometryczną wykonuje się na obrysach lub obrazach cyfrowych, a nie bezpośrednio na radiogramie?",
+  "options": {
+   "A": "Aby umożliwić porównanie obrazu z modelami diagnostycznymi",
+   "B": "Aby zmniejszyć ilość informacji do poziomu umożliwiającego analizę",
+   "C": "Aby zmniejszyć dawkę promieniowania pochłoniętą przez pacjenta",
+   "D": "Aby uwidocznić tkanki miękkie niewidoczne na samym radiogramie",
+   "E": "Aby wyeliminować powiększenie obrazu wynikające z techniki zdjęcia"
+  },
+  "correct": "B",
+  "explanation": "Istotą wykonywania obrysu lub digitalizacji cefalogramu jest zredukowanie ilości informacji do poziomu, który umożliwia analizę relacji między wybranymi punktami."
+ },
+ {
+  "id": "pf-c060-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    197,
+    199
+   ]
+  },
+  "question": "Jakie pięć głównych czynnościowych składników twarzy ocenia analiza cefalometryczna?",
+  "options": {
+   "A": "Czoło, nos, wargi, bródka oraz zarys tkanek miękkich podbródka",
+   "B": "Czaszka z podstawą, kość szczęki, kość żuchwy oraz uzębienie obu łuków z wyrostkami",
+   "C": "Uzębienie szczęki, uzębienie żuchwy, wargi, dziąsła i płaszczyzna zgryzowa",
+   "D": "Kość szczęki, kość żuchwy, gałąź żuchwy, wyrostek kłykciowy i kręgi szyjne",
+   "E": "Podstawa czaszki, zatoki szczękowe, staw skroniowo-żuchwowy, wargi i język"
+  },
+  "correct": "B",
+  "explanation": "Celem analizy cefalometrycznej jest ocena poziomych i pionowych zależności między czaszką z jej podstawą, kością szczęki, kością żuchwy oraz uzębieniem szczęki i żuchwy wraz z wyrostkami zębodołowymi."
+ },
+ {
+  "id": "pf-c060-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    197,
+    199
+   ]
+  },
+  "question": "Czym współczesne normy cefalometryczne różnią się od pierwotnych standardów Downsa czy Steinera?",
+  "options": {
+   "A": "Opierają się na pomiarach tkanek miękkich z pominięciem struktur kostnych",
+   "B": "Opierają się na pomiarach wykonywanych bezpośrednio na pacjencie, a nie na zdjęciu",
+   "C": "Opierają się na danych z jednej, ściśle wyselekcjonowanej grupy etnicznej",
+   "D": "Opierają się wyłącznie na osobach z idealnym zgryzem i idealnymi proporcjami twarzy",
+   "E": "Opierają się na grupach dobranych mniej restrykcyjnie, obejmujących lekkie wady zgryzu"
+  },
+  "correct": "E",
+  "explanation": "Standardy Downsa opracowano na 25 osobach z idealnym zgryzem, natomiast współczesne normy pochodzą z badań wzrostu obejmujących także dzieci z niewielkimi i średnimi wadami zgryzu."
+ },
+ {
+  "id": "pf-c060-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    197,
+    199
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące możliwych przyczyn wady klasy II podgrupy 1 ujawnianych w analizie cefalometrycznej:\n1. Protruzja siekaczy szczęki przy prawidłowych stosunkach kostnych.\n2. Niedorozwój żuchwy przy prawidłowym ustawieniu zębów na podstawach kostnych.\n3. Rotacja żuchwy do tyłu i do dołu wskutek nadmiernego pionowego wzrostu szczęki.\n4. Wyłącznie jeden mechanizm kostny, inne przyczyny nie występują.",
+  "options": {
+   "A": "tylko 1 i 3",
+   "B": "tylko 1 i 2",
+   "C": "tylko 1, 2 i 3",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 2 i 4"
+  },
+  "correct": "C",
+  "explanation": "Wada klasy II podgrupy 1 może wynikać z protruzji siekaczy szczęki, niedorozwoju żuchwy lub rotacji żuchwy do tyłu i do dołu, a także z kilku innych mechanizmów - stwierdzenie 4 jest fałszywe.",
+  "type": "combined",
+  "core": true
+ },
+ {
+  "id": "pf-c061-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    200,
+    201
+   ]
+  },
+  "question": "Który punkt cefalometryczny definiuje się jako najbardziej wewnętrzny punkt na zarysie żuchwy pomiędzy siekaczem a kostną bródką?",
+  "options": {
+   "A": "punkt A",
+   "B": "punkt B",
+   "C": "pogonion (Pog)",
+   "D": "gonion (Go)",
+   "E": "gnathion (Gn)"
+  },
+  "correct": "B",
+  "explanation": "Punkt B to najbardziej wewnętrzny punkt na zarysie żuchwy między siekaczem a kostną bródką; analogicznie definiowany punkt A leży na przednim zarysie szczęki.",
+  "core": true
+ },
+ {
+  "id": "pf-c061-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    200,
+    201
+   ]
+  },
+  "question": "Płaszczyzna frankfurcka, przyjęta na kongresie anatomów w 1882 r., jest wyznaczana przez:",
+  "options": {
+   "A": "nasion i sella turcica",
+   "B": "porion i gonion",
+   "C": "basion i nasion",
+   "D": "porion i orbitale",
+   "E": "orbitale i pogonion"
+  },
+  "correct": "D",
+  "explanation": "Płaszczyzna frankfurcka rozciąga się od górnego brzegu otworu słuchowego zewnętrznego (porion) do dolnej krawędzi oczodołu (orbitale) i uznano ją za najlepiej odpowiadającą naturalnemu ustawieniu głowy."
+ },
+ {
+  "id": "pf-c061-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    200,
+    201
+   ]
+  },
+  "question": "Na czym polega drugi z dwóch podstawowych sposobów wykonywania analizy cefalometrycznej, odmienny od podejścia zapoczątkowanego przez Downsa?",
+  "options": {
+   "A": "na graficznym porównaniu wzorca pacjenta z szablonem odniesienia",
+   "B": "na ocenie ruchomości stawów skroniowo-żuchwowych pacjenta",
+   "C": "na pomiarze szerokości łuków zębowych na modelach diagnostycznych",
+   "D": "na analizie fotografii twarzy w spoczynku i w uśmiechu",
+   "E": "na porównaniu serii wybranych pomiarów liniowych i kątowych"
+  },
+  "correct": "A",
+  "explanation": "Downs zapoczątkował podejście oparte na pomiarach liniowych i kątowych; drugi sposób to wyrażenie danych graficznie i porównanie wzorca zębowo-twarzowego pacjenta z szablonem, bez wykonywania pomiarów."
+ },
+ {
+  "id": "pf-c062-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    202,
+    203
+   ]
+  },
+  "question": "Dlaczego we współczesnej cefalometrii zaleca się wykonywanie zdjęć w naturalnym ustawieniu głowy (NHP)?",
+  "options": {
+   "A": "skraca czas ekspozycji i zmniejsza dawkę promieniowania dla pacjenta",
+   "B": "jest znacznie bardziej powtarzalne niż ustawienie według płaszczyzny frankfurckiej",
+   "C": "pozwala uzyskać rzeczywistą, fizjologiczną poziomą linię odniesienia",
+   "D": "umożliwia rezygnację z wykreślania punktów kostnych na obrysie",
+   "E": "całkowicie eliminuje konieczność stosowania cefalostatu z uchwytami usznymi"
+  },
+  "correct": "C",
+  "explanation": "NHP daje rzeczywistą (fizjologicznie ustaloną) linię poziomą; jest mniej powtarzalne niż orientacja anatomiczna, ale błąd z tego wynikający jest mniejszy niż błąd niewłaściwego zorientowania głowy w przestrzeni."
+ },
+ {
+  "id": "pf-c062-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    202,
+    203
+   ]
+  },
+  "question": "Który czynnik, niezwiązany z przednio-tylnym położeniem szczęk, wpływa na wielkość kąta ANB?",
+  "options": {
+   "A": "kąt nachylenia siekaczy górnych do linii NA",
+   "B": "przednio-tylne położenie punktu nasion",
+   "C": "stopień stłoczenia siekaczy dolnych",
+   "D": "szerokość łuku zębowego na poziomie kłów",
+   "E": "szerokość sklepienia podniebienia twardego"
+  },
+  "correct": "B",
+  "explanation": "Na kąt ANB wpływają dwa czynniki niezwiązane z pozycją przednio-tylną szczęk: pionowa wysokość twarzy oraz przednio-tylne położenie punktu nasion; dlatego ANB jest tylko pośrednim wskaźnikiem dysproporcji szczęk."
+ },
+ {
+  "id": "pf-c062-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    202,
+    203
+   ]
+  },
+  "question": "U pacjenta wykonano cefalogram i stwierdzono, że płaszczyzna SN jest nachylona do rzeczywistej poziomej linii odniesienia pod kątem znacznie przekraczającym 6°. Jak należy postąpić z wynikami analizy Steinera?",
+  "options": {
+   "A": "zastąpić punkt nasion punktem basion w wszystkich wykreślanych kątach",
+   "B": "uznać pomiary za nieprzydatne i powtórzyć zdjęcie w innym cefalostacie",
+   "C": "skorygować wszystkie pomiary oparte na SN o stwierdzoną różnicę",
+   "D": "zastosować pomiary bez zmian, gdyż SN jest niezależna od ustawienia głowy",
+   "E": "odczytać wartości kątów SNA i SNB z tabeli norm dla starszej grupy wiekowej"
+  },
+  "correct": "C",
+  "explanation": "Interpretacja kątów SNA i SNB jest słuszna tylko przy prawidłowym nachyleniu SN do rzeczywistej poziomej; jeśli nachylenie znacznie przekracza 6°, wszystkie pomiary oparte na SN należy skorygować o tę różnicę.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c063-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    204,
+    205
+   ]
+  },
+  "question": "Co opisuje wskaźnik Holdawaya, wykorzystywany w analizie Steinera?",
+  "options": {
+   "A": "nachylenie płaszczyzny zgryzowej do rzeczywistej linii poziomej",
+   "B": "stosunek sumy szerokości zębów górnych do sumy szerokości zębów dolnych",
+   "C": "proporcję przedniej do tylnej wysokości twarzy na cefalogramie bocznym",
+   "D": "różnicę długości szczęki i żuchwy mierzoną od wyrostka kłykciowego",
+   "E": "równowagę między wydatnością bródki a wychyleniem dolnego siekacza"
+  },
+  "correct": "E",
+  "explanation": "Wskaźnik Holdawaya ujmuje relację wydatności pogonion do wychylenia dolnego siekacza: im bardziej wydatna jest bródka, tym bardziej wychylony może być dolny siekacz i odwrotnie."
+ },
+ {
+  "id": "pf-c063-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    204,
+    205
+   ]
+  },
+  "question": "Zgodnie z analizą Sassouniego, jaki układ płaszczyzn poziomych twarzy wskazuje na kostny zgryz otwarty?",
+  "options": {
+   "A": "płaszczyzna podniebienna przebiega równolegle do płaszczyzny zgryzowej",
+   "B": "płaszczyzny są niemal równoległe i przecinają się daleko za profilem",
+   "C": "płaszczyzny przecinają się blisko za profilem i rozbiegają się ku przodowi",
+   "D": "wszystkie płaszczyzny poziome pokrywają się z płaszczyzną frankfurcką",
+   "E": "płaszczyzny przecinają się w punkcie leżącym przed profilem pacjenta"
+  },
+  "correct": "C",
+  "explanation": "Gdy płaszczyzny poziome przecinają się stosunkowo blisko za profilem i rozbiegają ku przodowi, przednia wysokość twarzy jest duża, a tylna mała, co Sassouni określił jako kostny zgryz otwarty."
+ },
+ {
+  "id": "pf-c063-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    204,
+    205
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące analizy Steinera:\n1. Położenie górnego siekacza ocenia się w stosunku do linii NA, mierząc zarówno kąt nachylenia, jak i odległość w milimetrach.\n2. Wydatność bródki ocenia się, mierząc odległość od linii NB do punktu pogonion.\n3. Końcowym pomiarem analizy jest nachylenie płaszczyzny żuchwy do linii SN.\n4. Kompromisy Steinera są uznawane za najlepszy sposób leczenia dużych wad kostnych.",
+  "options": {
+   "A": "tylko 2 i 4",
+   "B": "tylko 1 i 2",
+   "C": "tylko 1, 2 i 3",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 3 i 4"
+  },
+  "correct": "C",
+  "explanation": "Stwierdzenia 1-3 opisują kolejne kroki analizy Steinera. Stwierdzenie 4 jest fałszywe: korygowanie kostnej wady zgryzu samym ruchem zębów nie jest najlepszym podejściem, zwłaszcza przy dużych wadach.",
+  "type": "combined",
+  "core": true
+ },
+ {
+  "id": "pf-c064-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    206,
+    206
+   ]
+  },
+  "question": "Na czym opiera się analiza WITS?",
+  "options": {
+   "A": "na nakładaniu obrysu pacjenta na anatomiczny szablon Boltona dla danego wieku",
+   "B": "na porównaniu długości szczęki i żuchwy mierzonych od wyrostka kłykciowego",
+   "C": "na pomiarze odległości punktu A od linii prostopadłej do płaszczyzny frankfurckiej",
+   "D": "na wykreślaniu łuków z punktu przecięcia płaszczyzn poziomych twarzy",
+   "E": "na rzutowaniu punktów A i B na płaszczyznę zgryzową i pomiarze odległości między rzutami"
+  },
+  "correct": "E",
+  "explanation": "Analiza WITS powstała, by ominąć ograniczenia kąta ANB: rzutuje punkty A i B na płaszczyznę zgryzową i odczytuje liniową odległość między tymi rzutami.",
+  "core": true
+ },
+ {
+  "id": "pf-c064-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    206,
+    206
+   ]
+  },
+  "question": "Czym analiza Harvolda różni się zasadniczo od analizy WITS?",
+  "options": {
+   "A": "na pomiary Harvolda nie ma wpływu ustawienie zębów",
+   "B": "analiza Harvolda ocenia wyłącznie poprzeczne wymiary szczęk",
+   "C": "analiza Harvolda opiera się wyłącznie na pomiarach kątowych",
+   "D": "analiza Harvolda nie wymaga wykonania cefalogramu bocznego",
+   "E": "analiza Harvolda pozwala wskazać, która szczęka odpowiada za wadę"
+  },
+  "correct": "A",
+  "explanation": "Ustawienie zębów nie wpływa na pomiary Harvolda, podczas gdy analiza WITS zależy zarówno od poziomego, jak i pionowego ustawienia zębów, bo warunkuje ono położenie punktów A i B oraz płaszczyzny zgryzowej."
+ },
+ {
+  "id": "pf-c064-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    206,
+    206
+   ]
+  },
+  "question": "Do jakiej struktury odniesienia ocenia się przednio-tylną pozycję szczęki w analizie McNamary?",
+  "options": {
+   "A": "do nasion perpendicular, linii pionowej opuszczonej z nasion prostopadle do płaszczyzny frankfurckiej",
+   "B": "do linii A-pogonion, łączącej przedni zarys szczęki z przednim zarysem bródki",
+   "C": "do czynnościowej płaszczyzny zgryzowej wykreślonej wzdłuż kontaktujących guzków",
+   "D": "do płaszczyzny podniebiennej biegnącej od kolca nosowego przedniego do tylnego",
+   "E": "do linii NA, poprowadzonej od nasion do najbardziej wewnętrznego punktu zarysu szczęki"
+  },
+  "correct": "A",
+  "explanation": "W analizie McNamary szczękę odnosi się do nasion perpendicular - pionowej linii biegnącej z nasion prostopadle do płaszczyzny frankfurckiej; szczęka powinna leżeć na tej linii lub nieco do przodu od niej."
+ },
+ {
+  "id": "pf-c065-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    207,
+    208
+   ]
+  },
+  "question": "Zgodnie z analizą indywidualną Enlowa, kiedy duża przednia wysokość twarzy nie zaburza harmonii twarzy?",
+  "options": {
+   "A": "gdy podstawa czaszki jest wyraźnie wydłużona w wymiarze przednio-tylnym",
+   "B": "gdy tylna wysokość twarzy i gałąź żuchwy są również relatywnie długie",
+   "C": "gdy szerokość łuku zębowego żuchwy przewyższa szerokość łuku szczęki",
+   "D": "gdy szczęka jest zrotowana tylnym odcinkiem do dołu, a kąt żuchwy rozwarty",
+   "E": "gdy siekacze górne są kompensacyjnie przechylone dojęzykowo"
+  },
+  "correct": "B",
+  "explanation": "Enlow podkreślał współzależność wymiarów: duża przednia wysokość twarzy zachowuje prawidłowe proporcje, jeśli tylna wysokość twarzy i gałąź żuchwy są także długie; krótka tylna wysokość twarzy daje tendencję do kostnego zgryzu otwartego."
+ },
+ {
+  "id": "pf-c065-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    207,
+    208
+   ]
+  },
+  "question": "Na czym polega idea zmiennych (płynnych) norm cefalometrycznych?",
+  "options": {
+   "A": "na ocenie współgrania pomiarów ze sobą w obrębie indywidualnego typu twarzy",
+   "B": "na stosowaniu oddzielnych tabel norm dla każdego roku życia pacjenta",
+   "C": "na uśrednianiu wyników z kilku różnych analiz cefalometrycznych naraz",
+   "D": "na porównywaniu pomiarów pacjenta z wartościami jego rodzeństwa",
+   "E": "na przeliczaniu wszystkich pomiarów liniowych na wartości procentowe"
+  },
+  "correct": "A",
+  "explanation": "Zmienne normy wykorzystują współzależności między pomiarami danego typu twarzy: niektóre kombinacje uznaje się za prawidłowe mimo pojedynczego pomiaru poza zakresem, a inne za nieprawidłowe, choć wszystkie pomiary mieszczą się w normie."
+ },
+ {
+  "id": "pf-c065-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    207,
+    208
+   ]
+  },
+  "question": "U pacjenta zarówno szczęka, jak i żuchwa mają prawidłową długość, natomiast podstawa czaszki jest wydłużona. Jakiego wzorca zębowo-twarzowego należy się spodziewać?",
+  "options": {
+   "A": "zgryzu głębokiego z niedostatecznym wyrżnięciem zębów bocznych",
+   "B": "kostnego zgryzu otwartego z rotacją żuchwy do dołu i do tyłu",
+   "C": "retruzji szczęki i doprzedniego ustawienia bródki jak w klasie III",
+   "D": "protruzji szczęki wskutek jej przesunięcia do przodu w stosunku do żuchwy",
+   "E": "obustronnego zgryzu krzyżowego bocznego pochodzenia kostnego"
+  },
+  "correct": "D",
+  "explanation": "W analizie indywidualnej wydłużona podstawa czaszki przy prawidłowej długości obu szczęk przesuwa szczękę do przodu względem żuchwy, dając protruzję szczęki; krótka szczęka mogłaby taką podstawę czaszki skompensować.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c066-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    209,
+    210
+   ]
+  },
+  "question": "Które z wymienionych kryteriów uznano za pożądaną cechę pomiaru cefalometrycznego porównywanego z normami?",
+  "options": {
+   "A": "pomiar powinien być powtarzalny tylko u pacjentów po zakończeniu wzrostu",
+   "B": "pomiar nie powinien zależeć od wymiarów ciała pacjenta, co przemawia za pomiarami kątowymi",
+   "C": "pomiar powinien być liniowy, aby dokładniej odzwierciedlał wielkość struktur",
+   "D": "pomiar powinien opisywać jednocześnie relacje kostne i stan przyzębia",
+   "E": "pomiar powinien być wykonywany wyłącznie na cefalogramie tylno-przednim"
+  },
+  "correct": "B",
+  "explanation": "Do pożądanych cech należy niezależność od wymiarów ciała pacjenta (stąd preferencja pomiarów kątowych nad liniowymi), przydatność kliniczna w różnicowaniu wad kostnych i zębowych oraz niewielka zależność od wieku.",
+  "core": true
+ },
+ {
+  "id": "pf-c066-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    209,
+    210
+   ]
+  },
+  "question": "Który parametr jest podstawą wyboru odpowiedniego szablonu przy analizie za pomocą szablonów?",
+  "options": {
+   "A": "szerokość łuku zębowego szczęki na poziomie pierwszych trzonowców",
+   "B": "wiek chronologiczny pacjenta odczytany wyłącznie z daty urodzenia",
+   "C": "wielkość kąta ANB odczytana z obrysu cefalometrycznego pacjenta",
+   "D": "wysokość dolnego odcinka twarzy mierzona od ANS do menton",
+   "E": "długość przedniego dołu czaszki (odległość SN) z uwzględnieniem wieku rozwojowego"
+  },
+  "correct": "E",
+  "explanation": "Najlepiej wybrać szablon o długości przedniego dołu czaszki (SN) najbardziej zbliżonej do pacjenta, a następnie uwzględnić wiek rozwojowy - szablon starszy przy przyspieszonym, młodszy przy wolniejszym rozwoju."
+ },
+ {
+  "id": "pf-c066-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    209,
+    210
+   ]
+  },
+  "question": "Jaka jest prawidłowa kolejność superimpozycji w analizie za pomocą szablonu?",
+  "options": {
+   "A": "płaszczyzna podniebienna, następnie płaszczyzna frankfurcka, na końcu SN",
+   "B": "podstawa czaszki, następnie zarys szczęki, na końcu dolna granica spojenia żuchwy",
+   "C": "zarys szczęki, następnie podstawa czaszki, na końcu płaszczyzna zgryzowa",
+   "D": "zarys żuchwy, następnie zarys szczęki, na końcu przedni dół czaszki",
+   "E": "dolna granica żuchwy, następnie podstawa czaszki, na końcu zarys szczęki"
+  },
+  "correct": "B",
+  "explanation": "Analiza szablonowa obejmuje kolejno superimpozycję na podstawie czaszki (położenie szczęki i żuchwy wobec czaszki), na zarysie szczęki (zęby górne wobec szczęki) i wzdłuż dolnej granicy spojenia żuchwy (zęby dolne wobec żuchwy)."
+ },
+ {
+  "id": "pf-c067-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    211,
+    212
+   ]
+  },
+  "question": "Co stanowiło podstawę oryginalnej klasyfikacji wad zgryzu według Angle'a?",
+  "options": {
+   "A": "proporcje pionowe twarzy i nachylenie płaszczyzny żuchwy do podstawy czaszki",
+   "B": "stopień stłoczenia siekaczy dolnych i symetria łuków zębowych",
+   "C": "wzajemne położenie pierwszych trzonowców oraz uszeregowanie zębów wobec linii zgryzu",
+   "D": "stosunek długości szczęki do długości żuchwy mierzony na cefalogramie",
+   "E": "wielkość nagryzu pionowego i poziomego oceniana na modelach diagnostycznych"
+  },
+  "correct": "C",
+  "explanation": "Angle oparł klasyfikację na wzajemnym położeniu pierwszych trzonowców i na uszeregowaniu (lub jego braku) zębów w stosunku do linii zgryzu, wyróżniając zgryz prawidłowy oraz wady klasy I, II i III.",
+  "core": true
+ },
+ {
+  "id": "pf-c067-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    211,
+    212
+   ]
+  },
+  "question": "Od jakiego kroku powinno się rozpoczynać współczesną analizę cefalometryczną, niezależnie od dalszego postępowania?",
+  "options": {
+   "A": "od wyznaczenia porionu maszynowego i wykreślenia płaszczyzny frankfurckiej",
+   "B": "od nałożenia szablonu Boltona wzdłuż dolnej granicy spojenia żuchwy",
+   "C": "od narysowania płaszczyzn poziomych Sassouniego i zbadania zależności między nimi",
+   "D": "od obliczenia kąta ANB i porównania go z normą dla wieku pacjenta",
+   "E": "od pomiaru długości szczęki i żuchwy według metody Harvolda"
+  },
+  "correct": "C",
+  "explanation": "Podstawą rozpoczęcia analizy jest wykreślenie płaszczyzn poziomych Sassouniego - ten prosty krok ujawnia rotacje szczęki i żuchwy oraz uwidacznia proporcje pionowe, dopiero potem ocenia się relacje przednio-tylne."
+ },
+ {
+  "id": "pf-c067-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    211,
+    212
+   ]
+  },
+  "question": "Jak zdefiniowano wzorzec wzrostu klasy II po rozszerzeniu klasyfikacji Angle'a?",
+  "options": {
+   "A": "jako zrównoważony doprzedni wzrost żuchwy",
+   "B": "jako kierunek wzrostu żuchwy do dołu i do tyłu",
+   "C": "jako wzrost szczęki do dołu w odcinkach tylnych",
+   "D": "jako nieproporcjonalny doprzedni wzrost żuchwy",
+   "E": "jako zahamowanie wzrostu poprzecznego szczęki"
+  },
+  "correct": "B",
+  "explanation": "Wzorzec wzrostu klasy II to wzrost żuchwy do dołu i do tyłu, mogący doprowadzić do stosunków klasy II między szczękami i na trzonowcach; klasa I to zrównoważony, a klasa III nieproporcjonalny doprzedni wzrost żuchwy."
+ },
+ {
+  "id": "pf-c068-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    213,
+    214
+   ]
+  },
+  "question": "Czym jest estetyczna linia uzębienia w nowoczesnej analizie ortodontycznej?",
+  "options": {
+   "A": "linią łączącą kąty ust ocenianą podczas swobodnego uśmiechu",
+   "B": "linią łączącą policzkowe guzki zębów bocznych łuku żuchwy",
+   "C": "linią przechodzącą przez bruzdy centralne zębów bocznych łuku szczęki",
+   "D": "linią wyznaczoną przez brzegi sieczne siekaczy dolnych w spoczynku",
+   "E": "linią biegnącą wzdłuż przedsionkowych powierzchni zębów przednich i bocznych szczęki"
+  },
+  "correct": "E",
+  "explanation": "Estetyczna linia uzębienia przebiega wzdłuż przedsionkowych powierzchni zębów przednich i bocznych szczęki i służy ocenie eksponowania zębów, w odróżnieniu od linii zgryzowej Angle'a, niewidocznej przy zwarciu zębów."
+ },
+ {
+  "id": "pf-c068-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    213,
+    214
+   ]
+  },
+  "question": "Do jakiej struktury odnosi się poprzeczną orientację estetycznej linii uzębienia (przechylenie, roll) w badaniu klinicznym tkanek miękkich?",
+  "options": {
+   "A": "do linii łączącej oczy pacjenta",
+   "B": "do linii łączącej kąty ust",
+   "C": "do rzeczywistej linii poziomej",
+   "D": "do płaszczyzny podniebiennej",
+   "E": "do linii pośrodkowej twarzy"
+  },
+  "correct": "B",
+  "explanation": "Odniesieniem dla oceny stosunku linii estetycznej do tkanek miękkich jest linia łącząca kąty ust; stosunek uzębienia do szkieletu twarzy rozpatruje się natomiast wobec linii łączącej oczy."
+ },
+ {
+  "id": "pf-c068-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    213,
+    214
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące klasyfikacji Ackermana i Proffita:\n1. Włączono do niej ocenę stłoczenia i asymetrii w łukach zębowych oraz protruzji siekaczy.\n2. Uwzględnia analizę w stosunku do płaszczyzny poprzecznej, pionowej i przednio-tylnej.\n3. Wyróżniono w niej pięć głównych cech charakterystycznych wady zgryzu.\n4. Całkowicie zastąpiła ona klasyfikację Angle'a, która straciła znaczenie kliniczne.",
+  "options": {
+   "A": "tylko 2 i 4",
+   "B": "tylko 3 i 4",
+   "C": "tylko 1, 2 i 3",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 1 i 3"
+  },
+  "correct": "C",
+  "explanation": "Ackerman i Proffit sformalizowali dodatki do schematu Angle'a, wyróżniając pięć głównych cech wady zgryzu i włączając ocenę stłoczenia, asymetrii, protruzji oraz wszystkich trzech płaszczyzn przestrzennych. Klasyfikacja Angle'a pozostaje jednak nadal ważna.",
+  "type": "combined",
+  "core": true
+ },
+ {
+  "id": "pf-c069-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    215,
+    217
+   ]
+  },
+  "question": "Jaki jest typowy skutek zbaczania (yaw) szczęki lub zębów, oprócz zaburzenia linii pośrodkowej?",
+  "options": {
+   "A": "jednostronna klasa II lub III na trzonowcach",
+   "B": "równomierne zwężenie obu łuków zębowych",
+   "C": "symetryczne pogłębienie nagryzu pionowego",
+   "D": "obustronny zgryz otwarty w odcinkach bocznych",
+   "E": "nadmierne wyrżnięcie wszystkich zębów przednich"
+  },
+  "correct": "A",
+  "explanation": "Efektem yaw, poza przesunięciem linii pośrodkowej, jest jednostronna klasa II lub III na trzonowcach; skrajnie nasilone zbaczanie daje zgryz krzyżowy po jednej stronie i przewieszony po drugiej."
+ },
+ {
+  "id": "pf-c069-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    215,
+    217
+   ]
+  },
+  "question": "Z czym należy różnicować przesunięcie linii pośrodkowej wynikające z przemieszczenia siekaczy z powodu stłoczenia?",
+  "options": {
+   "A": "z kompensacyjnym wychyleniem siekaczy przy klasie II kostnej",
+   "B": "z nadmiernym wyrżnięciem zębów bocznych w szczęce",
+   "C": "z rotacją yaw, która skręca cały łuk zębowy na jedną stronę",
+   "D": "z przechyleniem roll uzębienia wobec linii łączącej kąty ust",
+   "E": "z rotacją pitch przedniego odcinka uzębienia szczęki do dołu"
+  },
+  "correct": "C",
+  "explanation": "Przesunięcie linii pośrodkowej może wynikać z przemieszczenia siekaczy przy stłoczeniu i trzeba je odróżnić od prawdziwego yaw, który powoduje skręcenie całego łuku zębowego na jedną stronę."
+ },
+ {
+  "id": "pf-c069-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    215,
+    217
+   ]
+  },
+  "question": "U pacjentki podczas uśmiechu estetyczna linia uzębienia w odcinku przednim jest niemal całkowicie przykryta dolną wargą. Jakiej nieprawidłowości zgryzu zwykle towarzyszy taki obraz?",
+  "options": {
+   "A": "zgryzowi głębokiemu przedniemu",
+   "B": "zgryzowi otwartemu bocznemu",
+   "C": "zgryzowi otwartemu przedniemu",
+   "D": "obustronnemu zgryzowi przewieszonemu",
+   "E": "jednostronnemu zgryzowi krzyżowemu"
+  },
+  "correct": "A",
+  "explanation": "Rotacja pitch przednich zębów do dołu, powodująca przykrycie estetycznej linii uzębienia dolną wargą podczas uśmiechu, jest zazwyczaj skojarzona ze zgryzem głębokim przednim.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c070-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    218,
+    219
+   ]
+  },
+  "question": "Zgodnie z przyjętą terminologią, w odniesieniu do pozycji których zębów opisuje się boczny zgryz krzyżowy?",
+  "options": {
+   "A": "trzonowców żuchwy",
+   "B": "trzonowców szczęki",
+   "C": "kłów szczęki",
+   "D": "siekaczy przyśrodkowych",
+   "E": "przedtrzonowców żuchwy"
+  },
+  "correct": "B",
+  "explanation": "Zgryz krzyżowy boczny opisuje się jako pozycję górnych trzonowców, np. obustronny zgryz krzyżowy oznacza, że górne trzonowce są ustawione językowo wobec pozycji prawidłowej; osobno opisuje się zgryz krzyżowy w żuchwie."
+ },
+ {
+  "id": "pf-c070-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    218,
+    219
+   ]
+  },
+  "question": "U 11-letniego pacjenta z obustronnym zgryzem krzyżowym bocznym analiza modeli wykazała szerokie sklepienie podniebienia przy wyrostku zębodołowym nachylonym do wewnątrz. Jakie jest pochodzenie tej wady?",
+  "options": {
+   "A": "zębowe, spowodowane nachyleniem łuku zębowego",
+   "B": "kostne, będące skutkiem zbaczania (yaw) szczęki",
+   "C": "kostne, wynikające z nadmiernie szerokiej żuchwy",
+   "D": "zębowe, spowodowane przedwczesną utratą trzonowców mlecznych",
+   "E": "kostne, wynikające ze zbyt wąskiej szczęki"
+  },
+  "correct": "A",
+  "explanation": "Szerokie sklepienie podniebienia przy wyrostku zębodołowym nachylonym do wewnątrz wskazuje na zgryz krzyżowy pochodzenia zębowego; wąskie sklepienie mimo wychylonych na zewnątrz zębów świadczy o zbyt wąskiej szczęce.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c070-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    218,
+    219
+   ]
+  },
+  "question": "Co najczęściej odzwierciedlają asymetryczne stosunki na trzonowcach (klasa II po jednej, klasa I po drugiej stronie)?",
+  "options": {
+   "A": "niedostateczne wyrżnięcie siekaczy dolnych i zgryz głęboki",
+   "B": "nadmierne wyrżnięcie zębów bocznych w łuku szczęki",
+   "C": "asymetrię łuku zębowego lub zbaczanie (yaw) szczęki albo zębów",
+   "D": "zaburzenie proporcji przedniej i tylnej wysokości twarzy",
+   "E": "rotację pitch płaszczyzny podniebiennej do dołu w odcinku tylnym"
+  },
+  "correct": "C",
+  "explanation": "Asymetryczne relacje na trzonowcach wynikają albo z asymetrii jednego lub obu łuków zębowych (zwykle po utracie miejsca wskutek przedwczesnej utraty trzonowca mlecznego), albo ze zbaczania yaw szczęki lub zębów."
+ },
+ {
+  "id": "pf-c071-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    220,
+    222
+   ]
+  },
+  "question": "Który zestaw cech charakteryzuje pacjenta z kostnym zgryzem otwartym, określanym jako zespół długiej twarzy?",
+  "options": {
+   "A": "zwężenie szczęki z obustronnym zgryzem krzyżowym w odcinkach bocznych",
+   "B": "nadmierne wyrżnięcie siekaczy dolnych i mały kąt płaszczyzny żuchwy",
+   "C": "zbaczanie yaw łuku szczęki z przesunięciem zębowej linii pośrodkowej",
+   "D": "niedostateczne wyrżnięcie zębów bocznych i doprzednia rotacja żuchwy",
+   "E": "nadmierne wyrżnięcie zębów bocznych i dotylna rotacja szczęki oraz żuchwy"
+  },
+  "correct": "E",
+  "explanation": "U pacjenta z kostnym zgryzem otwartym występuje zwykle zgryz otwarty przedni z nadmiernym wyrżnięciem zębów bocznych, dotylną rotacją żuchwy i szczęki oraz prawidłowym lub nadmiernym wyrżnięciem zębów przednich.",
+  "core": true
+ },
+ {
+  "id": "pf-c071-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    220,
+    222
+   ]
+  },
+  "question": "Na co wskazuje mały kąt między płaszczyzną podniebienną a płaszczyzną żuchwy?",
+  "options": {
+   "A": "na tendencję do kostnego zgryzu otwartego",
+   "B": "na tendencję do kostnego zgryzu głębokiego",
+   "C": "na asymetryczny wzrost gałęzi żuchwy",
+   "D": "na nadmierny doprzedni wzrost żuchwy",
+   "E": "na niedobór poprzecznego wymiaru szczęki"
+  },
+  "correct": "B",
+  "explanation": "Mały kąt między płaszczyzną podniebienną a płaszczyzną żuchwy oznacza tendencję do kostnego zgryzu głębokiego, czyli stosunek szczęk predysponujący do zgryzu głębokiego przedniego; duży kąt wskazuje na tendencję przeciwną."
+ },
+ {
+  "id": "pf-c071-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    220,
+    222
+   ]
+  },
+  "question": "Jak należy formułować pozycje na liście problemów ortodontycznych pacjenta?",
+  "options": {
+   "A": "wymieniać wyłącznie pomiary cefalometryczne odbiegające od normy",
+   "B": "opisywać objawy szczegółowo, unikając ich grupowania w kategorie",
+   "C": "ograniczać listę do najwyżej pięciu pojedynczych nieprawidłowości",
+   "D": "wskazywać problemy rozwojowe, a nie wynikające z nich objawy",
+   "E": "umieszczać problemy rozwojowe przed rozpoznanymi procesami chorobowymi"
+  },
+  "correct": "D",
+  "explanation": "Na liście problemów należy wskazywać problemy rozwojowe (np. niedobór wzrostu żuchwy), a nie objawy z nich wynikające (np. powiększony kąt ANB czy wypukłość twarzy), grupując objawy jednej nieprawidłowości razem."
+ },
+ {
+  "id": "pf-c072-001",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    223,
+    226
+   ]
+  },
+  "question": "U 12-letniej pacjentki F.R. stwierdzono klasę II na trzonowcach i kostną klasę II, a mimo to nagryz poziomy jest prawidłowy (niewielki). Co tłumaczy taki obraz kliniczny?",
+  "options": {
+   "A": "szparowatość w przednim odcinku żuchwy",
+   "B": "zbaczanie yaw łuku zębowego szczęki w lewo",
+   "C": "zwężenie łuku zębowego szczęki w odcinku bocznym",
+   "D": "dojęzykowe przechylenie siekaczy szczęki",
+   "E": "nadmierne wyrżnięcie siekaczy dolnych"
+  },
+  "correct": "D",
+  "explanation": "Siekacze szczęki u tej pacjentki są przechylone dojęzykowo, co skutkuje prawidłowym nagryzem poziomym mimo kostnej klasy II i klasy II na trzonowcach.",
+  "type": "clinical",
+  "core": true
+ },
+ {
+  "id": "pf-c072-002",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    223,
+    226
+   ]
+  },
+  "question": "Co uznano za podstawową przyczynę zgryzu głębokiego u pacjentki F.R.?",
+  "options": {
+   "A": "przerost dziąseł w przednim odcinku szczęki",
+   "B": "doprzednią rotację przedniego odcinka szczęki",
+   "C": "nadmierne wyrżnięcie siekaczy dolnych",
+   "D": "nadmierne wyrżnięcie trzonowców szczęki",
+   "E": "znaczne wydłużenie dolnej 1/3 twarzy"
+  },
+  "correct": "C",
+  "explanation": "W analizie obrysu cefalometrycznego stwierdzono, że niedobór wielkości żuchwy jest główną przyczyną wady klasy II, a podstawowym powodem zgryzu głębokiego jest nadmierne wyrżnięcie siekaczy dolnych."
+ },
+ {
+  "id": "pf-c072-003",
+  "source": {
+   "book": "Proffit",
+   "pages": [
+    223,
+    226
+   ]
+  },
+  "question": "Która część dokumentacji fotograficznej najlepiej uwidacznia krótkie korony kliniczne i niewielkie ukazywanie dziąseł podczas uśmiechu?",
+  "options": {
+   "A": "zdjęcie zgryzowe łuku zębowego szczęki",
+   "B": "zbliżenie uśmiechu w widoku skośnym",
+   "C": "zdjęcie wewnątrzustne łuków w zwarciu",
+   "D": "pantomogram wykonany przed leczeniem",
+   "E": "fotografia profilu twarzy w spoczynku"
+  },
+  "correct": "B",
+  "explanation": "Zbliżenia uśmiechu są cenną częścią dokumentacji, gdy wygląd zębów i twarzy jest istotny dla planu leczenia; skośny widok uśmiechu pozwala doskonale uwidocznić krótkie korony kliniczne i brak ukazywania dziąseł."
+ },
+ {
   "id": "pk-c001-001",
   "source": {
    "book": "PedoKompendium",

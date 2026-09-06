@@ -20,6 +20,7 @@ const BOOKS = [
   ["GorskaBlony", "Górska — błona śluzowa"],
   ["Ortodoncja", "Karłowska — ortodoncja"],
   ["PedoKompendium", "Olczak-Kowalczyk — kompendium PEDO"],
+  ["Proffit", "Proffit — ortodoncja współczesna, t. 1"],
 ];
 
 let questions = [];

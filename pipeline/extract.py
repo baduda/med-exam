@@ -22,7 +22,7 @@ import fitz  # pymupdf
 # Allow running as a script (`python pipeline/extract.py`) as well as a module.
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from pipeline.books import lookup, mode
-from pipeline.scan import scan_book
+from pipeline.scan import load_pagemap, scan_book
 
 BOOKS_DIR = Path("books")
 OUT_DIR = Path("data/text")
@@ -44,15 +44,25 @@ def dehyphenate(text: str) -> str:
     return re.sub(r"[ \t]+", " ", text).strip()
 
 
-def extract_book(pdf_path: Path, book: str, page_offset: int = 0) -> dict:
+def extract_book(pdf_path: Path, book: str, page_offset: int = 0,
+                 pagemap: dict[int, int] | None = None) -> dict:
     """Return {"book": "Tom2", "pages": [{"page": 1, "text": "..."}, ...]}.
 
     `page_offset` shifts the PDF page number onto the book's printed numbering
     (Górska's mucosa scan opens with 13 unnumbered front-matter pages, so its
     offset is -13). Pages that fall below 1 are that front matter and are
     dropped rather than cited under a made-up number.
+
+    A `pagemap` replaces the offset when one constant will not do: it numbers
+    only the PDF pages it lists, and every other page is dropped. Proffit needs
+    both halves of that — its offset changes mid-book, and only four of its
+    chapters are wanted (see AGENTS.md).
     """
     doc = fitz.open(pdf_path)
+    if pagemap is not None:
+        pages = [{"page": n, "text": dehyphenate(doc[i - 1].get_text())}
+                 for i, n in sorted(pagemap.items())]
+        return {"book": book, "pages": pages}
     pages = [{"page": i + 1 + page_offset, "text": dehyphenate(doc[i].get_text())}
              for i in range(doc.page_count)]
     return {"book": book, "pages": [p for p in pages if p["page"] >= 1]}
@@ -127,7 +137,8 @@ def main() -> None:
                              entry.get("gutter_split", False))
             kind = f"{len(data['pages'])} pages OCR'd"
         else:
-            data = extract_book(pdf, entry["book"], entry.get("page_offset", 0))
+            pagemap = load_pagemap(entry["book_id"])[0] if entry.get("page_map") else None
+            data = extract_book(pdf, entry["book"], entry.get("page_offset", 0), pagemap)
             kind = f"{sum(1 for p in data['pages'] if p['text'])} of " \
                    f"{len(data['pages'])} pages with text"
         out = OUT_DIR / f"{data['book']}.json"

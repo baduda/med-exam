@@ -13,6 +13,10 @@ explicit mapping, so every source PDF is declared here instead of guessed.
 - `mode`     — how `extract.py` gets the text out. See below.
 - `gutter_split` — for a `scan` book bound off-centre: cut each spread at the
                detected binding shadow instead of the midpoint (see scan.py).
+- `page_map` — number the pages from data/pagemap/<book_id>.json instead of by a
+               constant offset, and ingest only the pages it lists. For a book
+               whose offset changes mid-way, or of which only some chapters are
+               wanted (Proffit).
 - `page_offset` — added to the 1-based PDF page to get the *printed* page. Only
                needed when the scan carries front matter the printed numbering
                does not count (Górska's mucosa book: pdf 14 prints as page 1, so
@@ -65,6 +69,9 @@ BOOKS = (
     {"pattern": "Zarys*ortodoncji.pdf", "book_id": "or", "book": "Ortodoncja",
      "label": "Karłowska — zarys współczesnej ortodoncji", "domain": "ortodoncja",
      "mode": "scan", "gutter_split": True},
+    {"pattern": "Ortodoncja Wsp*Profitt.pdf", "book_id": "pf", "book": "Proffit",
+     "label": "Proffit — ortodoncja współczesna, tom 1", "domain": "ortodoncja",
+     "page_map": True},
     {"pattern": "PEDO_Kompendium*.pdf", "book_id": "pk", "book": "PedoKompendium",
      "label": "Olczak-Kowalczyk — kompendium stomatologii wieku rozwojowego",
      "domain": "pedodoncja", "mode": "scan"},
