@@ -9,7 +9,7 @@ doctors for the Polish medical verification exam (nostryfikacja / LDEW). Two par
 a build pipeline that turns PDFs into `data/questions.json`, and a static web app
 that serves the quiz.
 
-Eleven source books across six domains, declared in `pipeline/books.py`:
+Twelve source books across seven domains, declared in `pipeline/books.py`:
 
 | book_id | `source.book` | Title | Domain |
 |---|---|---|---|
@@ -22,6 +22,7 @@ Eleven source books across six domains, declared in `pipeline/books.py`:
 | `dj` | `Dejak` | Dejak, *Vademecum wykonywania protez stałych i ruchomych* | protetyka |
 | `ok` | `Olczak` | Olczak-Kowalczyk (red.), *Współczesna stomatologia wieku rozwojowego* (2017) | pedodoncja |
 | `bs` | `GorskaBlony` | Górska (red.), *Choroby błony śluzowej jamy ustnej* | błona śluzowa |
+| `or` | `Ortodoncja` | Karłowska (red.), *Zarys współczesnej ortodoncji* | ortodoncja |
 
 The web app lets the user practise any combination of books.
 
@@ -148,6 +149,21 @@ per *spread* — a single PDF page holds two facing book pages. Tesseract reads 
 ~0.4% garbled tokens once each spread is cut in half and rendered at 400 dpi. Such a
 book is declared `"mode": "scan"`, and `scan.py` does the split + OCR from
 `extract.py`; after that it is an ordinary text book.
+
+**Spread OCR, bound off-centre (Zarys współczesnej ortodoncji).** Another
+text-less spread scan, 0.7% garbled tokens. Two things differ from the Górska
+LDEK scan, and both are declared in the registry:
+
+- Its binding shadow sits at ~0.52 of the page width and one page's text starts
+  at 0.486, so a midpoint clip eats into the right-hand page. `gutter_split: true`
+  makes `scan.py` cut at the darkest column band instead (the shadow is by far the
+  strongest peak in the ink profile).
+- Its numbering is *nearly* a formula — `left = 2 * spread`, but two spreads (55
+  and 60) are second captures of the ones before them, and each duplicate shifts
+  everything after it by two pages. The map in `data/pagemap/or.json` records that,
+  and the tail (spreads 197-205, a photo insert plus the skorowidz) is left out.
+  The two breaks were found by OCR-ing the outer bottom corner of every half: 154
+  spreads carry a readable printed number and none contradicts the map.
 
 Two traps this scan taught us, both recorded in `scan.py`:
 

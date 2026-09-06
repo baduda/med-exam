@@ -28,6 +28,7 @@ import sys
 from pathlib import Path
 
 import fitz  # pymupdf
+import numpy as np
 
 # Allow running as a script as well as a module.
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
@@ -44,11 +45,30 @@ def load_pagemap(book_id: str) -> dict[int, int]:
     return {int(k): v for k, v in raw["spreads"].items()}
 
 
-def halves(page: fitz.Page) -> list[fitz.Rect]:
-    """Left and right halves of a spread."""
+def gutter(page: fitz.Page) -> float:
+    """Fraction of the page width where the binding shadow runs.
+
+    The ortodoncja scan is bound off-centre: its gutter sits at ~0.52 of the
+    width, and one page's text starts at 0.486 — so a midpoint clip cuts into
+    the right-hand page. The shadow is by far the darkest column band, so it is
+    found by looking for the peak of the ink profile in the middle fifth of the
+    page. Detection outside 0.48-0.56 is not believed and the midpoint is used.
+    """
+    pix = page.get_pixmap(dpi=100, colorspace=fitz.csGRAY)
+    grey = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.height, pix.width)
+    ink = 255 - grey.mean(axis=0)
+    lo, hi = int(0.40 * pix.width), int(0.60 * pix.width)
+    x = (lo + int(np.argmax(ink[lo:hi]))) / pix.width
+    return x if 0.48 < x < 0.56 else 0.5
+
+
+def halves(page: fitz.Page, find_gutter: bool = False) -> list[fitz.Rect]:
+    """Left and right halves of a spread, cut at the midpoint or the gutter."""
     r = page.rect
-    mid = r.width / 2
-    return [fitz.Rect(0, 0, mid, r.height), fitz.Rect(mid, 0, r.width, r.height)]
+    mid = (gutter(page) if find_gutter else 0.5) * r.width
+    margin = 0.004 * r.width if find_gutter else 0
+    return [fitz.Rect(0, 0, mid - margin, r.height),
+            fitz.Rect(mid + margin, 0, r.width, r.height)]
 
 
 def ocr(image: Path) -> str:
@@ -63,7 +83,8 @@ def ocr(image: Path) -> str:
     return out.stdout
 
 
-def scan_book(pdf_path: Path, book: str, book_id: str, dehyphenate) -> dict:
+def scan_book(pdf_path: Path, book: str, book_id: str, dehyphenate,
+              find_gutter: bool = False) -> dict:
     """OCR every mapped spread half; same shape as extract.extract_book()."""
     pagemap = load_pagemap(book_id)
     out_dir = IMAGE_DIR / book_id
@@ -72,7 +93,7 @@ def scan_book(pdf_path: Path, book: str, book_id: str, dehyphenate) -> dict:
     pages = []
     for spread, first_page in sorted(pagemap.items()):
         src = doc[spread - 1]
-        for offset, clip in enumerate(halves(src)):
+        for offset, clip in enumerate(halves(src, find_gutter)):
             number = first_page + offset
             img = out_dir / f"p{number:03d}.png"
             if not img.exists():   # rendering + OCR of 220 pages is slow

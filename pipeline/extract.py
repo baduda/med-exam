@@ -123,7 +123,8 @@ def main() -> None:
             kind = f"{len(data['pages'])} spreads -> printed pages " \
                    f"{data['pages'][0]['page']}-{data['pages'][-1]['page'] + 1}"
         elif mode(entry) == "scan":
-            data = scan_book(pdf, entry["book"], entry["book_id"], dehyphenate)
+            data = scan_book(pdf, entry["book"], entry["book_id"], dehyphenate,
+                             entry.get("gutter_split", False))
             kind = f"{len(data['pages'])} pages OCR'd from spreads"
         else:
             data = extract_book(pdf, entry["book"], entry.get("page_offset", 0))

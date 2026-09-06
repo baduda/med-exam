@@ -11,6 +11,8 @@ explicit mapping, so every source PDF is declared here instead of guessed.
 - `label`    — Polish display name for the web app's book filter.
 - `domain`   — broad exam area, used to group books in the UI.
 - `mode`     — how `extract.py` gets the text out. See below.
+- `gutter_split` — for a `scan` book bound off-centre: cut each spread at the
+               detected binding shadow instead of the midpoint (see scan.py).
 - `page_offset` — added to the 1-based PDF page to get the *printed* page. Only
                needed when the scan carries front matter the printed numbering
                does not count (Górska's mucosa book: pdf 14 prints as page 1, so
@@ -60,6 +62,9 @@ BOOKS = (
     {"pattern": "Gorska_blony_ocr.pdf", "book_id": "bs", "book": "GorskaBlony",
      "label": "Górska — choroby błony śluzowej", "domain": "błona śluzowa",
      "page_offset": -13},
+    {"pattern": "Zarys*ortodoncji.pdf", "book_id": "or", "book": "Ortodoncja",
+     "label": "Karłowska — zarys współczesnej ortodoncji", "domain": "ortodoncja",
+     "mode": "scan", "gutter_split": True},
     {"pattern": "*WIEKU_ROZWOJOWEGO*.pdf", "book_id": "ok", "book": "Olczak",
      "label": "Olczak-Kowalczyk — stomatologia wieku rozwojowego", "domain": "pedodoncja"},
 )
