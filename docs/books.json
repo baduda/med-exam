@@ -1,0 +1,72 @@
+[
+ {
+  "book": "Tom1",
+  "label": "Rahnama, tom 1",
+  "domain": "chirurgia"
+ },
+ {
+  "book": "Tom2",
+  "label": "Rahnama, tom 2",
+  "domain": "chirurgia"
+ },
+ {
+  "book": "Tom3",
+  "label": "Rahnama, tom 3",
+  "domain": "chirurgia"
+ },
+ {
+  "book": "Janczuk",
+  "label": "Jańczuk — stomatologia zachowawcza",
+  "domain": "zachowawcza"
+ },
+ {
+  "book": "Arabska",
+  "label": "Arabska-Przedpełska — endodoncja",
+  "domain": "zachowawcza"
+ },
+ {
+  "book": "Gorska",
+  "label": "Górska — periodontologia",
+  "domain": "periodontologia"
+ },
+ {
+  "book": "GorskaLDEK",
+  "label": "Górska — periodontologia (LDEK 2022)",
+  "domain": "periodontologia"
+ },
+ {
+  "book": "Majewski",
+  "label": "Majewski — protetyka stomatologiczna",
+  "domain": "protetyka"
+ },
+ {
+  "book": "Dejak",
+  "label": "Dejak — vademecum protetyczne",
+  "domain": "protetyka"
+ },
+ {
+  "book": "GorskaBlony",
+  "label": "Górska — choroby błony śluzowej",
+  "domain": "błona śluzowa"
+ },
+ {
+  "book": "Ortodoncja",
+  "label": "Karłowska — zarys współczesnej ortodoncji",
+  "domain": "ortodoncja"
+ },
+ {
+  "book": "Proffit",
+  "label": "Proffit — ortodoncja współczesna, tom 1",
+  "domain": "ortodoncja"
+ },
+ {
+  "book": "PedoKompendium",
+  "label": "Olczak-Kowalczyk — kompendium stomatologii wieku rozwojowego",
+  "domain": "pedodoncja"
+ },
+ {
+  "book": "Olczak",
+  "label": "Olczak-Kowalczyk — stomatologia wieku rozwojowego",
+  "domain": "pedodoncja"
+ }
+]

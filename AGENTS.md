@@ -47,7 +47,8 @@ The web app lets the user practise any combination of books.
   tracks progress; `core_curated.json` holds the frozen hand-ranked LDEK picks and
   `core.json` the generated subset; `questions.json` is the committed final product.
 - `docs/` — static site (GitHub Pages serves this directory). Ships its own copy of
-  `questions.json`.
+  `questions.json`, plus `books.json` (display names and domains, written by
+  `assemble.py` from the registry).
 - `docs/superpowers/specs/` — design spec. Read it before changing architecture.
 
 ## How generation works (no API key)
@@ -247,7 +248,9 @@ Serve the app locally: `python -m http.server -d docs 8000` then open localhost:
 
 - Python 3.11, standard style; keep pipeline scripts small and single-purpose.
 - Vanilla JS web app in `docs/` — **no build step, no framework** (GitHub Pages
-  serves it raw). Adding a book means one row in `BOOKS` in `docs/app.js`.
+  serves it raw). Adding a book means one row in `pipeline/books.py` and nothing
+  else: `assemble.py` writes `docs/books.json` from the registry, and the app
+  reads its labels, order and domain grouping from there.
 - IDs: `<book_id>-c{NNN}-{NNN}` (book, chunk, running number) — e.g. `jz-c100-002`.
   Book ids come from `pipeline/books.py`; never derive them from the filename.
 - Don't add: backend, exam/timed mode, LLM review pass — out of scope for v1.

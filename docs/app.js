@@ -5,23 +5,11 @@ const BOOKS_KEY = "med-exam-books";
 const LETTERS = ["A", "B", "C", "D", "E"];
 const el = (id) => document.getElementById(id);
 
-// Display order and Polish labels for source.book values (see pipeline/books.py).
-const BOOKS = [
-  ["Tom1", "Rahnama, tom 1"],
-  ["Tom2", "Rahnama, tom 2"],
-  ["Tom3", "Rahnama, tom 3"],
-  ["Janczuk", "Jańczuk — zachowawcza"],
-  ["Arabska", "Arabska — endodoncja"],
-  ["Gorska", "Górska — periodontologia"],
-  ["GorskaLDEK", "Górska — periodontologia (LDEK 2022)"],
-  ["Majewski", "Majewski — protetyka"],
-  ["Dejak", "Dejak — vademecum protetyczne"],
-  ["Olczak", "Olczak-Kowalczyk — wiek rozwojowy"],
-  ["GorskaBlony", "Górska — błona śluzowa"],
-  ["Ortodoncja", "Karłowska — ortodoncja"],
-  ["PedoKompendium", "Olczak-Kowalczyk — kompendium PEDO"],
-  ["Proffit", "Proffit — ortodoncja współczesna, t. 1"],
-];
+// Display order, Polish labels and domains for source.book values. Written by
+// pipeline/assemble.py from the registry in pipeline/books.py — the app does not
+// keep its own copy, so adding a book means editing the registry only.
+let books = [];
+let labelOf = {};
 
 let questions = [];
 let queue = [];
@@ -30,7 +18,7 @@ let answered = 0;
 let correct = 0;
 
 const loadProgress = () =>
-  JSON.parse(localStorage.getItem(KEY) || '{"done":[],"correct":0,"answered":0}');
+  JSON.parse(localStorage.getItem(KEY) || '{"correct":0,"answered":0}');
 const saveProgress = (s) => localStorage.setItem(KEY, JSON.stringify(s));
 
 function shuffle(a) {
@@ -46,27 +34,44 @@ const selectedBooks = () =>
   new Set(bookBoxes().filter((b) => b.checked).map((b) => b.value));
 
 function renderBooks() {
-  const present = BOOKS.filter(([book]) =>
-    questions.some((q) => q.source.book === book));
+  const counts = {};
+  for (const q of questions) counts[q.source.book] = (counts[q.source.book] || 0) + 1;
   const saved = JSON.parse(localStorage.getItem(BOOKS_KEY) || "null");
-  el("books").innerHTML = "";
-  for (const [book, label] of present) {
-    const count = questions.filter((q) => q.source.book === book).length;
-    const id = `book-${book}`;
-    const wrap = document.createElement("label");
-    wrap.className = "check";
-    wrap.htmlFor = id;
-    const box = document.createElement("input");
-    box.type = "checkbox";
-    box.id = id;
-    box.value = book;
-    box.checked = saved ? saved.includes(book) : true;
-    box.onchange = onBooksChange;
-    wrap.append(box, document.createTextNode(`${label} (${count})`));
-    el("books").appendChild(wrap);
+  const host = el("books");
+  host.innerHTML = "";
+
+  // Group by domain, keeping the registry's order both of domains and of the
+  // books inside one — a registry that interleaves domains must not produce the
+  // same heading twice.
+  const byDomain = new Map();
+  for (const b of books.filter((b) => counts[b.book])) {
+    if (!byDomain.has(b.domain)) byDomain.set(b.domain, []);
+    byDomain.get(b.domain).push(b);
+  }
+  for (const [domain, group] of byDomain) {
+    const head = document.createElement("p");
+    head.className = "domain";
+    head.textContent = domain;
+    host.appendChild(head);
+    for (const b of group) host.appendChild(bookRow(b, counts[b.book], saved));
   }
   // A saved selection can leave nothing checked if a book later disappears.
   if (!selectedBooks().size) bookBoxes().forEach((b) => (b.checked = true));
+}
+
+function bookRow(b, count, saved) {
+  const id = `book-${b.book}`;
+  const wrap = document.createElement("label");
+  wrap.className = "check";
+  wrap.htmlFor = id;
+  const box = document.createElement("input");
+  box.type = "checkbox";
+  box.id = id;
+  box.value = b.book;
+  box.checked = saved ? saved.includes(b.book) : true;
+  box.onchange = onBooksChange;
+  wrap.append(box, document.createTextNode(`${b.label} (${count})`));
+  return wrap;
 }
 
 function onBooksChange(e) {
@@ -80,9 +85,9 @@ function onBooksChange(e) {
 }
 
 function pool() {
-  const books = selectedBooks();
+  const chosen = selectedBooks();
   return questions.filter(
-    (q) => books.has(q.source.book) && (el("scope").value !== "core" || q.core));
+    (q) => chosen.has(q.source.book) && (el("scope").value !== "core" || q.core));
 }
 
 function buildQueue() {
@@ -145,18 +150,14 @@ function choose(q, k, li) {
   el("explanation").hidden = false;
   if (q.source) {
     el("source").textContent =
-      `Źródło: ${q.source.book}, s. ${q.source.pages.join("–")}`;
+      `Źródło: ${labelOf[q.source.book] || q.source.book}, s. ${q.source.pages.join("–")}`;
     el("source").hidden = false;
   }
   el("next-btn").hidden = false;
   // reveal explanation + Dalej without manual scrolling (esp. on mobile)
   el("next-btn").scrollIntoView({ behavior: "smooth", block: "center" });
 
-  const s = loadProgress();
-  s.answered = answered;
-  s.correct = correct;
-  if (!s.done.includes(q.id)) s.done.push(q.id);
-  saveProgress(s);
+  saveProgress({ answered, correct });
 }
 
 el("scope").onchange = renderLoaded;
@@ -169,15 +170,16 @@ el("start-btn").onclick = () => {
 };
 el("next-btn").onclick = () => { idx++; renderQuestion(); };
 el("reset-btn").onclick = () => {
-  saveProgress({ done: [], correct: 0, answered: 0 });
+  saveProgress({ answered: 0, correct: 0 });
   answered = 0;
   correct = 0;
   renderScore();
 };
 
-fetch("questions.json")
-  .then((r) => r.json())
-  .then((data) => {
+Promise.all(["books.json", "questions.json"].map((f) => fetch(f).then((r) => r.json())))
+  .then(([bookList, data]) => {
+    books = bookList;
+    labelOf = Object.fromEntries(books.map((b) => [b.book, b.label]));
     questions = data;
     const s = loadProgress();
     answered = s.answered;

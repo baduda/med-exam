@@ -33,8 +33,8 @@ API key). Work is resumable via `data/state.json` (`generated` flag per chunk).
 ## Batch / resume
 - Process a range of chunks per run; set `generated: true` for each done chunk.
 - After a batch: `python pipeline/assemble.py` (validates + rebuilds
-  `data/questions.json` and `web/questions.json`). Fix any reported errors.
-- Commit `data/questions.json` + `web/questions.json` (the per-chunk files
+  `data/questions.json` and `docs/questions.json`). Fix any reported errors.
+- Commit `data/questions.json` + `docs/questions.json` (the per-chunk files
   under `data/questions/` are gitignored).
 - v1 target ~300 questions; expand later by generating from remaining chunks.
 

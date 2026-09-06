@@ -65,6 +65,11 @@ fieldset {
   padding: .3rem .9rem .7rem; margin: .8rem 0;
 }
 legend { font-weight: 600; padding: 0 .35rem; }
+.domain {
+  margin: .7rem 0 0; font-size: .75rem; font-weight: 700; letter-spacing: .05em;
+  text-transform: uppercase; color: var(--muted);
+}
+.domain:first-child { margin-top: .2rem; }
 /* flex-start, not center: a label that wraps to two lines should keep its box
    next to the first line rather than floating beside the gap between them. */
 .check {

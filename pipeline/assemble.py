@@ -2,7 +2,11 @@
 
 Reads every JSON list under data/questions/, validates the whole bank against
 pipeline/schema.py, and writes data/questions.json plus a copy at
-web/questions.json. Exits non-zero (printing errors) if anything is invalid.
+docs/questions.json. Exits non-zero (printing errors) if anything is invalid.
+
+Also writes docs/books.json — the display name and domain of every book, taken
+from the registry in pipeline/books.py. The web app used to carry its own copy
+of that list, which meant every new book had to be declared twice.
 """
 import hashlib
 import json
@@ -12,6 +16,7 @@ from pathlib import Path
 
 # Allow running as a script (`python pipeline/assemble.py`) as well as a module.
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from pipeline.books import BOOKS
 from pipeline.schema import OPTION_KEYS, validate_bank
 
 
@@ -34,6 +39,7 @@ Q_DIR = Path("data/questions")
 CORE_FILE = Path("data/core.json")  # ids of the LDEK "kluczowe" subset
 OUT = Path("data/questions.json")
 WEB_COPY = Path("docs/questions.json")  # GitHub Pages serves from /docs
+WEB_BOOKS = Path("docs/books.json")
 
 
 def load_bank(directory: Path) -> list[dict]:
@@ -75,6 +81,10 @@ def main() -> int:
     OUT.write_text(payload, encoding="utf-8")
     WEB_COPY.parent.mkdir(parents=True, exist_ok=True)
     WEB_COPY.write_text(payload, encoding="utf-8")
+    books = [{"book": e["book"], "label": e["label"], "domain": e["domain"]}
+             for e in BOOKS]
+    WEB_BOOKS.write_text(json.dumps(books, ensure_ascii=False, indent=1),
+                         encoding="utf-8")
     core = sum(1 for q in bank if q.get("core"))
     print(f"OK: {len(bank)} questions ({core} core) -> {OUT} and {WEB_COPY}")
     return 0
