@@ -9,7 +9,7 @@ doctors for the Polish medical verification exam (nostryfikacja / LDEW). Two par
 a build pipeline that turns PDFs into `data/questions.json`, and a static web app
 that serves the quiz.
 
-Nine source books across four domains, declared in `pipeline/books.py`:
+Ten source books across five domains, declared in `pipeline/books.py`:
 
 | book_id | `source.book` | Title | Domain |
 |---|---|---|---|
@@ -20,6 +20,7 @@ Nine source books across four domains, declared in `pipeline/books.py`:
 | `pl` | `GorskaLDEK` | Górska (red.), *Periodontologia. Podręcznik dla studentów i do LDEK* (2022) | periodontologia |
 | `mj` | `Majewski` | Majewski, *Współczesna protetyka stomatologiczna* | protetyka |
 | `dj` | `Dejak` | Dejak, *Vademecum wykonywania protez stałych i ruchomych* | protetyka |
+| `ok` | `Olczak` | Olczak-Kowalczyk (red.), *Współczesna stomatologia wieku rozwojowego* (2017) | pedodoncja |
 
 The web app lets the user practise any combination of books.
 

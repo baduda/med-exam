@@ -16,6 +16,7 @@ const BOOKS = [
   ["GorskaLDEK", "Górska — periodontologia (LDEK 2022)"],
   ["Majewski", "Majewski — protetyka"],
   ["Dejak", "Dejak — vademecum protetyczne"],
+  ["Olczak", "Olczak-Kowalczyk — wiek rozwojowy"],
 ];
 
 let questions = [];

@@ -53,6 +53,8 @@ BOOKS = (
     {"pattern": "Vademecum_wykonywania_protez*.pdf", "book_id": "dj", "book": "Dejak",
      "label": "Dejak — vademecum protetyczne", "domain": "protetyka",
      "mode": "spread"},
+    {"pattern": "*WIEKU_ROZWOJOWEGO*.pdf", "book_id": "ok", "book": "Olczak",
+     "label": "Olczak-Kowalczyk — stomatologia wieku rozwojowego", "domain": "pedodoncja"},
 )
 
 # Files in books/ that are deliberately not sources. The original Arabska PDF is
