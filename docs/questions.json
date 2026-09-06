@@ -8121,6 +8121,3165 @@
   "core": true
  },
  {
+  "id": "bs-c001-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    1,
+    4
+   ]
+  },
+  "question": "Na błonie śluzowej policzka, na wysokości drugiego górnego zęba trzonowego, widoczne jest wzniesienie zwane brodawką przyuszniczą. Co się w nim znajduje?",
+  "options": {
+   "A": "ujście przewodu ślinianki podjęzykowej (przewodu Bartholina)",
+   "B": "ujście przewodu ślinianki podżuchwowej (przewodu Whartona)",
+   "C": "ujście przewodu ślinianki przyusznej (przewodu Stenona)",
+   "D": "ujścia drobnych przewodów podjęzykowych (przewodów Riviniego)",
+   "E": "ujście przewodu gruczołów łojowych policzka"
+  },
+  "correct": "C",
+  "explanation": "Brodawka przyusznicza leży na błonie śluzowej policzka na wysokości drugiego górnego zęba trzonowego i stanowi ujście przewodu ślinianki przyusznej, czyli przewodu Stenona."
+ },
+ {
+  "id": "bs-c001-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    1,
+    4
+   ]
+  },
+  "type": "combined",
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące warg i policzków:\n1. Kremowo-żółte grudki Fordyce'a to przemieszczone do części pośredniej wargi gruczoły łojowe.\n2. Czerwień warg pokryta jest nabłonkiem zawierającym dobrze wykształconą warstwę ziarnistą.\n3. Czerwień warg przechodzi w błonę śluzową wzdłuż smugi Kleina.\n4. Błona śluzowa policzków pokryta jest nabłonkiem nierogowaciejącym.",
+  "options": {
+   "A": "tylko 1, 3 i 4",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 2, 3 i 4",
+   "D": "tylko 1 i 2",
+   "E": "tylko 2 i 3"
+  },
+  "correct": "A",
+  "explanation": "Czerwień warg pokrywa nabłonek częściowo zrogowaciały bez warstwy ziarnistej, dlatego stwierdzenie 2 jest fałszywe; pozostałe opisy grudek Fordyce'a, smugi Kleina i nabłonka policzka są zgodne z tekstem.",
+  "core": true
+ },
+ {
+  "id": "bs-c001-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    1,
+    4
+   ]
+  },
+  "question": "Która cecha wyróżnia podniebienie miękkie w porównaniu z podniebieniem twardym?",
+  "options": {
+   "A": "znajduje się na nim brodawka przysieczna i szew podniebienny",
+   "B": "jest pozbawione drobnych gruczołów ślinowych w błonie podśluzowej",
+   "C": "jest pokryte nabłonkiem rogowaciejącym z grubą warstwą rogową",
+   "D": "w jego części dystalnej występują dołki podniebienne",
+   "E": "jest pokryte nabłonkiem nierogowaciejącym i nie ma podbudowy kostnej"
+  },
+  "correct": "E",
+  "explanation": "Podniebienie miękkie zbudowane jest z tkanki mięśniowej i rozcięgna, bez podbudowy kostnej, i pokrywa je błona śluzowa z nabłonkiem nierogowaciejącym, w odróżnieniu od rogowaciejącego nabłonka podniebienia twardego."
+ },
+ {
+  "id": "bs-c002-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    5,
+    7
+   ]
+  },
+  "question": "Które brodawki języka są największe, występują w liczbie 10-15 i układają się wzdłuż rowka granicznego w kształt odwróconej litery V?",
+  "options": {
+   "A": "brodawki okolone",
+   "B": "brodawki grzybowate",
+   "C": "brodawki liściaste",
+   "D": "brodawki nitkowate",
+   "E": "brodawki stożkowate"
+  },
+  "correct": "A",
+  "explanation": "Brodawki okolone są największe, jest ich 10-15 i rozmieszczone są wzdłuż rowka granicznego w kształcie odwróconej litery V, zawierając liczne kubki smakowe."
+ },
+ {
+  "id": "bs-c002-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    5,
+    7
+   ]
+  },
+  "question": "Gdzie znajduje się ujście przewodu Whartona, czyli przewodu wyprowadzającego ślinianki podżuchwowej?",
+  "options": {
+   "A": "na całej długości fałdu podjęzykowego",
+   "B": "na brodawce podjęzykowej (mięsku podjęzykowym)",
+   "C": "na brodawce przyusznicznej policzka",
+   "D": "w okolicy rowka granicznego języka",
+   "E": "na brzusznej powierzchni końca języka"
+  },
+  "correct": "B",
+  "explanation": "Na przednim końcu fałdu podjęzykowego znajduje się brodawka podjęzykowa (mięsko podjęzykowe), na której leży ujście przewodu Whartona ślinianki podżuchwowej oraz przewodu Bartholina."
+ },
+ {
+  "id": "bs-c002-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    5,
+    7
+   ]
+  },
+  "type": "combined",
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące budowy i czynności języka:\n1. Brodawki nitkowate stanowią około 90% wszystkich brodawek języka i pełnią funkcję mechaniczną.\n2. Brodawki liściaste leżą na bocznych powierzchniach tylnej części języka i pełnią funkcje smakowe.\n3. Boczna i brzuszna część języka pokryta jest nabłonkiem rogowaciejącym.\n4. Kubki smakowe występują także na podniebieniu miękkim, nagłośni i krtani.",
+  "options": {
+   "A": "tylko 1, 2 i 4",
+   "B": "tylko 1, 3 i 4",
+   "C": "tylko 1 i 3",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 2 i 4"
+  },
+  "correct": "A",
+  "explanation": "Boczna i brzuszna część języka pokryta jest nabłonkiem wielowarstwowym płaskim nierogowaciejącym, więc stwierdzenie 3 jest fałszywe; pozostałe trzy są zgodne z tekstem rozdziału.",
+  "core": true
+ },
+ {
+  "id": "bs-c003-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    8,
+    10
+   ]
+  },
+  "question": "Czym różni się nabłonek wielowarstwowy płaski nierogowaciejący od rogowaciejącego?",
+  "options": {
+   "A": "nie zawiera warstwy komórek podstawnych ani kolczystych",
+   "B": "warstwa ziarnista i rogowa zastąpione są jedną warstwą powierzchowną bez keratyny",
+   "C": "zawiera dodatkową warstwę ziarnistą z ziarnami keratohialiny",
+   "D": "jego komórki powierzchowne całkowicie tracą jądra i organelle",
+   "E": "jest pozbawiony desmosomów między komórkami wszystkich warstw"
+  },
+  "correct": "B",
+  "explanation": "W nabłonku nierogowaciejącym dwie ostatnie warstwy (ziarnista i rogowa) zastąpione są jedną warstwą powierzchowną złożoną ze spłaszczonych komórek bez keratyny, z małymi owalnymi jądrami.",
+  "core": true
+ },
+ {
+  "id": "bs-c003-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    8,
+    10
+   ]
+  },
+  "question": "W którym rejonie cykl przejścia od komórki podstawnej do dojrzałej jest najszybszy i ile wynosi?",
+  "options": {
+   "A": "w błonie śluzowej specjalnej — około 3 dni",
+   "B": "w błonie śluzowej żującej — około 5 dni",
+   "C": "w nabłonku łączącym — około 10 dni",
+   "D": "w nabłonku łączącym — około 5 dni",
+   "E": "w błonie śluzowej wyścielającej — około 10 dni"
+  },
+  "correct": "D",
+  "explanation": "Cykl odnowy nabłonka jest najszybszy w rejonie nabłonka łączącego i trwa około 5 dni, wolniejszy w błonie śluzowej żującej, a najdłuższy (około 10 dni) w błonie śluzowej wyścielającej."
+ },
+ {
+  "id": "bs-c003-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    8,
+    10
+   ]
+  },
+  "question": "Które komórki nabłonka błony śluzowej jamy ustnej biorą udział w odpowiedzi immunologicznej?",
+  "options": {
+   "A": "komórki Langerhansa",
+   "B": "melanocyty",
+   "C": "fibroblasty blaszki właściwej",
+   "D": "komórki Merkla",
+   "E": "keratynocyty warstwy rogowej"
+  },
+  "correct": "A",
+  "explanation": "Wśród wyspecjalizowanych komórek nabłonka wymienia się komórki Langerhansa biorące udział w odpowiedzi immunologicznej, komórki Merkla z mechanoreceptorami i melanocyty produkujące melaninę."
+ },
+ {
+  "id": "bs-c004-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    11,
+    12
+   ]
+  },
+  "type": "clinical",
+  "question": "Pacjentowi z dławicą piersiową zalecono podjęzykowe podanie nitrogliceryny. Która cecha błony śluzowej uzasadnia taką drogę podania leku?",
+  "options": {
+   "A": "grzbietowa powierzchnia języka pokryta jest nabłonkiem o dużej przepuszczalności",
+   "B": "dziąsło i podniebienie twarde mają najcieńszy nabłonek nierogowaciejący",
+   "C": "błona śluzowa żująca pozbawiona jest błony podśluzowej i splotów naczyniowych",
+   "D": "dno jamy ustnej i brzuszna powierzchnia języka mają największą zdolność wchłaniania",
+   "E": "czerwień warg zawiera najwięcej naczyń krwionośnych w całej jamie ustnej"
+  },
+  "correct": "D",
+  "explanation": "Największą zdolność wchłaniania ma dno jamy ustnej i brzuszna powierzchnia języka, co wykorzystuje się w farmakoterapii chorób sercowo-naczyniowych do podjęzykowego podawania leków.",
+  "core": true
+ },
+ {
+  "id": "bs-c004-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    11,
+    12
+   ]
+  },
+  "question": "W jakim zakresie ślina utrzymuje prawidłowe pH środowiska jamy ustnej, co chroni zęby przed próchnicą?",
+  "options": {
+   "A": "6,2-7,6",
+   "B": "8,0-9,0",
+   "C": "7,6-8,4",
+   "D": "5,0-6,0",
+   "E": "4,2-5,6"
+  },
+  "correct": "A",
+  "explanation": "Ślina buforuje środowisko jamy ustnej, utrzymując prawidłowe pH w zakresie 6,2-7,6, co ma ogromne znaczenie w ochronie zębów przed próchnicą."
+ },
+ {
+  "id": "bs-c004-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    11,
+    12
+   ]
+  },
+  "type": "combined",
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące zmian błony śluzowej jamy ustnej związanych z wiekiem:\n1. Dochodzi do ścieńczenia nabłonka i spłycenia sopli nabłonkowych.\n2. Zwiększa się liczba komórek Langerhansa, limfocytów i makrofagów.\n3. Wydzielanie śliny zmniejsza się, a ślina staje się gęsta i ciągliwa.\n4. W odczuwaniu smaku przeważa smak gorzki i kwaśny.",
+  "options": {
+   "A": "tylko 1, 3 i 4",
+   "B": "tylko 2 i 3",
+   "C": "tylko 1, 2 i 4",
+   "D": "tylko 1 i 2",
+   "E": "wszystkie prawidłowe"
+  },
+  "correct": "A",
+  "explanation": "W starzejącej się błonie śluzowej dochodzi do spadku, a nie wzrostu liczby komórek Langerhansa, limfocytów i makrofagów, więc stwierdzenie 2 jest fałszywe; pozostałe opisano jako typowe zmiany wieku.",
+  "core": true
+ },
+ {
+  "id": "bs-c005-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    13,
+    14
+   ]
+  },
+  "question": "U której grupy pacjentów, zgodnie z danymi z wywiadu, szczególnie często występuje leukoplakia?",
+  "options": {
+   "A": "u dzieci i młodzieży z niedoborami witaminowymi",
+   "B": "u kobiet po menopauzie",
+   "C": "u mężczyzn po 50. roku życia palących i nadużywających alkoholu",
+   "D": "u kobiet w ciąży z zaburzeniami hormonalnymi",
+   "E": "u młodych mężczyzn z chorobami dermatologicznymi"
+  },
+  "correct": "C",
+  "explanation": "W tekście podkreślono, że leukoplakia częściej występuje u mężczyzn po 50. roku życia, zwłaszcza palących i/lub nadużywających alkoholu, podczas gdy liszaj płaski i BMS częściej dotyczą kobiet po menopauzie."
+ },
+ {
+  "id": "bs-c005-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    13,
+    14
+   ]
+  },
+  "type": "clinical",
+  "question": "Pacjent po zakończonej antybiotykoterapii z powodu infekcji ogólnoustrojowej zgłasza suchość i pieczenie jamy ustnej. Jakie postępowanie jest właściwe?",
+  "options": {
+   "A": "rozpoznać grzybicę jamy ustnej i potwierdzić ją badaniem mykologicznym",
+   "B": "wykonać badanie immunofluorescencyjne w kierunku chorób pęcherzowych",
+   "C": "skierować pacjenta na natychmiastową biopsję zmienionej błony śluzowej",
+   "D": "rozpoznać leukoplakię i zlecić kontrolę kliniczną za sześć miesięcy",
+   "E": "rozpoznać afty nawracające i wdrożyć leczenie miejscowe bez badań"
+  },
+  "correct": "A",
+  "explanation": "Suchość i pieczenie po antybiotykoterapii i przy współistniejącej infekcji ogólnoustrojowej pozwalają domniemywać grzybicę jamy ustnej, którą jednak należy potwierdzić badaniem mykologicznym.",
+  "core": true
+ },
+ {
+  "id": "bs-c005-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    13,
+    14
+   ]
+  },
+  "question": "Jakie badanie dodatkowe jest niezbędne do stwierdzenia krążących przeciwciał u pacjenta z pęcherzami śródnabłonkowymi lub podnabłonkowymi?",
+  "options": {
+   "A": "badanie mykologiczne z mykogramem",
+   "B": "badanie ultrasonograficzne ślinianek i węzłów chłonnych",
+   "C": "badania immunofluorescencyjne pośrednie lub bezpośrednie",
+   "D": "morfologia krwi obwodowej z rozmazem",
+   "E": "oznaczenie poziomu glikemii i żelaza w surowicy"
+  },
+  "correct": "C",
+  "explanation": "Przy pęcherzach śródnabłonkowych lub podnabłonkowych do wykrycia krążących przeciwciał lub dopełniacza niezbędne są badania immunofluorescencyjne: pośrednie z krwi obwodowej lub bezpośrednie z pobranego materiału."
+ },
+ {
+  "id": "bs-c006-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    15,
+    16
+   ]
+  },
+  "type": "clinical",
+  "question": "U pacjenta zmiana patologiczna błony śluzowej policzka utrzymuje się mimo leczenia od ponad dwóch tygodni. Jakie postępowanie diagnostyczne jest wskazane?",
+  "options": {
+   "A": "wykonanie zdjęcia RTG oraz tomografii wiązki stożkowej CBCT",
+   "B": "badanie immunofluorescencyjne pośrednie z krwi obwodowej pacjenta",
+   "C": "badanie histopatologiczne z wycięciem zmiany wraz z marginesem tkanek zdrowych",
+   "D": "badanie ultrasonograficzne ślinianek i regionalnych węzłów chłonnych",
+   "E": "obserwacja kliniczna zmiany przez kolejne trzy miesiące bez badań"
+  },
+  "correct": "C",
+  "explanation": "Badanie histopatologiczne wykonuje się przy zmianach utrzymujących się i niepoddających się leczeniu przez 2 tygodnie lub dłużej, a biopsję pobiera się z wycięciem zmienionego fragmentu wraz z marginesem tkanek zdrowych.",
+  "core": true
+ },
+ {
+  "id": "bs-c006-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    15,
+    16
+   ]
+  },
+  "question": "Który wykwit jest zaliczany do wykwitów wtórnych błony śluzowej jamy ustnej?",
+  "options": {
+   "A": "bąbel pokrzywkowy",
+   "B": "grudka",
+   "C": "nadżerka",
+   "D": "pęcherzyk",
+   "E": "krosta"
+  },
+  "correct": "C",
+  "explanation": "Wykwity wtórne ewoluują z wykwitów pierwotnych — pęcherzyk pod wpływem urazu przekształca się w nadżerkę, a pęcherz w owrzodzenie; grudka, pęcherzyk, krosta i bąbel należą do wykwitów pierwotnych."
+ },
+ {
+  "id": "bs-c006-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    15,
+    16
+   ]
+  },
+  "question": "Która cecha odróżnia guzek (tuberculum) od grudki (papula)?",
+  "options": {
+   "A": "guzek nie wystaje ponad powierzchnię błony śluzowej",
+   "B": "guzek występuje wyłącznie w chorobach alergicznych",
+   "C": "guzek nie jest odgraniczony od otaczających tkanek",
+   "D": "guzek jest zawsze większy niż 1 cm średnicy",
+   "E": "guzek goi się z pozostawieniem blizny i ma skłonność do rozpadu"
+  },
+  "correct": "E",
+  "explanation": "Guzek ma wielkość poniżej 1 cm, zmiany dotyczą błony śluzowej właściwej, goi się z pozostawieniem blizny i wykazuje skłonność do rozpadu, podczas gdy grudka goi się bez blizny."
+ },
+ {
+  "id": "bs-c007-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    17,
+    20
+   ]
+  },
+  "question": "Które cechy charakteryzują pęcherz śródnabłonkowy (akantolityczny)?",
+  "options": {
+   "A": "utrzymuje się dłużej w wilgotnym środowisku niż pęcherz podnabłonkowy",
+   "B": "jest oporny na urazy mechaniczne i typowy dla pemfigoidu",
+   "C": "powstaje na pograniczu nabłonka i błony śluzowej właściwej, jest napięty",
+   "D": "powstaje wyłącznie na niezmienionej zapalnie błonie śluzowej",
+   "E": "powstaje w warstwie kolczystej, jest wiotki i typowy dla pęcherzyc"
+  },
+  "correct": "E",
+  "explanation": "Pęcherze śródnabłonkowe powstają w warstwie kolczystej wskutek utraty łączności między komórkami, są wiotkie, łatwo pękają tworząc nadżerki ze strzępkami nabłonka i są charakterystyczne dla wszystkich postaci pęcherzyc."
+ },
+ {
+  "id": "bs-c007-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    17,
+    20
+   ]
+  },
+  "type": "combined",
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące wykwitów wtórnych:\n1. Nadżerka jest powierzchownym ubytkiem nabłonka gojącym się bez blizny.\n2. Rozpadlina obejmuje błonę śluzową właściwą i goi się z pozostawieniem blizny.\n3. Owrzodzenie goi się bez pozostawienia blizny.\n4. W jamie ustnej strupy nie występują ze względu na stałą wilgotność.",
+  "options": {
+   "A": "tylko 2 i 4",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 1, 3 i 4",
+   "D": "tylko 1, 2 i 4",
+   "E": "tylko 1 i 3"
+  },
+  "correct": "D",
+  "explanation": "Owrzodzenie jest ubytkiem nabłonka i błony śluzowej właściwej i goi się z pozostawieniem blizny, więc stwierdzenie 3 jest fałszywe; pozostałe trzy odpowiadają opisom z rozdziału.",
+  "core": true
+ },
+ {
+  "id": "bs-c007-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    17,
+    20
+   ]
+  },
+  "question": "Który parametr rozróżnia pęcherzyk od pęcherza na błonie śluzowej jamy ustnej?",
+  "options": {
+   "A": "średnica wykwitu — granicę stanowi 1 cm",
+   "B": "gojenie się z pozostawieniem blizny",
+   "C": "obecność nacieku u podstawy wykwitu",
+   "D": "obecność treści ropnej wypełniającej wykwit",
+   "E": "lokalizacja wyłącznie na czerwieni warg"
+  },
+  "correct": "A",
+  "explanation": "Pęcherzyk jest małym wykwitem do 1 cm wypełnionym płynem, natomiast pęcherz to wykwit z płynem o średnicy przekraczającej 1 cm."
+ },
+ {
+  "id": "bs-c008-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    21,
+    24
+   ]
+  },
+  "type": "clinical",
+  "question": "Noworodek ma trudności z prawidłowym ssaniem piersi, a w badaniu stwierdza się skrócone wędzidełko języka znacznie ograniczające jego ruchomość. Na czym polega eliminacja tej wady?",
+  "options": {
+   "A": "na rozszczepieniu wędzidła i wszczepieniu przeszczepu śluzówkowego",
+   "B": "na ćwiczeniach logopedycznych bez interwencji chirurgicznej",
+   "C": "na wycięciu dodatkowego płata języka wraz z błoną śluzową dna",
+   "D": "na leczeniu ortodontycznym z zastosowaniem aparatu czynnościowego",
+   "E": "na przecięciu (frenulotomia) lub wycięciu (frenulektomia) wędzidła języka"
+  },
+  "correct": "E",
+  "explanation": "Ankyloglosia, czyli wrodzony zrost języka ze skróconym wędzidłem, utrudnia ssanie i artykulację; jej eliminacja polega na przecięciu (frenulotomia) lub wycięciu (frenulektomia) wędzidła języka.",
+  "core": true
+ },
+ {
+  "id": "bs-c008-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    21,
+    24
+   ]
+  },
+  "question": "Który stan kliniczny jest uznawany za jeden z trzech objawów zespołu Melkerssona-Rosenthala?",
+  "options": {
+   "A": "język pobruzdowany",
+   "B": "wrodzony język olbrzymi",
+   "C": "język podwójny (diglossia)",
+   "D": "wrodzony brak brodawek języka",
+   "E": "język rozłupany (lingua bifida)"
+  },
+  "correct": "A",
+  "explanation": "Język pobruzdowany (lingua plicata) jest uznawany za jeden z trzech objawów klinicznych zespołu Melkerssona-Rosenthala."
+ },
+ {
+  "id": "bs-c008-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    21,
+    24
+   ]
+  },
+  "question": "Które stwierdzenie dotyczące języka pobruzdowanego jest prawdziwe?",
+  "options": {
+   "A": "występuje częściej u kobiet, a jego częstość maleje z wiekiem",
+   "B": "jest najczęściej rozpoznawany u dzieci poniżej 10. roku życia",
+   "C": "zawsze wymaga leczenia chirurgicznego z powodu ryzyka zakażeń",
+   "D": "wyklucza współistnienie języka geograficznego u tego samego pacjenta",
+   "E": "występuje częściej u mężczyzn, a jego częstość rośnie z wiekiem"
+  },
+  "correct": "E",
+  "explanation": "Język pobruzdowany występuje częściej u mężczyzn, jego częstość wzrasta wraz z wiekiem u obu płci, rzadko obserwuje się go u dzieci do 10 lat i może współistnieć z językiem geograficznym."
+ },
+ {
+  "id": "bs-c009-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    25,
+    27
+   ]
+  },
+  "question": "Która cecha jest charakterystyczna dla języka geograficznego i ułatwia jego rozpoznanie?",
+  "options": {
+   "A": "pasmo zblednięcia na powierzchni grzbietowej przy wysunięciu języka",
+   "B": "zmiana lokalizacji ognisk depapilacji w ciągu kilku godzin lub dni",
+   "C": "symetryczna, twarda zmiana rombowa przed brodawkami okolonymi",
+   "D": "przerost i wydłużenie brodawek nitkowatych przypominające dywan",
+   "E": "obecność impresji zębów na brzegach bocznych języka"
+  },
+  "correct": "B",
+  "explanation": "Charakterystyczna dla języka geograficznego jest równoczesna proliferacja nabłonka i powstawanie nowych obszarów depapilacji, przez co lokalizacja i zasięg plam zmienia się w ciągu kilku godzin lub dni."
+ },
+ {
+  "id": "bs-c009-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    25,
+    27
+   ]
+  },
+  "question": "Jak nazywa się zmiana zapalna na podniebieniu towarzysząca środkowemu romboidalnemu zapaleniu języka, powstająca w miejscu kontaktu z językiem?",
+  "options": {
+   "A": "linea alba",
+   "B": "dens-mucosa",
+   "C": "objaw Arndta",
+   "D": "kissing lesion",
+   "E": "obraz mapy"
+  },
+  "correct": "D",
+  "explanation": "Element zapalny na podniebieniu pozostającym w kontakcie ze zmianą języka podczas połykania lub w spoczynku nazwano kissing lesion."
+ },
+ {
+  "id": "bs-c009-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    25,
+    27
+   ]
+  },
+  "type": "clinical",
+  "question": "U pacjenta stwierdzono owalną, czerwoną, gładką i dobrze odgraniczoną zmianę w linii środkowej grzbietu języka tuż przed brodawkami okolonymi. Jakie postępowanie jest zalecane?",
+  "options": {
+   "A": "wygładzenie ostrych brzegów siecznych zębów przednich i leczenie odciążające",
+   "B": "obserwacja bez badań dodatkowych, ponieważ zmiana ustępuje samoistnie",
+   "C": "suplementacja żelaza oraz witamin z grupy B i kontrola po trzech miesiącach",
+   "D": "wykonanie wymazu i badania mykologicznego, a w uzasadnionych przypadkach leczenie przeciwgrzybicze",
+   "E": "natychmiastowe wycięcie zmiany z marginesem tkanek zdrowych i badanie histopatologiczne"
+  },
+  "correct": "D",
+  "explanation": "Opisany obraz odpowiada środkowemu romboidalnemu zapaleniu języka; w jego diagnostyce zaleca się wykonanie wymazu i badania mykologicznego, a w uzasadnionych przypadkach włączenie miejscowego leczenia przeciwgrzybiczego.",
+  "core": true
+ },
+ {
+  "id": "bs-c010-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    28,
+    29
+   ]
+  },
+  "question": "Na czym polega tzw. objaw Arndta, opisywany w zanikowym zapaleniu języka?",
+  "options": {
+   "A": "na zmianie lokalizacji ognisk depapilacji w ciągu kilku dni",
+   "B": "na wystąpieniu zmiany zapalnej na podniebieniu stykającym się z językiem",
+   "C": "na pojawieniu się pasma zblednięcia na grzbiecie języka przy jego wysunięciu",
+   "D": "na powstawaniu impresji zębów na bocznych brzegach języka",
+   "E": "na spłaszczaniu się wykwitów języka pod wpływem ucisku palcem"
+  },
+  "correct": "C",
+  "explanation": "Objaw Arndta polega na występowaniu na powierzchni grzbietowej języka pasma zblednięcia przy jego wysunięciu."
+ },
+ {
+  "id": "bs-c010-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    28,
+    29
+   ]
+  },
+  "type": "combined",
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące języka włochatego:\n1. Istotą zmiany jest przerost i wydłużenie brodawek nitkowatych na powierzchni grzbietowej.\n2. Fizjologicznie brodawki nitkowate mają do 1 mm, a w tej patologii osiągają 12-18 mm.\n3. Zmiana zawsze ma czarne zabarwienie.\n4. Do czynników ryzyka należą palenie papierosów, zła higiena jamy ustnej i kserostomia.",
+  "options": {
+   "A": "tylko 1 i 3",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 1, 3 i 4",
+   "D": "tylko 1, 2 i 4",
+   "E": "tylko 2 i 4"
+  },
+  "correct": "D",
+  "explanation": "Język włochaty może mieć zabarwienie nie tylko czarne, ale też brązowe, żółte czy zielone, więc stwierdzenie 3 jest fałszywe; pozostałe opisy przerostu brodawek i czynników ryzyka są zgodne z tekstem.",
+  "core": true
+ },
+ {
+  "id": "bs-c010-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    28,
+    29
+   ]
+  },
+  "question": "O czym może świadczyć obecność żylaków języka u pacjenta przed 40. rokiem życia?",
+  "options": {
+   "A": "o wrodzonej wadzie naczyniowej języka",
+   "B": "o utajonej niedokrwistości z niedoboru żelaza",
+   "C": "o przewlekłym zakażeniu grzybiczym jamy ustnej",
+   "D": "o wczesnym starzeniu się organizmu",
+   "E": "o stanie immunosupresji i możliwej infekcji HIV"
+  },
+  "correct": "D",
+  "explanation": "Żylaki języka wiążą się zwykle z procesem starzenia i utratą elastyczności żył, a ich obecność przed 40. rokiem życia może wskazywać na wczesne starzenie się organizmu."
+ },
+ {
+  "id": "bs-c012-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    35,
+    36
+   ]
+  },
+  "question": "Która cecha odróżnia wirusy RNA od wirusów DNA i ma znaczenie kliniczne?",
+  "options": {
+   "A": "replikują w jądrze komórkowym i rzadko ulegają mutacjom",
+   "B": "replikują w cytoplazmie i częściej ulegają mutacjom",
+   "C": "nie posiadają kapsydu białkowego otaczającego kwas nukleinowy",
+   "D": "zawsze wywołują wykwity grudkowe zamiast pęcherzykowych",
+   "E": "namnażają się poza komórkami gospodarza, w płynach ustrojowych"
+  },
+  "correct": "B",
+  "explanation": "Wirusy RNA replikują w cytoplazmie, a proces namnażania jest obarczony większym ryzykiem błędu, dlatego częściej mutują, co utrudnia profilaktykę, diagnostykę i leczenie."
+ },
+ {
+  "id": "bs-c012-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    35,
+    36
+   ]
+  },
+  "question": "Jaki wykwit pierwotny jest wspólną cechą większości chorób wirusowych błony śluzowej jamy ustnej?",
+  "options": {
+   "A": "pęcherzyk",
+   "B": "guzek",
+   "C": "teleangiektazja",
+   "D": "plamka barwnikowa",
+   "E": "grudka"
+  },
+  "correct": "A",
+  "explanation": "Objawy większości chorób wirusowych w jamie ustnej mają wspólną cechę — pęcherzyki jako wykwity pierwotne; wyjątkami są m.in. grudki w zakażeniu HPV, guzki w mięczaku zakaźnym czy plamki Fiłatowa-Koplika w odrze."
+ },
+ {
+  "id": "bs-c012-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    35,
+    36
+   ]
+  },
+  "type": "clinical",
+  "question": "Do gabinetu zgłasza się rodzic z 3-letnim dzieckiem, u którego od 3 dni utrzymuje się gorączka i osłabienie, a obecnie występuje zaczerwienienie i obrzęk dziąseł, biało-szary nalot na języku, liczne bolesne nadżerki oraz pęcherzyki na granicy czerwieni wargi i skóry. Jakie rozpoznanie jest najbardziej prawdopodobne?",
+  "options": {
+   "A": "różyczka z teleangiektazjami na podniebieniu",
+   "B": "ogniskowy przerost nabłonka wywołany przez HPV",
+   "C": "pierwotne opryszczkowe zapalenie jamy ustnej (HSV-1)",
+   "D": "mięczak zakaźny błony śluzowej warg",
+   "E": "odra w okresie wysypkowym z plamkami Koplika"
+  },
+  "correct": "C",
+  "explanation": "Pełnoobjawowe opryszczkowe zapalenie jamy ustnej zaczyna się objawami ogólnymi, po 2–3 dniach dołącza zapalenie błony śluzowej z pęcherzykami i nadżerkami, a pęcherzyki na granicy czerwieni warg i skóry są charakterystyczne wyłącznie dla zakażenia HHV-1.",
+  "core": true
+ },
+ {
+  "id": "bs-c013-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    37,
+    38
+   ]
+  },
+  "question": "W jakiej lokalizacji herpeswirusy bytują w formie latentnej po przebyciu opryszczkowego zapalenia jamy ustnej?",
+  "options": {
+   "A": "w komórkach warstwy podstawnej nabłonka dziąsła",
+   "B": "w komórkach przewodów wyprowadzających ślinianek",
+   "C": "w komórkach zwojów czuciowych nerwu trójdzielnego",
+   "D": "w limfocytach B migdałków podniebiennych",
+   "E": "w komórkach śródbłonka naczyń błony śluzowej"
+  },
+  "correct": "C",
+  "explanation": "Po ustąpieniu objawów herpeswirusy bytują z zahamowaną replikacją (forma latentna) w komórkach zwojów czuciowych nerwu trójdzielnego, skąd mogą ulec reaktywacji."
+ },
+ {
+  "id": "bs-c013-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    37,
+    38
+   ]
+  },
+  "type": "clinical",
+  "question": "Pacjent zgłasza się z bardzo silnym bólem sugerującym ból zęba trzonowego, nie potrafi jednak wskazać zęba przyczynowego. Po kilku dniach na podniebieniu twardym po jednej stronie, bez przekraczania linii pośrodkowej, pojawiają się pęcherzyki przechodzące w nadżerki. Jakie rozpoznanie jest najbardziej prawdopodobne?",
+  "options": {
+   "A": "półpasiec",
+   "B": "rumień wysiękowy wielopostaciowy",
+   "C": "afty nawracające",
+   "D": "herpangina Zahorskiego",
+   "E": "ospa wietrzna"
+  },
+  "correct": "A",
+  "explanation": "W półpaścu jako pierwsze pojawiają się parestezje lub ból imitujący ból zęba trzonowego, a następnie pęcherzyki i nadżerki, których bardzo charakterystyczną cechą jest unilateralność — nie przekraczają linii pośrodkowej podniebienia.",
+  "core": true
+ },
+ {
+  "id": "bs-c013-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    37,
+    38
+   ]
+  },
+  "type": "combined",
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące opryszczki nawracającej:\n1. Powstaje w wyniku aktywacji HSV-1 bytującego w komórkach zwojów nerwowych.\n2. Pojawienie się pęcherzyków poprzedzają o 1–3 dni objawy prodromalne, np. pieczenie i mrowienie.\n3. W jamie ustnej może wystąpić na podniebieniu twardym lub dziąśle przytwierdzonym.\n4. U osób z prawidłową odpowiedzią immunologiczną powstaje zwykle kilkanaście wykwitów naraz.",
+  "options": {
+   "A": "tylko 1 i 2",
+   "B": "tylko 2 i 4",
+   "C": "tylko 3 i 4",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 1, 2 i 3"
+  },
+  "correct": "E",
+  "explanation": "Opryszczka nawracająca to reaktywacja HSV-1 ze zwojów nerwowych, poprzedzona o 1–3 dni objawami prodromalnymi, a w jamie ustnej lokalizuje się na podniebieniu twardym lub dziąśle przytwierdzonym; u osób z prawidłową odpornością powstaje zazwyczaj jeden wykwit.",
+  "core": true
+ },
+ {
+  "id": "bs-c014-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    39,
+    40
+   ]
+  },
+  "question": "Klasyczna triada objawów mononukleozy zakaźnej u nastolatków i dorosłych obejmuje:",
+  "options": {
+   "A": "zapalenie gardła, gorączkę i powiększenie węzłów chłonnych",
+   "B": "biegunkę, wyniszczenie i owrzodzenia podniebienia",
+   "C": "sztywność karku, osutkę skórną i świąd skóry",
+   "D": "obrzęk ślinianek, gorączkę i wysypkę plamkowo-grudkową",
+   "E": "zapalenie spojówek, kaszel i światłowstręt"
+  },
+  "correct": "A",
+  "explanation": "Mononukleoza zakaźna wywołana przez EBV (HHV-4) u nastolatków i dorosłych przybiera postać klasycznej triady: zapalenia gardła, gorączki i powiększenia węzłów chłonnych.",
+  "core": true
+ },
+ {
+  "id": "bs-c014-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    39,
+    40
+   ]
+  },
+  "question": "Które cechy najlepiej charakteryzują leukoplakię włochatą?",
+  "options": {
+   "A": "drobne czerwone wykwity grudkowe na podniebieniu miękkim i języczku",
+   "B": "biała, wyniosła plama o powierzchni przypominającej ręcznik frotte na bocznej powierzchni języka",
+   "C": "czerwono-brązowe plamki i grudki na podniebieniu twardym, ulegające owrzodzeniu",
+   "D": "uszypułowany, kalafiorowaty guzek na policzku w linii zgryzu, o gładkiej powierzchni",
+   "E": "grudka z zagłębieniem w części centralnej, z której wydobywa się kaszowata treść"
+  },
+  "correct": "B",
+  "explanation": "Leukoplakia włochata, wywołana nadkażeniem EBV, występuje jako ograniczone ognisko nadmiernego rogowacenia — biała, wyniosła plama o szorstkiej powierzchni przypominającej strukturę ręcznika frotte, najczęściej na bocznej powierzchni języka."
+ },
+ {
+  "id": "bs-c014-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    39,
+    40
+   ]
+  },
+  "question": "Jaka jest jedyna, bezwzględnie charakterystyczna lokalizacja mięsaka Kaposiego w jamie ustnej w przebiegu AIDS?",
+  "options": {
+   "A": "podniebienie twarde",
+   "B": "boczna powierzchnia języka",
+   "C": "dziąsło przytwierdzone",
+   "D": "dno jamy ustnej",
+   "E": "błona śluzowa policzka"
+  },
+  "correct": "A",
+  "explanation": "Przyjmuje się, że jedyną bezwzględnie charakterystyczną lokalizacją mięsaka Kaposiego w przebiegu AIDS jest podniebienie twarde — zmian w tym umiejscowieniu nigdy nie spotyka się w postaci klasycznej."
+ },
+ {
+  "id": "bs-c015-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    41,
+    42
+   ]
+  },
+  "question": "Gdzie w jamie ustnej lokalizują się typowo wykwity w herpanginie Zahorskiego?",
+  "options": {
+   "A": "na czerwieni wargi dolnej i w kątach ust",
+   "B": "na bezzębnych wyrostkach zębodołowych i błonie śluzowej policzków",
+   "C": "na bocznej powierzchni języka i dnie jamy ustnej",
+   "D": "na podniebieniu miękkim, tylnej ścianie gardła i łukach podniebiennych",
+   "E": "na dziąśle przytwierdzonym i podniebieniu twardym"
+  },
+  "correct": "D",
+  "explanation": "W herpanginie Zahorskiego pęcherzyki przekształcające się w nadżerki pojawiają się na zapalnie zmienionej błonie śluzowej podniebienia miękkiego, tylnej ściany gardła oraz łuków podniebiennych."
+ },
+ {
+  "id": "bs-c015-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    41,
+    42
+   ]
+  },
+  "question": "Które podtypy wirusa brodawczaka ludzkiego wskazano jako szczególnie odpowiedzialne za zmiany nowotworowe i zezłośliwienie zmian już istniejących?",
+  "options": {
+   "A": "HPV-1 i HPV-2",
+   "B": "HPV-31 i HPV-32",
+   "C": "HPV-16 i HPV-18",
+   "D": "HPV-4 i HPV-7",
+   "E": "HPV-6 i HPV-11"
+  },
+  "correct": "C",
+  "explanation": "Część podtypów wirusa, zwłaszcza HPV-16 i HPV-18, może powodować zmiany nowotworowe bądź prowadzić do zezłośliwienia zmian już istniejących."
+ },
+ {
+  "id": "bs-c015-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    41,
+    42
+   ]
+  },
+  "type": "combined",
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące zmian wywołanych przez HPV w jamie ustnej:\n1. Brodawczak jest najczęstszą łagodną zmianą nowotworową jamy ustnej powstającą z nabłonka.\n2. Ogniskowy przerost nabłonka (choroba Hecka) to płaskie białawe guzki z tendencją do zanikania i nawrotów.\n3. Kłykciny kończyste są uszypułowane i rzadko pojawiają się w jamie ustnej.\n4. Wirus zakaża komórki warstwy rogowej nabłonka i nigdy nie przechodzi w postać utajoną.",
+  "options": {
+   "A": "tylko 2 i 3",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 3 i 4",
+   "D": "tylko 1, 2 i 3",
+   "E": "tylko 1 i 4"
+  },
+  "correct": "D",
+  "explanation": "HPV zakaża komórki warstwy podstawnej nabłonka, a najczęstszą formą zakażenia jest infekcja utajona, więc stwierdzenie 4 jest fałszywe; pozostałe opisy brodawczaka, choroby Hecka i kłykcin kończystych są zgodne z tekstem.",
+  "core": true
+ },
+ {
+  "id": "bs-c016-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    43,
+    44
+   ]
+  },
+  "question": "Plamki Fiłatowa-Koplika, zwiastujące okres wysypkowy odry, mają postać:",
+  "options": {
+   "A": "drobnych czerwonych wykwitów grudkowych na podniebieniu miękkim i języczku",
+   "B": "pęcherzyków na łukach podniebiennych szybko przechodzących w nadżerki",
+   "C": "wybroczyn i teleangiektazji na podniebieniu miękkim i tylnej ścianie gardła",
+   "D": "mnogich punktowych wykwitów żółto-białych w okolicy zębów trzonowych",
+   "E": "białych plamek zlewających się w płytki dających się usunąć przetarciem"
+  },
+  "correct": "D",
+  "explanation": "W odrze nadejście okresu wysypkowego zwiastuje pojawienie się na zapalnie zmienionej błonie śluzowej w okolicy zębów trzonowych mnogich, punktowych wykwitów koloru żółto-białego — plamek Fiłatowa-Koplika, które znikają po 3 dniach."
+ },
+ {
+  "id": "bs-c016-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    43,
+    44
+   ]
+  },
+  "question": "Jakie jest najczęstsze powikłanie świnki u mężczyzn po okresie dojrzewania?",
+  "options": {
+   "A": "zapalenie jąder, występujące w około 20% przypadków",
+   "B": "trwała utrata smaku i węchu w około 20% przypadków",
+   "C": "trwałe porażenie nerwu twarzowego u około połowy chorych",
+   "D": "przewlekłe ropne zapalenie przyusznicy u większości chorych",
+   "E": "neuralgia nerwu trójdzielnego u około 20% chorych"
+  },
+  "correct": "A",
+  "explanation": "Zapalenie jąder jest najczęstszym powikłaniem świnki u mężczyzn po okresie dojrzewania i występuje w około 20% przypadków."
+ },
+ {
+  "id": "bs-c016-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    43,
+    44
+   ]
+  },
+  "type": "clinical",
+  "question": "U młodej kobiety w I trymestrze ciąży stwierdzono powiększenie węzłów chłonnych podżuchwowych i potylicznych, osutkę skórną oraz wybroczyny na podniebieniu miękkim i tylnej ścianie gardła. Jakie jest główne zagrożenie związane z tym zakażeniem?",
+  "options": {
+   "A": "wady narządowe płodu — zaćma, głuchota i wady serca",
+   "B": "wrodzona hipoplazja szkliwa i opóźnione wyrzynanie zębów",
+   "C": "trwałe porażenie nerwu trójdzielnego u matki",
+   "D": "rozwój chłoniaka Burkitta w obrębie szczęki u matki",
+   "E": "przewlekłe zapalenie ślinianek przyusznych u matki"
+  },
+  "correct": "A",
+  "explanation": "Opisany obraz — limfadenopatia, osutka i plamki Forchheimera na podniebieniu miękkim — odpowiada różyczce, a zakażenie w pierwszym trymestrze ciąży jest szczególnie niebezpieczne ze względu na wywoływanie wad narządowych płodu: zaćmy, głuchoty i wad serca.",
+  "core": true
+ },
+ {
+  "id": "bs-c017-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    45,
+    46
+   ]
+  },
+  "question": "Przez jaki maksymalny okres należy obserwować nadżerkę lub owrzodzenie jamy ustnej, zanim powstanie obowiązek weryfikacji histopatologicznej?",
+  "options": {
+   "A": "3 dni",
+   "B": "14 dni",
+   "C": "30 dni",
+   "D": "90 dni",
+   "E": "7 dni"
+  },
+  "correct": "B",
+  "explanation": "Bardzo ważnym elementem profilaktyki nowotworowej jest leczenie i obserwacja każdej nadżerki oraz owrzodzenia w jamie ustnej przez okres nie dłuższy niż 14 dni; po tym czasie brak wygojenia obliguje do weryfikacji histopatologicznej.",
+  "core": true
+ },
+ {
+  "id": "bs-c017-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    45,
+    46
+   ]
+  },
+  "question": "Która zmiana należy do grupy zmian ściśle związanych z zakażeniem HIV w jamie ustnej?",
+  "options": {
+   "A": "linijny rumień dziąsłowy",
+   "B": "porażenie nerwu twarzowego",
+   "C": "samoistna trombocytopenia",
+   "D": "nietypowe zakażenia bakteryjne przyzębia",
+   "E": "przebarwienia melaninowe błony śluzowej"
+  },
+  "correct": "A",
+  "explanation": "Do zmian ściśle związanych z zakażeniem HIV zalicza się kandydiazy, leukoplakię włochatą, martwicze choroby przyzębia, mięsaka Kaposiego i linijny rumień dziąsłowy; pozostałe wymienione należą do zmian towarzyszących lub mogących wystąpić."
+ },
+ {
+  "id": "bs-c017-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    45,
+    46
+   ]
+  },
+  "question": "Jaka jest najczęstsza lokalizacja zmian w jamie ustnej u pacjentów z COVID-19?",
+  "options": {
+   "A": "dno jamy ustnej",
+   "B": "dziąsło przytwierdzone",
+   "C": "język",
+   "D": "łuki podniebienne",
+   "E": "błona śluzowa policzka"
+  },
+  "correct": "C",
+  "explanation": "Najczęstszą lokalizacją zmian jest język (38%), następnie błona śluzowa warg (26%) i podniebienia (22%)."
+ },
+ {
+  "id": "bs-c018-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    47,
+    48
+   ]
+  },
+  "question": "Jaki wpływ na zakażenie wirusem opryszczki mają aminokwasy zawarte w diecie?",
+  "options": {
+   "A": "żaden z tych aminokwasów nie wpływa na przebieg zakażenia",
+   "B": "obie — lizyna i arginina — hamują replikację wirusa",
+   "C": "arginina przyspiesza zwalczanie wirusa, a lizyna sprzyja jego replikacji",
+   "D": "obie — lizyna i arginina — nasilają replikację wirusa",
+   "E": "lizyna przyspiesza zwalczanie wirusa, a arginina sprzyja jego replikacji"
+  },
+  "correct": "E",
+  "explanation": "Lizyna zawarta w wołowinie, nabiale i jajkach przyspiesza zwalczanie wirusa, natomiast arginina obecna w słodyczach, kakao i czekoladzie sprzyja jego replikacji.",
+  "core": true
+ },
+ {
+  "id": "bs-c018-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    47,
+    48
+   ]
+  },
+  "question": "Jaki jest najczęściej stosowany schemat leczenia ogólnego acyklowirem w zakażeniach herpeswirusami?",
+  "options": {
+   "A": "1000 mg raz dziennie przez 3 dni",
+   "B": "200 mg 2 razy dziennie przez 10 dni",
+   "C": "250 mg 2 razy dziennie przez 5 dni",
+   "D": "500 mg 2 razy dziennie przez 5 dni",
+   "E": "200 mg 5 razy dziennie przez 5 dni"
+  },
+  "correct": "E",
+  "explanation": "Najczęściej stosuje się acyklowir przez 5 dni w dawce 200 mg 5 razy dziennie; walacyklowir podaje się 500 mg 2 razy dziennie, a famcyklowir 250 mg 2 razy dziennie."
+ },
+ {
+  "id": "bs-c018-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    47,
+    48
+   ]
+  },
+  "question": "Jakie działanie niepożądane miejscowych preparatów steroidowych należy uwzględnić w leczeniu zmian wirusowych jamy ustnej?",
+  "options": {
+   "A": "całkowicie hamują odpowiedź przeciwbólową",
+   "B": "powodują nasilenie replikacji wirusa",
+   "C": "trwale znoszą odczuwanie smaku",
+   "D": "zwiększają wydzielanie śliny i wypłukiwanie leków",
+   "E": "wywołują nadmierne rogowacenie błony śluzowej"
+  },
+  "correct": "B",
+  "explanation": "Należy pamiętać, że steroidy powodują nasilenie replikacji wirusa; mimo dodatniego bilansu efektów (działanie przeciwbólowe i przeciwzapalne) ich zastosowanie trzeba każdorazowo rozważyć."
+ },
+ {
+  "id": "bs-c019-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    49,
+    50
+   ]
+  },
+  "question": "Dlaczego użytkowanie protez płytowych predysponuje do rozwoju kandydozy jamy ustnej?",
+  "options": {
+   "A": "podwyższają pH jamy ustnej do wartości optymalnych dla drożdżaków",
+   "B": "zwiększają przepływ śliny, wypłukując substancje hamujące wzrost grzybów",
+   "C": "trwale hamują wydzielanie laktoferyny i lizozymu przez ślinianki",
+   "D": "stanowią powierzchnię retencyjną dla grzybni i zmniejszają przepływ śliny pod płytą",
+   "E": "powodują skurcz naczyń i zmniejszają przepływ krwi w błonie śluzowej"
+  },
+  "correct": "D",
+  "explanation": "Protezy płytowe tworzą dobrą powierzchnię retencyjną dla grzybni drożdżaków, a pod płytą protezy przepływ śliny jest mniejszy, co osłabia mechaniczne usuwanie grzybów i kontakt z substancjami hamującymi ich wzrost; dodatkowo tarcie płyty powoduje mikrourazy."
+ },
+ {
+  "id": "bs-c019-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    49,
+    50
+   ]
+  },
+  "question": "Które niedobory składników odżywczych wskazano jako najczęściej prowadzące do rozwoju kandydozy jamy ustnej?",
+  "options": {
+   "A": "niedobór magnezu i selenu",
+   "B": "niedobór witaminy A i cynku",
+   "C": "niedobór nienasyconych kwasów tłuszczowych i wapnia",
+   "D": "niedobór żelaza i witaminy B12",
+   "E": "niedobór kwasu foliowego i witaminy C"
+  },
+  "correct": "D",
+  "explanation": "Niedobór żelaza i witaminy B12 to najczęstsze niedobory prowadzące do kandydozy jamy ustnej; niedobór żelaza zmniejsza grzybostatyczne działanie transferyny w ślinie."
+ },
+ {
+  "id": "bs-c019-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    49,
+    50
+   ]
+  },
+  "type": "combined",
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące kandydozy jamy ustnej:\n1. Dominującym gatunkiem drożdżaków jest Candida albicans, komensal niepowodujący zmian u osób zdrowych.\n2. Kandydoza jamy ustnej jest zazwyczaj infekcją mieszaną.\n3. Kandydoza jamy ustnej jest najczęstszą infekcją grzybiczą człowieka.\n4. Wskaźniki bezobjawowego nosicielstwa C. albicans wśród zdrowych dorosłych wynoszą poniżej 5%.",
+  "options": {
+   "A": "tylko 1 i 4",
+   "B": "tylko 3 i 4",
+   "C": "wszystkie prawidłowe",
+   "D": "tylko 2 i 3",
+   "E": "tylko 1, 2 i 3"
+  },
+  "correct": "E",
+  "explanation": "Wskaźniki bezobjawowego nosicielstwa C. albicans wśród zdrowych dorosłych wynoszą 30–45%, więc stwierdzenie 4 jest fałszywe; pozostałe są zgodne z tekstem.",
+  "core": true
+ },
+ {
+  "id": "bs-c020-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    51,
+    52
+   ]
+  },
+  "question": "Z czego zbudowane są naloty w kandydozie rzekomobłoniastej jamy ustnej?",
+  "options": {
+   "A": "ze złuszczonych komórek nabłonka, splątanych agregatów strzępek grzybni i fibryny",
+   "B": "z kolonii bakterii beztlenowych i złogów kamienia nazębnego",
+   "C": "z martwiczych mas kostnych i wysięku ropnego pochodzącego z przyzębia",
+   "D": "wyłącznie ze skrzepłej krwi i resztek pokarmowych zalegających na błonie śluzowej",
+   "E": "z nadmiernie zrogowaciałego nabłonka trwale zrośniętego z podłożem"
+  },
+  "correct": "A",
+  "explanation": "Naloty w kandydozie rzekomobłoniastej składają się ze złuszczonych komórek nabłonka, splątanych agregatów strzępek grzybni i fibryny, a rzekomą błonę można usunąć delikatnym przetarciem, odsłaniając zaczerwienioną, mogącą krwawić powierzchnię."
+ },
+ {
+  "id": "bs-c020-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    51,
+    52
+   ]
+  },
+  "type": "clinical",
+  "question": "U dorosłego pacjenta bez żadnych uchwytnych czynników predysponujących rozwinęła się kandydoza obejmująca błonę śluzową jamy ustnej i przełyku, z narastającą dysfagią. Jakie postępowanie diagnostyczne jest szczególnie uzasadnione?",
+  "options": {
+   "A": "podejrzewać zakażenie wirusem HIV i pogłębić diagnostykę w tym kierunku",
+   "B": "rozpoznać reakcję lichenoidalną i odstawić przyjmowane przez pacjenta leki",
+   "C": "uznać zmiany za fizjologiczne u pacjenta użytkującego protezy płytowe",
+   "D": "ograniczyć się do korekty diety ubogowęglowodanowej bez dalszych badań",
+   "E": "wykonać badanie w kierunku zakażenia wirusem brodawczaka ludzkiego"
+  },
+  "correct": "A",
+  "explanation": "U każdego pacjenta, który bez czynników predysponujących rozwija kandydozę jamy ustnej i przełyku, należy podejrzewać infekcję wirusem HIV; zajęcie obu tych lokalizacji jest powszechne u chorych na AIDS.",
+  "core": true
+ },
+ {
+  "id": "bs-c020-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    51,
+    52
+   ]
+  },
+  "question": "W jaki sposób radioterapia w obrębie twarzoczaszki predysponuje do infekcji grzybami drożdżopodobnymi?",
+  "options": {
+   "A": "uszkadza naczynia krwionośne i ślinianki, zmniejszając obronę, regenerację i produkcję śliny",
+   "B": "prowadzi do nadmiernego rogowacenia nabłonka utrudniającego przyleganie grzybni",
+   "C": "wywołuje przerost flory komensalnej, która wypiera prawidłowe mechanizmy obronne",
+   "D": "powoduje wyłącznie mechaniczny uraz błony śluzowej bez wpływu na wydzielanie śliny",
+   "E": "podnosi pH jamy ustnej i zwiększa retencję drożdżaków na powierzchni nabłonka"
+  },
+  "correct": "A",
+  "explanation": "Radioterapia w obrębie twarzoczaszki zmniejsza możliwości obronne i regeneracyjne z powodu uszkodzenia naczyń krwionośnych w okolicy napromienianej oraz obniża produkcję śliny wskutek uszkodzenia ślinianek."
+ },
+ {
+  "id": "bs-c021-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    53,
+    54
+   ]
+  },
+  "question": "Która postać kandydozy jamy ustnej jako jedyna przebiega z dolegliwościami bólowymi?",
+  "options": {
+   "A": "postać rzekomobłoniasta u noworodków",
+   "B": "romboidalne zapalenie środkowej części języka",
+   "C": "przewlekła kandydoza hiperplastyczna",
+   "D": "postać rumieniowa (erythematous candidosis)",
+   "E": "protetyczne zapalenie jamy ustnej"
+  },
+  "correct": "D",
+  "explanation": "Kandydoza rumieniowa objawia się bolesnym, zlokalizowanym obszarem rumieniowym grzbietu języka i podniebienia i jest jedyną formą kandydozy, w której występują objawy bólowe."
+ },
+ {
+  "id": "bs-c021-002",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    53,
+    54
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące przewlekłej kandydozy hiperplastycznej (leukoplakii grzybiczej):\n1. Jest uznawana za stan przednowotworowy.\n2. Zmiany łatwo daje się zetrzeć z powierzchni błony śluzowej.\n3. Silnym czynnikiem ryzyka jest palenie tytoniu.\n4. Zmiany występują zwykle obustronnie w okolicy kąta warg i na bocznej powierzchni języka.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 1, 3 i 4",
+   "C": "tylko 3 i 4",
+   "D": "tylko 2 i 3",
+   "E": "tylko 1 i 2"
+  },
+  "correct": "B",
+  "explanation": "Kandydoza hiperplastyczna jest stanem przednowotworowym, wiąże się z paleniem tytoniu i lokalizuje się obustronnie przy kątach warg i na bocznej powierzchni języka. Stwierdzenie 2 jest fałszywe — tych zmian nie można łatwo zetrzeć.",
+  "core": true
+ },
+ {
+  "id": "bs-c021-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    53,
+    54
+   ]
+  },
+  "question": "Protetyczne zapalenie jamy ustnej o etiologii drożdżakowej występuje u około:",
+  "options": {
+   "A": "50-65% użytkowników protez",
+   "B": "5-10% użytkowników protez",
+   "C": "15-25% użytkowników protez",
+   "D": "30-40% użytkowników protez",
+   "E": "80-95% użytkowników protez"
+  },
+  "correct": "A",
+  "explanation": "Przewlekłe zapalenie błony śluzowej ograniczone do obszaru protezy i spowodowane infekcją grzybami z rodzaju Candida występuje u prawie 50-65% użytkowników protez."
+ },
+ {
+  "id": "bs-c022-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    55,
+    56
+   ]
+  },
+  "question": "Który gatunek drożdżaków wykazuje oporność na flukonazol, o czym należy pamiętać przy leczeniu kandydozy jamy ustnej?",
+  "options": {
+   "A": "Candida glabrata",
+   "B": "Candida tropicalis",
+   "C": "Candida albicans",
+   "D": "Candida krusei",
+   "E": "Candida parapsilosis"
+  },
+  "correct": "D",
+  "explanation": "W rozdziale podkreślono, że Candida krusei wykazuje oporność na flukonazol, dlatego mykogram jest istotnym elementem diagnostyki."
+ },
+ {
+  "id": "bs-c022-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    55,
+    56
+   ]
+  },
+  "question": "Dlaczego nie należy zalecać płukanek z chlorheksydyną w trakcie terapii nystatyną?",
+  "options": {
+   "A": "chlorheksydyna wchodzi w interakcję z warfaryną i statynami",
+   "B": "chlorheksydyna zwiększa zawartość sacharozy w zawiesinie",
+   "C": "chlorheksydyna nasila wchłanianie nystatyny z jelita",
+   "D": "chlorheksydyna uniemożliwia mechaniczne usunięcie nalotu",
+   "E": "chlorheksydyna zmniejsza aktywność przeciwgrzybiczą nystatyny"
+  },
+  "correct": "E",
+  "explanation": "Badania in vitro wykazały, że chlorheksydyna zmniejsza aktywność przeciwgrzybiczą nystatyny, dlatego w czasie terapii nystatyną nie zaleca się płukanek z chlorheksydyną."
+ },
+ {
+  "id": "bs-c022-003",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    55,
+    56
+   ]
+  },
+  "question": "Pacjentka użytkująca protezę całkowitą zgłasza się z bolesnymi pęknięciami w kątach warg oraz zaczerwienieniem błony śluzowej pod płytą protezy. Jakie postępowanie farmakologiczne jest optymalne?",
+  "options": {
+   "A": "antybiotyk beta-laktamowy doustnie przez siedem dni bez leczenia miejscowego",
+   "B": "jednocześnie mikonazol w żelu na kąty warg i nystatyna w zawiesinie do jamy ustnej",
+   "C": "wyłącznie płukanki z chlorheksydyny do ustąpienia objawów miejscowych",
+   "D": "wyłącznie doustny flukonazol przez 14 dni bez leczenia miejscowego",
+   "E": "wyłącznie maść z antybiotykiem na kąty warg bez leczenia błony śluzowej"
+  },
+  "correct": "B",
+  "explanation": "U pacjentów użytkujących protezy zapalenie kątów warg najczęściej współistnieje z protetycznym zapaleniem jamy ustnej — należy wtedy stosować jednocześnie mikonazol w żelu i nystatynę w zawiesinie.",
+  "core": true
+ },
+ {
+  "id": "bs-c023-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    57,
+    60
+   ]
+  },
+  "question": "Jak według klasyfikacji z 2017 roku rozpoznaje się martwicze zapalenie jamy ustnej w odróżnieniu od martwiczego zapalenia przyzębia?",
+  "options": {
+   "A": "gdy pojawia się samoistne krwawienie z dziąseł i ostry ból",
+   "B": "gdy występuje martwica brodawek międzyzębowych i halitoza",
+   "C": "gdy zmiany nekrotyczne przekraczają linię śluzówkowo-dziąsłową",
+   "D": "gdy stwierdza się tworzenie błon rzekomych na dziąsłach",
+   "E": "gdy dochodzi do utraty przyczepu łącznotkankowego i kości"
+  },
+  "correct": "C",
+  "explanation": "Martwicze zapalenie jamy ustnej rozpoznaje się, gdy zmiany nekrotyczne przekraczają linię śluzówkowo-dziąsłową; utrata przyczepu i kości charakteryzuje martwicze zapalenie przyzębia."
+ },
+ {
+  "id": "bs-c023-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    57,
+    60
+   ]
+  },
+  "question": "Jak nazywa się występująca niezwykle rzadko zaawansowana, szybko postępująca zgorzelinowa postać martwiczego zapalenia jamy ustnej, obejmująca znaczne regiony jamy ustnej i tkanki przyległe?",
+  "options": {
+   "A": "zespół Lemierre'a",
+   "B": "zgorzelinowe zapalenie przyzębia młodzieńcze",
+   "C": "ropowica dna jamy ustnej",
+   "D": "noma (rak wodny)",
+   "E": "angina Plauta-Vincenta"
+  },
+  "correct": "D",
+  "explanation": "Zgorzelinowa, szybko postępująca postać obejmująca znaczne regiony jamy ustnej wraz z przyległymi tkankami określana jest jako noma (rak wodny)."
+ },
+ {
+  "id": "bs-c023-003",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    57,
+    60
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące martwiczych chorób jamy ustnej:\n1. Wywołują je bakterie wrzecionowate i krętki, m.in. Prevotella intermedia i Fusobacterium.\n2. W ostatnich stu latach częstość ich występowania w krajach rozwiniętych istotnie wzrosła.\n3. U osób zakażonych HIV występują 2-3 razy częściej i mają szybszą progresję.\n4. U dzieci częściej niż u dorosłych występują gorączka, limfadenopatia i ślinotok.",
+  "options": {
+   "A": "tylko 3 i 4",
+   "B": "tylko 2 i 3",
+   "C": "tylko 1, 3 i 4",
+   "D": "wszystkie prawidłowe",
+   "E": "tylko 1 i 2"
+  },
+  "correct": "C",
+  "explanation": "Etiologia obejmuje bakterie wrzecionowate i krętki, choroba jest częstsza i szybciej postępuje u zakażonych HIV, a u dzieci dominują gorączka, limfadenopatia i ślinotok. Stwierdzenie 2 jest fałszywe — częstość w krajach rozwiniętych istotnie spadła.",
+  "core": true
+ },
+ {
+  "id": "bs-c024-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    61,
+    63
+   ]
+  },
+  "question": "Jaki antybiotyk stosuje się ogólnie we wspomaganiu leczenia martwiczego zapalenia przyzębia u pacjenta uczulonego na metronidazol?",
+  "options": {
+   "A": "doksycyklinę 2 x 100 mg/dobę przez 10 dni",
+   "B": "cyprofloksacynę 2 x 500 mg/dobę przez 7 dni",
+   "C": "amoksycylinę 3 x 250-500 mg/dobę przez 5-7 dni",
+   "D": "azytromycynę 1 x 500 mg/dobę przez 3 dni",
+   "E": "klindamycynę 4 x 600 mg/dobę przez 14 dni"
+  },
+  "correct": "C",
+  "explanation": "W przypadku uczulenia na metronidazol (3 x 250 mg/dobę przez 7 dni) alternatywą jest amoksycylina w dawce 3 x 250-500 mg/dobę przez 5-7 dni."
+ },
+ {
+  "id": "bs-c024-002",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    61,
+    63
+   ]
+  },
+  "question": "Do gabinetu zgłasza się młody pacjent z martwicą brodawek międzyzębowych, samoistnym krwawieniem i błonami rzekomymi. Jakie badanie należy zlecić przed instrumentacją złogów nazębnych?",
+  "options": {
+   "A": "morfologię krwi ze wzorem leukocytarnym w celu wykluczenia białaczki",
+   "B": "oznaczenie stężenia witaminy B12 oraz kwasu foliowego w surowicy",
+   "C": "biopsję dziąsła brzeżnego z badaniem immunofluorescencyjnym",
+   "D": "zdjęcie pantomograficzne z oceną gęstości mineralnej kości",
+   "E": "posiew z kieszonek dziąsłowych z antybiogramem przed każdą wizytą"
+  },
+  "correct": "A",
+  "explanation": "Diagnostyka różnicowa martwiczych zapaleń obejmuje białaczkę, dlatego przed instrumentacją złogów nazębnych należy zlecić morfologię krwi ze wzorem leukocytarnym; wskazane jest też określenie statusu w kierunku HIV.",
+  "core": true
+ },
+ {
+  "id": "bs-c024-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    61,
+    63
+   ]
+  },
+  "question": "Jak często zmiany w jamie ustnej występują w gruźlicy pierwotnej?",
+  "options": {
+   "A": "w około 3% przypadków",
+   "B": "w około 70% przypadków",
+   "C": "w około 30% przypadków",
+   "D": "w około 50% przypadków",
+   "E": "w około 15% przypadków"
+  },
+  "correct": "A",
+  "explanation": "W gruźlicy pierwotnej zmiany w jamie ustnej są stosunkowo rzadkie — dotyczą około 3% przypadków; najczęściej są one wtórne wobec postaci płucnej."
+ },
+ {
+  "id": "bs-c025-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    64,
+    65
+   ]
+  },
+  "question": "Które drobnoustroje odpowiadają za promienicę obszaru szyjno-twarzowego?",
+  "options": {
+   "A": "Gram-dodatnie beztlenowce z rodzaju Actinomyces, głównie A. israeli",
+   "B": "Gram-ujemne pałeczki z gatunku Haemophilus ducreyi",
+   "C": "kwasooporne prątki z gatunku Mycobacterium tuberculosis",
+   "D": "Gram-ujemne tlenowe dwoinki z gatunku Neisseria gonorrhoeae",
+   "E": "Gram-dodatnie paciorkowce beta-hemolizujące grupy A"
+  },
+  "correct": "A",
+  "explanation": "Promienica jest przewlekłą chorobą zakaźną wywoływaną przez komensalne, Gram-dodatnie beztlenowce z rodziny Actinomyces, głównie Actinomyces israeli."
+ },
+ {
+  "id": "bs-c025-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    64,
+    65
+   ]
+  },
+  "question": "Charakterystycznym objawem szkarlatyny w jamie ustnej, wynikającym z hiperplazji brodawek grzybowatych, jest:",
+  "options": {
+   "A": "język włochaty czarny",
+   "B": "romboidalne zapalenie języka",
+   "C": "język truskawkowy",
+   "D": "zanikowe zapalenie języka",
+   "E": "język geograficzny"
+  },
+  "correct": "C",
+  "explanation": "Szkarlatyna ma typowy objaw w jamie ustnej znany jako „język truskawkowy” z powodu hiperplazji brodawek grzybowatych."
+ },
+ {
+  "id": "bs-c025-003",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    64,
+    65
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące rzeżączki jamy ustnej i gardła:\n1. Wywołuje ją Gram-ujemna bakteria tlenowa Neisseria gonorrhoeae.\n2. W wielu przypadkach zakażenie w jamie ustnej przebiega bezobjawowo.\n3. Rozsiana postać rzeżączki występuje u ponad połowy nieleczonych chorych.\n4. Leczenie opiera się na pojedynczej dawce cefalosporyny lub azytromycynie.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 3 i 4",
+   "C": "tylko 1, 2 i 4",
+   "D": "tylko 1 i 3",
+   "E": "tylko 2 i 3"
+  },
+  "correct": "C",
+  "explanation": "Rzeżączkę wywołuje Neisseria gonorrhoeae, często przebiega bezobjawowo, a leczy się ją pojedynczą dawką cefalosporyn lub azytromycyną. Stwierdzenie 3 jest fałszywe — rozsiana rzeżączka występuje rzadko, w około 0,5-3% przypadków.",
+  "core": true
+ },
+ {
+  "id": "bs-c026-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    66,
+    68
+   ]
+  },
+  "question": "Które cechy owrzodzenia przemawiają za wrzodem miękkim (wenerycznym), a nie za kiłą?",
+  "options": {
+   "A": "twarde dno, wygładzone brzegi i samoistne gojenie",
+   "B": "niebolesność, twarde brzegi i brak wydzieliny ropnej",
+   "C": "twarde stwardnienie podłoża i bliznowacenie zmiany",
+   "D": "bolesność, miękkie brzegi i ropna wydzielina w dnie",
+   "E": "niebolesność, ziarninujące dno i szarobiały nalot"
+  },
+  "correct": "D",
+  "explanation": "Wrzód miękki daje bolesne owrzodzenie o miękkich brzegach z sączącą się ropną wydzieliną, podczas gdy dla kiły charakterystyczny jest wrzód twardy, bez ropnej wydzieliny i bez bólu."
+ },
+ {
+  "id": "bs-c026-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    66,
+    68
+   ]
+  },
+  "question": "Jak według przytoczonych danych epidemiologicznych kształtuje się częstość występowania aft nawracających w populacji ogólnej?",
+  "options": {
+   "A": "60-80%, według niektórych źródeł nawet do 90%",
+   "B": "80-95%, według niektórych źródeł prawie 100%",
+   "C": "5-10%, według niektórych źródeł nawet do 15%",
+   "D": "1-5%, według niektórych źródeł nawet do 8%",
+   "E": "17-50%, według niektórych źródeł nawet do 60%"
+  },
+  "correct": "E",
+  "explanation": "Dane dotyczące częstości aft nawracających wahają się w granicach 17-50%, a według niektórych źródeł nawet do 60%, z nieznaczną przewagą wśród kobiet."
+ },
+ {
+  "id": "bs-c026-003",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    66,
+    68
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące etiologii aft nawracających:\n1. Najczęstszym czynnikiem miejscowym sprzyjającym powstawaniu aft jest uraz.\n2. Afty występują częściej u palaczy tytoniu niż u osób niepalących.\n3. U pacjentów z aftami częściej stwierdza się antygeny HLA-A2, HLA-A11 i HLA-B12.\n4. Do najczęstszych czynników predysponujących należą niedobory kwasu foliowego, witaminy B12 i żelaza.",
+  "options": {
+   "A": "tylko 1 i 2",
+   "B": "tylko 1, 3 i 4",
+   "C": "tylko 3 i 4",
+   "D": "tylko 2 i 4",
+   "E": "wszystkie prawidłowe"
+  },
+  "correct": "B",
+  "explanation": "Uraz jest najczęstszym czynnikiem miejscowym, u chorych stwierdza się częstsze występowanie HLA-A2, HLA-A11 i HLA-B12, a niedobory kwasu foliowego, witaminy B12 i żelaza są najczęstszymi czynnikami predysponującymi. Stwierdzenie 2 jest fałszywe — afty występują rzadziej u palaczy.",
+  "core": true
+ },
+ {
+  "id": "bs-c027-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    69,
+    71
+   ]
+  },
+  "question": "Afty nawracające umiejscawiają się przede wszystkim na błonie śluzowej:",
+  "options": {
+   "A": "pokrytej nabłonkiem rogowaciejącym, m.in. dziąseł i podniebienia twardego",
+   "B": "wyrostka zębodołowego w odcinkach bezzębnych",
+   "C": "grzbietu języka w okolicy brodawek okolonych",
+   "D": "pokrytej nabłonkiem nierogowaciejącym, m.in. policzków i warg",
+   "E": "wyłącznie dna jamy ustnej i wędzidełka języka"
+  },
+  "correct": "D",
+  "explanation": "Afty przeważnie umiejscawiają się na błonie śluzowej pokrytej nabłonkiem nierogowaciejącym: na policzkach, krawędziach języka, wargach, w dnie jamy ustnej, na podniebieniu miękkim, łukach podniebiennych i tylnej ścianie gardła."
+ },
+ {
+  "id": "bs-c027-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    69,
+    71
+   ]
+  },
+  "question": "Wykwitem charakterystycznym dla aft dużych (aft Suttona) jest:",
+  "options": {
+   "A": "owrzodzenie o średnicy przekraczającej 1 cm, gojące się z blizną",
+   "B": "nadżerka o średnicy poniżej 0,5 cm, gojąca się bez blizny",
+   "C": "pęcherz podnabłonkowy z płynem surowiczym, pękający po 2 dniach",
+   "D": "grudka pokryta rogowaciejącym nalotem, utrzymująca się 7-14 dni",
+   "E": "nadżerka o średnicy 1-2 mm, występująca w liczbie do 100"
+  },
+  "correct": "A",
+  "explanation": "Afty duże to najcięższa postać RAS — wykwitem są owrzodzenia o średnicy przekraczającej 1 cm, bardziej bolesne od innych postaci i gojące się z pozostawieniem blizn."
+ },
+ {
+  "id": "bs-c027-003",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    69,
+    71
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące aft małych (aft Mikulicza):\n1. Wykwitem jest nadżerka, w której uszkodzenie dotyczy tylko nabłonka.\n2. Zmiany goją się najczęściej w ciągu 7-14 dni bez pozostawiania blizn.\n3. W postaci o łagodnym przebiegu wykwity pojawiają się raz na trzy miesiące lub rzadziej, a ich średnica jest mniejsza od 0,5 cm.\n4. Objawy prodromalne, takie jak pieczenie czy mrowienie, mogą wyprzedzać wykwit o 24-48 godzin.",
+  "options": {
+   "A": "tylko 1, 3 i 4",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 2 i 3",
+   "D": "tylko 3 i 4",
+   "E": "tylko 1 i 2"
+  },
+  "correct": "B",
+  "explanation": "Wszystkie stwierdzenia są zgodne z tekstem: afty małe to nadżerki nabłonka gojące się w 7-14 dni bez blizn, postać łagodna nawraca raz na trzy miesiące lub rzadziej przy średnicy poniżej 0,5 cm, a objawy prodromalne wyprzedzają wykwit o 24-48 godzin.",
+  "core": true
+ },
+ {
+  "id": "bs-c028-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    72,
+    74
+   ]
+  },
+  "question": "Z którym antygenem zgodności tkankowej związany jest zespół Behçeta?",
+  "options": {
+   "A": "HLA-B51",
+   "B": "HLA-DR4",
+   "C": "HLA-B27",
+   "D": "HLA-A11",
+   "E": "HLA-B12"
+  },
+  "correct": "A",
+  "explanation": "Zespół Behçeta to wielosystemowe przewlekłe schorzenie zapalne związane z antygenem zgodności tkankowej HLA-B51."
+ },
+ {
+  "id": "bs-c028-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    72,
+    74
+   ]
+  },
+  "question": "Które cechy odpowiadają aftom opryszczkopodobnym (RAS herpetiform)?",
+  "options": {
+   "A": "niebolesne guzki na podniebieniu twardym, ustępujące samoistnie w 5 tygodni",
+   "B": "pojedyncze owrzodzenia powyżej 1 cm, gojące się z blizną po kilku tygodniach",
+   "C": "rozległe nadżerki wyłącznie na dziąsłach, nawracające raz na kilka lat",
+   "D": "liczne nadżerki o średnicy 1-2 mm, gojące się bez blizn w 7-21 dni",
+   "E": "pęcherzyki na podłożu rumieniowym, poprzedzone gorączką i limfadenopatią"
+  },
+  "correct": "D",
+  "explanation": "Afty opryszczkopodobne to liczne (nawet około 100) drobne nadżerki o średnicy 1-2 mm, trwające 7-21 dni i gojące się bez pozostawienia blizn."
+ },
+ {
+  "id": "bs-c028-003",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    72,
+    74
+   ]
+  },
+  "question": "U pacjenta leczonego od niedawna z powodu głębokiego owrzodzenia błony śluzowej nie obserwuje się zmniejszania zmiany po 14 dniach terapii, a wykwity nie mają charakteru nawrotowego. Jakie postępowanie jest zasadne?",
+  "options": {
+   "A": "wdrożenie ogólnoustrojowej terapii steroidowej i kontrola po kolejnych sześciu tygodniach",
+   "B": "wprowadzenie dzienniczka dietetycznego z eliminacją składników pokarmowych na 21 dni",
+   "C": "podanie doustnych probiotyków i preparatów żelaza bez dalszej diagnostyki",
+   "D": "zastosowanie biostymulacji laserowej i przedłużenie leczenia miejscowego o miesiąc",
+   "E": "pobranie wycinka z pogranicza zmiany i zdrowej błony śluzowej do badania histopatologicznego"
+  },
+  "correct": "E",
+  "explanation": "Przy głębokich owrzodzeniach niewykazujących tendencji do zmniejszania po ponad 14 dniach leczenia zasadne jest pobranie wycinka z pogranicza zmiany i zdrowej błony śluzowej, utrwalenie go w 10% formalinie i weryfikacja histopatologiczna — element profilaktyki onkologicznej.",
+  "core": true
+ },
+ {
+  "id": "bs-c029-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    75,
+    78
+   ]
+  },
+  "question": "Zgodnie z klasyfikacją stanów przedrakowych według Gwieździńskiego do stanów o wysokim (do 50%) ryzyku zezłośliwienia zaliczano m.in.:",
+  "options": {
+   "A": "liszaj płaski",
+   "B": "owrzodzenia warg",
+   "C": "erytroplakię",
+   "D": "gruźlicę toczniową",
+   "E": "leukoplakię"
+  },
+  "correct": "C",
+  "explanation": "W klasyfikacji Gwieździńskiego do stanów o wysokim ryzyku (do 50%) należała m.in. erytroplakia; leukoplakia miała ryzyko średnie (10-20%), a liszaj płaski i gruźlica toczniowa niskie (1-5%)."
+ },
+ {
+  "id": "bs-c029-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    75,
+    78
+   ]
+  },
+  "question": "Jak eksperci WHO definiują potencjalnie złośliwe zaburzenia błony śluzowej jamy ustnej (OPMD)?",
+  "options": {
+   "A": "jako zaburzenie budowy błony śluzowej statystycznie powiązane ze zwiększonym ryzykiem rozwoju raka jamy ustnej",
+   "B": "jako zmianę nabłonka z potwierdzoną histologicznie dysplazją co najmniej średniego stopnia",
+   "C": "jako wykwit błony śluzowej, który w ciągu pięciu lat ulega transformacji nowotworowej",
+   "D": "jako białą zmianę błony śluzowej powstałą wyłącznie w wyniku ekspozycji na tytoń",
+   "E": "jako nowotwór in situ ograniczony do warstwy podstawnej nabłonka jamy ustnej"
+  },
+  "correct": "A",
+  "explanation": "Według ekspertów WHO OPMD określa się jako zaburzenie budowy błony śluzowej statystycznie powiązane ze zwiększonym ryzykiem rozwoju raka jamy ustnej."
+ },
+ {
+  "id": "bs-c029-003",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    75,
+    78
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące OPMD:\n1. Ryzyko nowotworzenia waha się od około 1% dla liszaja płaskiego do 50% dla erytroplakii i leukoplakii rozrostowej brodawkującej.\n2. Podstawowym czynnikiem ryzyka raka i OPMD jest tytoń i produkty tytoniowe.\n3. W przypadku OPMD możliwa jest wiarygodna statystyczna prognoza progresji zmiany.\n4. Do czynników ryzyka należą onkogenne typy HPV 16 i 18 przekazywane podczas seksu oralnego.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 1 i 3",
+   "C": "tylko 1, 2 i 4",
+   "D": "tylko 2 i 3",
+   "E": "tylko 3 i 4"
+  },
+  "correct": "C",
+  "explanation": "Ryzyko waha się od 1% dla liszaja płaskiego do 50% dla erytroplakii i leukoplakii rozrostowej brodawkującej, podstawowym czynnikiem ryzyka jest tytoń, a wśród pozostałych wymienia się HPV 16 i 18. Stwierdzenie 3 jest fałszywe — statystyczna prognoza progresji nie jest możliwa.",
+  "core": true
+ },
+ {
+  "id": "bs-c030-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    79,
+    80
+   ]
+  },
+  "question": "Zgodnie z podziałem Pindborga leukoplakię cętkowaną (erytroleukoplakię) zalicza się do postaci:",
+  "options": {
+   "A": "homogennej cienkiej",
+   "B": "odczynowej",
+   "C": "homogennej grubej",
+   "D": "idiopatycznej",
+   "E": "niehomogennej"
+  },
+  "correct": "E",
+  "explanation": "W podziale Pindborga leukoplakia niehomogenna dzieli się na guzkową, brodawkującą i cętkowaną, której synonimem jest erytroleukoplakia."
+ },
+ {
+  "id": "bs-c030-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    79,
+    80
+   ]
+  },
+  "question": "O ile większe jest ryzyko transformacji nowotworowej w przypadku leukoplakii niehomogennej?",
+  "options": {
+   "A": "dziesięciokrotnie",
+   "B": "dwudziestokrotnie",
+   "C": "dwukrotnie",
+   "D": "sześciokrotnie",
+   "E": "trzykrotnie"
+  },
+  "correct": "D",
+  "explanation": "Uważa się, że w przypadku leukoplakii niehomogennej ryzyko transformacji nowotworowej jest sześciokrotnie większe; komórki nowotworowe stwierdzano w 12% takich przypadków."
+ },
+ {
+  "id": "bs-c030-003",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    79,
+    80
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące leukoplakii:\n1. Biała powierzchnia płytki nie daje się oczyścić pocieraniem.\n2. Leukoplakia jest pojęciem klinicznym, a rozpoznanie polega na wykluczeniu innej zmiany białej lub biało-czerwonej.\n3. Termin „keratoza” powinien być używany samodzielnie jako rozpoznanie kliniczne.\n4. Szczególnej uwagi wymaga leukoplakia dna jamy ustnej i trójkąta zatrzonowcowego ze względu na ryzyko szybkich przerzutów.",
+  "options": {
+   "A": "tylko 3 i 4",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 1, 2 i 4",
+   "D": "tylko 1 i 3",
+   "E": "tylko 2 i 3"
+  },
+  "correct": "C",
+  "explanation": "Płytka leukoplakii nie daje się zetrzeć, rozpoznanie jest kliniczne i oparte na wykluczeniu innych zmian, a lokalizacja w dnie jamy ustnej i trójkącie zatrzonowcowym grozi szybkimi przerzutami. Stwierdzenie 3 jest fałszywe — „keratoza” to pojęcie histologiczne i nie powinno być używane samodzielnie klinicznie.",
+  "core": true
+ },
+ {
+  "id": "bs-c031-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    81,
+    83
+   ]
+  },
+  "question": "Jaka zmiana dominuje w obrazie histopatologicznym leukoplakii?",
+  "options": {
+   "A": "zanik nabłonka z poszerzeniem naczyń włosowatych",
+   "B": "akantoza, czyli zgrubienie warstwy kolczystej nabłonka",
+   "C": "degeneracja kolagenu i elastoza blaszki właściwej",
+   "D": "akantoliza w obrębie warstwy kolczystej nabłonka",
+   "E": "pęcherze podnabłonkowe z naciekiem eozynofilowym"
+  },
+  "correct": "B",
+  "explanation": "W obrazie histologicznym leukoplakii dominuje akantoza, czyli zgrubienie warstwy kolczystej nabłonka; stwierdza się również wydłużenie sopli nabłonkowych."
+ },
+ {
+  "id": "bs-c031-002",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    81,
+    83
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące leukoplakii rozrostowej brodawkującej:\n1. Według badań rak jamy ustnej rozwija się z niemal 50% zmian.\n2. Pojawia się częściej u młodych mężczyzn.\n3. Najczęstsze lokalizacje to dziąsła, policzki i język.\n4. W obecnym stanie wiedzy schorzenie jest nieuleczalne.",
+  "options": {
+   "A": "tylko 1 i 2",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 2 i 4",
+   "D": "tylko 3 i 4",
+   "E": "tylko 1, 3 i 4"
+  },
+  "correct": "E",
+  "explanation": "Leukoplakia brodawkująca jest obarczona najwyższym ryzykiem zezłośliwienia (rak rozwija się z niemal 50% zmian), zajmuje najczęściej dziąsła, policzki i język i pozostaje nieuleczalna; pojawia się jednak częściej u kobiet i w starszym wieku.",
+  "core": true
+ },
+ {
+  "id": "bs-c031-003",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    81,
+    83
+   ]
+  },
+  "question": "U pacjenta na pierwszej wizycie stwierdzono białą plamę na błonie śluzowej policzka w linii zgryzu. Jakie postępowanie jest w pierwszej kolejności właściwe?",
+  "options": {
+   "A": "rozległe wycięcie chirurgiczne zmiany bez badania histopatologicznego",
+   "B": "obserwacja wykwitu przez rok bez podejmowania jakichkolwiek działań",
+   "C": "poszukiwanie i eliminacja czynnika urazowego odpowiadającego lokalizacji wykwitu",
+   "D": "przewlekłe miejscowe stosowanie leków przeciwgrzybiczych i przeciwzapalnych",
+   "E": "natychmiastowe wdrożenie terapii fotodynamicznej z kwasem 5-aminolewulinowym"
+  },
+  "correct": "C",
+  "explanation": "Ponieważ na pierwszej wizycie nie można klinicznie określić czasu trwania zmiany, przy białej plamie należy najpierw szukać odpowiadającego jej lokalizacji czynnika urazowego i dążyć do jego eliminacji; nierzadko dochodzi wtedy do samoistnego wygojenia.",
+  "core": true
+ },
+ {
+  "id": "bs-c032-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    84,
+    85
+   ]
+  },
+  "question": "Jakie działanie powinno być jednym z pierwszych u pacjenta z leukoplakią i podejrzeniem nadkażenia grzybiczego?",
+  "options": {
+   "A": "natychmiastowe napromienianie zmiany w ośrodku referencyjnym",
+   "B": "przewlekłe stosowanie antybiotyków o szerokim spektrum działania",
+   "C": "odroczenie wszelkiej diagnostyki o co najmniej sześć miesięcy",
+   "D": "podanie leków przeciwgrzybiczych, co znacząco poprawia obraz kliniczny",
+   "E": "wdrożenie ogólnej terapii immunosupresyjnej na kilka tygodni"
+  },
+  "correct": "D",
+  "explanation": "Candida indukuje przerost nabłonka, a wrastanie grzybni w płytkę leukoplakii zmienia obraz kliniczny i histopatologiczny (kandydoleukoplakia); wstępna terapia przeciwgrzybicza znacząco poprawia obraz kliniczny."
+ },
+ {
+  "id": "bs-c032-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    84,
+    85
+   ]
+  },
+  "question": "Do dziedzicznych zespołów predysponujących do raka, nieujętych w klasyfikacji WHO zaburzeń potencjalnie złośliwiejących, należy:",
+  "options": {
+   "A": "zespół Behçeta z nawracającymi aftami",
+   "B": "zespół Sjögrena z suchością błon śluzowych",
+   "C": "zespół Sturge'a-Webera z naczyniakiem twarzy",
+   "D": "zespół Melkerssona-Rosenthala z obrzękiem warg",
+   "E": "zespół Plummera-Vinsona (Pattersona-Kelly'ego)"
+  },
+  "correct": "E",
+  "explanation": "W klasyfikacji WHO nie ujęto dziedzicznych zespołów predysponujących do raka, do których zaliczono m.in. niedokrwistość Fanconiego, skórę pergaminową, zespół Plummera-Vinsona, zespół Blooma, Li-Fraumeni, ataksja-teleangiektazja i Cowdena."
+ },
+ {
+  "id": "bs-c032-003",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    84,
+    85
+   ]
+  },
+  "question": "Pacjent hematologiczny po alogenicznym przeszczepie komórek macierzystych, leczony immunosupresyjnie, zgłasza ból przy jedzeniu; na błonie śluzowej policzków i bocznej powierzchni języka widoczne są zmiany zanikowe i nadżerki przypominające liszaj płaski. Co należy podejrzewać?",
+  "options": {
+   "A": "zmiany w jamie ustnej w przebiegu choroby przeszczep vs gospodarz",
+   "B": "zmiany w jamie ustnej w przebiegu tocznia rumieniowatego",
+   "C": "pęcherzowe oddzielanie się naskórka (epidermolysis bullosa)",
+   "D": "zmiany wywołane przez wirusa brodawczaka (kłykciny kończyste)",
+   "E": "przewlekłą przerostową postać kandydozy jamy ustnej"
+  },
+  "correct": "A",
+  "explanation": "Chorobę przeszczep vs gospodarz stwierdza się najczęściej po przeszczepie komórek macierzystych; daje zmiany zanikowe, nadżerki i owrzodzenia przypominające liszaj płaski, zajmujące głównie policzki i boczną powierzchnię języka, z bólem przy przyjmowaniu pokarmów.",
+  "core": true
+ },
+ {
+  "id": "bs-c033-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    86,
+    87
+   ]
+  },
+  "question": "Według przytoczonej metaanalizy średni odsetek zezłośliwień dla wszystkich zaburzeń potencjalnie złośliwiejących (OPMD) wynosi około:",
+  "options": {
+   "A": "0,9%",
+   "B": "3,6%",
+   "C": "7,9%",
+   "D": "24,5%",
+   "E": "49,5%"
+  },
+  "correct": "C",
+  "explanation": "Według metaanalizy średni odsetek zezłośliwień wszystkich OPMD wynosił 7,9%, przy czym najwyższy, 49,5%, dotyczył leukoplakii brodawkującej."
+ },
+ {
+  "id": "bs-c033-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    86,
+    87
+   ]
+  },
+  "question": "Które ze zmian stanowią przeciwwskazanie do pobierania materiału histopatologicznego przez lekarza ogólnie praktykującego?",
+  "options": {
+   "A": "zmiany brodawkujące na wyrostku zębodołowym",
+   "B": "nadżerki utrzymujące się dłużej niż 2 tygodnie",
+   "C": "białe tarczki na błonie śluzowej policzka",
+   "D": "plamy barwnikowe błony śluzowej jamy ustnej",
+   "E": "guzki ze stwardnieniem podłoża na podniebieniu"
+  },
+  "correct": "D",
+  "explanation": "Przeciwwskazaniem dla lekarza ogólnie praktykującego są plamy barwnikowe (ryzyko nierozpoznania czerniaka i zbyt małego marginesu), naczyniaki krwionośne oraz bardzo mocne podejrzenie raka płaskonabłonkowego."
+ },
+ {
+  "id": "bs-c033-003",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    86,
+    87
+   ]
+  },
+  "question": "U pacjenta stwierdzono owrzodzenie na bocznej powierzchni języka, które według wywiadu nie goi się od 14 dni. Jakie postępowanie jest wskazane?",
+  "options": {
+   "A": "wykonanie badania histopatologicznego zmiany",
+   "B": "kontrolne badanie chemiluminescencyjne za miesiąc",
+   "C": "dalsza obserwacja zmiany przez kolejne trzy miesiące",
+   "D": "rutynowe barwienie przyżyciowe tkanki zmienionej",
+   "E": "wykonanie badania autofluorescencyjnego błony śluzowej"
+  },
+  "correct": "A",
+  "explanation": "Owrzodzenia utrzymujące się dłużej niż 2 tygodnie są wskazaniem do badania histopatologicznego, a w obserwacji nie należy przekraczać okresu 14 dni; barwienie przyżyciowe, chemiluminescencja i autofluorescencja nie mają rekomendacji w diagnostyce OPMD.",
+  "core": true
+ },
+ {
+  "id": "bs-c034-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    88,
+    92
+   ]
+  },
+  "question": "Jaki odsetek przypadków pęcherzycy stanowi pęcherzyca zwykła?",
+  "options": {
+   "A": "około 40%",
+   "B": "około 70%",
+   "C": "około 95%",
+   "D": "około 55%",
+   "E": "około 20%"
+  },
+  "correct": "B",
+  "explanation": "Pęcherzyca zwykła stanowi 70% przypadków pęcherzycy, a pęcherzyca liściasta około 20%; pęcherzyca paraneoplastyczna występuje rzadko."
+ },
+ {
+  "id": "bs-c034-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    88,
+    92
+   ]
+  },
+  "question": "Delikatne uciśnięcie nienaruszonego pęcherza, które prowadzi do bocznego szerzenia się zmiany, określa się jako:",
+  "options": {
+   "A": "objaw Asboe-Hansena, pośredni objaw Nikolskiego",
+   "B": "objaw złuszczania w obrębie dziąseł brzeżnych",
+   "C": "objaw sieci rybackiej w warstwie kolczystej nabłonka",
+   "D": "objaw Köbnera wywołany drażnieniem mechanicznym",
+   "E": "objaw tarczy strzelniczej z koncentrycznymi strefami"
+  },
+  "correct": "A",
+  "explanation": "Delikatne uciśnięcie nienaruszonego pęcherza prowadzące do bocznego szerzenia się zmiany to objaw Asboe-Hansena, czyli pośredni objaw Nikolskiego; sam objaw Nikolskiego to spełzanie warstw naskórka po potarciu skóry klinicznie zdrowej."
+ },
+ {
+  "id": "bs-c034-003",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    88,
+    92
+   ]
+  },
+  "question": "U 55-letniej pacjentki od kilku tygodni utrzymują się nawracające, coraz bardziej bolesne nadżerki na policzkach i podniebieniu, a wargi pokrywają krwotoczne strupy; pocieranie zdrowej błony śluzowej powoduje spełzanie nabłonka. Jakie postępowanie jest właściwe?",
+  "options": {
+   "A": "zalecenie płukanek z chlorheksydyny i kontrola za pół roku",
+   "B": "odroczenie diagnostyki do czasu samoistnego ustąpienia zmian",
+   "C": "wycięcie nadżerek w gabinecie i obserwacja gojenia",
+   "D": "skierowanie pacjentki do szpitalnego oddziału dermatologicznego",
+   "E": "wdrożenie wyłącznie miejscowego leczenia przeciwgrzybiczego"
+  },
+  "correct": "D",
+  "explanation": "Opisany obraz odpowiada pęcherzycy zwykłej z dodatnim objawem Nikolskiego; pęcherzycę należy traktować jako chorobę zagrażającą życiu, więc pacjenta z objawami na błonie śluzowej kieruje się do szpitalnego oddziału dermatologicznego.",
+  "core": true
+ },
+ {
+  "id": "bs-c035-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    93,
+    95
+   ]
+  },
+  "question": "Skąd należy pobrać materiał do badania immunofluorescencji bezpośredniej (DIF) u pacjenta ze zmianami pęcherzowymi?",
+  "options": {
+   "A": "z tkanki klinicznie zdrowej, w odległości nie większej niż 1 cm od zmiany",
+   "B": "z dna zmiany po uprzednim usunięciu włóknika i strzępków nabłonka",
+   "C": "z pogranicza zmiany i tkanki zdrowej, po utrwaleniu w formalinie",
+   "D": "z okolicy odległej od zmian, najlepiej z przeciwstawnego łuku zębowego",
+   "E": "z centralnej części największej, w pełni rozwiniętej nadżerki"
+  },
+  "correct": "A",
+  "explanation": "Do badania DIF materiał pobiera się z tkanki wyglądającej klinicznie na zdrową, w odległości nie większej niż 1 cm od zmiany, i przechowuje w płynie Michela lub 0,9% NaCl; materiał histopatologiczny pobiera się z pogranicza zmiany i utrwala w formalinie."
+ },
+ {
+  "id": "bs-c035-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    93,
+    95
+   ]
+  },
+  "question": "Obraz „sieci rybackiej” w badaniu immunofluorescencji bezpośredniej w pęcherzycy odpowiada złogom:",
+  "options": {
+   "A": "immunoglobulin i/lub C3 w przestrzeniach międzykomórkowych warstwy kolczystej",
+   "B": "przeciwciał przeciwjądrowych w komórkach warstwy podstawnej",
+   "C": "linijnym immunoglobulin i/lub C3 wzdłuż błony podstawnej nabłonka",
+   "D": "IgA w szczytach brodawek blaszki właściwej pod nabłonkiem",
+   "E": "fibrynogenu i IgM w obrębie ścian naczyń blaszki właściwej"
+  },
+  "correct": "A",
+  "explanation": "W pęcherzycy badanie DIF wykazuje złogi immunoglobulin i/lub składowej C3 dopełniacza w przestrzeniach międzykomórkowych warstwy kolczystej, co daje obraz „sieci rybackiej”."
+ },
+ {
+  "id": "bs-c035-003",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    93,
+    95
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące pemfigoidu pęcherzowego:\n1. Dotyczy najczęściej osób starszych, po 60. roku życia.\n2. Autoprzeciwciała skierowane są przeciwko białkom BP180 i BP230.\n3. Jest najczęstszą autoimmunologiczną podnaskórkową dermatozą pęcherzową w Europie.\n4. Zmiany skórne lokalizują się głównie na dłoniach i podeszwach stóp.",
+  "options": {
+   "A": "tylko 1, 2 i 3",
+   "B": "tylko 1 i 2",
+   "C": "tylko 3 i 4",
+   "D": "tylko 2 i 4",
+   "E": "wszystkie prawidłowe"
+  },
+  "correct": "A",
+  "explanation": "Pemfigoid pęcherzowy dotyczy głównie osób po 60. r.ż., jest najczęstszą autoimmunologiczną podnaskórkową dermatozą pęcherzową w Europie, a autoprzeciwciała klasy IgG kierowane są przeciw BP180 i BP230; obszarami predykcyjnymi dla zmian skórnych są szyja, pachy, pachwiny, uda i brzuch.",
+  "core": true
+ },
+ {
+  "id": "bs-c036-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    96,
+    98
+   ]
+  },
+  "question": "Jaki odsetek pacjentów z pemfigoidem błon śluzowych (bliznowaciejącym) ma zajętą jamę ustną?",
+  "options": {
+   "A": "około 60%",
+   "B": "około 10%",
+   "C": "około 25%",
+   "D": "około 90%",
+   "E": "około 40%"
+  },
+  "correct": "D",
+  "explanation": "W pemfigoidzie błon śluzowych około 90% pacjentów ma zajętą jamę ustną (najczęściej dziąsła, policzki i podniebienie), a spojówki są zajęte u około 40% chorych."
+ },
+ {
+  "id": "bs-c036-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    96,
+    98
+   ]
+  },
+  "question": "Co stwierdza się w badaniu immunofluorescencji bezpośredniej (DIF) w pemfigoidzie?",
+  "options": {
+   "A": "ziarniste złogi IgA w szczytach brodawek blaszki właściwej",
+   "B": "złogi IgM i C3 wyłącznie wokół naczyń blaszki właściwej",
+   "C": "świecenie przeciwciał przeciwjądrowych komórek warstwy podstawnej",
+   "D": "linijne złogi IgG i/lub C3 dopełniacza wzdłuż błony podstawnej",
+   "E": "złogi IgG w przestrzeniach międzykomórkowych warstwy kolczystej"
+  },
+  "correct": "D",
+  "explanation": "W pemfigoidzie w badaniu DIF widoczne są linijne złogi IgG i/lub C3 dopełniacza wzdłuż błony podstawnej, a w obrazie histopatologicznym pęcherze podnabłonkowe bez akantolizy, z naciekiem eozynofilów i limfocytów."
+ },
+ {
+  "id": "bs-c036-003",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    96,
+    98
+   ]
+  },
+  "question": "U 28-letniego mężczyzny, około tygodnia po epizodzie opryszczki wargowej, wystąpiły nagle symetryczne zmiany na wyprostnych powierzchniach kończyn górnych o charakterze tarcz strzelniczych oraz bolesne nadżerki w jamie ustnej. Jakie rozpoznanie jest najbardziej prawdopodobne?",
+  "options": {
+   "A": "liszaj płaski typu pemfigoidu z silnym świądem",
+   "B": "pemfigoid błon śluzowych bliznowaciejący",
+   "C": "pęcherzyca liściasta z zajęciem czerwieni wargowej",
+   "D": "rumień wielopostaciowy w postaci EM major",
+   "E": "złuszczające zapalenie dziąseł w przebiegu pemfigoidu"
+  },
+  "correct": "D",
+  "explanation": "Rumień wielopostaciowy występuje głównie u młodych dorosłych z predylekcją do płci męskiej, w 70–90% jest prowokowany przez HSV (opryszczka wargowa wyprzedza wysiew o 3–14 dni), a zajęcie błon śluzowych obok tarcz strzelniczych odpowiada postaci EM major.",
+  "core": true
+ },
+ {
+  "id": "bs-c037-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    99,
+    101
+   ]
+  },
+  "question": "Jaki wskaźnik różnicuje zespół Stevensa-Johnsona (SJS) od toksycznej nekrolizy naskórka (TEN)?",
+  "options": {
+   "A": "obecność lub brak dodatniego objawu Nikolskiego w fazie ostrej",
+   "B": "rodzaj złogów immunoglobulin stwierdzanych w badaniu DIF",
+   "C": "czas, jaki upłynął od pierwszego podania leku przyczynowego",
+   "D": "obecność lub brak zajęcia błony śluzowej jamy ustnej i warg",
+   "E": "odsetek powierzchni skóry zajętej zmianami z oddzielaniem naskórka"
+  },
+  "correct": "E",
+  "explanation": "SJS i TEN uznaje się za spektrum tej samej choroby, a wskaźnikiem różnicującym jest stopień zajęcia powierzchni skóry: do 10% to SJS, 10–30% zespół nakładania, a powyżej 30% — TEN."
+ },
+ {
+  "id": "bs-c037-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    99,
+    101
+   ]
+  },
+  "question": "Najważniejszym czynnikiem prowokującym wystąpienie SJS i TEN, odpowiadającym za około 90% przypadków, są:",
+  "options": {
+   "A": "urazy mechaniczne skóry i błon śluzowych",
+   "B": "ekspozycja na promieniowanie ultrafioletowe",
+   "C": "leki, m.in. allopurynol, sulfonamidy i karbamazepina",
+   "D": "zakażenia wirusem opryszczki zwykłej typu 1",
+   "E": "przewlekłe ogniska zapalne zębopochodne"
+  },
+  "correct": "C",
+  "explanation": "SJS i TEN są skórno-śluzówkowymi odczynami polekowymi — leki odpowiadają za 90% przypadków, m.in. allopurynol, sulfonamidy, aminopenicyliny, chinolony, cefalosporyny, tetracykliny, NLPZ, karbamazepina i lamotrygina."
+ },
+ {
+  "id": "bs-c037-003",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    99,
+    101
+   ]
+  },
+  "question": "U pacjentki 10 dni po włączeniu allopurynolu wystąpiły gorączka, zlewne zmiany rumieniowe z pęcherzami, dodatni objaw Nikolskiego oraz bardzo bolesne nadżerki w jamie ustnej. Jakie postępowanie jest priorytetowe?",
+  "options": {
+   "A": "wykonanie testów płatkowych i kontrola ambulatoryjna za dwa tygodnie",
+   "B": "szybkie odstawienie leku przyczynowego i skierowanie do oddziału szpitalnego",
+   "C": "miejscowe leczenie przeciwbólowe w gabinecie i utrzymanie dotychczasowych leków",
+   "D": "pobranie wycinka do badania immunofluorescencyjnego przed jakimkolwiek leczeniem",
+   "E": "zwiększenie dawki leku przyczynowego w celu wywołania tolerancji"
+  },
+  "correct": "B",
+  "explanation": "W SJS/TEN należy szybko zidentyfikować i odstawić lek przyczynowy, co może zredukować ryzyko zgonu o 30%, a pacjenta natychmiast skierować do oddziału szpitalnego (dla TEN ośrodkiem referencyjnym jest oddział intensywnej terapii).",
+  "core": true
+ },
+ {
+  "id": "bs-c038-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    102,
+    103
+   ]
+  },
+  "question": "Z jaką częstością występuje liszaj płaski i kiedy przypada szczyt zachorowań?",
+  "options": {
+   "A": "1–2% populacji, ze szczytem w 30.–60. roku życia",
+   "B": "1–2% populacji, ze szczytem w 10.–20. roku życia",
+   "C": "8–10% populacji, ze szczytem w 30.–60. roku życia",
+   "D": "8–10% populacji, ze szczytem po 70. roku życia",
+   "E": "poniżej 0,1% populacji, ze szczytem w wieku dziecięcym"
+  },
+  "correct": "A",
+  "explanation": "Liszaj płaski występuje z częstością 1–2% ze szczytem zachorowań w 30.–60. roku życia; bardzo rzadko obserwuje się go u dzieci."
+ },
+ {
+  "id": "bs-c038-002",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    102,
+    103
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące liszaja płaskiego jamy ustnej (OLP):\n1. Wykwitem pierwotnym jest płasko-wyniosła, biała grudka.\n2. U 20% pacjentów zmiany lokalizują się wyłącznie w jamie ustnej.\n3. Objaw Köbnera jest w tej chorobie ujemny.\n4. Postać siateczkowata jest najczęstsza i zajmuje symetrycznie policzki.",
+  "options": {
+   "A": "wszystkie prawidłowe",
+   "B": "tylko 1, 2 i 4",
+   "C": "tylko 1 i 3",
+   "D": "tylko 3 i 4",
+   "E": "tylko 2 i 3"
+  },
+  "correct": "B",
+  "explanation": "Wykwitem pierwotnym OLP jest płasko-wyniosła biała grudka, u 20% chorych zmiany są wyłącznie w jamie ustnej, a postać siateczkowata jest najczęstsza i obejmuje symetrycznie policzki; objaw Köbnera jest w liszaju płaskim dodatni, o czym świadczy pojawianie się zmian w miejscach traumatyzowanych.",
+  "core": true
+ },
+ {
+  "id": "bs-c038-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    102,
+    103
+   ]
+  },
+  "question": "Z zakażeniem którym wirusem wiąże się liszaj płaski, zwłaszcza jego postać nadżerkowa, jako objaw pozanarządowy?",
+  "options": {
+   "A": "wirusem cytomegalii (CMV)",
+   "B": "wirusem brodawczaka ludzkiego typu 16",
+   "C": "wirusem Epsteina-Barr (EBV)",
+   "D": "wirusem zapalenia wątroby typu C (HCV)",
+   "E": "ludzkim herpeswirusem typu 8 (HHV8)"
+  },
+  "correct": "D",
+  "explanation": "Liszaj płaski może być jednym z objawów pozawątrobowych wirusowego zapalenia wątroby typu C, a odsetek chorych na WZW C jest statystycznie większy wśród pacjentów z liszajem płaskim niż w populacji ogólnej; rola HSV1, EBV, CMV i HHV rozważana jest raczej jako infekcja wtórna."
+ },
+ {
+  "id": "bs-c039-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    104,
+    105
+   ]
+  },
+  "question": "Które cechy mikroskopowe są charakterystyczne dla wycinka z liszaja płaskiego jamy ustnej?",
+  "options": {
+   "A": "akantoliza w warstwie kolczystej i pęcherze śródnabłonkowe bez nacieku zapalnego",
+   "B": "przerost nabłonka z elastozą i degeneracją kolagenu blaszki właściwej",
+   "C": "zlewna martwica nabłonka z okołonaczyniowym naciekiem neutrofilowym",
+   "D": "pęcherze podnabłonkowe z obfitym naciekiem eozynofilowym w blaszce właściwej",
+   "E": "ciałka Civatte'a, sople nabłonkowe o wyglądzie zębów piły i pasmo nacieku limfocytarnego"
+  },
+  "correct": "E",
+  "explanation": "W obrazie mikroskopowym OLP widoczne są zwyrodnienie wodniczkowe komórek warstwy podstawnej, apoptotyczne keratynocyty (ciałka Civatte'a), sople nabłonkowe o wyglądzie „zębów piły” i gęste pasmo nacieku limfocytarnego pod nabłonkiem."
+ },
+ {
+  "id": "bs-c039-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    104,
+    105
+   ]
+  },
+  "question": "Jak często należy monitorować pacjentów ze zwiększonym ryzykiem transformacji nowotworowej zmian liszaja płaskiego?",
+  "options": {
+   "A": "nie rzadziej niż raz na dwa tygodnie",
+   "B": "jednorazowo po zakończeniu leczenia miejscowego",
+   "C": "wyłącznie w razie wystąpienia dolegliwości bólowych",
+   "D": "nie rzadziej niż raz na trzy miesiące",
+   "E": "nie rzadziej niż raz na dwa lata"
+  },
+  "correct": "D",
+  "explanation": "Zwiększone ryzyko transformacji dotyczy postaci nadżerkowej i zanikowej (od 0,3 do 12,5%), a pacjentów z tym ryzykiem powinno się monitorować nie rzadziej niż raz na trzy miesiące."
+ },
+ {
+  "id": "bs-c039-003",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    104,
+    105
+   ]
+  },
+  "question": "U pacjenta leczonego doustnie z powodu cukrzycy i nadciśnienia tętniczego stwierdzono zmiany o obrazie klinicznym liszaja płaskiego w jamie ustnej i na skórze. Jakie rozpoznanie należy rozważyć?",
+  "options": {
+   "A": "liszajowate zmiany kontaktowe na amalgamat",
+   "B": "zespół Grinspana jako liszajowatą reakcję tkankową na leki",
+   "C": "chorobę przeszczep przeciw gospodarzowi (GvHD)",
+   "D": "przewlekłe wrzodziejące zapalenie jamy ustnej (CUS)",
+   "E": "pęcherzową postać liszaja płaskiego jamy ustnej"
+  },
+  "correct": "B",
+  "explanation": "Zespół Grinspana to przykład liszajowatej reakcji tkankowej na leki: zmiany liszaja płaskiego w jamie ustnej i na skórze u pacjenta leczonego farmakologicznie z powodu cukrzycy i nadciśnienia, częściej u leczonych lekami doustnymi niż insuliną.",
+  "core": true
+ },
+ {
+  "id": "bs-c040-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    106,
+    107
+   ]
+  },
+  "question": "Zgodnie z wytycznymi Europejskiego Forum Dermatologicznego podstawą pierwszej linii leczenia liszaja płaskiego jamy ustnej jest:",
+  "options": {
+   "A": "miejscowa aplikacja silnych steroidów",
+   "B": "miejscowe podanie inhibitorów kalcyneuryny",
+   "C": "ogólne podanie cyklofosfamidu i metotreksatu",
+   "D": "fototerapia PUVA skojarzona z dapsonem",
+   "E": "ogólne podanie sulfasalazyny lub azatiopryny"
+  },
+  "correct": "A",
+  "explanation": "W pierwszej linii leczenia stosuje się miejscowo silne steroidy (a w opornych formach nadżerkowych iniekcje preparatów steroidowych); takrolimus i pimekrolimus należą do drugiej linii, a PUVA i cyklofosfamid do trzeciej.",
+  "core": true
+ },
+ {
+  "id": "bs-c040-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    106,
+    107
+   ]
+  },
+  "question": "Jakie zalecenia powinien otrzymać pacjent z bezobjawową, siateczkową postacią liszaja płaskiego jamy ustnej?",
+  "options": {
+   "A": "przewlekłe płukanie jamy ustnej roztworami chlorheksydyny i alkoholu",
+   "B": "ograniczenie środków drażniących i regularne wizyty kontrolne co 3 miesiące",
+   "C": "natychmiastowe chirurgiczne wycięcie wszystkich ognisk siateczkowych",
+   "D": "wdrożenie ogólnego leczenia retinoidami i cyklosporyną",
+   "E": "dieta oparta na potrawach pikantnych, kwaśnych i gorących"
+  },
+  "correct": "B",
+  "explanation": "W postaci grudkowej i siateczkowej bez zapalenia i dolegliwości nie podejmuje się dalszych kroków leczniczych, a pacjent zgłasza się na kontrole co 3 miesiące; zaleca się eliminację czynników drażniących, ograniczenie alkoholu i chlorheksydyny oraz wykluczenie potraw pikantnych, kwaśnych, słonych, twardych i gorących."
+ },
+ {
+  "id": "bs-c040-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    106,
+    107
+   ]
+  },
+  "question": "Reakcja alergiczna typu I (natychmiastowa, anafilaktyczna) przebiega z udziałem:",
+  "options": {
+   "A": "kompleksów immunologicznych odkładanych w ścianach naczyń",
+   "B": "makrofagów prezentujących antygen w węzłach chłonnych szyi",
+   "C": "cytotoksycznych limfocytów T w mechanizmie odczynu opóźnionego",
+   "D": "przeciwciał klasy IgE związanych z komórkami tucznymi i bazofilami",
+   "E": "przeciwciał klasy IgG skierowanych przeciw antygenom komórek"
+  },
+  "correct": "D",
+  "explanation": "Reakcja typu I prowadzi do wytworzenia swoistych przeciwciał IgE; komórki tuczne i bazofile mają receptory dla tej immunoglobuliny, a po związaniu IgE następuje degranulacja i uwolnienie mediatorów. Faza wczesna pojawia się do 30 minut, późna po 6–8 godzinach."
+ },
+ {
+  "id": "bs-c041-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    108,
+    110
+   ]
+  },
+  "question": "Który typ reakcji nadwrażliwości jest najczęściej spotykany w stomatologii i ujawnia się po 24-72 godzinach od ekspozycji na alergen?",
+  "options": {
+   "A": "reakcja anafilaktyczna z degranulacją komórek tucznych",
+   "B": "typ II - reakcja cytotoksyczna zależna od IgG i IgM",
+   "C": "typ III - reakcja z udziałem kompleksów immunologicznych",
+   "D": "typ IV - reakcja komórkowa typu późnego",
+   "E": "typ I - reakcja natychmiastowa zależna od IgE"
+  },
+  "correct": "D",
+  "explanation": "Reakcje nadwrażliwości typu IV (komórkowe, typu późnego) są najczęściej spotykane w stomatologii i pojawiają się po 24-72 godzinach od ekspozycji na białko lub hapten, jako przewlekła reakcja kontaktowa."
+ },
+ {
+  "id": "bs-c041-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    108,
+    110
+   ]
+  },
+  "question": "Który typ nadwrażliwości nie daje charakterystycznych objawów w jamie ustnej, a w obrazie klinicznym dominują reakcje poprzetoczeniowe, niedokrwistość hemolityczna i cytopenie?",
+  "options": {
+   "A": "typ II, cytotoksyczny, zależny od IgG i IgM",
+   "B": "reakcja mieszana typu III i IV z ziarniniakami",
+   "C": "typ III, z odkładaniem kompleksów immunologicznych",
+   "D": "typ IV, z udziałem limfocytów Th i makrofagów",
+   "E": "typ I, zależny od IgE i komórek tucznych"
+  },
+  "correct": "A",
+  "explanation": "Nadwrażliwość typu II jest reakcją cytotoksyczną zależną od IgG i IgM, umiejscowioną głównie w błonach komórek krwi; nie ma charakterystycznych objawów w jamie ustnej, a dominują reakcje poprzetoczeniowe, niedokrwistość hemolityczna i cytopenie."
+ },
+ {
+  "id": "bs-c041-003",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    108,
+    110
+   ]
+  },
+  "question": "Pacjent po podaniu antybiotyku betalaktamowego zgłasza szybko narastający, niebolesny, miękki obrzęk warg, języka i dna jamy ustnej, z uczuciem duszności i narastającą obturacją dróg oddechowych. Jakie postępowanie jest właściwe?",
+  "options": {
+   "A": "wykonać skórne testy alergiczne przed rozpoczęciem jakiegokolwiek leczenia",
+   "B": "zalecić zimne okłady i obserwację obrzęku w domu przez 3 dni",
+   "C": "zapewnić dostęp do żyły, podać domięśniowo adrenalinę, dożylnie kortykosteroidy i tlen",
+   "D": "rozpocząć immunoterapię swoistą i dietę eliminacyjną w trybie pilnym",
+   "E": "podać wyłącznie doustny lek przeciwhistaminowy i odesłać pacjenta"
+  },
+  "correct": "C",
+  "explanation": "Przy realnym zagrożeniu drożności dróg oddechowych w obrzęku naczynioruchowym należy zabezpieczyć dostęp do żyły, podać domięśniowo adrenalinę, dożylnie kortykosteroidy oraz tlen i monitorować pacjenta do przyjazdu zespołu ratownictwa medycznego.",
+  "core": true
+ },
+ {
+  "id": "bs-c042-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    111,
+    113
+   ]
+  },
+  "question": "Powiększenie warg współistniejące z językiem pofałdowanym oraz porażeniem nerwu twarzowego określa się jako:",
+  "options": {
+   "A": "zespół Ashera",
+   "B": "gruczołowe zapalenie warg",
+   "C": "kontaktowe zapalenie warg",
+   "D": "zespół Amlot-Lessofa",
+   "E": "zespół Melkerssona-Rosenthala"
+  },
+  "correct": "E",
+  "explanation": "Przypadki, w których powiększenie ust występuje razem z językiem pofałdowanym oraz porażeniem nerwu twarzowego (n. VII), określane są jako zespół Melkerssona-Rosenthala."
+ },
+ {
+  "id": "bs-c042-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    111,
+    113
+   ]
+  },
+  "question": "Na czym opiera się rozpoznanie kontaktowego zapalenia jamy ustnej i warg?",
+  "options": {
+   "A": "wyłącznie na próbie eliminacji i ponownej ekspozycji na pokarm",
+   "B": "na obrazie klinicznym, płatkowych testach skórnych i testach transformacji limfocytów",
+   "C": "na biopsji drobnych gruczołów ślinowych wargi dolnej",
+   "D": "na posiewie mikologicznym oraz oznaczeniu stężenia IgE całkowitego",
+   "E": "na obrazie klinicznym oraz badaniu w immunofluorescencji bezpośredniej"
+  },
+  "correct": "B",
+  "explanation": "Rozpoznanie kontaktowego zapalenia jamy ustnej i warg stawia się na podstawie objawów klinicznych, wyników płatkowych testów skórnych oraz testów transformacji limfocytów (panele: amalgamat, tworzywa sztuczne, metale, ceramika i cementy)."
+ },
+ {
+  "id": "bs-c042-003",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    111,
+    113
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące tocznia rumieniowatego:\n1. Wiodącą rolę w etiologii odgrywają mechanizmy autoimmunologiczne i przeciwciała przeciwko antygenom jądra komórkowego.\n2. Choroba przebiega z okresami remisji i nawrotów.\n3. Większość przypadków dotyczy mężczyzn po 60. roku życia.\n4. Do czynników nasilających przebieg należy ekspozycja na światło słoneczne i palenie papierosów.",
+  "options": {
+   "A": "tylko 1 i 3",
+   "B": "tylko 1, 2 i 4",
+   "C": "tylko 3 i 4",
+   "D": "tylko 2 i 4",
+   "E": "wszystkie prawidłowe"
+  },
+  "correct": "B",
+  "explanation": "Toczeń jest chorobą autoimmunologiczną z przeciwciałami przeciw antygenom jądrowym, przebiega z remisjami i nawrotami, a nasilają go m.in. światło słoneczne i palenie; większość przypadków dotyczy jednak kobiet między 16. a 55. rokiem życia, więc stwierdzenie 3 jest fałszywe.",
+  "core": true
+ },
+ {
+  "id": "bs-c043-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    114,
+    116
+   ]
+  },
+  "question": "Które przeciwciała dominują w badaniach laboratoryjnych w toczniu polekowym (DILE)?",
+  "options": {
+   "A": "przeciwciała anty-SSA/Ro i anty-SSB/La",
+   "B": "przeciwciała przeciwko topoizomerazie I",
+   "C": "przeciwciała przeciwko desmogleinie 3",
+   "D": "przeciwciała przeciwjądrowe przeciwko histonom",
+   "E": "przeciwciała przeciwko błonie podstawnej nabłonka"
+  },
+  "correct": "D",
+  "explanation": "Toczeń polekowy wywołują zwykle po wielomiesięcznej ekspozycji leki (inhibitory TNF, hydralazyna, prokainamid, izoniazyd), ma łagodniejszy przebieg niż postać układowa, a w badaniach dominuje obecność przeciwciał przeciwjądrowych przeciwko histonom.",
+  "core": true
+ },
+ {
+  "id": "bs-c043-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    114,
+    116
+   ]
+  },
+  "question": "Rozpoznanie postaci układowej tocznia rumieniowatego stawia się u pacjentów z obecnością przeciwciał ANA w mianie co najmniej:",
+  "options": {
+   "A": "1:10",
+   "B": "1:40",
+   "C": "1:20",
+   "D": "1:320",
+   "E": "1:80"
+  },
+  "correct": "E",
+  "explanation": "Rozpoznanie postaci układowej tocznia stawia się na podstawie spełnienia ścisłych kryteriów u pacjentów z obecnością przeciwciał ANA w mianie co najmniej 1:80."
+ },
+ {
+  "id": "bs-c043-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    114,
+    116
+   ]
+  },
+  "question": "Dawniej stosowany akronim CREST odnosi się obecnie do postaci twardziny układowej z ograniczonymi stwardnieniami skóry. Litera „R” w tym akronimie oznacza:",
+  "options": {
+   "A": "zajęcie przełyku",
+   "B": "wapnicę tkanek miękkich",
+   "C": "sklerodaktylię",
+   "D": "objaw Raynauda",
+   "E": "teleangiektazje"
+  },
+  "correct": "D",
+  "explanation": "W zespole CREST poszczególne litery oznaczają: C - wapnicę, R - objaw Raynauda, E - przełyk, S - sklerodaktylię, T - teleangiektazje; jest to dawne określenie twardziny uogólnionej z ograniczonymi stwardnieniami skóry (lcSSc)."
+ },
+ {
+  "id": "bs-c044-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    117,
+    118
+   ]
+  },
+  "question": "Które zmiany w obrębie twarzy i jamy ustnej są typowe dla twardziny układowej?",
+  "options": {
+   "A": "rumień w kształcie motyla oraz aftopodobne owrzodzenia błony śluzowej nosa",
+   "B": "promieniste zmarszczki wokół ust, ścieńczenie czerwieni wargowej i ograniczone rozwarcie ust",
+   "C": "obustronne bezbolesne powiększenie ślinianek przyusznych i gruczołów łzowych",
+   "D": "guzowate powiększenie warg z językiem pofałdowanym i porażeniem nerwu VII",
+   "E": "powiększenie nosa i rozpulchnienie czerwieni wargowej z nadmiernym ślinieniem"
+  },
+  "correct": "B",
+  "explanation": "W twardzinie układowej zmarszczki układają się promieniście wokół ust i oczu, czerwień wargowa ulega ścieńczeniu, otwór ust jest zmniejszony, a rozwarcie ograniczone; twarz przybiera wygląd maski.",
+  "core": true
+ },
+ {
+  "id": "bs-c044-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    117,
+    118
+   ]
+  },
+  "question": "Która choroba najczęściej towarzyszy wtórnemu zespołowi Sjögrena?",
+  "options": {
+   "A": "pierwotne zapalenie dróg żółciowych",
+   "B": "zapalenie skórno-mięśniowe",
+   "C": "choroba Hashimoto",
+   "D": "reumatoidalne zapalenie stawów",
+   "E": "toczeń rumieniowaty układowy"
+  },
+  "correct": "D",
+  "explanation": "Wtórny zespół Sjögrena obserwuje się w przebiegu innych chorób, wśród których najczęstsze jest reumatoidalne zapalenie stawów; postać wtórna stanowi 60% wszystkich przypadków."
+ },
+ {
+  "id": "bs-c044-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    117,
+    118
+   ]
+  },
+  "question": "Twardzina miejscowa (morphea) różni się od twardziny układowej tym, że:",
+  "options": {
+   "A": "występuje wyłącznie u kobiet po 50. roku życia i oszczędza twarz",
+   "B": "przebiega zawsze z objawem Raynauda i owrzodzeniami opuszek palców",
+   "C": "zawsze poprzedza rozwój twardziny układowej w ciągu kilku lat",
+   "D": "nie ma podłoża immunologicznego i dotyczy wyłącznie naskórka",
+   "E": "nie zajmuje narządów wewnętrznych i nie ulega progresji do postaci układowej"
+  },
+  "correct": "E",
+  "explanation": "Twardzina miejscowa jest chorobą tkanki łącznej o podłożu immunologicznym, ale nie zajmuje narządów wewnętrznych i nie ulega progresji do twardziny układowej; dotyczy skóry, a także tkanki podskórnej, mięśni i układu kostnego."
+ },
+ {
+  "id": "bs-c045-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    119,
+    120
+   ]
+  },
+  "question": "Jaki obraz w badaniu ultrasonograficznym ślinianek jest charakterystyczny dla zespołu Sjögrena?",
+  "options": {
+   "A": "zmniejszony wychwyt i opróżnianie gruczołu ze znacznika",
+   "B": "pojedyncza torbiel z wyraźnym wzmocnieniem akustycznym",
+   "C": "obraz „kwitnącej wiśni” z gromadzeniem znacznika",
+   "D": "jednorodnie hipoechogeniczny miąższ bez zaburzeń struktury",
+   "E": "guzkowa struktura przypominająca „plaster miodu”"
+  },
+  "correct": "E",
+  "explanation": "W zespole Sjögrena USG ślinianek ujawnia guzkowatą strukturę przypominającą „plaster miodu”; obraz „kwitnącej wiśni” dotyczy sialografii, a zmniejszony wychwyt znacznika - scyntygrafii.",
+  "core": true
+ },
+ {
+  "id": "bs-c045-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    119,
+    120
+   ]
+  },
+  "question": "Na czym polega udział lekarza stomatologa w diagnostyce histopatologicznej zespołu Sjögrena?",
+  "options": {
+   "A": "na pobraniu 4-5 drobnych gruczołów ślinowych z niezmienionej błony śluzowej wargi dolnej",
+   "B": "na pobraniu wycinka z dna jamy ustnej wraz z ujściem przewodu podżuchwowego",
+   "C": "na pobraniu wycinka z policzka w rzucie brodawki przyusznicznej",
+   "D": "na pobraniu wycinka z grzbietu języka w miejscu zaniku brodawek",
+   "E": "na wykonaniu biopsji cienkoigłowej ślinianki przyusznej po stronie objawowej"
+  },
+  "correct": "A",
+  "explanation": "Biopsja z wargi polega na pobraniu kilku, zwykle 4-5, drobnych gruczołów ślinowych z wargi dolnej w miejscu, gdzie błona śluzowa jest niezmieniona; w barwieniu H+E ocenia się ogniska zapalne złożone z co najmniej 50 limfocytów."
+ },
+ {
+  "id": "bs-c045-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    119,
+    120
+   ]
+  },
+  "question": "Które cechy przemawiają za chorobą Mikulicza, a nie za zespołem Sjögrena?",
+  "options": {
+   "A": "wyraźna przewaga zachorowań u kobiet i szczyt zachorowań w 50. roku życia",
+   "B": "nasilona suchość oczu i jamy ustnej z bolesnością ślinianek przyusznych",
+   "C": "brak przeciwciał anty-SSA/Ro i anty-SSB/La oraz podwyższone stężenie IgG4",
+   "D": "słaba odpowiedź na leczenie glikokortykosteroidami i postępujące włóknienie",
+   "E": "obecność przeciwciał ANA, ANCA oraz czynnika reumatoidalnego w surowicy"
+  },
+  "correct": "C",
+  "explanation": "W chorobie Mikulicza, zaliczanej do chorób IgG4-zależnych, we krwi nie ma przeciwciał anty-SSA/Ro i anty-SSB/La, natomiast obserwuje się podwyższone stężenie IgG4; suchość jest niewielka, a chorzy dobrze odpowiadają na glikokortykosteroidy."
+ },
+ {
+  "id": "bs-c046-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    121,
+    124
+   ]
+  },
+  "question": "Gdzie uchodzi przewód wyprowadzający ślinianki przyusznej?",
+  "options": {
+   "A": "w okolicy gardłowego ujścia trąbki słuchowej",
+   "B": "na błonie śluzowej podniebienia twardego, przy szwie podniebiennym",
+   "C": "wzdłuż fałdu podjęzykowego kilkoma drobnymi ujściami",
+   "D": "na brodawce przyusznicznej policzka, w rzucie drugiego górnego zęba trzonowego",
+   "E": "na mięsku podjęzykowym w dnie jamy ustnej"
+  },
+  "correct": "D",
+  "explanation": "Przewód ślinianki przyusznej uchodzi na brodawce przyuszniczej, stanowiącej wyniosłość na błonie śluzowej policzka, w rzucie drugiego górnego zęba trzonowego."
+ },
+ {
+  "id": "bs-c046-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    121,
+    124
+   ]
+  },
+  "question": "Jaka jest dobowa objętość śliny wydzielanej u dorosłego człowieka?",
+  "options": {
+   "A": "200-300 ml/24 godz.",
+   "B": "100-200 ml/24 godz.",
+   "C": "500-600 ml/24 godz.",
+   "D": "1500-2000 ml/24 godz.",
+   "E": "1000-1200 ml/24 godz."
+  },
+  "correct": "C",
+  "explanation": "U dorosłego człowieka objętość wydzielanej śliny wynosi 500-600 ml na dobę, z czego około połowy (200-300 ml) stanowi ślina spoczynkowa, a pozostała część ślina stymulowana."
+ },
+ {
+  "id": "bs-c046-003",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    121,
+    124
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące gruczołów ślinowych i składu śliny:\n1. Komórki śluzowe wytwarzają płyn gęsty i lepki, bogaty w glikoproteiny.\n2. Ślinianki podjęzykowe są źródłem śliny gęstej i lepkiej.\n3. Ślina mieszana składa się w około 99% z wody.\n4. Komórki śluzowe przeważają w śliniankach przyusznych.",
+  "options": {
+   "A": "tylko 1 i 4",
+   "B": "tylko 2 i 3",
+   "C": "tylko 1, 2 i 3",
+   "D": "tylko 3 i 4",
+   "E": "wszystkie prawidłowe"
+  },
+  "correct": "C",
+  "explanation": "Komórki śluzowe produkują gęsty płyn bogaty w glikoproteiny i zlokalizowane są głównie w śliniankach podżuchwowych i podjęzykowych, a bardzo rzadko w przyusznych (stwierdzenie 4 fałszywe); ślinianki podjęzykowe dają ślinę gęstą i lepką, a ślina mieszana składa się z wody w 99%.",
+  "core": true
+ },
+ {
+  "id": "bs-c047-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    125,
+    126
+   ]
+  },
+  "question": "Co jest według badań najczęstszą przyczyną suchości jamy ustnej (kserostomii) w XXI wieku?",
+  "options": {
+   "A": "przewlekłe oddychanie przez usta i palenie tytoniu",
+   "B": "przebyta radioterapia okolicy głowy i szyi",
+   "C": "niepożądane działanie stosowanych leków",
+   "D": "chirurgiczne usunięcie ślinianek z powodu kamicy lub guza",
+   "E": "zespół Sjögrena i inne choroby autoimmunologiczne"
+  },
+  "correct": "C",
+  "explanation": "Badania wykazują, że w XXI wieku najczęstszą przyczyną kserostomii jest niepożądane działanie stosowanych leków, których lista jest bardzo długa."
+ },
+ {
+  "id": "bs-c047-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    125,
+    126
+   ]
+  },
+  "question": "Jak określa się subiektywne uczucie suchości w jamie ustnej przy zachowanej prawidłowej pracy gruczołów ślinowych?",
+  "options": {
+   "A": "kserostomia prawdziwa typu I",
+   "B": "kserostomia rzekoma",
+   "C": "asialia",
+   "D": "kserostomia prawdziwa typu II",
+   "E": "hyposialia"
+  },
+  "correct": "B",
+  "explanation": "Kserostomia rzekoma to subiektywne uczucie suchości w jamie ustnej przy zachowanej prawidłowej pracy gruczołów ślinowych; kserostomia prawdziwa wynika z ograniczenia lub zahamowania wydzielania śliny."
+ },
+ {
+  "id": "bs-c047-003",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    125,
+    126
+   ]
+  },
+  "question": "Matka zgłasza się z niemowlęciem, u którego od kilku dni obserwuje wyraźnie wzmożone wydzielanie śliny; w badaniu widoczne jest wyrzynanie się zębów mlecznych, błona śluzowa bez zmian patologicznych. Jak należy zinterpretować ten objaw?",
+  "options": {
+   "A": "jest to objaw zaburzeń nerwowo-mięśniowych ograniczających połykanie",
+   "B": "jest to ślinotok rzekomy wymagający konsultacji psychologicznej",
+   "C": "jest to objaw choroby przełyku wymagający pilnej diagnostyki onkologicznej",
+   "D": "jest to fizjologiczny wzrost wydzielania śliny towarzyszący wyrzynaniu zębów",
+   "E": "jest to skutek odruchowej reakcji na owrzodzenia pourazowe błony śluzowej"
+  },
+  "correct": "D",
+  "explanation": "Fizjologiczny wzrost wydzielania śliny występuje w przebiegu wyrzynania się zębów u dzieci; pozostałe wymienione mechanizmy dotyczą innych sytuacji klinicznych opisanych w rozdziale.",
+  "core": true
+ },
+ {
+  "id": "bs-c048-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    127,
+    129
+   ]
+  },
+  "question": "Jakie składniki zawierają sztuczne substytuty śliny stosowane u pacjentów z kserostomią?",
+  "options": {
+   "A": "amyloglukozydazę lub kapsaicynę",
+   "B": "fluorek sodu lub azotan potasu",
+   "C": "benzydaminę lub lidokainę",
+   "D": "chlorheksydynę lub triklosan",
+   "E": "karboksymetylocelulozę lub mucynę"
+  },
+  "correct": "E",
+  "explanation": "Gdy przyczyny suchości nie da się usunąć (np. po przebytej radioterapii), pomocne są sztuczne substytuty śliny zawierające karboksymetylocelulozę lub mucynę, choć działają krótko i bywają kosztowne.",
+  "core": true
+ },
+ {
+  "id": "bs-c048-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    127,
+    129
+   ]
+  },
+  "question": "Który sposób pobudzania wydzielania śliny może przy dłuższym stosowaniu sprzyjać próchnicy u pacjenta z kserostomią?",
+  "options": {
+   "A": "przetrzymywanie w jamie ustnej kostki lodu",
+   "B": "stosowanie preparatów sztucznej śliny",
+   "C": "żucie gumy bezcukrowej",
+   "D": "częste popijanie małych ilości wody",
+   "E": "stosowanie kwaśnych produktów spożywczych"
+  },
+  "correct": "E",
+  "explanation": "Zalecane w celu pobudzenia wydzielania śliny kwaśne produkty obniżają pH i przy dłuższym stosowaniu mogą sprzyjać występowaniu próchnicy; bezpieczne pozostają guma bezcukrowa, woda i kostki lodu."
+ },
+ {
+  "id": "bs-c048-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    127,
+    129
+   ]
+  },
+  "question": "Które stwierdzenie prawidłowo opisuje epidemiologię zespołu pieczenia jamy ustnej (BMS)?",
+  "options": {
+   "A": "występuje z jednakową częstością u obu płci w każdym wieku",
+   "B": "najczęściej rozpoznaje się je u osób poniżej 30. roku życia",
+   "C": "90% zgłaszających się pacjentów ma powyżej 60 lat",
+   "D": "mężczyźni chorują 2 do 7 razy częściej niż kobiety",
+   "E": "schorzenie dotyczy około 30-40% populacji ogólnej"
+  },
+  "correct": "C",
+  "explanation": "BMS dotyka od 0,7 do 15% populacji, kobiety chorują 2 do 7 razy częściej niż mężczyźni, a 90% zgłaszających się pacjentów ma powyżej 60 lat; choroba rzadko dotyka osób poniżej 30. roku życia."
+ },
+ {
+  "id": "bs-c049-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    130,
+    131
+   ]
+  },
+  "question": "Który typ pieczenia jamy ustnej według Lameya i Lewisa charakteryzuje się brakiem dolegliwości po przebudzeniu i narastaniem pieczenia w ciągu dnia?",
+  "options": {
+   "A": "typ III, kojarzony z niedoborami hematologicznymi",
+   "B": "typ II, kojarzony z tłem psychosomatycznym",
+   "C": "typ I, kojarzony z etiologią ogólnoustrojową",
+   "D": "typ III, kojarzony z reakcjami alergicznymi",
+   "E": "typ II, kojarzony z zaburzeniami hormonalnymi"
+  },
+  "correct": "C",
+  "explanation": "W typie I pacjenci nie odczuwają pieczenia po przebudzeniu, ale rozpoczyna się ono i narasta w ciągu dnia, występując codziennie bez przerwy; typ ten jest kojarzony z etiologią ogólnoustrojową."
+ },
+ {
+  "id": "bs-c049-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    130,
+    131
+   ]
+  },
+  "question": "Która cecha wyklucza postawienie rozpoznania zespołu pieczenia jamy ustnej (BMS)?",
+  "options": {
+   "A": "utrzymywanie się dolegliwości codziennie przez ponad 6 miesięcy",
+   "B": "zgłaszanie przez pacjenta suchości i metalicznego posmaku",
+   "C": "subtelne zmiany zabarwienia i ścieńczenie błony śluzowej",
+   "D": "obecność wykwitów patognomonicznych, np. nadżerki, owrzodzenia lub plamy",
+   "E": "obustronne występowanie dolegliwości na koniuszku języka"
+  },
+  "correct": "D",
+  "explanation": "W BMS błona śluzowa jest prawidłowa lub wykazuje bardzo subtelne zmiany; występowanie wykwitów patognomonicznych dla chorób błony śluzowej (nadżerka, owrzodzenie, plama) wyklucza postawienie tego rozpoznania."
+ },
+ {
+  "id": "bs-c049-003",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    130,
+    131
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące obrazu klinicznego zespołu pieczenia jamy ustnej:\n1. Ból występuje najczęściej na języku, przeważnie na jego koniuszku.\n2. Dolegliwości występują prawie zawsze obustronnie.\n3. Dolegliwości regularnie budzą pacjenta w nocy i zaburzają sen.\n4. Jedzenie i picie nie wpływają na odczuwanie dolegliwości.",
+  "options": {
+   "A": "tylko 1, 2 i 4",
+   "B": "tylko 3 i 4",
+   "C": "wszystkie prawidłowe",
+   "D": "tylko 2 i 3",
+   "E": "tylko 1 i 3"
+  },
+  "correct": "A",
+  "explanation": "Ból w BMS lokalizuje się najczęściej na koniuszku języka, występuje prawie zawsze obustronnie, a jedzenie i picie nie wpływają na jego odczuwanie; dolegliwości te nie zaburzają snu, więc stwierdzenie 3 jest fałszywe.",
+  "core": true
+ },
+ {
+  "id": "bs-c050-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    132,
+    133
+   ]
+  },
+  "question": "Które leczenie miejscowe zespołu pieczenia jamy ustnej wykazuje największą skuteczność przy rzadkich działaniach niepożądanych?",
+  "options": {
+   "A": "pędzlowanie błony śluzowej benzydaminą",
+   "B": "stosowanie ochraniaczy na język",
+   "C": "ssanie tabletek klonazepamu",
+   "D": "stosowanie żelu z kapsaicyną",
+   "E": "naświetlanie laserem niskiego poziomu mocy"
+  },
+  "correct": "C",
+  "explanation": "Badania wskazują, że największą skuteczność przy rzadkich działaniach niepożądanych ma miejscowe stosowanie klonazepamu (ssanie tabletki 1 mg 3 razy dziennie przez 3 minuty przez 14 dni), choć efekt leczenia jest przemijający."
+ },
+ {
+  "id": "bs-c050-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    132,
+    133
+   ]
+  },
+  "question": "Który schemat leczenia ogólnego daje najlepsze wyniki w pierwotnym zespole pieczenia jamy ustnej?",
+  "options": {
+   "A": "kwas alfa-liponowy 600 mg przez 20 dni, następnie 200 mg przez 10 dni",
+   "B": "klonazepam w tabletkach do ssania 1 mg 3 razy dziennie przez 14 dni",
+   "C": "benzydamina do pędzlowania błony śluzowej 3 razy dziennie przez 20 dni",
+   "D": "kapsaicyna w postaci płukanki 0,02% stosowana 3 razy dziennie",
+   "E": "lidokaina miejscowo w połączeniu z laseroterapią niskoenergetyczną"
+  },
+  "correct": "A",
+  "explanation": "Najlepsze wyniki leczenia ogólnego obserwuje się po doustnym podaniu kwasu alfa-liponowego w dawce 600 mg przez 20 dni, a następnie 200 mg przez 10 kolejnych; efekt pojawia się po 2-3 tygodniach i nie jest trwały."
+ },
+ {
+  "id": "bs-c050-003",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    132,
+    133
+   ]
+  },
+  "question": "U pacjentki z rozpoznanym objawowym zespołem pieczenia jamy ustnej stwierdzono niedoczynność tarczycy. Na czym powinno się opierać leczenie tej postaci BMS?",
+  "options": {
+   "A": "na psychoterapii jako jedynej metodzie postępowania terapeutycznego",
+   "B": "na eliminacji czynnika predysponującego i leczeniu choroby podstawowej",
+   "C": "wyłącznie na miejscowym pędzlowaniu środkami znieczulającymi",
+   "D": "na stosowaniu preparatów sztucznej śliny jako leczeniu podstawowym",
+   "E": "na przewlekłym stosowaniu leków przeciwdrgawkowych i antydepresyjnych"
+  },
+  "correct": "B",
+  "explanation": "Leczenie objawowego zespołu pieczenia jamy ustnej polega na eliminacji czynnika predysponującego lub leczeniu choroby podstawowej, np. suplementacji hormonów tarczycy; identyfikacja przyczyny daje istotną poprawę u większości chorych.",
+  "core": true
+ },
+ {
+  "id": "bs-c051-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    135,
+    137
+   ]
+  },
+  "question": "Poniżej jakiej bezwzględnej liczby neutrocytów krążących we krwi obwodowej rozpoznaje się neutropenię?",
+  "options": {
+   "A": "poniżej 2,5 G/l",
+   "B": "poniżej 1,0 G/l",
+   "C": "poniżej 4,0 G/l",
+   "D": "poniżej 1,5 G/l",
+   "E": "poniżej 0,5 G/l"
+  },
+  "correct": "D",
+  "explanation": "Neutropenia to zmniejszenie bezwzględnej liczby neutrocytów (pałek i neutrofilów łącznie) poniżej 1,5 G/l; odsetek neutrofilów nie ma znaczenia. Wartość poniżej 0,5 G/l odpowiada dopiero 4. stopniowi nasilenia wg CTCAE."
+ },
+ {
+  "id": "bs-c051-002",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    135,
+    137
+   ]
+  },
+  "question": "Jakie zmiany w jamie ustnej są typowe dla niedokrwistości megaloblastycznej z niedoboru witaminy B12?",
+  "options": {
+   "A": "przerost dziąseł utrudniający jedzenie i mówienie, bez dolegliwości bólowych",
+   "B": "krwotoczne pęcherze na błonie śluzowej o zabarwieniu od czerwonego do czarnego",
+   "C": "pajączkowate rozszerzenia naczyń czerwieni warg i języka z nawracającymi krwawieniami",
+   "D": "biały, dający się zetrzeć nalot na podniebieniu i błonie śluzowej policzków",
+   "E": "zapalenie i powiększenie języka (tzw. język bawoli), pieczenie języka i zaburzenia smaku"
+  },
+  "correct": "E",
+  "explanation": "W niedoborze witaminy B12 opisuje się zapalenie i atrofię błony śluzowej, owrzodzenia oraz zapalenie języka z jego powiększeniem (język bawoli), pieczenie języka i zaburzenia smaku. Zmiany te mogą wystąpić jeszcze przed objawami niedokrwistości."
+ },
+ {
+  "id": "bs-c051-003",
+  "type": "combined",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    135,
+    137
+   ]
+  },
+  "question": "Wskaż prawdziwe stwierdzenia dotyczące neutropenii cyklicznej:\n1. Choroba może mieć charakter wrodzony lub nabyty.\n2. Spadek liczby neutrocytów powtarza się co trzy tygodnie.\n3. Rozpoznanie ustala się na podstawie jednorazowego badania morfologii krwi.\n4. W leczeniu stosuje się czynnik stymulujący granulocyty (G-CSF).",
+  "options": {
+   "A": "tylko 1, 2 i 4",
+   "B": "wszystkie prawidłowe",
+   "C": "tylko 3 i 4",
+   "D": "tylko 1 i 2",
+   "E": "tylko 2 i 3"
+  },
+  "correct": "A",
+  "explanation": "Neutropenia cykliczna bywa wrodzona lub nabyta, cechuje ją powtarzający się co trzy tygodnie spadek liczby neutrocytów, a w leczeniu stosuje się G-CSF. Rozpoznanie wymaga oznaczania liczby neutrocytów 2-3 razy w tygodniu przez trzy tygodnie, a nie jednorazowego badania.",
+  "core": true
+ },
+ {
+  "id": "bs-c052-001",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    138,
+    140
+   ]
+  },
+  "question": "Który objaw w jamie ustnej uznawany jest za patognomoniczny dla amyloidozy łańcuchów lekkich immunoglobulin (amyloidozy pierwotnej)?",
+  "options": {
+   "A": "naciek pierścienia Waldeyera z masami nowotworowymi",
+   "B": "rozsiane owrzodzenia warg pokryte szarawym nalotem",
+   "C": "nadmierne rogowacenie błony śluzowej policzków",
+   "D": "przerost dziąseł, występujący u około 10% chorych",
+   "E": "powiększenie języka, występujące u około 10% chorych"
+  },
+  "correct": "E",
+  "explanation": "W amyloidozie pierwotnej u około 10% chorych stwierdza się powiększenie języka, opisywane jako objaw patognomoniczny; towarzyszą mu miękkie, czerwone, fioletowe lub niebieskie guzki oraz zespół pieczenia języka."
+ },
+ {
+  "id": "bs-c052-002",
+  "type": "clinical",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    138,
+    140
+   ]
+  },
+  "question": "Pacjent zgłasza się z powodu uporczywej suchości w jamie ustnej utrzymującej się od ponad roku po zakończonej radioterapii; stwierdzasz nasiloną próchnicę. Jak należy ocenić tę postać kserostomii?",
+  "options": {
+   "A": "jest odczynem zapalnym błony śluzowej i ustąpi po kilkunastu dniach",
+   "B": "jest wczesnym objawem przewlekłej choroby przeszczep przeciw gospodarzowi",
+   "C": "wynika ze zwłóknienia gruczołów ślinowych i jest nieodwracalna",
+   "D": "jest objawem neutropenii polekowej i ustąpi po podaniu G-CSF",
+   "E": "to kserostomia rzekoma, wymagająca jedynie postępowania psychologicznego"
+  },
+  "correct": "C",
+  "explanation": "Ostra postać suchości po radioterapii jest odwracalna i wynika z reakcji zapalnej, natomiast postać późna, pojawiająca się po roku od napromieniania, jest następstwem zwłóknienia gruczołów ślinowych i pozostaje nieodwracalna, zwiększając ryzyko próchnicy, zakażeń i martwicy kości.",
+  "core": true
+ },
+ {
+  "id": "bs-c052-003",
+  "source": {
+   "book": "GorskaBlony",
+   "pages": [
+    138,
+    140
+   ]
+  },
+  "question": "Który zestaw leków jest wymieniany jako przyczyna polekowego przerostu dziąseł?",
+  "options": {
+   "A": "glikokortykosteroidy, sole złota, benzen",
+   "B": "salicylany, inhibitory pompy protonowej, NLPZ",
+   "C": "amoksycylina, metronidazol, chlorheksydyna",
+   "D": "fenytoina, cyklosporyna, nifedypina",
+   "E": "chloramfenikol, allopurynol, tiazydy"
+  },
+  "correct": "D",
+  "explanation": "Przerost dziąseł opisano po lekach przeciwdrgawkowych (fenytoina), immunosupresyjnych (cyklosporyna, takrolimus), blokerach kanału wapniowego (nifedypina, amlodypina, werapamil, diltiazem) oraz po paliferminie; u leczonych cyklosporyną dotyczy 20-80% chorych."
+ },
+ {
   "id": "dj-c002-001",
   "source": {
    "book": "Dejak",

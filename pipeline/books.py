@@ -11,6 +11,10 @@ explicit mapping, so every source PDF is declared here instead of guessed.
 - `label`    — Polish display name for the web app's book filter.
 - `domain`   — broad exam area, used to group books in the UI.
 - `mode`     — how `extract.py` gets the text out. See below.
+- `page_offset` — added to the 1-based PDF page to get the *printed* page. Only
+               needed when the scan carries front matter the printed numbering
+               does not count (Górska's mucosa book: pdf 14 prints as page 1, so
+               -13). Pages that come out below 1 are front matter and dropped.
 
 Four ingestion modes
 --------------------
@@ -53,13 +57,16 @@ BOOKS = (
     {"pattern": "Vademecum_wykonywania_protez*.pdf", "book_id": "dj", "book": "Dejak",
      "label": "Dejak — vademecum protetyczne", "domain": "protetyka",
      "mode": "spread"},
+    {"pattern": "Gorska_blony_ocr.pdf", "book_id": "bs", "book": "GorskaBlony",
+     "label": "Górska — choroby błony śluzowej", "domain": "błona śluzowa",
+     "page_offset": -13},
     {"pattern": "*WIEKU_ROZWOJOWEGO*.pdf", "book_id": "ok", "book": "Olczak",
      "label": "Olczak-Kowalczyk — stomatologia wieku rozwojowego", "domain": "pedodoncja"},
 )
 
 # Files in books/ that are deliberately not sources. The original Arabska PDF is
 # an image-only scan superseded by Arabska_ocr.pdf (see AGENTS.md for the OCR step).
-IGNORED = ("Arabska_Przedpełska*.pdf",)
+IGNORED = ("Arabska_Przedpełska*.pdf", "Błony śluzowe - Górska.pdf")
 
 
 def _matches(filename: str, pattern: str) -> bool:

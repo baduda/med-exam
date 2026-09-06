@@ -44,12 +44,18 @@ def dehyphenate(text: str) -> str:
     return re.sub(r"[ \t]+", " ", text).strip()
 
 
-def extract_book(pdf_path: Path, book: str) -> dict:
-    """Return {"book": "Tom2", "pages": [{"page": 1, "text": "..."}, ...]}."""
+def extract_book(pdf_path: Path, book: str, page_offset: int = 0) -> dict:
+    """Return {"book": "Tom2", "pages": [{"page": 1, "text": "..."}, ...]}.
+
+    `page_offset` shifts the PDF page number onto the book's printed numbering
+    (Górska's mucosa scan opens with 13 unnumbered front-matter pages, so its
+    offset is -13). Pages that fall below 1 are that front matter and are
+    dropped rather than cited under a made-up number.
+    """
     doc = fitz.open(pdf_path)
-    pages = [{"page": i + 1, "text": dehyphenate(doc[i].get_text())}
+    pages = [{"page": i + 1 + page_offset, "text": dehyphenate(doc[i].get_text())}
              for i in range(doc.page_count)]
-    return {"book": book, "pages": pages}
+    return {"book": book, "pages": [p for p in pages if p["page"] >= 1]}
 
 
 def extract_spread_book(pdf_path: Path, book: str) -> dict:
@@ -120,7 +126,7 @@ def main() -> None:
             data = scan_book(pdf, entry["book"], entry["book_id"], dehyphenate)
             kind = f"{len(data['pages'])} pages OCR'd from spreads"
         else:
-            data = extract_book(pdf, entry["book"])
+            data = extract_book(pdf, entry["book"], entry.get("page_offset", 0))
             kind = f"{sum(1 for p in data['pages'] if p['text'])} of " \
                    f"{len(data['pages'])} pages with text"
         out = OUT_DIR / f"{data['book']}.json"

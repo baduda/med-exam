@@ -3510,6 +3510,519 @@
    "words": 857,
    "generated": true
   },
+  "bs-c001": {
+   "book": "GorskaBlony",
+   "pages": [
+    1,
+    4
+   ],
+   "words": 776,
+   "generated": true
+  },
+  "bs-c002": {
+   "book": "GorskaBlony",
+   "pages": [
+    5,
+    7
+   ],
+   "words": 701,
+   "generated": true
+  },
+  "bs-c003": {
+   "book": "GorskaBlony",
+   "pages": [
+    8,
+    10
+   ],
+   "words": 731,
+   "generated": true
+  },
+  "bs-c004": {
+   "book": "GorskaBlony",
+   "pages": [
+    11,
+    12
+   ],
+   "words": 801,
+   "generated": true
+  },
+  "bs-c005": {
+   "book": "GorskaBlony",
+   "pages": [
+    13,
+    14
+   ],
+   "words": 773,
+   "generated": true
+  },
+  "bs-c006": {
+   "book": "GorskaBlony",
+   "pages": [
+    15,
+    16
+   ],
+   "words": 744,
+   "generated": true
+  },
+  "bs-c007": {
+   "book": "GorskaBlony",
+   "pages": [
+    17,
+    20
+   ],
+   "words": 860,
+   "generated": true
+  },
+  "bs-c008": {
+   "book": "GorskaBlony",
+   "pages": [
+    21,
+    24
+   ],
+   "words": 883,
+   "generated": true
+  },
+  "bs-c009": {
+   "book": "GorskaBlony",
+   "pages": [
+    25,
+    27
+   ],
+   "words": 1023,
+   "generated": true
+  },
+  "bs-c010": {
+   "book": "GorskaBlony",
+   "pages": [
+    28,
+    29
+   ],
+   "words": 787,
+   "generated": true
+  },
+  "bs-c011": {
+   "book": "GorskaBlony",
+   "pages": [
+    30,
+    33
+   ],
+   "words": 801,
+   "generated": true
+  },
+  "bs-c012": {
+   "book": "GorskaBlony",
+   "pages": [
+    35,
+    36
+   ],
+   "words": 825,
+   "generated": true
+  },
+  "bs-c013": {
+   "book": "GorskaBlony",
+   "pages": [
+    37,
+    38
+   ],
+   "words": 797,
+   "generated": true
+  },
+  "bs-c014": {
+   "book": "GorskaBlony",
+   "pages": [
+    39,
+    40
+   ],
+   "words": 859,
+   "generated": true
+  },
+  "bs-c015": {
+   "book": "GorskaBlony",
+   "pages": [
+    41,
+    42
+   ],
+   "words": 726,
+   "generated": true
+  },
+  "bs-c016": {
+   "book": "GorskaBlony",
+   "pages": [
+    43,
+    44
+   ],
+   "words": 889,
+   "generated": true
+  },
+  "bs-c017": {
+   "book": "GorskaBlony",
+   "pages": [
+    45,
+    46
+   ],
+   "words": 973,
+   "generated": true
+  },
+  "bs-c018": {
+   "book": "GorskaBlony",
+   "pages": [
+    47,
+    48
+   ],
+   "words": 923,
+   "generated": true
+  },
+  "bs-c019": {
+   "book": "GorskaBlony",
+   "pages": [
+    49,
+    50
+   ],
+   "words": 766,
+   "generated": true
+  },
+  "bs-c020": {
+   "book": "GorskaBlony",
+   "pages": [
+    51,
+    52
+   ],
+   "words": 709,
+   "generated": true
+  },
+  "bs-c021": {
+   "book": "GorskaBlony",
+   "pages": [
+    53,
+    54
+   ],
+   "words": 784,
+   "generated": true
+  },
+  "bs-c022": {
+   "book": "GorskaBlony",
+   "pages": [
+    55,
+    56
+   ],
+   "words": 927,
+   "generated": true
+  },
+  "bs-c023": {
+   "book": "GorskaBlony",
+   "pages": [
+    57,
+    60
+   ],
+   "words": 750,
+   "generated": true
+  },
+  "bs-c024": {
+   "book": "GorskaBlony",
+   "pages": [
+    61,
+    63
+   ],
+   "words": 1061,
+   "generated": true
+  },
+  "bs-c025": {
+   "book": "GorskaBlony",
+   "pages": [
+    64,
+    65
+   ],
+   "words": 770,
+   "generated": true
+  },
+  "bs-c026": {
+   "book": "GorskaBlony",
+   "pages": [
+    66,
+    68
+   ],
+   "words": 1161,
+   "generated": true
+  },
+  "bs-c027": {
+   "book": "GorskaBlony",
+   "pages": [
+    69,
+    71
+   ],
+   "words": 735,
+   "generated": true
+  },
+  "bs-c028": {
+   "book": "GorskaBlony",
+   "pages": [
+    72,
+    74
+   ],
+   "words": 1242,
+   "generated": true
+  },
+  "bs-c029": {
+   "book": "GorskaBlony",
+   "pages": [
+    75,
+    78
+   ],
+   "words": 994,
+   "generated": true
+  },
+  "bs-c030": {
+   "book": "GorskaBlony",
+   "pages": [
+    79,
+    80
+   ],
+   "words": 849,
+   "generated": true
+  },
+  "bs-c031": {
+   "book": "GorskaBlony",
+   "pages": [
+    81,
+    83
+   ],
+   "words": 1032,
+   "generated": true
+  },
+  "bs-c032": {
+   "book": "GorskaBlony",
+   "pages": [
+    84,
+    85
+   ],
+   "words": 777,
+   "generated": true
+  },
+  "bs-c033": {
+   "book": "GorskaBlony",
+   "pages": [
+    86,
+    87
+   ],
+   "words": 1234,
+   "generated": true
+  },
+  "bs-c034": {
+   "book": "GorskaBlony",
+   "pages": [
+    88,
+    92
+   ],
+   "words": 1221,
+   "generated": true
+  },
+  "bs-c035": {
+   "book": "GorskaBlony",
+   "pages": [
+    93,
+    95
+   ],
+   "words": 760,
+   "generated": true
+  },
+  "bs-c036": {
+   "book": "GorskaBlony",
+   "pages": [
+    96,
+    98
+   ],
+   "words": 933,
+   "generated": true
+  },
+  "bs-c037": {
+   "book": "GorskaBlony",
+   "pages": [
+    99,
+    101
+   ],
+   "words": 804,
+   "generated": true
+  },
+  "bs-c038": {
+   "book": "GorskaBlony",
+   "pages": [
+    102,
+    103
+   ],
+   "words": 959,
+   "generated": true
+  },
+  "bs-c039": {
+   "book": "GorskaBlony",
+   "pages": [
+    104,
+    105
+   ],
+   "words": 767,
+   "generated": true
+  },
+  "bs-c040": {
+   "book": "GorskaBlony",
+   "pages": [
+    106,
+    107
+   ],
+   "words": 706,
+   "generated": true
+  },
+  "bs-c041": {
+   "book": "GorskaBlony",
+   "pages": [
+    108,
+    110
+   ],
+   "words": 943,
+   "generated": true
+  },
+  "bs-c042": {
+   "book": "GorskaBlony",
+   "pages": [
+    111,
+    113
+   ],
+   "words": 851,
+   "generated": true
+  },
+  "bs-c043": {
+   "book": "GorskaBlony",
+   "pages": [
+    114,
+    116
+   ],
+   "words": 1120,
+   "generated": true
+  },
+  "bs-c044": {
+   "book": "GorskaBlony",
+   "pages": [
+    117,
+    118
+   ],
+   "words": 742,
+   "generated": true
+  },
+  "bs-c045": {
+   "book": "GorskaBlony",
+   "pages": [
+    119,
+    120
+   ],
+   "words": 1029,
+   "generated": true
+  },
+  "bs-c046": {
+   "book": "GorskaBlony",
+   "pages": [
+    121,
+    124
+   ],
+   "words": 965,
+   "generated": true
+  },
+  "bs-c047": {
+   "book": "GorskaBlony",
+   "pages": [
+    125,
+    126
+   ],
+   "words": 1094,
+   "generated": true
+  },
+  "bs-c048": {
+   "book": "GorskaBlony",
+   "pages": [
+    127,
+    129
+   ],
+   "words": 868,
+   "generated": true
+  },
+  "bs-c049": {
+   "book": "GorskaBlony",
+   "pages": [
+    130,
+    131
+   ],
+   "words": 778,
+   "generated": true
+  },
+  "bs-c050": {
+   "book": "GorskaBlony",
+   "pages": [
+    132,
+    133
+   ],
+   "words": 901,
+   "generated": true
+  },
+  "bs-c051": {
+   "book": "GorskaBlony",
+   "pages": [
+    135,
+    137
+   ],
+   "words": 1010,
+   "generated": true
+  },
+  "bs-c052": {
+   "book": "GorskaBlony",
+   "pages": [
+    138,
+    140
+   ],
+   "words": 896,
+   "generated": true
+  },
+  "bs-c053": {
+   "book": "GorskaBlony",
+   "pages": [
+    141,
+    155
+   ],
+   "words": 734,
+   "generated": true
+  },
+  "bs-c054": {
+   "book": "GorskaBlony",
+   "pages": [
+    157,
+    159
+   ],
+   "words": 731,
+   "generated": true
+  },
+  "bs-c055": {
+   "book": "GorskaBlony",
+   "pages": [
+    160,
+    162
+   ],
+   "words": 930,
+   "generated": true
+  },
+  "bs-c056": {
+   "book": "GorskaBlony",
+   "pages": [
+    163,
+    165
+   ],
+   "words": 1040,
+   "generated": true
+  },
+  "bs-c057": {
+   "book": "GorskaBlony",
+   "pages": [
+    166,
+    166
+   ],
+   "words": 40,
+   "generated": true
+  },
   "pl-c001": {
    "book": "GorskaLDEK",
    "pages": [

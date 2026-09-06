@@ -9,7 +9,7 @@ doctors for the Polish medical verification exam (nostryfikacja / LDEW). Two par
 a build pipeline that turns PDFs into `data/questions.json`, and a static web app
 that serves the quiz.
 
-Ten source books across five domains, declared in `pipeline/books.py`:
+Eleven source books across six domains, declared in `pipeline/books.py`:
 
 | book_id | `source.book` | Title | Domain |
 |---|---|---|---|
@@ -21,6 +21,7 @@ Ten source books across five domains, declared in `pipeline/books.py`:
 | `mj` | `Majewski` | Majewski, *Współczesna protetyka stomatologiczna* | protetyka |
 | `dj` | `Dejak` | Dejak, *Vademecum wykonywania protez stałych i ruchomych* | protetyka |
 | `ok` | `Olczak` | Olczak-Kowalczyk (red.), *Współczesna stomatologia wieku rozwojowego* (2017) | pedodoncja |
+| `bs` | `GorskaBlony` | Górska (red.), *Choroby błony śluzowej jamy ustnej* | błona śluzowa |
 
 The web app lets the user practise any combination of books.
 
@@ -128,6 +129,18 @@ The OCR output is what `books.py` registers; the original stays an ignored sourc
 ocrmypdf -l pol --force-ocr --jobs 8 \
   "books/Arabska_Przedpełska_B,_Pawlicka_H_Współczesna_endodoncja_w_praktyce.pdf" \
   books/Arabska_ocr.pdf
+```
+
+**OCR (Górska, błona śluzowa).** A 300 dpi flatbed scan of a colour atlas, one
+printed page per PDF page, no text layer: `ocrmypdf` yields 0.6% garbled tokens.
+Its printed numbering starts 13 pages into the PDF, which no other book needed, so
+the registry entry carries `page_offset: -13` and `extract.py` drops the pages that
+fall below 1. The offset was checked against the footer of every page that prints
+one — 131 of 131 agree.
+
+```bash
+ocrmypdf -l pol --force-ocr --jobs 8 \
+  "books/Błony śluzowe - Górska.pdf" books/Gorska_blony_ocr.pdf
 ```
 
 **Spread OCR (Górska LDEK 2022).** A flat, sharp scan with no text layer, one image

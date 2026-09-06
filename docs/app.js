@@ -17,6 +17,7 @@ const BOOKS = [
   ["Majewski", "Majewski — protetyka"],
   ["Dejak", "Dejak — vademecum protetyczne"],
   ["Olczak", "Olczak-Kowalczyk — wiek rozwojowy"],
+  ["GorskaBlony", "Górska — błona śluzowa"],
 ];
 
 let questions = [];
