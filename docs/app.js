@@ -19,6 +19,7 @@ const BOOKS = [
   ["Olczak", "Olczak-Kowalczyk — wiek rozwojowy"],
   ["GorskaBlony", "Górska — błona śluzowa"],
   ["Ortodoncja", "Karłowska — ortodoncja"],
+  ["PedoKompendium", "Olczak-Kowalczyk — kompendium PEDO"],
 ];
 
 let questions = [];

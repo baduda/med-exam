@@ -8,13 +8,16 @@ recover the white-on-red page numbers costs real body text ("250 200 mg" for
 "250-500 mg"), so this module never binarizes the body: the printed page numbers
 come from a checked-in map instead.
 
-data/pagemap/<book_id>.json maps each spread to the printed number of its left
-page; the right page is that plus one. The map cannot be computed, because the
-scan mixes true spreads (verso|recto) with misaligned captures (recto|verso),
-duplicates a few spreads and drops others — so it was read off the header bands
-by eye and frozen here. Spreads missing from the map (duplicates, front matter)
-are skipped, and the pages they would carry simply do not exist in the book's
-text file.
+data/pagemap/<book_id>.json carries the printed numbering, under "spreads"
+when one PDF page holds two printed pages, or "pages" when it holds one (the
+pedodontics kompendium is photographed a page at a time). A spread entry gives
+the printed number of its *left* page; the right page is that plus one. The map
+cannot be computed: the Perio scan mixes true spreads (verso|recto) with
+misaligned captures (recto|verso), duplicates a few spreads and drops others,
+and the kompendium scan skips 28 pages scattered through the book, so the
+pdf-to-printed offset drifts from +6 to +28. PDF pages missing from the map
+(duplicates, front matter) are skipped, and the pages they would carry simply
+do not exist in the book's text file.
 
 Rendered halves and their OCR text are both cached under data/images/<book_id>/ —
 Tesseract needs ~10 s per page, so without the .txt cache a re-run of extract.py
@@ -39,10 +42,11 @@ OCR_DPI = 400          # ~20 px glyphs; below this Tesseract starts dropping wor
 OCR_LANG = "pol"
 
 
-def load_pagemap(book_id: str) -> dict[int, int]:
-    """{spread number -> printed page number of its left half}."""
+def load_pagemap(book_id: str) -> tuple[dict[int, int], bool]:
+    """({pdf page -> printed page number}, whether that PDF page is a spread)."""
     raw = json.loads((PAGEMAP_DIR / f"{book_id}.json").read_text(encoding="utf-8"))
-    return {int(k): v for k, v in raw["spreads"].items()}
+    key = "spreads" if "spreads" in raw else "pages"
+    return {int(k): v for k, v in raw[key].items()}, key == "spreads"
 
 
 def gutter(page: fitz.Page) -> float:
@@ -85,15 +89,16 @@ def ocr(image: Path) -> str:
 
 def scan_book(pdf_path: Path, book: str, book_id: str, dehyphenate,
               find_gutter: bool = False) -> dict:
-    """OCR every mapped spread half; same shape as extract.extract_book()."""
-    pagemap = load_pagemap(book_id)
+    """OCR every mapped page; same shape as extract.extract_book()."""
+    pagemap, spreads = load_pagemap(book_id)
     out_dir = IMAGE_DIR / book_id
     out_dir.mkdir(parents=True, exist_ok=True)
     doc = fitz.open(pdf_path)
     pages = []
-    for spread, first_page in sorted(pagemap.items()):
-        src = doc[spread - 1]
-        for offset, clip in enumerate(halves(src, find_gutter)):
+    for pdf_page, first_page in sorted(pagemap.items()):
+        src = doc[pdf_page - 1]
+        clips = halves(src, find_gutter) if spreads else [None]
+        for offset, clip in enumerate(clips):
             number = first_page + offset
             img = out_dir / f"p{number:03d}.png"
             if not img.exists():   # rendering + OCR of 220 pages is slow

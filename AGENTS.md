@@ -9,7 +9,7 @@ doctors for the Polish medical verification exam (nostryfikacja / LDEW). Two par
 a build pipeline that turns PDFs into `data/questions.json`, and a static web app
 that serves the quiz.
 
-Twelve source books across seven domains, declared in `pipeline/books.py`:
+Thirteen source books across seven domains, declared in `pipeline/books.py`:
 
 | book_id | `source.book` | Title | Domain |
 |---|---|---|---|
@@ -23,6 +23,7 @@ Twelve source books across seven domains, declared in `pipeline/books.py`:
 | `ok` | `Olczak` | Olczak-Kowalczyk (red.), *Współczesna stomatologia wieku rozwojowego* (2017) | pedodoncja |
 | `bs` | `GorskaBlony` | Górska (red.), *Choroby błony śluzowej jamy ustnej* | błona śluzowa |
 | `or` | `Ortodoncja` | Karłowska (red.), *Zarys współczesnej ortodoncji* | ortodoncja |
+| `pk` | `PedoKompendium` | Olczak-Kowalczyk (red.), *Kompendium stomatologii wieku rozwojowego* | pedodoncja |
 
 The web app lets the user practise any combination of books.
 
@@ -40,7 +41,7 @@ The web app lets the user practise any combination of books.
   `transcribe.py`, `chunk.py`, `assemble.py`, `mark_generated.py`, `build_core.py`,
   `schema.py`.
 - `data/` — `chunks/`, `questions/`, `images/` and `transcripts/` are intermediate
-  (gitignored); `pagemap/` holds the hand-verified spread→page maps for `scan` books;
+  (gitignored); `pagemap/` holds the verified pdf→printed page maps for `scan` books;
   `state.json`
   tracks progress; `core_curated.json` holds the frozen hand-ranked LDEK picks and
   `core.json` the generated subset; `questions.json` is the committed final product.
@@ -119,7 +120,7 @@ a midpoint clip cuts words in half (`powierzchnia` -> `owierzchnia`).
 
 ### Books without a text layer
 
-Three books ship no text. They are handled differently, and the difference is
+Four books ship no text. They are handled differently, and the difference is
 measured, not stylistic — OCR a sample and count garbled tokens against the <2%
 gate before choosing.
 
@@ -180,6 +181,23 @@ Two traps this scan taught us, both recorded in `scan.py`:
   the header band, and the map's "right = left + 1" rule therefore labels four of them
   one too low (spreads 17, 35, 63, 100 → pages 27, 67, 125, 199). Nine questions cite
   the low number. See the wave-7 plan for the fix.
+
+**Page OCR with a drifting offset (PEDO kompendium).** A 320 dpi scan with no text
+layer, photographed one printed page per PDF page rather than as spreads. Tesseract
+reads it at 0.4% garbled tokens. It is declared `"mode": "scan"` with no
+`gutter_split`, and `scan.py` skips the split when the pagemap is keyed `"pages"`
+instead of `"spreads"`.
+
+Its numbering is neither a formula nor a constant offset: the scan drops 28 pages
+scattered through the book, so pdf→printed drifts from +6 at the front to +28 at the
+back. The map was recovered rather than read by eye — the outer bottom corners of all
+420 pages were OCR'd digits-only, then fitted by DP over *non-decreasing* offsets
+(pages are only ever dropped, never added), scoring the parity rule that verso numbers
+sit in the left corner and recto in the right. The fit agrees with 238 of the 268
+pages that yielded a corner number; the 30 disagreements are figure-caption numbers
+(`1`, `4`, `7`) with no page number in the corner at all. Spot checks by full-page OCR
+at every offset jump confirm it. Front matter (pdf 1-4) is left out of
+`data/pagemap/pk.json`, which covers printed pages 11-448.
 
 **Vision transcription (Górska 2013).** Phone photos at 689×1024 (~96 dpi) with curved
 lines and a finger in frame. OCR — including `--deskew --oversample 400` — returns

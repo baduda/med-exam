@@ -125,7 +125,7 @@ def main() -> None:
         elif mode(entry) == "scan":
             data = scan_book(pdf, entry["book"], entry["book_id"], dehyphenate,
                              entry.get("gutter_split", False))
-            kind = f"{len(data['pages'])} pages OCR'd from spreads"
+            kind = f"{len(data['pages'])} pages OCR'd"
         else:
             data = extract_book(pdf, entry["book"], entry.get("page_offset", 0))
             kind = f"{sum(1 for p in data['pages'] if p['text'])} of " \

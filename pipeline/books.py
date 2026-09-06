@@ -65,6 +65,9 @@ BOOKS = (
     {"pattern": "Zarys*ortodoncji.pdf", "book_id": "or", "book": "Ortodoncja",
      "label": "Karłowska — zarys współczesnej ortodoncji", "domain": "ortodoncja",
      "mode": "scan", "gutter_split": True},
+    {"pattern": "PEDO_Kompendium*.pdf", "book_id": "pk", "book": "PedoKompendium",
+     "label": "Olczak-Kowalczyk — kompendium stomatologii wieku rozwojowego",
+     "domain": "pedodoncja", "mode": "scan"},
     {"pattern": "*WIEKU_ROZWOJOWEGO*.pdf", "book_id": "ok", "book": "Olczak",
      "label": "Olczak-Kowalczyk — stomatologia wieku rozwojowego", "domain": "pedodoncja"},
 )
